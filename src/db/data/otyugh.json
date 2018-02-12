@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 114,
+    "roll": "12d10+48"
+  },
+  "race": "aberration",
+  "size": "large",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "otyugh",
+  "name": "Otyugh",
+  "_tags": [
+    "large",
+    "aberration",
+    "cr5",
+    "monster-manual"
+  ]
+}

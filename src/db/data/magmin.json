@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic neutral",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 9,
+    "roll": "2d6+2"
+  },
+  "race": "elemental",
+  "size": "small",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "magmin",
+  "name": "Magmin",
+  "_tags": [
+    "small",
+    "elemental",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

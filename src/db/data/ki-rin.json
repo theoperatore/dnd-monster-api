@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful good",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "12",
+  "hitPoints": {
+    "average": 152,
+    "roll": "16d12+48"
+  },
+  "race": "celestial",
+  "size": "huge",
+  "speed": "60 ft., fly 120 ft. (hover)",
+  "source": "volos-guide",
+  "id": "ki-rin",
+  "name": "Ki-rin",
+  "_tags": [
+    "huge",
+    "celestial",
+    "cr12",
+    "volos-guide"
+  ]
+}

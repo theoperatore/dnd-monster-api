@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 2,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "12",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 1,
+    "roll": "1d4-1"
+  },
+  "race": "beast",
+  "size": "tiny",
+  "speed": "10 ft., fly 50 ft.",
+  "source": "monster-manual",
+  "id": "raven",
+  "name": "Raven",
+  "_tags": [
+    "tiny",
+    "beast",
+    "cr0",
+    "monster-manual"
+  ]
+}

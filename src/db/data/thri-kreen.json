@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic neutral",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "thri-kreen",
+  "name": "Thri-kreen",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr1",
+    "monster-manual"
+  ]
+}

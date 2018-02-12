@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "17 (splint)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 112,
+    "roll": "15d8+75"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "elemental-evil",
+  "id": "razerblast",
+  "name": "Razerblast",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr5",
+    "elemental-evil"
+  ]
+}

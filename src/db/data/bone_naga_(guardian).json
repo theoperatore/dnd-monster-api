@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 58,
+    "roll": "9d10+9"
+  },
+  "race": "undead",
+  "size": "large",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "bone_naga_(guardian)",
+  "name": "Bone Naga (Guardian)",
+  "_tags": [
+    "large",
+    "undead",
+    "cr4",
+    "monster-manual"
+  ]
+}

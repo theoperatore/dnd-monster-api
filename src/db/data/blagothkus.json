@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 26,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "17 (splint)",
+  "challengeRating": "9",
+  "hitPoints": {
+    "average": 138,
+    "roll": "12d12+60"
+  },
+  "race": "giant",
+  "size": "huge",
+  "speed": "40 ft.",
+  "source": "tyranny-of-dragons",
+  "id": "blagothkus",
+  "name": "Blagothkus",
+  "_tags": [
+    "huge",
+    "giant",
+    "cr9",
+    "tyranny-of-dragons"
+  ]
+}

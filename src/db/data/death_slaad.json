@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "10",
+  "hitPoints": {
+    "average": 170,
+    "roll": "20d8+80"
+  },
+  "race": "aberration",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "death_slaad",
+  "name": "Death Slaad",
+  "_tags": [
+    "medium",
+    "aberration",
+    "cr10",
+    "monster-manual"
+  ]
+}

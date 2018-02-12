@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "18 (chain mail, shield)",
+  "challengeRating": "l",
+  "hitPoints": {
+    "average": 37,
+    "roll": "5d8+15"
+  },
+  "race": "undead",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "id": "dread_warrior",
+  "name": "Dread Warrior",
+  "_tags": [
+    "medium",
+    "undead",
+    "crl",
+    "tales-from-the-yawning-portal"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "16 (chain mail)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 93,
+    "roll": "11d8+44"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "orc_war_chief",
+  "name": "Orc War Chief",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr4",
+    "monster-manual"
+  ]
+}

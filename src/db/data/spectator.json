@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful neutral",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 39,
+    "roll": "6d8+12"
+  },
+  "race": "aberration",
+  "size": "medium",
+  "speed": "0 ft., fly 30 ft. (hover)",
+  "source": "monster-manual",
+  "id": "spectator",
+  "name": "Spectator",
+  "_tags": [
+    "medium",
+    "aberration",
+    "cr3",
+    "monster-manual"
+  ]
+}

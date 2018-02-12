@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "20 (plate, shield)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d8+24"
+  },
+  "race": "construct",
+  "size": "medium",
+  "speed": "30 ft., fly 30 ft.",
+  "source": "monster-manual",
+  "id": "helmed_horror",
+  "name": "Helmed Horror",
+  "_tags": [
+    "medium",
+    "construct",
+    "cr4",
+    "monster-manual"
+  ]
+}

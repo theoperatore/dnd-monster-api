@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 26,
+    "roll": "4d10+4"
+  },
+  "race": "monstrosity",
+  "size": "large",
+  "speed": "50 ft.",
+  "source": "monster-manual",
+  "id": "worg",
+  "name": "Worg",
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

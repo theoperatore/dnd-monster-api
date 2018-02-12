@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "16 (breastplate)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 71,
+    "roll": "11d8+21"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "tyranny-of-dragons",
+  "id": "thurl_merosska",
+  "name": "Thurl Merosska",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr3",
+    "tyranny-of-dragons"
+  ]
+}

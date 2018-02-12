@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful good",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "10",
+  "hitPoints": {
+    "average": 136,
+    "roll": "16d8+64"
+  },
+  "race": "celestial",
+  "size": "medium",
+  "speed": "30 ft., fly 90 ft.",
+  "source": "monster-manual",
+  "id": "deva",
+  "name": "Deva",
+  "_tags": [
+    "medium",
+    "celestial",
+    "cr10",
+    "monster-manual"
+  ]
+}

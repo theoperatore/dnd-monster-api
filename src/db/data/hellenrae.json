@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "16",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d8+24"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "elemental-evil",
+  "id": "hellenrae",
+  "name": "Hellenrae",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr5",
+    "elemental-evil"
+  ]
+}

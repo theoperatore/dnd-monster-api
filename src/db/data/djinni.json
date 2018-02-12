@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic good",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "11",
+  "hitPoints": {
+    "average": 161,
+    "roll": "14d10+84"
+  },
+  "race": "elemental",
+  "size": "large",
+  "speed": "30 ft., fly 90 ft.",
+  "source": "monster-manual",
+  "id": "djinni",
+  "name": "Djinni",
+  "_tags": [
+    "large",
+    "elemental",
+    "cr11",
+    "monster-manual"
+  ]
+}

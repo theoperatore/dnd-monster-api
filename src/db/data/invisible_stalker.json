@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral",
+  "armorClass": "14",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 104,
+    "roll": "16d8+32"
+  },
+  "race": "elemental",
+  "size": "medium",
+  "speed": "50 ft., fly 50 ft. (hover)",
+  "source": "monster-manual",
+  "id": "invisible_stalker",
+  "name": "Invisible Stalker",
+  "_tags": [
+    "medium",
+    "elemental",
+    "cr6",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "20 (plate, shield)",
+  "challengeRating": "17",
+  "hitPoints": {
+    "average": 180,
+    "roll": "19d8+95"
+  },
+  "race": "undead",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "death_knight",
+  "name": "Death Knight",
+  "_tags": [
+    "medium",
+    "undead",
+    "cr17",
+    "monster-manual"
+  ]
+}

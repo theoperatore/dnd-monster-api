@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "13",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d8+27"
+  },
+  "race": "undead",
+  "size": "medium",
+  "speed": "0 ft., fly 60 ft. (hover)",
+  "source": "monster-manual",
+  "id": "wraith",
+  "name": "Wraith",
+  "_tags": [
+    "medium",
+    "undead",
+    "cr5",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic good",
+  "armorClass": "12",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 59,
+    "roll": "7d10+21"
+  },
+  "race": "celestial",
+  "size": "large",
+  "speed": "60 ft., fly 90 ft.",
+  "source": "monster-manual",
+  "id": "pegasus",
+  "name": "Pegasus",
+  "_tags": [
+    "large",
+    "celestial",
+    "cr2",
+    "monster-manual"
+  ]
+}

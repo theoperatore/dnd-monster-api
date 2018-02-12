@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "18 (chain mail, shield)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d8+24"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "orc_blade_of_ilneval",
+  "name": "Orc Blade of Ilneval",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr4",
+    "volos-guide"
+  ]
+}

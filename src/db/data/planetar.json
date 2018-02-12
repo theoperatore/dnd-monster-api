@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 24,
+      "mod": 7,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 24,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 22,
+      "mod": 6,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful good",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "16",
+  "hitPoints": {
+    "average": 200,
+    "roll": "16d10+112"
+  },
+  "race": "celestial",
+  "size": "large",
+  "speed": "40 ft., fly 120 ft.",
+  "source": "monster-manual",
+  "id": "planetar",
+  "name": "Planetar",
+  "_tags": [
+    "large",
+    "celestial",
+    "cr16",
+    "monster-manual"
+  ]
+}

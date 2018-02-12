@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "12",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d6+5"
+  },
+  "race": "elemental",
+  "size": "small",
+  "speed": "30 ft., fly 30 ft.",
+  "source": "monster-manual",
+  "id": "smoke_mephit",
+  "name": "Smoke Mephit",
+  "_tags": [
+    "small",
+    "elemental",
+    "cr1/4",
+    "monster-manual"
+  ]
+}

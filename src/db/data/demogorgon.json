@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 29,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "26",
+  "hitPoints": {
+    "average": 496,
+    "roll": "34d12+272"
+  },
+  "race": "fiend",
+  "size": "huge",
+  "speed": "50 ft., swim 50 ft.",
+  "source": "out-of-the-abyss",
+  "id": "demogorgon",
+  "name": "Demogorgon",
+  "_tags": [
+    "huge",
+    "fiend",
+    "cr26",
+    "out-of-the-abyss"
+  ]
+}

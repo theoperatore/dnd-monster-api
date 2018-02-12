@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "any alignment",
+  "armorClass": "16",
+  "challengeRating": "1",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d8+18"
+  },
+  "race": "undead",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "curse-of-strahd",
+  "id": "phantom_warrior",
+  "name": "Phantom Warrior",
+  "_tags": [
+    "medium",
+    "undead",
+    "cr1",
+    "curse-of-strahd"
+  ]
+}

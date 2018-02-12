@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral good",
+  "armorClass": "13",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 7,
+    "roll": "2d4+2"
+  },
+  "race": "dragon",
+  "size": "tiny",
+  "speed": "15 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "pseudodragon",
+  "name": "Pseudodragon",
+  "_tags": [
+    "tiny",
+    "dragon",
+    "cr1/4",
+    "monster-manual"
+  ]
+}

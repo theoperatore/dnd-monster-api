@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic good",
+  "armorClass": "11",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 9,
+    "roll": "2d6+2"
+  },
+  "race": "humanoid",
+  "size": "small",
+  "speed": "25 ft.",
+  "source": "storm-kings-thunder",
+  "id": "oren_yogilvy",
+  "name": "Oren Yogilvy",
+  "_tags": [
+    "small",
+    "humanoid",
+    "cr0",
+    "storm-kings-thunder"
+  ]
+}

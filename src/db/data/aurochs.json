@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "11 (natural armor)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 38,
+    "roll": "4d10+16"
+  },
+  "race": "beast",
+  "size": "large",
+  "speed": "50 ft.",
+  "source": "volos-guide",
+  "id": "aurochs",
+  "name": "Aurochs",
+  "_tags": [
+    "large",
+    "beast",
+    "cr2",
+    "volos-guide"
+  ]
+}

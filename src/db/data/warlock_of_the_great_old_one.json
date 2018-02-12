@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "any alignment",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 91,
+    "roll": "14d8+28"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "warlock_of_the_great_old_one",
+  "name": "Warlock of the Great Old One",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr6",
+    "volos-guide"
+  ]
+}

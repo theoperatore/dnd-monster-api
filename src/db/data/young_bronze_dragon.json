@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful good",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "8",
+  "hitPoints": {
+    "average": 142,
+    "roll": "15d10+60"
+  },
+  "race": "dragon",
+  "size": "large",
+  "speed": "40 ft., fly 80 ft., swim 40 ft.",
+  "source": "monster-manual",
+  "id": "young_bronze_dragon",
+  "name": "Young Bronze Dragon",
+  "_tags": [
+    "large",
+    "dragon",
+    "cr8",
+    "monster-manual"
+  ]
+}

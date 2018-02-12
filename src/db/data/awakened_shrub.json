@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 3,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "9",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 10,
+    "roll": "3d6"
+  },
+  "race": "plant",
+  "size": "small",
+  "speed": "20 ft.",
+  "source": "monster-manual",
+  "id": "awakened_shrub",
+  "name": "Awakened Shrub",
+  "_tags": [
+    "small",
+    "plant",
+    "cr0",
+    "monster-manual"
+  ]
+}

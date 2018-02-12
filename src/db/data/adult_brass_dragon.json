@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic good",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "13",
+  "hitPoints": {
+    "average": 172,
+    "roll": "15d12+75"
+  },
+  "race": "dragon",
+  "size": "huge",
+  "speed": "40 ft., burrow 40 ft., fly 80 ft.",
+  "source": "monster-manual",
+  "id": "adult_brass_dragon",
+  "name": "Adult Brass Dragon",
+  "_tags": [
+    "huge",
+    "dragon",
+    "cr13",
+    "monster-manual"
+  ]
+}

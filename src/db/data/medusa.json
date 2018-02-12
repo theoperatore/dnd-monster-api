@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 127,
+    "roll": "17d8+51"
+  },
+  "race": "monstrosity",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "medusa",
+  "name": "Medusa",
+  "_tags": [
+    "medium",
+    "monstrosity",
+    "cr6",
+    "monster-manual"
+  ]
+}

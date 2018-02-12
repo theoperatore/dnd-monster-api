@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "14 (hide armor)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d6+4"
+  },
+  "race": "monstrosity",
+  "size": "small",
+  "speed": "30 ft., climb 30 ft.",
+  "source": "volos-guide",
+  "id": "chitine",
+  "name": "Chitine",
+  "_tags": [
+    "small",
+    "monstrosity",
+    "cr1/2",
+    "volos-guide"
+  ]
+}

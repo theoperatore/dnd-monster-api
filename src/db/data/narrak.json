@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 5,
+      "mod": -3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "12 (15 to mage armor)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 40,
+    "roll": "9d6+9"
+  },
+  "race": "humanoid",
+  "size": "small",
+  "speed": "30 ft.",
+  "source": "out-of-the-abyss",
+  "id": "narrak",
+  "name": "Narrak",
+  "_tags": [
+    "small",
+    "humanoid",
+    "cr2",
+    "out-of-the-abyss"
+  ]
+}

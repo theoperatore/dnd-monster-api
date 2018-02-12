@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 6,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 2,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "8",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 22,
+    "roll": "3d8+9"
+  },
+  "race": "ooze",
+  "size": "medium",
+  "speed": "10 ft., climb 10 ft.",
+  "source": "monster-manual",
+  "id": "gray_ooze",
+  "name": "Gray Ooze",
+  "_tags": [
+    "medium",
+    "ooze",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

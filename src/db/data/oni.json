@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "16 (chain mail)",
+  "challengeRating": "7",
+  "hitPoints": {
+    "average": 110,
+    "roll": "13d10+39"
+  },
+  "race": "giant",
+  "size": "large",
+  "speed": "30 ft., fly 30 ft.",
+  "source": "monster-manual",
+  "id": "oni",
+  "name": "Oni",
+  "_tags": [
+    "large",
+    "giant",
+    "cr7",
+    "monster-manual"
+  ]
+}

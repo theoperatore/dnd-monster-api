@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral",
+  "armorClass": "11 (16 with barkskin)",
+  "challengeRating": "1",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "fey",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "dryad",
+  "name": "Dryad",
+  "_tags": [
+    "medium",
+    "fey",
+    "cr1",
+    "monster-manual"
+  ]
+}

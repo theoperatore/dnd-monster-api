@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral good",
+  "armorClass": "12",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d10+12"
+  },
+  "race": "monstrosity",
+  "size": "large",
+  "speed": "50 ft.",
+  "source": "monster-manual",
+  "id": "centaur",
+  "name": "Centaur",
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr2",
+    "monster-manual"
+  ]
+}

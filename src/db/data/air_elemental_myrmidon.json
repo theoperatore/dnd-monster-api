@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral",
+  "armorClass": "18 (plate)",
+  "challengeRating": "7",
+  "hitPoints": {
+    "average": 117,
+    "roll": "18d8+36"
+  },
+  "race": "elemental",
+  "size": "medium",
+  "speed": "30 ft., fly 30 ft.",
+  "source": "elemental-evil",
+  "id": "air_elemental_myrmidon",
+  "name": "Air Elemental Myrmidon",
+  "_tags": [
+    "medium",
+    "elemental",
+    "cr7",
+    "elemental-evil"
+  ]
+}

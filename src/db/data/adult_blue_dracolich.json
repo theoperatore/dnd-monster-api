@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 25,
+      "mod": 7,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "17",
+  "hitPoints": {
+    "average": 225,
+    "roll": "18d12+108"
+  },
+  "race": "undead",
+  "size": "huge",
+  "speed": "40 ft., burrow 30 ft., fly 80 ft.",
+  "source": "monster-manual",
+  "id": "adult_blue_dracolich",
+  "name": "Adult Blue Dracolich",
+  "_tags": [
+    "huge",
+    "undead",
+    "cr17",
+    "monster-manual"
+  ]
+}

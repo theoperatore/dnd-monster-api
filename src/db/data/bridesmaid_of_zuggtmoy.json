@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "1/8",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "plant",
+  "size": "medium",
+  "speed": "20 ft.",
+  "source": "out-of-the-abyss",
+  "id": "bridesmaid_of_zuggtmoy",
+  "name": "Bridesmaid of Zuggtmoy",
+  "_tags": [
+    "medium",
+    "plant",
+    "cr1/8",
+    "out-of-the-abyss"
+  ]
+}

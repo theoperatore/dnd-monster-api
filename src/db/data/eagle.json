@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "12",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 3,
+    "roll": "1d6"
+  },
+  "race": "beast",
+  "size": "small",
+  "speed": "10 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "eagle",
+  "name": "Eagle",
+  "_tags": [
+    "small",
+    "beast",
+    "cr0",
+    "monster-manual"
+  ]
+}

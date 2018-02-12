@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful good",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 97,
+    "roll": "13d8+39"
+  },
+  "race": "celestial",
+  "size": "medium",
+  "speed": "30 ft., fly 90 ft.",
+  "source": "monster-manual",
+  "id": "couatl",
+  "name": "Couatl",
+  "_tags": [
+    "medium",
+    "celestial",
+    "cr4",
+    "monster-manual"
+  ]
+}

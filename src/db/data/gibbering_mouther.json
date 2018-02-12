@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral",
+  "armorClass": "9",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d8+27"
+  },
+  "race": "aberration",
+  "size": "medium",
+  "speed": "10 ft., swim 10 ft.",
+  "source": "monster-manual",
+  "id": "gibbering_mouther",
+  "name": "Gibbering Mouther",
+  "_tags": [
+    "medium",
+    "aberration",
+    "cr2",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 105,
+    "roll": "10d12+40"
+  },
+  "race": "giant",
+  "size": "huge",
+  "speed": "50 ft.",
+  "source": "volos-guide",
+  "id": "mouth_of_grolantor",
+  "name": "Mouth of Grolantor",
+  "_tags": [
+    "huge",
+    "giant",
+    "cr6",
+    "volos-guide"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 10,
+    "roll": "3d6"
+  },
+  "race": "construct",
+  "size": "small",
+  "speed": "30 ft.",
+  "source": "curse-of-strahd",
+  "id": "pidlwick_ii",
+  "name": "Pidlwick II",
+  "_tags": [
+    "small",
+    "construct",
+    "cr1/4",
+    "curse-of-strahd"
+  ]
+}

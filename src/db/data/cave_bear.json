@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "12 (natural armor)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 42,
+    "roll": "5d10+15"
+  },
+  "race": "beast",
+  "size": "large",
+  "speed": "40 ft., swim 30 ft.",
+  "source": "monster-manual",
+  "id": "cave_bear",
+  "name": "Cave Bear",
+  "_tags": [
+    "large",
+    "beast",
+    "cr2",
+    "monster-manual"
+  ]
+}

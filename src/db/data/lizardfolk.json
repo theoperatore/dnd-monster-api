@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral",
+  "armorClass": "15 (natural armor, shield)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 22,
+    "roll": "4d8+4"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft., swim 30 ft.",
+  "source": "monster-manual",
+  "id": "lizardfolk",
+  "name": "Lizardfolk",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

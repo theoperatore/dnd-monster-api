@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 27,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "21 (plate, shields)",
+  "challengeRating": "14",
+  "hitPoints": {
+    "average": 187,
+    "roll": "15d12+90"
+  },
+  "race": "giant",
+  "size": "huge",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "fire_giant_dreadnought",
+  "name": "Fire Giant Dreadnought",
+  "_tags": [
+    "huge",
+    "giant",
+    "cr14",
+    "volos-guide"
+  ]
+}

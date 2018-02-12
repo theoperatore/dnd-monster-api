@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d10+5"
+  },
+  "race": "monstrosity",
+  "size": "large",
+  "speed": "30 ft., climb 30 ft.",
+  "source": "monster-manual",
+  "id": "phase_spider",
+  "name": "Phase Spider",
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr3",
+    "monster-manual"
+  ]
+}

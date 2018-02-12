@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "15 (studded leather armor)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 15,
+    "roll": "12d8+12"
+  },
+  "race": "monstrosity",
+  "size": "medium",
+  "speed": "30 ft., climb 30 ft.",
+  "source": "volos-guide",
+  "id": "choldrith",
+  "name": "Choldrith",
+  "_tags": [
+    "medium",
+    "monstrosity",
+    "cr3",
+    "volos-guide"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d10+20"
+  },
+  "race": "fey",
+  "size": "large",
+  "speed": "40 ft.",
+  "source": "volos-guide",
+  "id": "annis_hag",
+  "name": "Annis Hag",
+  "_tags": [
+    "large",
+    "fey",
+    "cr6",
+    "volos-guide"
+  ]
+}

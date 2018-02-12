@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 18,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful good",
+  "armorClass": "12 (leather armor)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 77,
+    "roll": "14d8+14"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "curse-of-strahd",
+  "id": "rictavio",
+  "name": "Rictavio",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr5",
+    "curse-of-strahd"
+  ]
+}

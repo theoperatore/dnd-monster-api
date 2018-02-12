@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "14 (natural armor)If the charmed target is more than 5 feet away from the kelpie, the target must move on its turn toward the kelpie by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks.",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d8+27"
+  },
+  "race": "plant",
+  "size": "medium",
+  "speed": "10 ft., swim 30 ft.A target that successfully saves is immune to this kelpie's hypnosis for the next 24 hours.",
+  "source": "tales-from-the-yawning-portal",
+  "id": "kelpie",
+  "name": "Kelpie",
+  "_tags": [
+    "medium",
+    "plant",
+    "cr4",
+    "tales-from-the-yawning-portal"
+  ]
+}

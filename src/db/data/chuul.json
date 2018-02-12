@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 93,
+    "roll": "11d10+33"
+  },
+  "race": "aberration",
+  "size": "large",
+  "speed": "30 ft., swim 30 ft.",
+  "source": "monster-manual",
+  "id": "chuul",
+  "name": "Chuul",
+  "_tags": [
+    "large",
+    "aberration",
+    "cr4",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 22,
+      "mod": 6,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "16",
+  "challengeRating": "23",
+  "hitPoints": {
+    "average": 341,
+    "roll": "22d20+110"
+  },
+  "race": "elemental",
+  "size": "gargantuan",
+  "speed": "50 ft..",
+  "source": "storm-kings-thunder",
+  "id": "maegera_the_dawn_titan",
+  "name": "Maegera the Dawn Titan",
+  "_tags": [
+    "gargantuan",
+    "elemental",
+    "cr23",
+    "storm-kings-thunder"
+  ]
+}

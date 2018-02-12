@@ -1,0 +1,23 @@
+{
+  "name": "dnd-monster-api",
+  "version": "1.0.0",
+  "description": "An api that serves up Dungeon's & Dragons monsters via GraphQL",
+  "main": "src/main.js",
+  "repository": "git@github.com:theoperatore/dnd-monster-api.git",
+  "author": "Al Petersen <theoperatore@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build-db": "node src/db/createDb.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^2.3.1",
+    "cheerio": "^1.0.0-rc.2",
+    "del": "^3.0.0",
+    "fs-extra": "^5.0.0",
+    "markdown-to-json": "^0.5.1",
+    "marked": "^0.3.12",
+    "simple-git": "^1.89.0"
+  }
+}

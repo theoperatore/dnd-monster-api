@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "11",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d8+27"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft. (20 ft. and swim 40 ft. in hybrid form)",
+  "source": "volos-guide",
+  "id": "deep_scion",
+  "name": "Deep Scion",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr3",
+    "volos-guide"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "12",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 36,
+    "roll": "8d8"
+  },
+  "race": "swarm",
+  "size": "medium",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "swarm_of_cranium_rats",
+  "name": "Swarm of Cranium Rats",
+  "_tags": [
+    "medium",
+    "swarm",
+    "cr5",
+    "volos-guide"
+  ]
+}

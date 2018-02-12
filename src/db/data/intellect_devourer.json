@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "12",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 21,
+    "roll": "6d4+6"
+  },
+  "race": "aberration",
+  "size": "tiny",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "intellect_devourer",
+  "name": "Intellect Devourer",
+  "_tags": [
+    "tiny",
+    "aberration",
+    "cr2",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "13",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d8+18"
+  },
+  "race": "undead",
+  "size": "medium",
+  "speed": "0 ft., fly 60 ft.",
+  "source": "lost-mine-of-phandelver",
+  "id": "mormesk_the_wraith",
+  "name": "Mormesk the Wraith",
+  "_tags": [
+    "medium",
+    "undead",
+    "cr3",
+    "lost-mine-of-phandelver"
+  ]
+}

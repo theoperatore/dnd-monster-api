@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 1,
+      "mod": -5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "9 (natural armor)",
+  "challengeRating": "10",
+  "hitPoints": {
+    "average": 138,
+    "roll": "12d12+60"
+  },
+  "race": "undead",
+  "size": "huge",
+  "speed": "30 ft., climb 30 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "id": "ooze_master",
+  "name": "Ooze Master",
+  "_tags": [
+    "huge",
+    "undead",
+    "cr10",
+    "tales-from-the-yawning-portal"
+  ]
+}

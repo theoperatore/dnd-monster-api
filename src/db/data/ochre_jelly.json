@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 6,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "8",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d10+12"
+  },
+  "race": "ooze",
+  "size": "large",
+  "speed": "10 ft., climb 10 ft.",
+  "source": "monster-manual",
+  "id": "ochre_jelly",
+  "name": "Ochre Jelly",
+  "_tags": [
+    "large",
+    "ooze",
+    "cr2",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "13 (natural armor, unarmored defense)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 65,
+    "roll": "10d8+20"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "33 ft., swim 30 ft.",
+  "source": "monster-manual",
+  "id": "kuo-toa_monitor",
+  "name": "Kuo-Toa Monitor",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr2",
+    "monster-manual"
+  ]
+}

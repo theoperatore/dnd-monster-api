@@ -1,0 +1,52 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "20",
+  "challengeRating": "00",
+  "hitPoints": {
+    "average": 0
+  },
+  "race": "undead",
+  "size": "medium",
+  "speed": "60 ft., fly 60 ft. (hover)",
+  "source": "monster-manual",
+  "id": "avatar_of_death",
+  "name": "Avatar of Death",
+  "_tags": [
+    "medium",
+    "undead",
+    "cr00",
+    "monster-manual"
+  ]
+}

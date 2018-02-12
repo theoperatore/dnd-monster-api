@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "13",
+  "hitPoints": {
+    "average": 153,
+    "roll": "18d8+72"
+  },
+  "race": "fiend",
+  "size": "medium",
+  "speed": "30 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "ultroloth",
+  "name": "Ultroloth",
+  "_tags": [
+    "medium",
+    "fiend",
+    "cr13",
+    "monster-manual"
+  ]
+}

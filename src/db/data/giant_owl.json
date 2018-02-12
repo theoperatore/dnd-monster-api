@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral",
+  "armorClass": "12",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 19,
+    "roll": "3d10+3"
+  },
+  "race": "beast",
+  "size": "large",
+  "speed": "5 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "giant_owl",
+  "name": "Giant Owl",
+  "_tags": [
+    "large",
+    "beast",
+    "cr1/4",
+    "monster-manual"
+  ]
+}

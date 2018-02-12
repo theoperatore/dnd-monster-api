@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "any chaotic alignment",
+  "armorClass": "13",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 44,
+    "roll": "8d8+8"
+  },
+  "race": "fey",
+  "size": "medium",
+  "speed": "30 ft., swim 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "id": "nereid",
+  "name": "Nereid",
+  "_tags": [
+    "medium",
+    "fey",
+    "cr2",
+    "tales-from-the-yawning-portal"
+  ]
+}

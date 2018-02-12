@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "12 (natural armor)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d10+12"
+  },
+  "race": "beast",
+  "size": "large",
+  "speed": "swim 40 ft.",
+  "source": "monster-manual",
+  "id": "hunter_shark",
+  "name": "Hunter Shark",
+  "_tags": [
+    "large",
+    "beast",
+    "cr2",
+    "monster-manual"
+  ]
+}

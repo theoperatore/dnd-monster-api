@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "any evil alignment",
+  "armorClass": "10",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d8+30"
+  },
+  "race": "humanoid",
+  "size": "medium",
+  "speed": "30 ft., swim 30 ft.",
+  "source": "volos-guide",
+  "id": "kraken_priest",
+  "name": "Kraken Priest",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr5",
+    "volos-guide"
+  ]
+}

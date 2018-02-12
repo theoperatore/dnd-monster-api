@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "12",
+  "challengeRating": "7",
+  "hitPoints": {
+    "average": 157,
+    "roll": "15d12+60"
+  },
+  "race": "beast",
+  "size": "huge",
+  "speed": "40 ft., climb 40 ft.",
+  "source": "monster-manual",
+  "id": "giant_ape",
+  "name": "Giant Ape",
+  "_tags": [
+    "huge",
+    "beast",
+    "cr7",
+    "monster-manual"
+  ]
+}

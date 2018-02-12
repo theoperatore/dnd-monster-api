@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "lawful evil",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "7",
+  "hitPoints": {
+    "average": 102,
+    "roll": "12d10+36"
+  },
+  "race": "humanoid",
+  "size": "large",
+  "speed": "30 ft., swim 50 ft.",
+  "source": "elemental-evil",
+  "id": "ghald",
+  "name": "Ghald",
+  "_tags": [
+    "large",
+    "humanoid",
+    "cr7",
+    "elemental-evil"
+  ]
+}

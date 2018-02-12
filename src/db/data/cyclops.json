@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 22,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic neutral",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 138,
+    "roll": "12d12+60"
+  },
+  "race": "giant",
+  "size": "huge",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "cyclops",
+  "name": "Cyclops",
+  "_tags": [
+    "huge",
+    "giant",
+    "cr6",
+    "monster-manual"
+  ]
+}

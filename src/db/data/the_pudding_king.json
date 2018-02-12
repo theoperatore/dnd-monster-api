@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "shapechanger)",
+  "armorClass": "13 (16 with mage armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 49,
+    "roll": "9d6+18"
+  },
+  "race": "humanoid",
+  "size": "small",
+  "speed": "30 ft.",
+  "source": "out-of-the-abyss",
+  "id": "the_pudding_king",
+  "name": "The Pudding King",
+  "_tags": [
+    "small",
+    "humanoid",
+    "cr4",
+    "out-of-the-abyss"
+  ]
+}

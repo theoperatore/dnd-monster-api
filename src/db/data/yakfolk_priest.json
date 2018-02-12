@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 18,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral evil",
+  "armorClass": "12 (hide armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 52,
+    "roll": "7d10+14"
+  },
+  "race": "monstrosity",
+  "size": "large",
+  "speed": "30 ft.",
+  "source": "storm-kings-thunder",
+  "id": "yakfolk_priest",
+  "name": "Yakfolk Priest",
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr4",
+    "storm-kings-thunder"
+  ]
+}

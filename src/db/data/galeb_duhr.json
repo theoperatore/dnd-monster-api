@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "neutral",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 85,
+    "roll": "9d8+45"
+  },
+  "race": "elemental",
+  "size": "medium",
+  "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)",
+  "source": "monster-manual",
+  "id": "galeb_duhr",
+  "name": "Galeb Duhr",
+  "_tags": [
+    "medium",
+    "elemental",
+    "cr6",
+    "monster-manual"
+  ]
+}

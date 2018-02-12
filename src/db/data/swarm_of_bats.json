@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 5,
+      "mod": -3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "unaligned",
+  "armorClass": "12",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "swarm",
+  "size": "medium",
+  "speed": "0 ft., fly 30 ft.",
+  "source": "monster-manual",
+  "id": "swarm_of_bats",
+  "name": "Swarm of Bats",
+  "_tags": [
+    "medium",
+    "swarm",
+    "cr1/4",
+    "monster-manual"
+  ]
+}

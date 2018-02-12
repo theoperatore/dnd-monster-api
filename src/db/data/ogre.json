@@ -1,0 +1,53 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "chaotic evil",
+  "armorClass": "11 (hide armor)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 59,
+    "roll": "7d10+21"
+  },
+  "race": "giant",
+  "size": "large",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "ogre",
+  "name": "Ogre",
+  "_tags": [
+    "large",
+    "giant",
+    "cr2",
+    "monster-manual"
+  ]
+}
