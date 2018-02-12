@@ -50,6 +50,7 @@ const BESTIARY_URL = 'https://github.com/chisaipete/bestiary.git';
     }));
 
     await db.batch(batchOptions);
+    await db.close();
 
     utils.success('Done!');
   } catch (error) {

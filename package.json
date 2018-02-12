@@ -8,13 +8,21 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build-db": "node src/db/createDb.js"
+    "build-db": "node src/db/createDb.js",
+    "start": "node src/main.js"
   },
   "dependencies": {
     "chalk": "^2.3.1",
     "cheerio": "^1.0.0-rc.2",
+    "compression": "^1.7.1",
+    "cors": "^2.8.4",
     "del": "^3.0.0",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
     "fs-extra": "^5.0.0",
+    "graphql": "^0.13.0",
+    "helmet": "^3.11.0",
     "level": "^2.1.2",
     "markdown-to-json": "^0.5.1",
     "marked": "^0.3.12",

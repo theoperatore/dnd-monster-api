@@ -157,7 +157,7 @@ async function convertFileToJson(file) {
 }
 
 async function convertMdToJson(jsonFiles) {
-  utils.info('converting markdown to json...');
+  utils.info('parsing monsters...');
   // convertFileToJson(jsonFiles.filter(f => f.title.toLowerCase() === 'strahd zombie')[0]);
   return Promise.all(jsonFiles.map(convertFileToJson));
 }
