@@ -2,6 +2,7 @@
 
 const path = require('path');
 const fse = require('fs-extra');
+const level = require('level');
 const cloneDbSource = require('./cloneDbSource');
 const convertYamlToJson = require('./convertYamlToJson');
 const convertMdToJson = require('./convertMdToJson');
@@ -39,6 +40,16 @@ const BESTIARY_URL = 'https://github.com/chisaipete/bestiary.git';
         )
       )
     );
+
+    utils.info('batching to db...');
+    const db = level(path.resolve(__dirname, 'builtDb'), { valueEncoding: 'json' });
+    const batchOptions = fullJsonFiles.map(file => ({
+      type: 'put',
+      key: file.id,
+      value: file,
+    }));
+
+    await db.batch(batchOptions);
 
     utils.success('Done!');
   } catch (error) {

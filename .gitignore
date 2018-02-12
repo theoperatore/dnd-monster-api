@@ -3,6 +3,5 @@ node_modules
 
 .env.local
 
-build
-
 rawDb
+builtDb

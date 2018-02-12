@@ -10,12 +10,12 @@
   "scripts": {
     "build-db": "node src/db/createDb.js"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.3.1",
     "cheerio": "^1.0.0-rc.2",
     "del": "^3.0.0",
     "fs-extra": "^5.0.0",
+    "level": "^2.1.2",
     "markdown-to-json": "^0.5.1",
     "marked": "^0.3.12",
     "simple-git": "^1.89.0"
