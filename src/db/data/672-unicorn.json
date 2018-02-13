@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "12",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d10+18"
+  },
+  "race": "CELESTIAL",
+  "size": "LARGE",
+  "speed": "50 ft.",
+  "source": "monster-manual",
+  "id": "unicorn",
+  "_index": 672,
+  "name": "Unicorn",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/unicorn.jpg",
+  "_tags": [
+    "large",
+    "celestial",
+    "cr5",
+    "monster-manual"
+  ]
+}

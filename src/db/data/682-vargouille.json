@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 2,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12",
+  "challengeRating": "1",
+  "hitPoints": {
+    "average": 13,
+    "roll": "3d4+6"
+  },
+  "race": "FIEND",
+  "size": "TINY",
+  "speed": "5 ft., fly 40 ft.",
+  "source": "volos-guide",
+  "id": "vargouille",
+  "_index": 682,
+  "name": "Vargouille",
+  "image": null,
+  "_tags": [
+    "tiny",
+    "fiend",
+    "cr1",
+    "volos-guide"
+  ]
+}

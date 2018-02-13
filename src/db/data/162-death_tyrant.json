@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "14",
+  "hitPoints": {
+    "average": 187,
+    "roll": "25d10+50"
+  },
+  "race": "UNDEAD",
+  "size": "LARGE",
+  "speed": "0 ft., fly 20 ft. (hover)",
+  "source": "monster-manual",
+  "id": "death_tyrant",
+  "_index": 162,
+  "name": "Death Tyrant",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/death-tyrant.jpg",
+  "_tags": [
+    "large",
+    "undead",
+    "cr14",
+    "monster-manual"
+  ]
+}

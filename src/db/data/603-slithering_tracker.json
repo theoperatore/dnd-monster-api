@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d8+10"
+  },
+  "race": "OOZE",
+  "size": "MEDIUM",
+  "speed": "30 ft., climb 30 ft., swim 30 ft.",
+  "source": "volos-guide",
+  "id": "slithering_tracker",
+  "_index": 603,
+  "name": "Slithering Tracker",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/slithering-tracker.jpg",
+  "_tags": [
+    "medium",
+    "ooze",
+    "cr3",
+    "volos-guide"
+  ]
+}

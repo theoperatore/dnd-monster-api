@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "13",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 13,
+    "roll": "3d8"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "kenku",
+  "_index": 401,
+  "name": "Kenku",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/kenku.jpg",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr1/4",
+    "monster-manual"
+  ]
+}

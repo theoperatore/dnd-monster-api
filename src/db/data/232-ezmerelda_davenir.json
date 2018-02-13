@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "17 (studded leather armor +1)",
+  "challengeRating": "8",
+  "hitPoints": {
+    "average": 82,
+    "roll": "11d8+33"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "curse-of-strahd",
+  "id": "ezmerelda_davenir",
+  "_index": 232,
+  "name": "Ezmerelda d'Avenir",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr8",
+    "curse-of-strahd"
+  ]
+}

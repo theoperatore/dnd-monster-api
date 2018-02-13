@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d8+5"
+  },
+  "race": "MONSTROSITY",
+  "size": "MEDIUM",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "rust_monster",
+  "_index": 568,
+  "name": "Rust Monster",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/rust-monster.jpg",
+  "_tags": [
+    "medium",
+    "monstrosity",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

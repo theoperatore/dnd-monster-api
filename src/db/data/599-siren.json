@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "14",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 38,
+    "roll": "7d8+7"
+  },
+  "race": "FEY",
+  "size": "MEDIUM",
+  "speed": "30 ft., swim 30 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "id": "siren",
+  "_index": 599,
+  "name": "Siren",
+  "image": null,
+  "_tags": [
+    "medium",
+    "fey",
+    "cr3",
+    "tales-from-the-yawning-portal"
+  ]
+}

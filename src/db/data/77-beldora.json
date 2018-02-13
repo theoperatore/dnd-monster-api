@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "12",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d8"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "storm-kings-thunder",
+  "id": "beldora",
+  "_index": 77,
+  "name": "Beldora",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr0",
+    "storm-kings-thunder"
+  ]
+}

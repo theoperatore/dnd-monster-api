@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 45,
+    "roll": "7d8+14"
+  },
+  "race": "FIEND",
+  "size": "MEDIUM",
+  "speed": "50 ft.",
+  "source": "monster-manual",
+  "id": "hell_hound",
+  "_index": 358,
+  "name": "Hell Hound",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/hell-hound.jpg",
+  "_tags": [
+    "medium",
+    "fiend",
+    "cr3",
+    "monster-manual"
+  ]
+}

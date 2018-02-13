@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d8"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "jackalwere",
+  "_index": 396,
+  "name": "Jackalwere",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/jackalwere.jpg",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

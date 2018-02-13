@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 30,
+      "mod": 10,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 26,
+      "mod": 8,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 26,
+      "mod": 8,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 28,
+      "mod": 9,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "25 (natural armor)",
+  "challengeRating": "30",
+  "hitPoints": {
+    "average": 615,
+    "roll": "30d20+300"
+  },
+  "race": "FIEND",
+  "size": "GARGANTUAN",
+  "speed": "60 ft., fly 120 ft.",
+  "source": "tyranny-of-dragons",
+  "id": "tiamat",
+  "_index": 653,
+  "name": "Tiamat",
+  "image": null,
+  "_tags": [
+    "gargantuan",
+    "fiend",
+    "cr30",
+    "tyranny-of-dragons"
+  ]
+}

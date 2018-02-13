@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
+  "armorClass": "11 (leather armor)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d8+10"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "thug",
+  "_index": 651,
+  "name": "Thug",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/thug.jpg",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

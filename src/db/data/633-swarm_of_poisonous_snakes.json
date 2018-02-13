@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "14",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 36,
+    "roll": "8d8"
+  },
+  "race": "SWARM",
+  "size": "MEDIUM",
+  "speed": "30 ft., swim 30 ft.",
+  "source": "monster-manual",
+  "id": "swarm_of_poisonous_snakes",
+  "_index": 633,
+  "name": "Swarm of Poisonous Snakes",
+  "image": null,
+  "_tags": [
+    "medium",
+    "swarm",
+    "cr2",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d8+18"
+  },
+  "race": "UNDEAD",
+  "size": "MEDIUM",
+  "speed": "0 ft., fly 30 ft. (hover)",
+  "source": "tales-from-the-yawning-portal",
+  "id": "vampiric_mist",
+  "_index": 680,
+  "name": "Vampiric Mist",
+  "image": null,
+  "_tags": [
+    "medium",
+    "undead",
+    "cr3",
+    "tales-from-the-yawning-portal"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 24,
+      "mod": 7,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "23",
+  "hitPoints": {
+    "average": 333,
+    "roll": "23d12+184"
+  },
+  "race": "FIEND",
+  "size": "HUGE",
+  "speed": "40 ft.",
+  "source": "out-of-the-abyss",
+  "id": "baphomet",
+  "_index": 64,
+  "name": "Baphomet",
+  "image": null,
+  "_tags": [
+    "huge",
+    "fiend",
+    "cr23",
+    "out-of-the-abyss"
+  ]
+}

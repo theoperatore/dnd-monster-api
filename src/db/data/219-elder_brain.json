@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 21,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 19,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 24,
+      "mod": 7,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "10",
+  "challengeRating": "14",
+  "hitPoints": {
+    "average": 210,
+    "roll": "20d10+100"
+  },
+  "race": "ABERRATION",
+  "size": "LARGE",
+  "speed": "5ft., swim 10 ft.",
+  "source": "volos-guide",
+  "id": "elder_brain",
+  "_index": 219,
+  "name": "Elder Brain",
+  "image": null,
+  "_tags": [
+    "large",
+    "aberration",
+    "cr14",
+    "volos-guide"
+  ]
+}

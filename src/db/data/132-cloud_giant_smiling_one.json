@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 26,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "11",
+  "hitPoints": {
+    "average": 262,
+    "roll": "21d12+128"
+  },
+  "race": "GIANT",
+  "size": "HUGE",
+  "speed": "40 ft.",
+  "source": "volos-guide",
+  "id": "cloud_giant_smiling_one",
+  "_index": 132,
+  "name": "Cloud Giant Smiling One",
+  "image": null,
+  "_tags": [
+    "huge",
+    "giant",
+    "cr11",
+    "volos-guide"
+  ]
+}

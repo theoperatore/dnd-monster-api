@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFULL_GOOD",
+  "armorClass": "14 (breastplate)",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d8+16"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "storm-kings-thunder",
+  "id": "darathra_shendrel",
+  "_index": 152,
+  "name": "Darathra Shendrel",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr0",
+    "storm-kings-thunder"
+  ]
+}

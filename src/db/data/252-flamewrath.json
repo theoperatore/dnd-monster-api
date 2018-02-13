@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 105,
+    "roll": "14d8+42"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "elemental-evil",
+  "id": "flamewrath",
+  "_index": 252,
+  "name": "Flamewrath",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr6",
+    "elemental-evil"
+  ]
+}

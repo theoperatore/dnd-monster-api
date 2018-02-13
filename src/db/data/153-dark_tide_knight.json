@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "13",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 58,
+    "roll": "9d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "elemental-evil",
+  "id": "dark_tide_knight",
+  "_index": 153,
+  "name": "Dark Tide Knight",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr3",
+    "elemental-evil"
+  ]
+}

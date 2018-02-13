@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "15 (studded leather armor)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d8+5"
+  },
+  "race": "FEY",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "darkling_elder",
+  "_index": 154,
+  "name": "Darkling Elder",
+  "image": null,
+  "_tags": [
+    "medium",
+    "fey",
+    "cr2",
+    "volos-guide"
+  ]
+}

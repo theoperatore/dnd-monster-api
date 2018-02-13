@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "12",
+  "hitPoints": {
+    "average": 99,
+    "roll": "18d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "archmage",
+  "_index": 43,
+  "name": "Archmage",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/archmage.jpg",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr12",
+    "monster-manual"
+  ]
+}

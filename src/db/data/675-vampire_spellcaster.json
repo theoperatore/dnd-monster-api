@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "15",
+  "hitPoints": {
+    "average": 144,
+    "roll": "17d8+68"
+  },
+  "race": "UNDEAD",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "vampire_spellcaster",
+  "_index": 675,
+  "name": "Vampire Spellcaster",
+  "image": null,
+  "_tags": [
+    "medium",
+    "undead",
+    "cr15",
+    "monster-manual"
+  ]
+}

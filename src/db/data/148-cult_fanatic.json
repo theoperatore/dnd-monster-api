@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
+  "armorClass": "13 (leather armor)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 22,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "cult_fanatic",
+  "_index": 148,
+  "name": "Cult Fanatic",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/cult-fanatic.jpg",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr2",
+    "monster-manual"
+  ]
+}

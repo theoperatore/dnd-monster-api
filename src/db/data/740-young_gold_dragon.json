@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "10",
+  "hitPoints": {
+    "average": 178,
+    "roll": "17d10+85"
+  },
+  "race": "DRAGON",
+  "size": "LARGE",
+  "speed": "40 ft., fly 80 ft., swim 40 ft.",
+  "source": "monster-manual",
+  "id": "young_gold_dragon",
+  "_index": 740,
+  "name": "Young Gold Dragon",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/young-gold-dragon.jpg",
+  "_tags": [
+    "large",
+    "dragon",
+    "cr10",
+    "monster-manual"
+  ]
+}

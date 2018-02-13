@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 112,
+      "mod": 51,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "14 (leather armor)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 13,
+    "roll": "3d6+3"
+  },
+  "race": "FEY",
+  "size": "SMALL",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "darkling",
+  "_index": 155,
+  "name": "Darkling",
+  "image": null,
+  "_tags": [
+    "small",
+    "fey",
+    "cr1/2",
+    "volos-guide"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 55,
+    "roll": "10d8+10"
+  },
+  "race": "ABERRATION",
+  "size": "MEDIUM",
+  "speed": "10 ft., fly 30 ft. (hover)",
+  "source": "monster-manual",
+  "id": "grell",
+  "_index": 339,
+  "name": "Grell",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/grell.jpg",
+  "_tags": [
+    "medium",
+    "aberration",
+    "cr3",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "13",
+  "hitPoints": {
+    "average": 184,
+    "roll": "16d10+96"
+  },
+  "race": "FIEND",
+  "size": "LARGE",
+  "speed": "20 ft., fly 30 ft.",
+  "source": "monster-manual",
+  "id": "nalfeshnee",
+  "_index": 472,
+  "name": "Nalfeshnee",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/nalfeshnee.jpg",
+  "_tags": [
+    "large",
+    "fiend",
+    "cr13",
+    "monster-manual"
+  ]
+}

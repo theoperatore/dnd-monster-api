@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "11 (16 with barkskin)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d8+5"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "druid",
+  "_index": 201,
+  "name": "Druid",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/druid.jpg",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr2",
+    "monster-manual"
+  ]
+}

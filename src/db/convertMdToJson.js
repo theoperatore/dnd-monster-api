@@ -193,6 +193,7 @@ async function convertFileToJson(file, index, arr, getImages = false) {
   //       possibly https://www.aidedd.org/dnd/monstres.php?vo=duodrone
   //       then dive the html for the img tag and capture the src.
   let imageUrl = null;
+  let imageUrlOut = null;
   if (getImages) {
     const dom = await JSDOM.fromURL(`${IMAGE_SCRAPING_ENDPOINT}${imgName}`);
     imageUrl = await findImageFromDom(dom);
@@ -200,14 +201,16 @@ async function convertFileToJson(file, index, arr, getImages = false) {
       const parts = imageUrl.split('.');
       const ext = parts[parts.length - 1];
       const destination = path.resolve(__dirname, `assets/${imgName}.${ext}`);
+      imageUrlOut = `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/${imgName}.${ext}`;
       await getAndSaveImageData(imageUrl, destination);
     }
   }
 
   return Object.assign({}, parsedMonsterStats, {
     id,
+    _index: index,
     name: file.title,
-    image: imageUrl ? `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/${imgName}.${ext}` : null, // default image
+    image: imageUrlOut, // default image
     _tags: file.tags,
   });
 }
@@ -226,7 +229,7 @@ async function convertMdToJson(jsonFiles) {
   const final = await jsonFiles.reduce((promise, file, idx, arr) => {
     return promise.then(result => {
       out.push(result[1]);
-      return Promise.all([delay(300), convertFileToJson(file, idx, arr, false)]);
+      return Promise.all([delay(1000), convertFileToJson(file, idx, arr, false)]);
     });
   }, Promise.resolve([null, null]));
 

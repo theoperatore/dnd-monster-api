@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 1,
+      "mod": -5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 58,
+    "roll": "13d8"
+  },
+  "race": "UNDEAD",
+  "size": "MEDIUM",
+  "speed": "0 ft., fly 40 ft. (hover)",
+  "source": "monster-manual",
+  "id": "banshee",
+  "_index": 63,
+  "name": "Banshee",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/banshee.jpg",
+  "_tags": [
+    "medium",
+    "undead",
+    "cr4",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "10 (13 with mage armor)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d8+16"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "elemental-evil",
+  "id": "fathomer",
+  "_index": 240,
+  "name": "Fathomer",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr2",
+    "elemental-evil"
+  ]
+}

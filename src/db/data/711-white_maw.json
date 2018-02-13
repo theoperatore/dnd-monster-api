@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 1,
+      "mod": -5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "5",
+  "challengeRating": "10",
+  "hitPoints": {
+    "average": 217,
+    "roll": "14d20+70"
+  },
+  "race": "OOZE",
+  "size": "GARGANTUAN",
+  "speed": "10 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "id": "white_maw",
+  "_index": 711,
+  "name": "White Maw",
+  "image": null,
+  "_tags": [
+    "gargantuan",
+    "ooze",
+    "cr10",
+    "tales-from-the-yawning-portal"
+  ]
+}

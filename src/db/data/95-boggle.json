@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "14If the oil is sticky, any creature that enters the puddle's area or starts its turn there must succeed on a DC 11 Strength saving throw or be restrained. On its turn. a creature can use an action to try to extricate itself from the sticky puddle, ending the effect and moving into the nearest safe unoccupied space with a successful DC 11 Strength check.",
+  "challengeRating": "1/8",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d6+4"
+  },
+  "race": "FEY",
+  "size": "SMALL",
+  "speed": "30 ft., climb 30 ft.",
+  "source": "volos-guide",
+  "id": "boggle",
+  "_index": 95,
+  "name": "Boggle",
+  "image": null,
+  "_tags": [
+    "small",
+    "fey",
+    "cr1/8",
+    "volos-guide"
+  ]
+}

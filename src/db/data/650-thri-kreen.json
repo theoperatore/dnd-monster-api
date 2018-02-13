@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "thri-kreen",
+  "_index": 650,
+  "name": "Thri-kreen",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/thri-kreen.jpg",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr1",
+    "monster-manual"
+  ]
+}

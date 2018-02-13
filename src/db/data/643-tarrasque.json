@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 30,
+      "mod": 10,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "25 (natural armor)",
+  "challengeRating": "30",
+  "hitPoints": {
+    "average": 676,
+    "roll": "33d20+330"
+  },
+  "race": "MONSTROSITY",
+  "size": "GARGANTUAN",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "tarrasque",
+  "_index": 643,
+  "name": "Tarrasque",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/tarrasque.jpg",
+  "_tags": [
+    "gargantuan",
+    "monstrosity",
+    "cr30",
+    "monster-manual"
+  ]
+}

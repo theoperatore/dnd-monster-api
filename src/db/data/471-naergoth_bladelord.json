@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "11",
+  "hitPoints": {
+    "average": 135,
+    "roll": "18d8+54"
+  },
+  "race": "UNDEAD",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "tyranny-of-dragons",
+  "id": "naergoth_bladelord",
+  "_index": 471,
+  "name": "Naergoth Bladelord",
+  "image": null,
+  "_tags": [
+    "medium",
+    "undead",
+    "cr11",
+    "tyranny-of-dragons"
+  ]
+}

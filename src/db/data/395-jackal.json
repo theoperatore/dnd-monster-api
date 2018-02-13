@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 3,
+    "roll": "1d6"
+  },
+  "race": "BEAST",
+  "size": "SMALL",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "jackal",
+  "_index": 395,
+  "name": "Jackal",
+  "image": null,
+  "_tags": [
+    "small",
+    "beast",
+    "cr0",
+    "monster-manual"
+  ]
+}

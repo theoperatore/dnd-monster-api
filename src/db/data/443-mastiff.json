@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "1/8",
+  "hitPoints": {
+    "average": 5,
+    "roll": "1d8+1"
+  },
+  "race": "BEAST",
+  "size": "MEDIUM",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "mastiff",
+  "_index": 443,
+  "name": "Mastiff",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/mastiff.jpg",
+  "_tags": [
+    "medium",
+    "beast",
+    "cr1/8",
+    "monster-manual"
+  ]
+}

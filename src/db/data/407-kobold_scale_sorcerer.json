@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d6+10"
+  },
+  "race": "HUMANOID",
+  "size": "SMALL",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "kobold_scale_sorcerer",
+  "_index": 407,
+  "name": "Kobold Scale Sorcerer",
+  "image": null,
+  "_tags": [
+    "small",
+    "humanoid",
+    "cr1",
+    "volos-guide"
+  ]
+}

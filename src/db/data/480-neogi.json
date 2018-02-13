@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d6+12"
+  },
+  "race": "ABERRATION",
+  "size": "SMALL",
+  "speed": "30 ft., climb 30 ft.",
+  "source": "volos-guide",
+  "id": "neogi",
+  "_index": 480,
+  "name": "Neogi",
+  "image": null,
+  "_tags": [
+    "small",
+    "aberration",
+    "cr3",
+    "volos-guide"
+  ]
+}

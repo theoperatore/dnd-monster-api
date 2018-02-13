@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "16 (hide armor, shield)The new form's attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.",
+  "challengeRating": "12",
+  "hitPoints": {
+    "average": 132,
+    "roll": "24d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "archdruid",
+  "_index": 41,
+  "name": "Archdruid",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr12",
+    "volos-guide"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 37,
+    "roll": "5d8+15"
+  },
+  "race": "UNDEAD",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "id": "deathlock_wight",
+  "_index": 163,
+  "name": "Deathlock Wight",
+  "image": null,
+  "_tags": [
+    "medium",
+    "undead",
+    "cr3",
+    "tales-from-the-yawning-portal"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "13",
+  "hitPoints": {
+    "average": 189,
+    "roll": "19d10+76"
+  },
+  "race": "ABERRATION",
+  "size": "LARGE",
+  "speed": "0 ft., fly 20 ft. (hover)",
+  "source": "monster-manual",
+  "id": "beholder",
+  "_index": 76,
+  "name": "Beholder",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/beholder.jpg",
+  "_tags": [
+    "large",
+    "aberration",
+    "cr13",
+    "monster-manual"
+  ]
+}

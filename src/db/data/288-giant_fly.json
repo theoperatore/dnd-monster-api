@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "11",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 19,
+    "roll": "3d10+3"
+  },
+  "race": "BEAST",
+  "size": "LARGE",
+  "speed": "30 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "giant_fly",
+  "_index": 288,
+  "name": "Giant Fly",
+  "image": null,
+  "_tags": [
+    "large",
+    "beast",
+    "cr0",
+    "monster-manual"
+  ]
+}

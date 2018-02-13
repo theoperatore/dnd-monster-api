@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 2,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 2,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 1,
+    "roll": "1d4-1"
+  },
+  "race": "BEAST",
+  "size": "TINY",
+  "speed": "swim 40 ft.",
+  "source": "monster-manual",
+  "id": "quipper",
+  "_index": 545,
+  "name": "Quipper",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/quipper.jpg",
+  "_tags": [
+    "tiny",
+    "beast",
+    "cr0",
+    "monster-manual"
+  ]
+}

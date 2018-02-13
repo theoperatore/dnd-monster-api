@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "7",
+  "hitPoints": {
+    "average": 127,
+    "roll": "15d10+45"
+  },
+  "race": "MONSTROSITY",
+  "size": "LARGE",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "yuan-ti_abomination",
+  "_index": 747,
+  "name": "Yuan-ti Abomination",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/yuan-ti-abomination.jpg",
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr7",
+    "monster-manual"
+  ]
+}

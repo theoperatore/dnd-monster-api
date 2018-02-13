@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "15 (chain shirt)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 44,
+    "roll": "8d8+8"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "bard",
+  "_index": 66,
+  "name": "Bard",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr2",
+    "volos-guide"
+  ]
+}

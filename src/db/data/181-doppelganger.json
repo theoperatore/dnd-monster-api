@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "14",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d8+16"
+  },
+  "race": "MONSTROSITY",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "doppelganger",
+  "_index": 181,
+  "name": "Doppelganger",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/doppelganger.jpg",
+  "_tags": [
+    "medium",
+    "monstrosity",
+    "cr3",
+    "monster-manual"
+  ]
+}

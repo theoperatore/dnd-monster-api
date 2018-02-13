@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "12",
+  "hitPoints": {
+    "average": 153,
+    "roll": "18d8+72"
+  },
+  "race": "FIEND",
+  "size": "MEDIUM",
+  "speed": "30 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "erinyes",
+  "_index": 225,
+  "name": "Erinyes",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/erinyes.jpg",
+  "_tags": [
+    "medium",
+    "fiend",
+    "cr12",
+    "monster-manual"
+  ]
+}

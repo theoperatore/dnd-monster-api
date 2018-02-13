@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "13 (16 with mage armor)",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 71,
+    "roll": "11d8+22"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "tyranny-of-dragons",
+  "id": "rath_modar",
+  "_index": 549,
+  "name": "Rath Modar",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr6",
+    "tyranny-of-dragons"
+  ]
+}

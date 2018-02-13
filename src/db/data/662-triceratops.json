@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 22,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 95,
+    "roll": "10d12+30"
+  },
+  "race": "BEAST",
+  "size": "HUGE",
+  "speed": "50 ft.",
+  "source": "monster-manual",
+  "id": "triceratops",
+  "_index": 662,
+  "name": "Triceratops",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/triceratops.jpg",
+  "_tags": [
+    "huge",
+    "beast",
+    "cr5",
+    "monster-manual"
+  ]
+}

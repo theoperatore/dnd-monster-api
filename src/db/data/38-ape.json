@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 19,
+    "roll": "3d8+6"
+  },
+  "race": "BEAST",
+  "size": "MEDIUM",
+  "speed": "30 ft., climb 30 ft.",
+  "source": "monster-manual",
+  "id": "ape",
+  "_index": 38,
+  "name": "Ape",
+  "image": null,
+  "_tags": [
+    "medium",
+    "beast",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

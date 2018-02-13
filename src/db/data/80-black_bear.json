@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "11 (natural armor)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 19,
+    "roll": "3d8+6"
+  },
+  "race": "BEAST",
+  "size": "MEDIUM",
+  "speed": "40 ft., climb 30 ft.",
+  "source": "monster-manual",
+  "id": "black_bear",
+  "_index": 80,
+  "name": "Black Bear",
+  "image": null,
+  "_tags": [
+    "medium",
+    "beast",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

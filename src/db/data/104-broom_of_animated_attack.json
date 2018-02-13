@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 5,
+      "mod": -3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 17,
+    "roll": "5d6"
+  },
+  "race": "CONSTRUCT",
+  "size": "SMALL",
+  "speed": "0 ft., fly 50 ft. (hover)",
+  "source": "curse-of-strahd",
+  "id": "broom_of_animated_attack",
+  "_index": 104,
+  "name": "Broom of Animated Attack",
+  "image": null,
+  "_tags": [
+    "small",
+    "construct",
+    "cr1/4",
+    "curse-of-strahd"
+  ]
+}

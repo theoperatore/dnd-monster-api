@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 5,
+      "mod": -3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 1,
+    "roll": "1d4-1"
+  },
+  "race": "BEAST",
+  "size": "TINY",
+  "speed": "10 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "hawk",
+  "_index": 357,
+  "name": "Hawk",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/hawk.jpg",
+  "_tags": [
+    "tiny",
+    "beast",
+    "cr0",
+    "monster-manual"
+  ]
+}

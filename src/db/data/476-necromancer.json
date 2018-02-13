@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "9",
+  "hitPoints": {
+    "average": 66,
+    "roll": "12d8+12"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "necromancer",
+  "_index": 476,
+  "name": "Necromancer",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr9",
+    "volos-guide"
+  ]
+}

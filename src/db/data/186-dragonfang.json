@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "tyranny-of-dragons",
+  "id": "dragonfang",
+  "_index": 186,
+  "name": "Dragonfang",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr5",
+    "tyranny-of-dragons"
+  ]
+}

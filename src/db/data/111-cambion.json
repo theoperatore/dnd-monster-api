@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_EVIL_ALIGNMENT",
+  "armorClass": "19 (scale mail)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 82,
+    "roll": "11d8+33"
+  },
+  "race": "FIEND",
+  "size": "MEDIUM",
+  "speed": "30 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "cambion",
+  "_index": 111,
+  "name": "Cambion",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/cambion.jpg",
+  "_tags": [
+    "medium",
+    "fiend",
+    "cr5",
+    "monster-manual"
+  ]
+}

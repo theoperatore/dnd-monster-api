@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<!--[if !IE]><!-->
+<html lang="fr-FR">
+<!--<![endif]-->
+<!--[if IE 6 ]><html lang="fr-FR" class="ie ie6"><![endif]-->
+<!--[if IE 7 ]><html lang="fr-FR" class="ie ie7"><![endif]-->
+<!--[if IE 8 ]><html lang="fr-FR" class="ie ie8"><![endif]-->
+<head>
+	<base href="https://www.aidedd.org/"><!--[if lte IE 6]></base><![endif]-->
+	<title>Page not found &raquo; Donjons &amp; Dragons 5 - D&amp;D 5</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+
+	<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<link href='https://fonts.googleapis.com/css?family=Tienne:900' rel='stylesheet' type='text/css' />
+	<link href='https://fonts.googleapis.com/css?family=Lato'       rel='stylesheet' type='text/css' />
+	<link href='https://fonts.googleapis.com/css?family=Satisfy'    rel='stylesheet' type='text/css' />
+	<link href='/themes/simple/webfonts/font-awesome/css/font-awesome.min.css' rel='stylesheet' />
+
+	<link rel="shortcut icon" href="/themes/simple/images/favicon.ico" />
+	<link rel="stylesheet" type="text/css" href="/themes/simple/css/reset.css?m=1428569318" />
+	<link rel="stylesheet" type="text/css" href="/themes/simple/css/typography.css?m=1428569318" />
+	<link rel="stylesheet" type="text/css" href="/themes/simple/css/form.css?m=1428569318" />
+	<link rel="stylesheet" type="text/css" href="/themes/simple/css/layout.css?m=1428569318" />
+</head>
+<body class="ErrorPage no-sidebar" dir="ltr">
+<header class="header">
+	<div class="inner">
+		<div class="unit size4of4 lastUnit">
+			<a href="/" class="brand" rel="home">
+				<h1>AideDD</h1>				
+				<p>Un site sur le jeu de rôle Dungeons &amp; Dragons</p>				
+			</a>
+			
+			<span class="search-dropdown-icon"><span class="fa fa-search fa-inverse"></span></span>
+			<div class="search-bar">
+				<form id="SearchForm_SearchForm" action="/home/SearchForm" method="get" enctype="application/x-www-form-urlencoded">
+					<p id="SearchForm_SearchForm_error" class="message " style="display: none"></p>
+					<fieldset>
+						<div id="SearchForm_SearchForm_Search_Holder" class="field text nolabel">
+							<div class="middleColumn">
+								<input type="text" name="Search" value="Rechercher" class="text nolabel" id="SearchForm_SearchForm_Search" />
+							</div>
+						</div>
+						<span class="fa fa-search fa-inverse"></span><input type="submit" name="action_results" value="" class="action" id="SearchForm_SearchForm_action_results" />
+					</fieldset>
+				</form>
+			</div>
+			
+			<nav class="primary">
+				<span class="nav-open-button"><span class="fa fa-bars fa-inverse"></span></span>
+				<ul>		
+					<li class="link"><a href="/" title="Accueil">Accueil</a></li>		
+					<li class="link"><a href="/intro/" title="Dungeons &amp; Dragons 5">D&amp;D 5</a></li>		
+					<li class="link"><a href="/regles/" title="Introduction">Règles</a></li>		
+					<li class="link"><a href="/adj/" title="Aides de jeu">Aides de jeu</a></li>		
+					<li class="link"><a href="/univers/" title="Univers">Univers</a></li>		
+					<li class="link"><a href="/site/" title="Site">Site</a></li>		
+					<li class="link"><a href="http://forum.aidedd.org/index.php" title="Forum">Forum</a></li>		
+				</ul>
+			</nav>
+
+		</div>
+	</div>
+</header>
+
+<div class="main" role="main">
+	<div class="inner typography line">
+		<div class="content-container unit size3of4 lastUnit">
+			<article>
+				<h1>Page non trouvée</h1>
+				<div class="content"><p>Désolé, mais vous tentez d'accéder à une page qui n'existe pas ou plus.</p><p>Merci d'utilisez la fonction de recherche en haut à droite pour retrouver l'URL de la page que vous vouliez visiter.</p></div>
+
+				<p>&nbsp;</p>
+
+				<h1>Page not found</h1>
+				<div class="content"><p>Sorry, it seems you were trying to access a page that doesn't exist.</p><p>Please use the search function at the top right to find the URL of the page you want to visit.</p></div>
+			</article>
+		</div>
+	</div>
+</div>
+
+<footer class="footer">
+	<div class="inner">
+		<div class="left">
+		</div>
+		<small class="right">Dungeons &amp; Dragons 5 - Donjons et Dragons 5 - D&amp;D 5 &copy; Wizards of the Coast</small>
+	</div>
+</footer>
+
+<script type="text/javascript" src="/framework/thirdparty/jquery/jquery.js?m=1506915340"></script><script type="text/javascript" src="themes/simple/javascript/script.js"></script>
+
+</body>
+</html>

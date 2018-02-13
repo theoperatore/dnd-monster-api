@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 2,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD",
+  "armorClass": "15",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 1,
+    "roll": "1d4-1"
+  },
+  "race": "FEY",
+  "size": "TINY",
+  "speed": "10 ft., fly 30 ft.",
+  "source": "monster-manual",
+  "id": "pixie",
+  "_index": 526,
+  "name": "Pixie",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/pixie.jpg",
+  "_tags": [
+    "tiny",
+    "fey",
+    "cr1/4",
+    "monster-manual"
+  ]
+}

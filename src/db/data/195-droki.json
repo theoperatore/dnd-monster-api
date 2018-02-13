@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 5,
+      "mod": -3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 31,
+    "roll": "7d6+7"
+  },
+  "race": "HUMANOID",
+  "size": "SMALL",
+  "speed": "30 ft. (60 ft. with boots of speed)",
+  "source": "out-of-the-abyss",
+  "id": "droki",
+  "_index": 195,
+  "name": "Droki",
+  "image": null,
+  "_tags": [
+    "small",
+    "humanoid",
+    "cr2",
+    "out-of-the-abyss"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "9",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 30,
+    "roll": "4d8+12"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "orc_nurtured_one_of_yurtrus",
+  "_index": 504,
+  "name": "Orc Nurtured One of Yurtrus",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr1/2",
+    "volos-guide"
+  ]
+}

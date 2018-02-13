@@ -32,9 +32,9 @@ const BESTIARY_URL = 'https://github.com/chisaipete/bestiary.git';
     await fse.emptyDir(destinationPath);
 
     await Promise.all(
-      fullJsonFiles.map(file =>
+      fullJsonFiles.map((file, idx) =>
         fse.writeJson(
-          path.resolve(destinationPath, `${file.id}.json`),
+          path.resolve(destinationPath, `${idx}-${file.id}.json`),
           file,
           { spaces: 2 }
         )
@@ -42,10 +42,11 @@ const BESTIARY_URL = 'https://github.com/chisaipete/bestiary.git';
     );
 
     utils.info('batching to db...');
+    await fse.remove(path.resolve(__dirname, 'builtDb'))
     const db = level(path.resolve(__dirname, 'builtDb'), { valueEncoding: 'json' });
-    const batchOptions = fullJsonFiles.map(file => ({
+    const batchOptions = fullJsonFiles.map((file, idx) => ({
       type: 'put',
-      key: file.id,
+      key: `monster:${idx}`,
       value: file,
     }));
 

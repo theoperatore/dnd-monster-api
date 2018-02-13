@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "1/8",
+  "hitPoints": {
+    "average": 7,
+    "roll": "2d6"
+  },
+  "race": "BEAST",
+  "size": "SMALL",
+  "speed": "10 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "blood_hawk",
+  "_index": 89,
+  "name": "Blood Hawk",
+  "image": null,
+  "_tags": [
+    "small",
+    "beast",
+    "cr1/8",
+    "monster-manual"
+  ]
+}

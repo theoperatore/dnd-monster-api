@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft., swim 30 ft.",
+  "source": "monster-manual",
+  "id": "lizard_king_queen",
+  "_index": 423,
+  "name": "Lizard King/Queen",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr4",
+    "monster-manual"
+  ]
+}

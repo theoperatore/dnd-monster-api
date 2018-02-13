@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 51,
+    "roll": "6d10+18"
+  },
+  "race": "FEY",
+  "size": "LARGE",
+  "speed": "40 ft., fly 40 ft. (hover)",
+  "source": "volos-guide",
+  "id": "yeth_hound",
+  "_index": 732,
+  "name": "Yeth Hound",
+  "image": null,
+  "_tags": [
+    "large",
+    "fey",
+    "cr4",
+    "volos-guide"
+  ]
+}

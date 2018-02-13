@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 22,
+    "roll": "3d8+9"
+  },
+  "race": "MONSTROSITY",
+  "size": "LARGE",
+  "speed": "5 ft., climb 5 ft.",
+  "source": "monster-manual",
+  "id": "piercer",
+  "_index": 524,
+  "name": "Piercer",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/piercer.jpg",
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

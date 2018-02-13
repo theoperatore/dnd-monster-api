@@ -11,120 +11,59 @@ const express = require('express');
 const graphqlHTTP = require('express-graphql');
 const { buildSchema } = require('graphql');
 
+// schemas
+const schema = buildSchema(require('./schema/monsters-schema'));
+const Monster = require('./schema/Monster');
+
 const PORT = process.env.PORT || 9966;
 const app = express();
 
-const schema = buildSchema(`
-  enum MonsterRace {
-    ABERRATION
-    BEAST
-    CELESTIAL
-    CONSTRUCT
-    DRAGON
-    ELEMENTAL
-    FEY
-    FIEND
-    GIANT
-    HUMANOID
-    MONSTROSITIES
-    OOZES
-    PLANTS
-    UNDEAD
-  }
+const db = level(path.resolve(process.cwd(), 'src/db/builtDb'), { valueEncoding: 'json' });
 
-  type MonsterHitPoints {
-    average: Int
-    roll: String
-  }
-
-  enum MonsterSize {
-    TINY
-    SMALL
-    MEDIUM
-    LARGE
-    HUGE
-    GARGANTUAN
-  }
-
-  enum MonsterAlignment {
-    LAWFUL_EVIL
-    LAWFUL_GOOD
-    LAWFUL_NEUTRAL
-    CHAOTIC_EVIL
-    CHAOTIC_GOOD
-    CHAOTIC_NEUTRAL
-    NEUTRAL_EVIL
-    NEUTRAL_GOOD
-    NEUTRAL
-    UNALIGNED
-
-    CONSTRUCT
-
-    ANY_ALIGNMENT
-    ANY_EVIL_ALIGNMENT
-    ANY_NON_GOOD_ALIGNMENT
-    ANY_NON_LAWFUL_ALIGNMENT
-    ANY_CHAOTIC_ALIGNMENT
-
-    NEUTRAL_GOOD_50_OR_NEUTRAL_EVIL_50
-    CHAOTIC_GOOD_75_OR_NEUTRAL_EVIL_25
-  }
-
-  enum Ability {
-    STR
-    DEX
-    CON
-    WIS
-    INT
-    CHA
-  }
-
-  type AbilityScore {
-    score: Int,
-    mod: Int,
-    ability: Ability
-  }
-
-  type MonsterAbilityScoresMap {
-    STR: AbilityScore
-    DEX: AbilityScore
-    CON: AbilityScore
-    INT: AbilityScore
-    WIS: AbilityScore
-    CHA: AbilityScore
-  }
-
-  type Monster {
-    id: ID
-    name: String
-    race: MonsterRace
-    armorClass: String
-    hitPoints: MonsterHitPoints
-    image: String
-    challengeRating: String
-    size: MonsterSize
-    speed: String
-    alignment: MonsterAlignment
-    abilityScores: MonsterAbilityScoresMap
-  }
-
-  type ApiListResponse {
-    count: Int
-    monsters: [Monster]!
-  }
-
-  type Query {
-    monsters(id: ID, limit: Int = 10, offset: Int = 0): ApiListResponse
-  }
-`);
+function getMonsterRange(limit, offset) {
+  return new Promise((resolve, reject) => {
+    const out = {
+      count: 0,
+      monsters: [],
+    };
+    db.createValueStream({ limit, gte: `monster:${offset}`, lte: `monster:${offset + limit}` })
+      .on('data', monster => {
+        // console.log(monster);
+        out.count += 1;
+        out.monsters.push(new Monster(monster));
+      })
+      .on('close', () => resolve(out))
+      .on('error', reject);
+  });
+}
 
 const graphqlConfig = {
   schema,
   rootValue: {
-    monsters: ({ id, limit, offset }) => ({
-      count: 761,
-      monsters: [],
-    }),
+    monsters: ({ id, limit, offset }) => {
+      if (id) {
+        return db.get(id).then(monster => {
+          return {
+            count: 1,
+            monsters: [
+              new Monster(monster),
+            ],
+          };
+        }).catch(err => {
+          console.log('monster not found', err);
+          return {
+            count: 0,
+            monsters: [],
+          };
+        });
+      }
+
+      return getMonsterRange(limit, offset);
+    },
+    // monsters: ({ id, limit, offset }) => ({
+    //   count: 761,
+    //   monsters: [],
+    // }),
   },
   graphiql: process.env !== 'production',
 };

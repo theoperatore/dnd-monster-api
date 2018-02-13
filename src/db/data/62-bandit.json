@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_NON_LAWFUL_ALIGNMENT",
+  "armorClass": "12 (leather armor)",
+  "challengeRating": "1/8",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "bandit",
+  "_index": 62,
+  "name": "Bandit",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr1/8",
+    "monster-manual"
+  ]
+}

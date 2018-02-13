@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 66,
+    "roll": "7d12+21"
+  },
+  "race": "BEAST",
+  "size": "HUGE",
+  "speed": "30 ft., swim 50 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "id": "giant_subterranean_lizard",
+  "_index": 304,
+  "name": "Giant Subterranean Lizard",
+  "image": null,
+  "_tags": [
+    "huge",
+    "beast",
+    "cr4",
+    "tales-from-the-yawning-portal"
+  ]
+}

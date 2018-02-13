@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12 (natural armor)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 51,
+    "roll": "6d10+18"
+  },
+  "race": "MONSTROSITY",
+  "size": "LARGE",
+  "speed": "40 ft., climb 40 ft.",
+  "source": "monster-manual",
+  "id": "yeti",
+  "_index": 733,
+  "name": "Yeti",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/yeti.jpg",
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr3",
+    "monster-manual"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "13",
+  "hitPoints": {
+    "average": 110,
+    "roll": "13d8+52"
+  },
+  "race": "FIEND",
+  "size": "MEDIUM",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "rakshasa",
+  "_index": 547,
+  "name": "Rakshasa",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/rakshasa.jpg",
+  "_tags": [
+    "medium",
+    "fiend",
+    "cr13",
+    "monster-manual"
+  ]
+}

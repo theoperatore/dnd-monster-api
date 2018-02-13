@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 90,
+    "roll": "12d10+24"
+  },
+  "race": "FIEND",
+  "size": "LARGE",
+  "speed": "60 ft. (30 ft.in goblin form)",
+  "source": "volos-guide",
+  "id": "barghest",
+  "_index": 67,
+  "name": "Barghest",
+  "image": null,
+  "_tags": [
+    "large",
+    "fiend",
+    "cr4",
+    "volos-guide"
+  ]
+}

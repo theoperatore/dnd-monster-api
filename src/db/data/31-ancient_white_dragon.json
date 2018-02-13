@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 26,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "20",
+  "hitPoints": {
+    "average": 333,
+    "roll": "18d20+144"
+  },
+  "race": "DRAGON",
+  "size": "GARGANTUAN",
+  "speed": "40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.",
+  "source": "monster-manual",
+  "id": "ancient_white_dragon",
+  "_index": 31,
+  "name": "Ancient White Dragon",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ancient-white-dragon.jpg",
+  "_tags": [
+    "gargantuan",
+    "dragon",
+    "cr20",
+    "monster-manual"
+  ]
+}

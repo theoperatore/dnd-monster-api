@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "18 (studded leather, shield)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 71,
+    "roll": "11d8+22"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "drow_elite_warrior",
+  "_index": 196,
+  "name": "Drow Elite Warrior",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr5",
+    "monster-manual"
+  ]
+}

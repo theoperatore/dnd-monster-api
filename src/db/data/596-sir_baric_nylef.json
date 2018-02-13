@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "18 (plate)",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d8+16"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "storm-kings-thunder",
+  "id": "sir_baric_nylef",
+  "_index": 596,
+  "name": "Sir Baric Nylef",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr0",
+    "storm-kings-thunder"
+  ]
+}

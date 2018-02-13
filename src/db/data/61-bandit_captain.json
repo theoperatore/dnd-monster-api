@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_NON_LAWFUL_ALIGNMENT",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 65,
+    "roll": "10d8+20"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "bandit_captain",
+  "_index": 61,
+  "name": "Bandit Captain",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/bandit-captain.jpg",
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr2",
+    "monster-manual"
+  ]
+}

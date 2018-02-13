@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 71,
+    "roll": "13d8+13"
+  },
+  "race": "MONSTROSITY",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "yuan-ti_nightmare_speaker",
+  "_index": 754,
+  "name": "Yuan-ti Nightmare Speaker",
+  "image": null,
+  "_tags": [
+    "medium",
+    "monstrosity",
+    "cr4",
+    "volos-guide"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "10 (13 with mage armor)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft., swim 30 ft.",
+  "source": "elemental-evil",
+  "id": "shoalar_quanderil",
+  "_index": 591,
+  "name": "Shoalar Quanderil",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr4",
+    "elemental-evil"
+  ]
+}

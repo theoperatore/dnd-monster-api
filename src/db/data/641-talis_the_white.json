@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (scale mail +1, shield)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 58,
+    "roll": "9d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "tyranny-of-dragons",
+  "id": "talis_the_white",
+  "_index": 641,
+  "name": "Talis the White",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr5",
+    "tyranny-of-dragons"
+  ]
+}

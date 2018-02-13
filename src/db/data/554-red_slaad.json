@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 93,
+    "roll": "11d10+33"
+  },
+  "race": "ABERRATION",
+  "size": "LARGE",
+  "speed": "30 ft.",
+  "source": "monster-manual",
+  "id": "red_slaad",
+  "_index": 554,
+  "name": "Red Slaad",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/red-slaad.jpg",
+  "_tags": [
+    "large",
+    "aberration",
+    "cr5",
+    "monster-manual"
+  ]
+}

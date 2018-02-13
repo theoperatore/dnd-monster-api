@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "11",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 45,
+    "roll": "10d8"
+  },
+  "race": "UNDEAD",
+  "size": "MEDIUM",
+  "speed": "0 ft., fly 40 ft. It can hover.",
+  "source": "monster-manual",
+  "id": "ghost",
+  "_index": 274,
+  "name": "Ghost",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ghost.jpg",
+  "_tags": [
+    "medium",
+    "undead",
+    "cr4",
+    "monster-manual"
+  ]
+}

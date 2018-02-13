@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 93,
+    "roll": "11d10+33"
+  },
+  "race": "MONSTROSITY",
+  "size": "LARGE",
+  "speed": "30 ft., burrow 20 ft.",
+  "source": "monster-manual",
+  "id": "umber_hulk",
+  "_index": 671,
+  "name": "Umber Hulk",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/umber-hulk.jpg",
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr5",
+    "monster-manual"
+  ]
+}

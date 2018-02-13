@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD",
+  "armorClass": "16 (chain mail)",
+  "challengeRating": "1",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d8+5"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "lost-mine-of-phandelver",
+  "id": "sildar_hallwinter",
+  "_index": 594,
+  "name": "Sildar Hallwinter",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr1",
+    "lost-mine-of-phandelver"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "4",
+  "hitPoints": {
+    "average": 82,
+    "roll": "11d8+33"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "elemental-evil",
+  "id": "burrowshark",
+  "_index": 110,
+  "name": "Burrowshark",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr4",
+    "elemental-evil"
+  ]
+}

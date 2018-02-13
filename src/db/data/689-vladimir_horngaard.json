@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "17 (half plate)",
+  "challengeRating": "7",
+  "hitPoints": {
+    "average": 192,
+    "roll": "16d8+64"
+  },
+  "race": "UNDEAD",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "curse-of-strahd",
+  "id": "vladimir_horngaard",
+  "_index": 689,
+  "name": "Vladimir Horngaard",
+  "image": null,
+  "_tags": [
+    "medium",
+    "undead",
+    "cr7",
+    "curse-of-strahd"
+  ]
+}

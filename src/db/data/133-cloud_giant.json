@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 27,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD_50_OR_NEUTRAL_EVIL_50",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "9",
+  "hitPoints": {
+    "average": 200,
+    "roll": "16d12+96"
+  },
+  "race": "GIANT",
+  "size": "HUGE",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "cloud_giant",
+  "_index": 133,
+  "name": "Cloud Giant",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/cloud-giant.jpg",
+  "_tags": [
+    "huge",
+    "giant",
+    "cr9",
+    "monster-manual"
+  ]
+}

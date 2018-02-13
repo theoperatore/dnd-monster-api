@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_EVIL_ALIGNMENT",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "10",
+  "hitPoints": {
+    "average": 120,
+    "roll": "16d8+48"
+  },
+  "race": "UNDEAD",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "alhoon",
+  "_index": 19,
+  "name": "Alhoon",
+  "image": null,
+  "_tags": [
+    "medium",
+    "undead",
+    "cr10",
+    "volos-guide"
+  ]
+}

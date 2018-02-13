@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 26,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 28,
+      "mod": 9,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "20",
+  "hitPoints": {
+    "average": 526,
+    "roll": "27d20+243"
+  },
+  "race": "ELEMENTAL",
+  "size": "GARGANTUAN",
+  "speed": "50 ft., burrow 50 ft.",
+  "source": "elemental-evil",
+  "id": "ogremoch",
+  "_index": 495,
+  "name": "Ogremoch",
+  "image": null,
+  "_tags": [
+    "gargantuan",
+    "elemental",
+    "cr20",
+    "elemental-evil"
+  ]
+}

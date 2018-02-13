@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "12",
+  "hitPoints": {
+    "average": 142,
+    "roll": "15d10+60"
+  },
+  "race": "FIEND",
+  "size": "LARGE",
+  "speed": "40 ft., fly 40 ft.",
+  "source": "monster-manual",
+  "id": "bone_devil",
+  "_index": 97,
+  "name": "Bone Devil",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/bone-devil.jpg",
+  "_tags": [
+    "large",
+    "fiend",
+    "cr12",
+    "monster-manual"
+  ]
+}

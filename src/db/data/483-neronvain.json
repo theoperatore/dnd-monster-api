@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17",
+  "challengeRating": "9",
+  "hitPoints": {
+    "average": 117,
+    "roll": "18d8+36"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "tyranny-of-dragons",
+  "id": "neronvain",
+  "_index": 483,
+  "name": "Neronvain",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr9",
+    "tyranny-of-dragons"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "11 (leather)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d10+16"
+  },
+  "race": "MONSTROSITY",
+  "size": "LARGE",
+  "speed": "30 ft.",
+  "source": "storm-kings-thunder",
+  "id": "yakfolk_warrior",
+  "_index": 728,
+  "name": "Yakfolk Warrior",
+  "image": null,
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr3",
+    "storm-kings-thunder"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "6",
+  "hitPoints": {
+    "average": 114,
+    "roll": "12d10+48"
+  },
+  "race": "MONSTROSITY",
+  "size": "LARGE",
+  "speed": "30 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "chimera",
+  "_index": 125,
+  "name": "Chimera",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/chimera.jpg",
+  "_tags": [
+    "large",
+    "monstrosity",
+    "cr6",
+    "monster-manual"
+  ]
+}

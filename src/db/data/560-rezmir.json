@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13 (15 with the Black Dragon Mask)",
+  "challengeRating": "7",
+  "hitPoints": {
+    "average": 90,
+    "roll": "12d8+36"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "tyranny-of-dragons",
+  "id": "rezmir",
+  "_index": 560,
+  "name": "Rezmir",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr7",
+    "tyranny-of-dragons"
+  ]
+}

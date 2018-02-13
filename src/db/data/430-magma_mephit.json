@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "11",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d6+5"
+  },
+  "race": "ELEMENTAL",
+  "size": "SMALL",
+  "speed": "30 ft., fly 30 ft.",
+  "source": "monster-manual",
+  "id": "magma_mephit",
+  "_index": 430,
+  "name": "Magma Mephit",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/magma-mephit.jpg",
+  "_tags": [
+    "small",
+    "elemental",
+    "cr1/2",
+    "monster-manual"
+  ]
+}

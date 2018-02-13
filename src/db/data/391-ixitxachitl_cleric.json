@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d6+4"
+  },
+  "race": "ABERRATION",
+  "size": "SMALL",
+  "speed": "0 ft., swim 30 ft.",
+  "source": "out-of-the-abyss",
+  "id": "ixitxachitl_cleric",
+  "_index": 391,
+  "name": "Ixitxachitl Cleric",
+  "image": null,
+  "_tags": [
+    "small",
+    "aberration",
+    "cr1/4",
+    "out-of-the-abyss"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "16 (scale armor, shield)",
+  "challengeRating": "1/2",
+  "hitPoints": {
+    "average": 26,
+    "roll": "4d8+8"
+  },
+  "race": "PLANT",
+  "size": "MEDIUM",
+  "speed": "15 ft.",
+  "source": "out-of-the-abyss",
+  "id": "duergar_spore_servant",
+  "_index": 207,
+  "name": "Duergar Spore Servant",
+  "image": null,
+  "_tags": [
+    "medium",
+    "plant",
+    "cr1/2",
+    "out-of-the-abyss"
+  ]
+}

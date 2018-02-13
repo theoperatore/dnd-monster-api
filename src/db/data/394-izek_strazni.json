@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (studded leather armor)",
+  "challengeRating": "5",
+  "hitPoints": {
+    "average": 112,
+    "roll": "15d8+45"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "curse-of-strahd",
+  "id": "izek_strazni",
+  "_index": 394,
+  "name": "Izek Strazni",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr5",
+    "curse-of-strahd"
+  ]
+}

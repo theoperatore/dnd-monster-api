@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "14",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "45 ft.",
+  "source": "elemental-evil",
+  "id": "hurricane",
+  "_index": 377,
+  "name": "Hurricane",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr2",
+    "elemental-evil"
+  ]
+}

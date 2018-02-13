@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 25,
+      "mod": 7,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "19",
+  "challengeRating": "16",
+  "hitPoints": {
+    "average": 225,
+    "roll": "18d12+108"
+  },
+  "race": "DRAGON",
+  "size": "HUGE",
+  "speed": "40 ft., burrow 30 ft., fly 80 ft.",
+  "source": "monster-manual",
+  "id": "adult_blue_dragon",
+  "_index": 7,
+  "name": "Adult Blue Dragon",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/adult-blue-dragon.jpg",
+  "_tags": [
+    "huge",
+    "dragon",
+    "cr16",
+    "monster-manual"
+  ]
+}

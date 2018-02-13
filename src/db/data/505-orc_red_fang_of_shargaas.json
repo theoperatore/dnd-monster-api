@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (studded leather armor)",
+  "challengeRating": "3",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d8+16"
+  },
+  "race": "HUMANOID",
+  "size": "MEDIUM",
+  "speed": "30 ft.",
+  "source": "volos-guide",
+  "id": "orc_red_fang_of_shargaas",
+  "_index": 505,
+  "name": "Orc Red Fang of Shargaas",
+  "image": null,
+  "_tags": [
+    "medium",
+    "humanoid",
+    "cr3",
+    "volos-guide"
+  ]
+}

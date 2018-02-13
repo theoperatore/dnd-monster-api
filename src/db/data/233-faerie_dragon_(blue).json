@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 3,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "15",
+  "challengeRating": "2",
+  "hitPoints": {
+    "average": 14,
+    "roll": "4d4+4"
+  },
+  "race": "DRAGON",
+  "size": "TINY",
+  "speed": "10 ft., fly 60 ft.",
+  "source": "monster-manual",
+  "id": "faerie_dragon_(blue)",
+  "_index": 233,
+  "name": "Faerie Dragon (Blue)",
+  "image": null,
+  "_tags": [
+    "tiny",
+    "dragon",
+    "cr2",
+    "monster-manual"
+  ]
+}

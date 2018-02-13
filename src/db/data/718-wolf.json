@@ -1,0 +1,55 @@
+{
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "1/4",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "BEAST",
+  "size": "MEDIUM",
+  "speed": "40 ft.",
+  "source": "monster-manual",
+  "id": "wolf",
+  "_index": 718,
+  "name": "Wolf",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/wolf.jpg",
+  "_tags": [
+    "medium",
+    "beast",
+    "cr1/4",
+    "monster-manual"
+  ]
+}
