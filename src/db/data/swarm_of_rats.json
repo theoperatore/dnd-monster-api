@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "10",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 24,
     "roll": "7d8-7"
   },
-  "race": "swarm",
-  "size": "medium",
+  "race": "SWARM",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "swarm_of_rats",
   "name": "Swarm of Rats",
+  "image": null,
   "_tags": [
     "medium",
     "swarm",

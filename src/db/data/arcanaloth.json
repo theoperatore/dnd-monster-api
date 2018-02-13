@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "17 (natural armor)",
   "challengeRating": "12",
   "hitPoints": {
     "average": 104,
     "roll": "16d8+32"
   },
-  "race": "fiend",
-  "size": "medium",
+  "race": "FIEND",
+  "size": "MEDIUM",
   "speed": "30 ft., fly 30 ft.",
   "source": "monster-manual",
   "id": "arcanaloth",
   "name": "Arcanaloth",
+  "image": null,
   "_tags": [
     "medium",
     "fiend",

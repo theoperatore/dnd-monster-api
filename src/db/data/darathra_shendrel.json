@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawfull good",
+  "alignment": "LAWFULL_GOOD",
   "armorClass": "14 (breastplate)",
   "challengeRating": "0",
   "hitPoints": {
     "average": 52,
     "roll": "8d8+16"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "darathra_shendrel",
   "name": "Darathra Shendrel",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "12 (hide armor)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 30,
     "roll": "4d8+12"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "orc_hand_of_yurtrus",
   "name": "Orc Hand of Yurtrus",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

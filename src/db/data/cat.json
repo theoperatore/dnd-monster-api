@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "12",
   "challengeRating": "0",
   "hitPoints": {
     "average": 2,
     "roll": "1d4"
   },
-  "race": "beast",
-  "size": "tiny",
+  "race": "BEAST",
+  "size": "TINY",
   "speed": "40 ft., climb 30 ft.",
   "source": "monster-manual",
   "id": "cat",
   "name": "Cat",
+  "image": null,
   "_tags": [
     "tiny",
     "beast",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any non-good alignment",
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
   "armorClass": "18 (plate)",
   "challengeRating": "8",
   "hitPoints": {
     "average": 153,
     "roll": "18d8+72"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "blackguard",
   "name": "Blackguard",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

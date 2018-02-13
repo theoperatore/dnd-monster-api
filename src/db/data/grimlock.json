@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "11",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 11,
     "roll": "2d8+2"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "grimlock",
   "name": "Grimlock",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

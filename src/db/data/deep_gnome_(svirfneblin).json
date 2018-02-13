@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "15 (chain shirt)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 16,
     "roll": "3d6+6"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "20 ft.",
   "source": "monster-manual",
   "id": "deep_gnome_(svirfneblin)",
   "name": "Deep Gnome (Svirfneblin)",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

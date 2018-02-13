@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 22,
     "roll": "3d10+6"
   },
-  "race": "monstrosity",
-  "size": "large",
+  "race": "MONSTROSITY",
+  "size": "LARGE",
   "speed": "50 ft.",
   "source": "volos-guide",
   "id": "giant_strider",
   "name": "Giant Strider",
+  "image": null,
   "_tags": [
     "large",
     "monstrosity",

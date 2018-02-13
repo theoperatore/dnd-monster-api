@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "20 (plate, shield)",
   "challengeRating": "6",
   "hitPoints": {
     "average": 97,
     "roll": "13d8+39"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "hobgoblin_warlord",
   "name": "Hobgoblin Warlord",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

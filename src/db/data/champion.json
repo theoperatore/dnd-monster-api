@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "18 (plate)",
   "challengeRating": "9",
   "hitPoints": {
     "average": 143,
     "roll": "22d8+44"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "champion",
   "name": "Champion",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

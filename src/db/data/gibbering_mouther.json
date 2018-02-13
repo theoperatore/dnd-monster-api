@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "9",
   "challengeRating": "2",
   "hitPoints": {
     "average": 67,
     "roll": "9d8+27"
   },
-  "race": "aberration",
-  "size": "medium",
+  "race": "ABERRATION",
+  "size": "MEDIUM",
   "speed": "10 ft., swim 10 ft.",
   "source": "monster-manual",
   "id": "gibbering_mouther",
   "name": "Gibbering Mouther",
+  "image": null,
   "_tags": [
     "medium",
     "aberration",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "17 (half plate)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 192,
     "roll": "16d8+64"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
   "id": "vladimir_horngaard",
   "name": "Vladimir Horngaard",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

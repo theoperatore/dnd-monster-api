@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "12",
   "challengeRating": "0",
   "hitPoints": {
     "average": 2,
     "roll": "1d4"
   },
-  "race": "undead",
-  "size": "tiny",
+  "race": "UNDEAD",
+  "size": "TINY",
   "speed": "20 ft., climb 20 ft.",
   "source": "monster-manual",
   "id": "crawling_claw",
   "name": "Crawling Claw",
+  "image": null,
   "_tags": [
     "tiny",
     "undead",

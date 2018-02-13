@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "13 (16 with mage armor)",
   "challengeRating": "6",
   "hitPoints": {
     "average": 71,
     "roll": "11d8+22"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "rath_modar",
   "name": "Rath Modar",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

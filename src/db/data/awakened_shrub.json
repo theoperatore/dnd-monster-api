@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "9",
   "challengeRating": "0",
   "hitPoints": {
     "average": 10,
     "roll": "3d6"
   },
-  "race": "plant",
-  "size": "small",
+  "race": "PLANT",
+  "size": "SMALL",
   "speed": "20 ft.",
   "source": "monster-manual",
   "id": "awakened_shrub",
   "name": "Awakened Shrub",
+  "image": null,
   "_tags": [
     "small",
     "plant",

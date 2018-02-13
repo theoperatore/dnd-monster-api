@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful good",
+  "alignment": "LAWFUL_GOOD",
   "armorClass": "12 (leather armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 77,
     "roll": "14d8+14"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
   "id": "rictavio",
   "name": "Rictavio",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

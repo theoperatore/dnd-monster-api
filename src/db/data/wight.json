@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "14 (studded leather)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 45,
     "roll": "6d8+18"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "wight",
   "name": "Wight",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

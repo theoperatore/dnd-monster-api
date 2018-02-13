@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "18 (plate)",
   "challengeRating": "15",
   "hitPoints": {
     "average": 144,
     "roll": "17d8+68"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "vampire_warrior",
   "name": "Vampire Warrior",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

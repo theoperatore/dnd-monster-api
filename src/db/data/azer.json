@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful neutral",
+  "alignment": "LAWFUL_NEUTRAL",
   "armorClass": "17 (natural armor, shield)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 39,
     "roll": "6d8+12"
   },
-  "race": "elemental",
-  "size": "medium",
+  "race": "ELEMENTAL",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "azer",
   "name": "Azer",
+  "image": null,
   "_tags": [
     "medium",
     "elemental",

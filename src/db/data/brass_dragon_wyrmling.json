@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic good",
+  "alignment": "CHAOTIC_GOOD",
   "armorClass": "16 (natural armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 16,
     "roll": "3d8+3"
   },
-  "race": "dragon",
-  "size": "medium",
+  "race": "DRAGON",
+  "size": "MEDIUM",
   "speed": "30 ft., burrow 15 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "brass_dragon_wyrmling",
   "name": "Brass Dragon Wyrmling",
+  "image": null,
   "_tags": [
     "medium",
     "dragon",

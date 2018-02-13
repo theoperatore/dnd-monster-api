@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "13 (natural armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 97,
     "roll": "13d10+26"
   },
-  "race": "monstrosity",
-  "size": "large",
+  "race": "MONSTROSITY",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "lamia",
   "name": "Lamia",
+  "image": null,
   "_tags": [
     "large",
     "monstrosity",

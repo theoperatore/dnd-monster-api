@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "17 (splint)",
   "challengeRating": "9",
   "hitPoints": {
     "average": 138,
     "roll": "12d12+60"
   },
-  "race": "giant",
-  "size": "huge",
+  "race": "GIANT",
+  "size": "HUGE",
   "speed": "40 ft.",
   "source": "tyranny-of-dragons",
   "id": "blagothkus",
   "name": "Blagothkus",
+  "image": null,
   "_tags": [
     "huge",
     "giant",

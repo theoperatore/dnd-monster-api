@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "17 (splint)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 75,
     "roll": "10d8+30"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "stonemelder",
   "name": "Stonemelder",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

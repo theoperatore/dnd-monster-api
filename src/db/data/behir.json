@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "17 (natural armor)",
   "challengeRating": "11",
   "hitPoints": {
     "average": 168,
     "roll": "16d12+64"
   },
-  "race": "monstrosity",
-  "size": "huge",
+  "race": "MONSTROSITY",
+  "size": "HUGE",
   "speed": "50 ft., climb 40 ft.",
   "source": "monster-manual",
   "id": "behir",
   "name": "Behir",
+  "image": null,
   "_tags": [
     "huge",
     "monstrosity",

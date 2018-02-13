@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 85,
     "roll": "10d10+30"
   },
-  "race": "monstrosity",
-  "size": "large",
+  "race": "MONSTROSITY",
+  "size": "LARGE",
   "speed": "30 ft., swim 30 ft.",
   "source": "tales-from-the-yawning-portal",
   "id": "kalka-kylla",
   "name": "Kalka-Kylla",
+  "image": null,
   "_tags": [
     "large",
     "monstrosity",

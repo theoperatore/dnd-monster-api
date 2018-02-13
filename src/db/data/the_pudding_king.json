@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "shapechanger)",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "13 (16 with mage armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 49,
     "roll": "9d6+18"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "30 ft.",
   "source": "out-of-the-abyss",
   "id": "the_pudding_king",
   "name": "The Pudding King",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic good",
+  "alignment": "CHAOTIC_GOOD",
   "armorClass": "16 (scale mail)",
   "challengeRating": "13",
   "hitPoints": {
     "average": 230,
     "roll": "20d12+100"
   },
-  "race": "giant",
-  "size": "huge",
+  "race": "GIANT",
+  "size": "HUGE",
   "speed": "50 ft., swim 50 ft.",
   "source": "monster-manual",
   "id": "storm_giant",
   "name": "Storm Giant",
+  "image": null,
   "_tags": [
     "huge",
     "giant",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "15 (hide armor, shield)",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 11,
     "roll": "2d8+2"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "20 ft., swim 40 ft.",
   "source": "monster-manual",
   "id": "bullywug",
   "name": "Bullywug",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

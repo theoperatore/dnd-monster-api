@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "12 (15 with mage armor)",
   "challengeRating": "12",
   "hitPoints": {
     "average": 99,
     "roll": "18d8+18"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "archmage",
   "name": "Archmage",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

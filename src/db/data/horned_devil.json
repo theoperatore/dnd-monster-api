@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "18 (natural armor)",
   "challengeRating": "11",
   "hitPoints": {
     "average": 178,
     "roll": "17d10+85"
   },
-  "race": "fiend",
-  "size": "large",
+  "race": "FIEND",
+  "size": "LARGE",
   "speed": "20 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "horned_devil",
   "name": "Horned Devil",
+  "image": null,
   "_tags": [
     "large",
     "fiend",

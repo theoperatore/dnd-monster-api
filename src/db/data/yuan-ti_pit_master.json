@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "yuan-ti)",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 88,
     "roll": "16d8+16"
   },
-  "race": "monstrosity",
-  "size": "medium",
+  "race": "MONSTROSITY",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "yuan-ti_pit_master",
   "name": "Yuan-ti Pit Master",
+  "image": null,
   "_tags": [
     "medium",
     "monstrosity",

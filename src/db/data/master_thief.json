@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "16 (studded leather armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 83,
     "roll": "13d8+26"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "master_thief",
   "name": "Master Thief",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

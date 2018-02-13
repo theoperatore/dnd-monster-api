@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful good",
+  "alignment": "LAWFUL_GOOD",
   "armorClass": "19 (natural armor)",
   "challengeRating": "15",
   "hitPoints": {
     "average": 212,
     "roll": "17d12+102"
   },
-  "race": "dragon",
-  "size": "huge",
+  "race": "DRAGON",
+  "size": "HUGE",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
   "id": "adult_bronze_dragon",
   "name": "Adult Bronze Dragon",
+  "image": null,
   "_tags": [
     "huge",
     "dragon",

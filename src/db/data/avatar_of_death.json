@@ -31,18 +31,19 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "20",
   "challengeRating": "00",
   "hitPoints": {
     "average": 0
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "60 ft., fly 60 ft. (hover)",
   "source": "monster-manual",
   "id": "avatar_of_death",
   "name": "Avatar of Death",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic good",
+  "alignment": "CHAOTIC_GOOD",
   "armorClass": "17 (natural armor)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 119,
     "roll": "14d10+42"
   },
-  "race": "dragon",
-  "size": "large",
+  "race": "DRAGON",
+  "size": "LARGE",
   "speed": "40 ft., climb 40 ft., fly 80 ft.",
   "source": "monster-manual",
   "id": "young_copper_dragon",
   "name": "Young Copper Dragon",
+  "image": null,
   "_tags": [
     "large",
     "dragon",

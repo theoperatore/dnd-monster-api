@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "16 (chain shirt, shield)",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 11,
     "roll": "2d8+2"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "guard",
   "name": "Guard",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "15 (studded leather)",
   "challengeRating": "9",
   "hitPoints": {
     "average": 112,
     "roll": "15d8+45"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "vanifer",
   "name": "Vanifer",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

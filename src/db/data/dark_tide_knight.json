@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "13",
   "challengeRating": "3",
   "hitPoints": {
     "average": 58,
     "roll": "9d8+18"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "dark_tide_knight",
   "name": "Dark Tide Knight",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

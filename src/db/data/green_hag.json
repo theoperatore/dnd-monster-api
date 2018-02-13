@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "17 (natural armor)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 82,
     "roll": "11d8+33"
   },
-  "race": "fey",
-  "size": "medium",
+  "race": "FEY",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "green_hag",
   "name": "Green Hag",
+  "image": null,
   "_tags": [
     "medium",
     "fey",

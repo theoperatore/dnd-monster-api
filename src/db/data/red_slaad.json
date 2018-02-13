@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 93,
     "roll": "11d10+33"
   },
-  "race": "aberration",
-  "size": "large",
+  "race": "ABERRATION",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "red_slaad",
   "name": "Red Slaad",
+  "image": null,
   "_tags": [
     "large",
     "aberration",

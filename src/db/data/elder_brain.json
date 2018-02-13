@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "10",
   "challengeRating": "14",
   "hitPoints": {
     "average": 210,
     "roll": "20d10+100"
   },
-  "race": "aberration",
-  "size": "large",
+  "race": "ABERRATION",
+  "size": "LARGE",
   "speed": "5ft., swim 10 ft.",
   "source": "volos-guide",
   "id": "elder_brain",
   "name": "Elder Brain",
+  "image": null,
   "_tags": [
     "large",
     "aberration",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "19 (natural armor)",
   "challengeRating": "19",
   "hitPoints": {
     "average": 262,
     "roll": "21d12+126"
   },
-  "race": "fiend",
-  "size": "huge",
+  "race": "FIEND",
+  "size": "HUGE",
   "speed": "40 ft., fly 80 ft.",
   "source": "monster-manual",
   "id": "balor",
   "name": "Balor",
+  "image": null,
   "_tags": [
     "huge",
     "fiend",

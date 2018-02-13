@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "17 (natural armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 94,
     "roll": "9d10+45"
   },
-  "race": "monstrosity",
-  "size": "large",
+  "race": "MONSTROSITY",
+  "size": "LARGE",
   "speed": "40 ft., burrow 40 ft.",
   "source": "monster-manual",
   "id": "bulette",
   "name": "Bulette",
+  "image": null,
   "_tags": [
     "large",
     "monstrosity",

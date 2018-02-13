@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "12",
   "challengeRating": "3",
   "hitPoints": {
     "average": 55,
     "roll": "10d8+10"
   },
-  "race": "aberration",
-  "size": "medium",
+  "race": "ABERRATION",
+  "size": "MEDIUM",
   "speed": "10 ft., fly 30 ft. (hover)",
   "source": "monster-manual",
   "id": "grell",
   "name": "Grell",
+  "image": null,
   "_tags": [
     "medium",
     "aberration",

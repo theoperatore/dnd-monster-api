@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any non-good alignment",
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
   "armorClass": "13 (leather armor)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 22,
     "roll": "6d8+6"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "cult_fanatic",
   "name": "Cult Fanatic",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

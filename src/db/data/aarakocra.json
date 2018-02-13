@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "12",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 13,
     "roll": "3d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "20 ft., fly 50 ft.",
   "source": "monster-manual",
   "id": "aarakocra",
   "name": "Aarakocra",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

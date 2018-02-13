@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "13",
   "challengeRating": "2",
   "hitPoints": {
     "average": 36,
     "roll": "8d8"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "ghast",
   "name": "Ghast",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

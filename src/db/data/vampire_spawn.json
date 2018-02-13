@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 82,
     "roll": "11d8+33"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "vampire_spawn",
   "name": "Vampire Spawn",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

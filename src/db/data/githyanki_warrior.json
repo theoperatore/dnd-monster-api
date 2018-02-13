@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "17 (half plate)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 49,
     "roll": "9d8+9"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "githyanki_warrior",
   "name": "Githyanki Warrior",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "13",
   "challengeRating": "5",
   "hitPoints": {
     "average": 67,
     "roll": "9d8+27"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "0 ft., fly 60 ft. (hover)",
   "source": "monster-manual",
   "id": "wraith",
   "name": "Wraith",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

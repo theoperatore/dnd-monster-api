@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "16 (scale mail, shield)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 26,
     "roll": "4d8+4"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "25 ft.",
   "source": "monster-manual",
   "id": "duergar",
   "name": "Duergar",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

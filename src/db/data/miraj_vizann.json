@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "10 (13 with mage armor)",
   "challengeRating": "6",
   "hitPoints": {
     "average": 82,
     "roll": "11d8+33"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "miraj_vizann",
   "name": "Miraj Vizann",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

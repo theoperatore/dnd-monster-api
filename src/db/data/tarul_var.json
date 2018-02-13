@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "16 (natural armor)",
   "challengeRating": "13",
   "hitPoints": {
     "average": 105,
     "roll": "14d8+42"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
   "id": "tarul_var",
   "name": "Tarul Var",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

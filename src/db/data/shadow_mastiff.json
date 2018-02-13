@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "12",
   "challengeRating": "2",
   "hitPoints": {
     "average": 33,
     "roll": "6d8+6"
   },
-  "race": "monstrosity",
-  "size": "medium",
+  "race": "MONSTROSITY",
+  "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "volos-guide",
   "id": "shadow_mastiff",
   "name": "Shadow Mastiff",
+  "image": null,
   "_tags": [
     "medium",
     "monstrosity",

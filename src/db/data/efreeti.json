@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "17 (natural armor)",
   "challengeRating": "11",
   "hitPoints": {
     "average": 200,
     "roll": "16d10+112"
   },
-  "race": "elemental",
-  "size": "large",
+  "race": "ELEMENTAL",
+  "size": "LARGE",
   "speed": "40 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "efreeti",
   "name": "Efreeti",
+  "image": null,
   "_tags": [
     "large",
     "elemental",

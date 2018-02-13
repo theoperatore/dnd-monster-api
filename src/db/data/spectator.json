@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful neutral",
+  "alignment": "LAWFUL_NEUTRAL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 39,
     "roll": "6d8+12"
   },
-  "race": "aberration",
-  "size": "medium",
+  "race": "ABERRATION",
+  "size": "MEDIUM",
   "speed": "0 ft., fly 30 ft. (hover)",
   "source": "monster-manual",
   "id": "spectator",
   "name": "Spectator",
+  "image": null,
   "_tags": [
     "medium",
     "aberration",

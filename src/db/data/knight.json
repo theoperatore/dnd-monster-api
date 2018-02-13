@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "18 (plate)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 52,
     "roll": "8d8+16"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "knight",
   "name": "Knight",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

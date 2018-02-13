@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "construct",
+  "alignment": "CONSTRUCT",
   "armorClass": "15 (natural armor)",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 5,
     "roll": "1d8+1"
   },
-  "race": "construct",
-  "size": "medium",
+  "race": "CONSTRUCT",
+  "size": "MEDIUM",
   "speed": "30 ft., fly 30 ft.",
   "source": "monster-manual",
   "id": "monodrone",
   "name": "Monodrone",
+  "image": null,
   "_tags": [
     "medium",
     "construct",

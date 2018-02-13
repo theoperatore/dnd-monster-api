@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "13",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 13,
     "roll": "3d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "kenku",
   "name": "Kenku",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

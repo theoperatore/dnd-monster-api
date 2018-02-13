@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "12 (15 with mage armor)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 78,
     "roll": "12d8+24"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "warlock_of_the_fiend",
   "name": "Warlock of the Fiend",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "13",
   "challengeRating": "3",
   "hitPoints": {
     "average": 45,
     "roll": "6d8+18"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "0 ft., fly 60 ft.",
   "source": "lost-mine-of-phandelver",
   "id": "mormesk_the_wraith",
   "name": "Mormesk the Wraith",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

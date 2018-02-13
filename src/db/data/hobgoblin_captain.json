@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "17 (half plate)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 39,
     "roll": "6d8+12"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "hobgoblin_captain",
   "name": "Hobgoblin Captain",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "16 (scale mail, shield)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 26,
     "roll": "4d8+4"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "25 ft.",
   "source": "out-of-the-abyss",
   "id": "duergar_darkhaft",
   "name": "Duergar Darkhaft",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

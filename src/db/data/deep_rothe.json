@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "10",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 13,
     "roll": "2d8+4"
   },
-  "race": "beast",
-  "size": "medium",
+  "race": "BEAST",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "deep_rothe",
   "name": "Deep Rothe",
+  "image": null,
   "_tags": [
     "medium",
     "beast",

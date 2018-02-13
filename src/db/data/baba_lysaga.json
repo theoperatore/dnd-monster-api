@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "shapechanger)",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "11",
   "hitPoints": {
     "average": 120,
     "roll": "16d8+48"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
   "id": "baba_lysaga",
   "name": "Baba Lysaga",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

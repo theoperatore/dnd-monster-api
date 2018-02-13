@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "shapechanger)",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "10 (in humanoid form, 11 in bear and hybrid forms )",
   "challengeRating": "5",
   "hitPoints": {
     "average": 135,
     "roll": "18d8+54"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft. (40 ft., climb 30 ft. in bear or hybrid form)",
   "source": "monster-manual",
   "id": "werebear",
   "name": "Werebear",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

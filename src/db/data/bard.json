@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "15 (chain shirt)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 44,
     "roll": "8d8+8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "bard",
   "name": "Bard",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

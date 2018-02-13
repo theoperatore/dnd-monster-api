@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "8",
   "challengeRating": "2",
   "hitPoints": {
     "average": 85,
     "roll": "9d10+36"
   },
-  "race": "undead",
-  "size": "large",
+  "race": "UNDEAD",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "ogre_zombie",
   "name": "Ogre Zombie",
+  "image": null,
   "_tags": [
     "large",
     "undead",

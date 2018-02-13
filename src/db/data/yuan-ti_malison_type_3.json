@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "yuan-ti)",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "12",
   "challengeRating": "3",
   "hitPoints": {
     "average": 66,
     "roll": "12d8+12"
   },
-  "race": "monstrosity",
-  "size": "medium",
+  "race": "MONSTROSITY",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "yuan-ti_malison_type_3",
   "name": "Yuan-ti Malison Type 3",
+  "image": null,
   "_tags": [
     "medium",
     "monstrosity",

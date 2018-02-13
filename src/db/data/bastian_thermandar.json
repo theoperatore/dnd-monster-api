@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "12 (15 with mage armor)",
   "challengeRating": "8",
   "hitPoints": {
     "average": 78,
     "roll": "12d8+24"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "bastian_thermandar",
   "name": "Bastian Thermandar",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

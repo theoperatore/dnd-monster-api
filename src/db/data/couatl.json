@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful good",
+  "alignment": "LAWFUL_GOOD",
   "armorClass": "19 (natural armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 97,
     "roll": "13d8+39"
   },
-  "race": "celestial",
-  "size": "medium",
+  "race": "CELESTIAL",
+  "size": "MEDIUM",
   "speed": "30 ft., fly 90 ft.",
   "source": "monster-manual",
   "id": "couatl",
   "name": "Couatl",
+  "image": null,
   "_tags": [
     "medium",
     "celestial",

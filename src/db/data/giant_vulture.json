@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "10",
   "challengeRating": "1",
   "hitPoints": {
     "average": 22,
     "roll": "3d10+6"
   },
-  "race": "beast",
-  "size": "large",
+  "race": "BEAST",
+  "size": "LARGE",
   "speed": "10 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "giant_vulture",
   "name": "Giant Vulture",
+  "image": null,
   "_tags": [
     "large",
     "beast",

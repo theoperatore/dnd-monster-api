@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "15 (chain shirt)",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 13,
     "roll": "3d8"
   },
-  "race": "plant",
-  "size": "medium",
+  "race": "PLANT",
+  "size": "MEDIUM",
   "speed": "20 ft.",
   "source": "out-of-the-abyss",
   "id": "drow_spore_servant",
   "name": "Drow Spore Servant",
+  "image": null,
   "_tags": [
     "medium",
     "plant",

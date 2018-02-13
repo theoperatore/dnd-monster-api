@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 123,
     "roll": "13d10+52"
   },
-  "race": "aberration",
-  "size": "large",
+  "race": "ABERRATION",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "blue_slaad",
   "name": "Blue Slaad",
+  "image": null,
   "_tags": [
     "large",
     "aberration",

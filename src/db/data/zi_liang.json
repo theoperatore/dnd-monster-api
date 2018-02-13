@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic good",
+  "alignment": "CHAOTIC_GOOD",
   "armorClass": "15",
   "challengeRating": "0",
   "hitPoints": {
     "average": 22,
     "roll": "5d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "zi_liang",
   "name": "Zi Liang",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

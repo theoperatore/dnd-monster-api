@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "18 (natural armor)",
   "challengeRating": "10",
   "hitPoints": {
     "average": 161,
     "roll": "14d12+70"
   },
-  "race": "giant",
-  "size": "huge",
+  "race": "GIANT",
+  "size": "HUGE",
   "speed": "40 ft.",
   "source": "volos-guide",
   "id": "stone_giant_dreamwalker",
   "name": "Stone Giant Dreamwalker",
+  "image": null,
   "_tags": [
     "huge",
     "giant",

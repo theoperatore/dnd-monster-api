@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "14",
   "challengeRating": "6",
   "hitPoints": {
     "average": 104,
     "roll": "16d8+32"
   },
-  "race": "elemental",
-  "size": "medium",
+  "race": "ELEMENTAL",
+  "size": "MEDIUM",
   "speed": "50 ft., fly 50 ft. (hover)",
   "source": "monster-manual",
   "id": "invisible_stalker",
   "name": "Invisible Stalker",
+  "image": null,
   "_tags": [
     "medium",
     "elemental",

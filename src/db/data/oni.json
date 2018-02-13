@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "16 (chain mail)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 110,
     "roll": "13d10+39"
   },
-  "race": "giant",
-  "size": "large",
+  "race": "GIANT",
+  "size": "LARGE",
   "speed": "30 ft., fly 30 ft.",
   "source": "monster-manual",
   "id": "oni",
   "name": "Oni",
+  "image": null,
   "_tags": [
     "large",
     "giant",

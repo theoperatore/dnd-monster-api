@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "12 (15 with mage armor)",
   "challengeRating": "8",
   "hitPoints": {
     "average": 67,
     "roll": "15d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "diviner",
   "name": "Diviner",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

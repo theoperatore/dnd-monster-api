@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "15",
   "challengeRating": "5",
   "hitPoints": {
     "average": 90,
     "roll": "12d10+24"
   },
-  "race": "elemental",
-  "size": "large",
+  "race": "ELEMENTAL",
+  "size": "LARGE",
   "speed": "fly 90 ft. (hover)",
   "source": "monster-manual",
   "id": "air_elemental",
   "name": "Air Elemental",
+  "image": null,
   "_tags": [
     "large",
     "elemental",

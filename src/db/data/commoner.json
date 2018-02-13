@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "10",
   "challengeRating": "0",
   "hitPoints": {
     "average": 4,
     "roll": "1d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "commoner",
   "name": "Commoner",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

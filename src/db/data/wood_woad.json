@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful neutral",
+  "alignment": "LAWFUL_NEUTRAL",
   "armorClass": "18 (natural armor, shield)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 75,
     "roll": "10d8+30"
   },
-  "race": "plant",
-  "size": "medium",
+  "race": "PLANT",
+  "size": "MEDIUM",
   "speed": "30 ft., climb 30 ft.",
   "source": "volos-guide",
   "id": "wood_woad",
   "name": "Wood Woad",
+  "image": null,
   "_tags": [
     "medium",
     "plant",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "13",
   "challengeRating": "5",
   "hitPoints": {
     "average": 102,
     "roll": "12d10+36"
   },
-  "race": "elemental",
-  "size": "large",
+  "race": "ELEMENTAL",
+  "size": "LARGE",
   "speed": "50 ft.",
   "source": "monster-manual",
   "id": "fire_elemental",
   "name": "Fire Elemental",
+  "image": null,
   "_tags": [
     "large",
     "elemental",

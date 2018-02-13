@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "orc)",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 95,
     "roll": "10d8+50"
   },
-  "race": "fiend",
-  "size": "medium",
+  "race": "FIEND",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "tanarukk",
   "name": "Tanarukk",
+  "image": null,
   "_tags": [
     "medium",
     "fiend",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "14 (leather armor)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 13,
     "roll": "3d6+3"
   },
-  "race": "fey",
-  "size": "small",
+  "race": "FEY",
+  "size": "SMALL",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "darkling",
   "name": "Darkling",
+  "image": null,
   "_tags": [
     "small",
     "fey",

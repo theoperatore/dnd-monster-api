@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "13",
   "challengeRating": "1",
   "hitPoints": {
     "average": 26,
     "roll": "4d10+4"
   },
-  "race": "beast",
-  "size": "large",
+  "race": "BEAST",
+  "size": "LARGE",
   "speed": "10 ft., fly 80 ft.",
   "source": "monster-manual",
   "id": "giant_eagle",
   "name": "Giant Eagle",
+  "image": null,
   "_tags": [
     "large",
     "beast",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "16 (studded leather, shield)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 112,
     "roll": "15d8+45"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "gladiator",
   "name": "Gladiator",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

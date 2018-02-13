@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "13",
   "challengeRating": "2",
   "hitPoints": {
     "average": 49,
     "roll": "9d6+18"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "25 ft., climb 25 ft.",
   "source": "volos-guide",
   "id": "grung_elite_warrior",
   "name": "Grung Elite Warrior",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

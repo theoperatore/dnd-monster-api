@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "13",
   "challengeRating": "4",
   "hitPoints": {
     "average": 40,
     "roll": "9d4+18"
   },
-  "race": "undead",
-  "size": "tiny",
+  "race": "UNDEAD",
+  "size": "TINY",
   "speed": "0 ft., fly 40 ft. It can hover.",
   "source": "monster-manual",
   "id": "flameskull",
   "name": "Flameskull",
+  "image": null,
   "_tags": [
     "tiny",
     "undead",

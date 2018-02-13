@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "10 (13 with mage armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 33,
     "roll": "6d8+6"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "firenewt_warlock_of_imix",
   "name": "Firenewt Warlock of Imix",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "11 (natural armor)",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 26,
     "roll": "4d8+8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "20 ft.",
   "source": "curse-of-strahd",
   "id": "mongrelfolk",
   "name": "Mongrelfolk",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

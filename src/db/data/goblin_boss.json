@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "17 (chain shirt, shield)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 21,
     "roll": "6d6"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "goblin_boss",
   "name": "Goblin Boss",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

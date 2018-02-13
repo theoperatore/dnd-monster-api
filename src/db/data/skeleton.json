@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "13 (armor scraps)",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 13,
     "roll": "2d8+4"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "skeleton",
   "name": "Skeleton",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

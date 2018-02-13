@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any non-lawful alignment",
+  "alignment": "ANY_NON_LAWFUL_ALIGNMENT",
   "armorClass": "17 (leather armor)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 66,
     "roll": "12d8+12"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "swashbuckler",
   "name": "Swashbuckler",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "11 (natural armor)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 58,
     "roll": "9d8+18"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "20 ft.",
   "source": "monster-manual",
   "id": "mummy",
   "name": "Mummy",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

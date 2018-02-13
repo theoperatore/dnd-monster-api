@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 149,
     "roll": "13d12+65"
   },
-  "race": "plant",
-  "size": "huge",
+  "race": "PLANT",
+  "size": "HUGE",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
   "id": "tree_blight",
   "name": "Tree Blight",
+  "image": null,
   "_tags": [
     "huge",
     "plant",

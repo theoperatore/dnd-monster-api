@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "13",
   "challengeRating": "3",
   "hitPoints": {
     "average": 58,
     "roll": "9d10+9"
   },
-  "race": "elemental",
-  "size": "large",
+  "race": "ELEMENTAL",
+  "size": "LARGE",
   "speed": "0 ft., swim 60 ft.",
   "source": "monster-manual",
   "id": "water_weird",
   "name": "Water Weird",
+  "image": null,
   "_tags": [
     "large",
     "elemental",

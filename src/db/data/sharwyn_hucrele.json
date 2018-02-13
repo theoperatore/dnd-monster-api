@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "16 (Barkskin trait)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 13,
     "roll": "2d8+4"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
   "id": "sharwyn_hucrele",
   "name": "Sharwyn Hucrele",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

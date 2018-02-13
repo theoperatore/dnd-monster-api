@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "8",
   "challengeRating": "2",
   "hitPoints": {
     "average": 45,
     "roll": "6d10+12"
   },
-  "race": "ooze",
-  "size": "large",
+  "race": "OOZE",
+  "size": "LARGE",
   "speed": "10 ft., climb 10 ft.",
   "source": "monster-manual",
   "id": "ochre_jelly",
   "name": "Ochre Jelly",
+  "image": null,
   "_tags": [
     "large",
     "ooze",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "12",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 5,
     "roll": "2d6-2"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "kobold",
   "name": "Kobold",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

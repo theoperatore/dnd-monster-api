@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "7",
   "challengeRating": "0",
   "hitPoints": {
     "average": 13,
     "roll": "3d8"
   },
-  "race": "fiend",
-  "size": "medium",
+  "race": "FIEND",
+  "size": "MEDIUM",
   "speed": "15 ft.",
   "source": "monster-manual",
   "id": "lemure",
   "name": "Lemure",
+  "image": null,
   "_tags": [
     "medium",
     "fiend",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic good",
+  "alignment": "CHAOTIC_GOOD",
   "armorClass": "12",
   "challengeRating": "16",
   "hitPoints": {
     "average": 230,
     "roll": "20d12+100"
   },
-  "race": "giant",
-  "size": "huge",
+  "race": "GIANT",
+  "size": "HUGE",
   "speed": "50 ft., fly 50 ft. (hover), swim 50 ft.",
   "source": "volos-guide",
   "id": "storm_giant_quintessent",
   "name": "Storm Giant Quintessent",
+  "image": null,
   "_tags": [
     "huge",
     "giant",

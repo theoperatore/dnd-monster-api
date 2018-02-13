@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "10",
   "challengeRating": "10",
   "hitPoints": {
     "average": 88,
     "roll": "16d8+16"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "20 ft.",
   "source": "curse-of-strahd",
   "id": "madam_eva",
   "name": "Madam Eva",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

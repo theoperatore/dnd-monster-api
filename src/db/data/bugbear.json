@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "16 (hide armor, shield)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 27,
     "roll": "5d8+5"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "bugbear",
   "name": "Bugbear",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

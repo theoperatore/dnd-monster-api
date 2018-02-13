@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "shapechanger)",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "10 (in humanoid form, 11 in boar and hybrid forms )",
   "challengeRating": "4",
   "hitPoints": {
     "average": 78,
     "roll": "12d8+24"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft. (40 ft. in boar form)",
   "source": "monster-manual",
   "id": "wereboar",
   "name": "Wereboar",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

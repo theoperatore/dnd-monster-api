@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "12 (15 with mage armor)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 49,
     "roll": "9d8+9"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "one-eyed_shiver",
   "name": "One-Eyed Shiver",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

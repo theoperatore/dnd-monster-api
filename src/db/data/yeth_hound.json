@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 51,
     "roll": "6d10+18"
   },
-  "race": "fey",
-  "size": "large",
+  "race": "FEY",
+  "size": "LARGE",
   "speed": "40 ft., fly 40 ft. (hover)",
   "source": "volos-guide",
   "id": "yeth_hound",
   "name": "Yeth Hound",
+  "image": null,
   "_tags": [
     "large",
     "fey",

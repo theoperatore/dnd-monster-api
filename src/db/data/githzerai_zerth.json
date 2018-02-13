@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful neutral",
+  "alignment": "LAWFUL_NEUTRAL",
   "armorClass": "17",
   "challengeRating": "6",
   "hitPoints": {
     "average": 84,
     "roll": "13d8+26"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "githzerai_zerth",
   "name": "Githzerai Zerth",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

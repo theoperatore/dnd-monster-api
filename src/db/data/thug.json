@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any non-good alignment",
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
   "armorClass": "11 (leather armor)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 32,
     "roll": "5d8+10"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "thug",
   "name": "Thug",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

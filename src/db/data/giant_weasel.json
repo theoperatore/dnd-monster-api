@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "13",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 9,
     "roll": "2d8"
   },
-  "race": "beast",
-  "size": "medium",
+  "race": "BEAST",
+  "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
   "id": "giant_weasel",
   "name": "Giant Weasel",
+  "image": null,
   "_tags": [
     "medium",
     "beast",

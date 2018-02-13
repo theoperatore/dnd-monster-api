@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any non-lawful alignment",
+  "alignment": "ANY_NON_LAWFUL_ALIGNMENT",
   "armorClass": "15 (studded leather)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 65,
     "roll": "10d8+20"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "bandit_captain",
   "name": "Bandit Captain",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

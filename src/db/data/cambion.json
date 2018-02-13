@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any evil alignment",
+  "alignment": "ANY_EVIL_ALIGNMENT",
   "armorClass": "19 (scale mail)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 82,
     "roll": "11d8+33"
   },
-  "race": "fiend",
-  "size": "medium",
+  "race": "FIEND",
+  "size": "MEDIUM",
   "speed": "30 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "cambion",
   "name": "Cambion",
+  "image": null,
   "_tags": [
     "medium",
     "fiend",

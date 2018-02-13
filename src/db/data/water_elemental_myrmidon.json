@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "18 (plate)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 127,
     "roll": "17d8+51"
   },
-  "race": "elemental",
-  "size": "medium",
+  "race": "ELEMENTAL",
+  "size": "MEDIUM",
   "speed": "40 ft., swim 40 ft.",
   "source": "elemental-evil",
   "id": "water_elemental_myrmidon",
   "name": "Water Elemental Myrmidon",
+  "image": null,
   "_tags": [
     "medium",
     "elemental",

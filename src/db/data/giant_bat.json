@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "13",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 22,
     "roll": "4d10"
   },
-  "race": "beast",
-  "size": "large",
+  "race": "BEAST",
+  "size": "LARGE",
   "speed": "10 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "giant_bat",
   "name": "Giant Bat",
+  "image": null,
   "_tags": [
     "large",
     "beast",

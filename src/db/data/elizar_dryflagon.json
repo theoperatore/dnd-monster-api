@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "14 (hide)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 71,
     "roll": "11d8+22"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "elizar_dryflagon",
   "name": "Elizar Dryflagon",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

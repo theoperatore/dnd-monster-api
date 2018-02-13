@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "16",
   "challengeRating": "1",
   "hitPoints": {
     "average": 45,
     "roll": "6d8+18"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
   "id": "phantom_warrior",
   "name": "Phantom Warrior",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

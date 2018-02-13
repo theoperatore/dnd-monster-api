@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "17 (splint)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 58,
     "roll": "9d8+18"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "veteran",
   "name": "Veteran",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

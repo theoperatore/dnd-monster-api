@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 71,
     "roll": "13d6+26"
   },
-  "race": "aberration",
-  "size": "medium",
+  "race": "ABERRATION",
+  "size": "MEDIUM",
   "speed": "30 ft., climb 30 ft.",
   "source": "volos-guide",
   "id": "neogi_master",
   "name": "Neogi Master",
+  "image": null,
   "_tags": [
     "medium",
     "aberration",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "15 (studded leather armor)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 27,
     "roll": "5d8+5"
   },
-  "race": "fey",
-  "size": "medium",
+  "race": "FEY",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "darkling_elder",
   "name": "Darkling Elder",
+  "image": null,
   "_tags": [
     "medium",
     "fey",

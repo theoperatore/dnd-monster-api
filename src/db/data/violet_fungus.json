@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "5",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 18,
     "roll": "4d8"
   },
-  "race": "plant",
-  "size": "medium",
+  "race": "PLANT",
+  "size": "MEDIUM",
   "speed": "5 ft.",
   "source": "monster-manual",
   "id": "violet_fungus",
   "name": "Violet Fungus",
+  "image": null,
   "_tags": [
     "medium",
     "plant",

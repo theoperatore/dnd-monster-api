@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "12",
   "challengeRating": "0",
   "hitPoints": {
     "average": 2,
     "roll": "1d4"
   },
-  "race": "beast",
-  "size": "tiny",
+  "race": "BEAST",
+  "size": "TINY",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "cranium_rat",
   "name": "Cranium Rat",
+  "image": null,
   "_tags": [
     "tiny",
     "beast",

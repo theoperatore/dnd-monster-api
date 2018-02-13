@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "17 (splint)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 45,
     "roll": "7d8+14"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "black_earth_priest",
   "name": "Black Earth Priest",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

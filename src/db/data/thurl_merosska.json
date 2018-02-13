@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "16 (breastplate)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 71,
     "roll": "11d8+21"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "thurl_merosska",
   "name": "Thurl Merosska",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

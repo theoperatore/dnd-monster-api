@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "13 (leather armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 136,
     "roll": "16d8+64"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "revenant",
   "name": "Revenant",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

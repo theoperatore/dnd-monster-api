@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any non-good alignment",
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
   "armorClass": "15 (studded leather)",
   "challengeRating": "8",
   "hitPoints": {
     "average": 78,
     "roll": "12d8+24"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "assassin",
   "name": "Assassin",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

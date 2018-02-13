@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "shapechanger)",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "11 (in humanoid form, 12 in wolf or hybrid form)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 58,
     "roll": "9d8+18"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft. (40 ft. in wolf form)",
   "source": "monster-manual",
   "id": "werewolf",
   "name": "Werewolf",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

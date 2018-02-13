@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "12 (15 with mage armor)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 52,
     "roll": "8d8+16"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "eternal_flame_priest",
   "name": "Eternal Flame Priest",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

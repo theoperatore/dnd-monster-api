@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "16",
   "challengeRating": "5",
   "hitPoints": {
     "average": 78,
     "roll": "12d8+24"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "hellenrae",
   "name": "Hellenrae",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

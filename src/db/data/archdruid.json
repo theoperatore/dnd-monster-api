@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "16 (hide armor, shield)The new form's attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.",
   "challengeRating": "12",
   "hitPoints": {
     "average": 132,
     "roll": "24d8+24"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "archdruid",
   "name": "Archdruid",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

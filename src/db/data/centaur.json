@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "12",
   "challengeRating": "2",
   "hitPoints": {
     "average": 45,
     "roll": "6d10+12"
   },
-  "race": "monstrosity",
-  "size": "large",
+  "race": "MONSTROSITY",
+  "size": "LARGE",
   "speed": "50 ft.",
   "source": "monster-manual",
   "id": "centaur",
   "name": "Centaur",
+  "image": null,
   "_tags": [
     "large",
     "monstrosity",

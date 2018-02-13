@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful neutral",
+  "alignment": "LAWFUL_NEUTRAL",
   "armorClass": "10",
   "challengeRating": "0",
   "hitPoints": {
     "average": 7,
     "roll": "2d6"
   },
-  "race": "plant",
-  "size": "small",
+  "race": "PLANT",
+  "size": "SMALL",
   "speed": "10 ft.",
   "source": "monster-manual",
   "id": "myconid_sprout",
   "name": "Myconid Sprout",
+  "image": null,
   "_tags": [
     "small",
     "plant",

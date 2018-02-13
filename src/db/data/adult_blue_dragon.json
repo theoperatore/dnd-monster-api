@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "19",
   "challengeRating": "16",
   "hitPoints": {
     "average": 225,
     "roll": "18d12+108"
   },
-  "race": "dragon",
-  "size": "huge",
+  "race": "DRAGON",
+  "size": "HUGE",
   "speed": "40 ft., burrow 30 ft., fly 80 ft.",
   "source": "monster-manual",
   "id": "adult_blue_dragon",
   "name": "Adult Blue Dragon",
+  "image": null,
   "_tags": [
     "huge",
     "dragon",

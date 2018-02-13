@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "18 (chain mail, shield)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 60,
     "roll": "8d8+24"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "orc_blade_of_ilneval",
   "name": "Orc Blade of Ilneval",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "15 (natural armor, shield)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 22,
     "roll": "4d8+4"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
   "id": "lizardfolk",
   "name": "Lizardfolk",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

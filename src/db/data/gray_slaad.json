@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "18 (natural armor)",
   "challengeRating": "9",
   "hitPoints": {
     "average": 127,
     "roll": "17d8+51"
   },
-  "race": "aberration",
-  "size": "medium",
+  "race": "ABERRATION",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "gray_slaad",
   "name": "Gray Slaad",
+  "image": null,
   "_tags": [
     "medium",
     "aberration",

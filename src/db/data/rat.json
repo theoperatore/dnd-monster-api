@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "10",
   "challengeRating": "0",
   "hitPoints": {
     "average": 1,
     "roll": "1d4-1"
   },
-  "race": "beast",
-  "size": "tiny",
+  "race": "BEAST",
+  "size": "TINY",
   "speed": "20 ft.",
   "source": "monster-manual",
   "id": "rat",
   "name": "Rat",
+  "image": null,
   "_tags": [
     "tiny",
     "beast",

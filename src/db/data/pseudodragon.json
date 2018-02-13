@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "13",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 7,
     "roll": "2d4+2"
   },
-  "race": "dragon",
-  "size": "tiny",
+  "race": "DRAGON",
+  "size": "TINY",
   "speed": "15 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "pseudodragon",
   "name": "Pseudodragon",
+  "image": null,
   "_tags": [
     "tiny",
     "dragon",

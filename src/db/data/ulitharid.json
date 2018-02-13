@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "15 (breastplate)",
   "challengeRating": "9",
   "hitPoints": {
     "average": 127,
     "roll": "17d10+14"
   },
-  "race": "aberration",
-  "size": "large",
+  "race": "ABERRATION",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "ulitharid",
   "name": "Ulitharid",
+  "image": null,
   "_tags": [
     "large",
     "aberration",

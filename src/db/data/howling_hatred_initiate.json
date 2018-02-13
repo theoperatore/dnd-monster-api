@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "13 (leather)",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 9,
     "roll": "2d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "howling_hatred_initiate",
   "name": "Howling Hatred Initiate",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

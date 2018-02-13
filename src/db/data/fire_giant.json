@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "18 (plate)",
   "challengeRating": "9",
   "hitPoints": {
     "average": 162,
     "roll": "13d12+78"
   },
-  "race": "giant",
-  "size": "huge",
+  "race": "GIANT",
+  "size": "HUGE",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "fire_giant",
   "name": "Fire Giant",
+  "image": null,
   "_tags": [
     "huge",
     "giant",

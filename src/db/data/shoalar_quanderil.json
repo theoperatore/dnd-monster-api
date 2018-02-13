@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "10 (13 with mage armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 60,
     "roll": "8d8+24"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "elemental-evil",
   "id": "shoalar_quanderil",
   "name": "Shoalar Quanderil",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

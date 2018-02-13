@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "18 (studded leather)",
   "challengeRating": "10",
   "hitPoints": {
     "average": 135,
     "roll": "18d8+54"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "35 ft.",
   "source": "curse-of-strahd",
   "id": "rahadin",
   "name": "Rahadin",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

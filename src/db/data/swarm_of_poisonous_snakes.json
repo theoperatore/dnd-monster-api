@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "14",
   "challengeRating": "2",
   "hitPoints": {
     "average": 36,
     "roll": "8d8"
   },
-  "race": "swarm",
-  "size": "medium",
+  "race": "SWARM",
+  "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
   "id": "swarm_of_poisonous_snakes",
   "name": "Swarm of Poisonous Snakes",
+  "image": null,
   "_tags": [
     "medium",
     "swarm",

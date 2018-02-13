@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "12",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 10,
     "roll": "4d4"
   },
-  "race": "aberration",
-  "size": "tiny",
+  "race": "ABERRATION",
+  "size": "TINY",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "slaad_tadpole",
   "name": "Slaad Tadpole",
+  "image": null,
   "_tags": [
     "tiny",
     "aberration",

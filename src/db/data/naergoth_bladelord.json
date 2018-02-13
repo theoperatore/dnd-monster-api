@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "18 (plate)",
   "challengeRating": "11",
   "hitPoints": {
     "average": 135,
     "roll": "18d8+54"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "naergoth_bladelord",
   "name": "Naergoth Bladelord",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

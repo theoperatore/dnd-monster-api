@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "18 (plate)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 93,
     "roll": "11d8+44"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "25 ft.",
   "source": "elemental-evil",
   "id": "drannin_splithelm",
   "name": "Drannin Splithelm",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

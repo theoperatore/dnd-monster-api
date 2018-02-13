@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "13",
   "challengeRating": "1",
   "hitPoints": {
     "average": 10,
     "roll": "3d4+3"
   },
-  "race": "fiend",
-  "size": "tiny",
+  "race": "FIEND",
+  "size": "TINY",
   "speed": "20 ft., fly 40 ft.",
   "source": "monster-manual",
   "id": "imp",
   "name": "Imp",
+  "image": null,
   "_tags": [
     "tiny",
     "fiend",

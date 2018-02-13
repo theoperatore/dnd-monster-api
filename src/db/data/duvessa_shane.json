@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful good",
+  "alignment": "LAWFUL_GOOD",
   "armorClass": "10",
   "challengeRating": "0",
   "hitPoints": {
     "average": 9,
     "roll": "2d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "duvessa_shane",
   "name": "Duvessa Shane",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

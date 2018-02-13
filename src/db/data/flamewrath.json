@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "12 (15 with mage armor)",
   "challengeRating": "6",
   "hitPoints": {
     "average": 105,
     "roll": "14d8+42"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "flamewrath",
   "name": "Flamewrath",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

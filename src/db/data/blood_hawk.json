@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "12",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 7,
     "roll": "2d6"
   },
-  "race": "beast",
-  "size": "small",
+  "race": "BEAST",
+  "size": "SMALL",
   "speed": "10 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "blood_hawk",
   "name": "Blood Hawk",
+  "image": null,
   "_tags": [
     "small",
     "beast",

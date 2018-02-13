@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 58,
     "roll": "9d10+9"
   },
-  "race": "undead",
-  "size": "large",
+  "race": "UNDEAD",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "bone_naga_(spirit)",
   "name": "Bone Naga (Spirit)",
+  "image": null,
   "_tags": [
     "large",
     "undead",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "14 (studded leather armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 112,
     "roll": "15d8+45"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
   "id": "izek_strazni",
   "name": "Izek Strazni",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

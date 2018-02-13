@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "21 (plate, shields)",
   "challengeRating": "14",
   "hitPoints": {
     "average": 187,
     "roll": "15d12+90"
   },
-  "race": "giant",
-  "size": "huge",
+  "race": "GIANT",
+  "size": "HUGE",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "fire_giant_dreadnought",
   "name": "Fire Giant Dreadnought",
+  "image": null,
   "_tags": [
     "huge",
     "giant",

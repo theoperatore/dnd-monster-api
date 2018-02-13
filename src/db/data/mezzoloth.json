@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "18 (natural armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 75,
     "roll": "10d8+30"
   },
-  "race": "fiend",
-  "size": "medium",
+  "race": "FIEND",
+  "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
   "id": "mezzoloth",
   "name": "Mezzoloth",
+  "image": null,
   "_tags": [
     "medium",
     "fiend",

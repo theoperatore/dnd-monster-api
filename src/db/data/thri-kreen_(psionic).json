@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 33,
     "roll": "6d8+6"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
   "id": "thri-kreen_(psionic)",
   "name": "Thri-kreen (Psionic)",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

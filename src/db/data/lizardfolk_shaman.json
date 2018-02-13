@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "13 (natural armor)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 27,
     "roll": "5d8+5"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
   "id": "lizardfolk_shaman",
   "name": "Lizardfolk Shaman",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

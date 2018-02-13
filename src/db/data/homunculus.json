@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "13 (natural armor)",
   "challengeRating": "0",
   "hitPoints": {
     "average": 5,
     "roll": "2d4"
   },
-  "race": "construct",
-  "size": "tiny",
+  "race": "CONSTRUCT",
+  "size": "TINY",
   "speed": "20 ft., fly 40 ft.",
   "source": "monster-manual",
   "id": "homunculus",
   "name": "Homunculus",
+  "image": null,
   "_tags": [
     "tiny",
     "construct",

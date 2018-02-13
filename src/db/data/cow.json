@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "10",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 15,
     "roll": "2d10+4"
   },
-  "race": "beast",
-  "size": "large",
+  "race": "BEAST",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "cow",
   "name": "Cow",
+  "image": null,
   "_tags": [
     "large",
     "beast",

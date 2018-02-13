@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "12",
   "challengeRating": "0",
   "hitPoints": {
     "average": 3,
     "roll": "1d6"
   },
-  "race": "beast",
-  "size": "small",
+  "race": "BEAST",
+  "size": "SMALL",
   "speed": "40 ft.",
   "source": "monster-manual",
   "id": "jackal",
   "name": "Jackal",
+  "image": null,
   "_tags": [
     "small",
     "beast",

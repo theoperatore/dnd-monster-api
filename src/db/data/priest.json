@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "13 (chain shirt)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 27,
     "roll": "5d8+5"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "25 ft.",
   "source": "monster-manual",
   "id": "priest",
   "name": "Priest",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

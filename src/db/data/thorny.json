@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 27,
     "roll": "5d8+5"
   },
-  "race": "plant",
-  "size": "medium",
+  "race": "PLANT",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "thorny",
   "name": "Thorny",
+  "image": null,
   "_tags": [
     "medium",
     "plant",

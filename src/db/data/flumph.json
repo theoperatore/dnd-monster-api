@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful good",
+  "alignment": "LAWFUL_GOOD",
   "armorClass": "12",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 7,
     "roll": "2d6"
   },
-  "race": "aberration",
-  "size": "small",
+  "race": "ABERRATION",
+  "size": "SMALL",
   "speed": "5 ft., fly 30 ft.",
   "source": "monster-manual",
   "id": "flumph",
   "name": "Flumph",
+  "image": null,
   "_tags": [
     "small",
     "aberration",

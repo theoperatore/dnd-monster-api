@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "15 (leather armor)",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 2,
     "roll": "1d4"
   },
-  "race": "fey",
-  "size": "tiny",
+  "race": "FEY",
+  "size": "TINY",
   "speed": "10 ft., fly 40 ft.",
   "source": "monster-manual",
   "id": "sprite",
   "name": "Sprite",
+  "image": null,
   "_tags": [
     "tiny",
     "fey",

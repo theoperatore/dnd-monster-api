@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "15 (leather armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 22,
     "roll": "4d6+8"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "25 ft.",
   "source": "tyranny-of-dragons",
   "id": "jamna_gleamsilver",
   "name": "Jamna Gleamsilver",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

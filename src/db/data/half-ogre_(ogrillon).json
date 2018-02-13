@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any chaotic alignment",
+  "alignment": "ANY_CHAOTIC_ALIGNMENT",
   "armorClass": "12 (hide armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 30,
     "roll": "4d10+8"
   },
-  "race": "giant",
-  "size": "large",
+  "race": "GIANT",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "half-ogre_(ogrillon)",
   "name": "Half-Ogre (Ogrillon)",
+  "image": null,
   "_tags": [
     "large",
     "giant",

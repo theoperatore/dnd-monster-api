@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "13 (barding scraps)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 22,
     "roll": "3d10+6"
   },
-  "race": "undead",
-  "size": "large",
+  "race": "UNDEAD",
+  "size": "LARGE",
   "speed": "60 ft.",
   "source": "monster-manual",
   "id": "warhorse_skeleton",
   "name": "Warhorse Skeleton",
+  "image": null,
   "_tags": [
     "large",
     "undead",

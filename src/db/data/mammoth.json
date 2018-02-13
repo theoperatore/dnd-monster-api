@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "13 (natural armor)",
   "challengeRating": "6",
   "hitPoints": {
     "average": 126,
     "roll": "11d12+55"
   },
-  "race": "beast",
-  "size": "huge",
+  "race": "BEAST",
+  "size": "HUGE",
   "speed": "40 ft.",
   "source": "monster-manual",
   "id": "mammoth",
   "name": "Mammoth",
+  "image": null,
   "_tags": [
     "huge",
     "beast",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "12 (15 with mage armor)",
   "challengeRating": "6",
   "hitPoints": {
     "average": 40,
     "roll": "9d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "conjurer",
   "name": "Conjurer",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

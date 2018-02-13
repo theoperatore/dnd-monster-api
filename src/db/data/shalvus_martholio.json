@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "13 (leather)",
   "challengeRating": "0",
   "hitPoints": {
     "average": 27,
     "roll": "6d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "shalvus_martholio",
   "name": "Shalvus Martholio",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

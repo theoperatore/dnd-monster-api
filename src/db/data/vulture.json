@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "10",
   "challengeRating": "0",
   "hitPoints": {
     "average": 5,
     "roll": "1d8+1"
   },
-  "race": "beast",
-  "size": "medium",
+  "race": "BEAST",
+  "size": "MEDIUM",
   "speed": "10 ft., fly 50 ft.",
   "source": "monster-manual",
   "id": "vulture",
   "name": "Vulture",
+  "image": null,
   "_tags": [
     "medium",
     "beast",

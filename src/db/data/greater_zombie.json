@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 97,
     "roll": "13d8+39"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
   "id": "greater_zombie",
   "name": "Greater Zombie",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any non-good alignment",
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
   "armorClass": "12 (leather armor)",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 9,
     "roll": "2d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "cultist",
   "name": "Cultist",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "7",
   "challengeRating": "4",
   "hitPoints": {
     "average": 85,
     "roll": "10d10+30"
   },
-  "race": "ooze",
-  "size": "large",
+  "race": "OOZE",
+  "size": "LARGE",
   "speed": "20 ft., climb 20 ft.",
   "source": "monster-manual",
   "id": "black_pudding",
   "name": "Black Pudding",
+  "image": null,
   "_tags": [
     "large",
     "ooze",

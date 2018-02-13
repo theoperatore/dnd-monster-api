@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "12",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 22,
     "roll": "5d8"
   },
-  "race": "swarm",
-  "size": "medium",
+  "race": "SWARM",
+  "size": "MEDIUM",
   "speed": "0 ft., fly 30 ft.",
   "source": "monster-manual",
   "id": "swarm_of_bats",
   "name": "Swarm of Bats",
+  "image": null,
   "_tags": [
     "medium",
     "swarm",

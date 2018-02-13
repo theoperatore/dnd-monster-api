@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "16",
   "challengeRating": "11",
   "hitPoints": {
     "average": 150,
     "roll": "20d8+60"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "severin",
   "name": "Severin",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

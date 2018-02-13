@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "shapechanger)",
+  "alignment": "NEUTRAL",
   "armorClass": "12",
   "challengeRating": "4",
   "hitPoints": {
     "average": 120,
     "roll": "16d8+48"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft. (40 ft. in tiger form)",
   "source": "monster-manual",
   "id": "weretiger",
   "name": "Weretiger",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

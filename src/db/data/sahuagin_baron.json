@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "16 (breastplate)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 76,
     "roll": "9d10+27"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft., swim 50 ft.",
   "source": "monster-manual",
   "id": "sahuagin_baron",
   "name": "Sahuagin Baron",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

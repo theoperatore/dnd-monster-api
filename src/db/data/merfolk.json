@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "11",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 11,
     "roll": "2d8+2"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "10 ft., swim 40 ft.",
   "source": "monster-manual",
   "id": "merfolk",
   "name": "Merfolk",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

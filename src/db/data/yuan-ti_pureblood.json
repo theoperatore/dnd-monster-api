@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "11",
   "challengeRating": "1",
   "hitPoints": {
     "average": 40,
     "roll": "9d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "yuan-ti_pureblood",
   "name": "Yuan-ti Pureblood",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

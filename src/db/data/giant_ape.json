@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "12",
   "challengeRating": "7",
   "hitPoints": {
     "average": 157,
     "roll": "15d12+60"
   },
-  "race": "beast",
-  "size": "huge",
+  "race": "BEAST",
+  "size": "HUGE",
   "speed": "40 ft., climb 40 ft.",
   "source": "monster-manual",
   "id": "giant_ape",
   "name": "Giant Ape",
+  "image": null,
   "_tags": [
     "huge",
     "beast",

@@ -26,7 +26,7 @@ const BESTIARY_URL = 'https://github.com/chisaipete/bestiary.git';
     const fullJsonFiles  = await convertMdToJson(frontMatterParsedJsons);
 
     // save json files for use in some fashion.
-    // console.log(fullJsonFiles[33]);
+    utils.info('writing reference files...');
     const destinationPath = path.resolve(__dirname, 'data');
     await fse.ensureDir(destinationPath);
     await fse.emptyDir(destinationPath);

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "18 (plate)",
   "challengeRating": "12",
   "hitPoints": {
     "average": 153,
     "roll": "18d8+72"
   },
-  "race": "fiend",
-  "size": "medium",
+  "race": "FIEND",
+  "size": "MEDIUM",
   "speed": "30 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "erinyes",
   "name": "Erinyes",
+  "image": null,
   "_tags": [
     "medium",
     "fiend",

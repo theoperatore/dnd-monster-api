@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "11 (16 with barkskin)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 36,
     "roll": "8d6+8"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "wiggan_nettlebee",
   "name": "Wiggan Nettlebee",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

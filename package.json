@@ -23,9 +23,11 @@
     "fs-extra": "^5.0.0",
     "graphql": "^0.13.0",
     "helmet": "^3.11.0",
+    "jsdom": "^11.6.2",
     "level": "^2.1.2",
     "markdown-to-json": "^0.5.1",
     "marked": "^0.3.12",
+    "request": "^2.83.0",
     "simple-git": "^1.89.0"
   }
 }

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "16 (chain mail)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 44,
     "roll": "8d8+8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "frulam_mondath",
   "name": "Frulam Mondath",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

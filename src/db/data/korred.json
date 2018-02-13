@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "17 (natural armor)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 102,
     "roll": "12d6+60"
   },
-  "race": "fey",
-  "size": "small",
+  "race": "FEY",
+  "size": "SMALL",
   "speed": "30 ft., burrow 30 ft.",
   "source": "volos-guide",
   "id": "korred",
   "name": "Korred",
+  "image": null,
   "_tags": [
     "small",
     "fey",

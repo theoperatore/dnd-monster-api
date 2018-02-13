@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "13 (leather armor)",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 13,
     "roll": "3d6+3"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "30 ft.",
   "source": "out-of-the-abyss",
   "id": "derro",
   "name": "Derro",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

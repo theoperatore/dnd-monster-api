@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "17 (splint)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 112,
     "roll": "15d8+75"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "razerblast",
   "name": "Razerblast",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "15 (chain shirt)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 49,
     "roll": "9d8+9"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "gnoll_pack_lord",
   "name": "Gnoll Pack Lord",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

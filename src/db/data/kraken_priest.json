@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any evil alignment",
+  "alignment": "ANY_EVIL_ALIGNMENT",
   "armorClass": "10",
   "challengeRating": "5",
   "hitPoints": {
     "average": 75,
     "roll": "10d8+30"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "volos-guide",
   "id": "kraken_priest",
   "name": "Kraken Priest",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

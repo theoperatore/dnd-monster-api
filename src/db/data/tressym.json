@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "12",
   "challengeRating": "0",
   "hitPoints": {
     "average": 5,
     "roll": "2d4"
   },
-  "race": "beast",
-  "size": "tiny",
+  "race": "BEAST",
+  "size": "TINY",
   "speed": "40 ft., climb 30 ft., fly 40' ft.",
   "source": "storm-kings-thunder",
   "id": "tressym",
   "name": "Tressym",
+  "image": null,
   "_tags": [
     "tiny",
     "beast",

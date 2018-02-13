@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "16 (chain mail)",
   "challengeRating": "9",
   "hitPoints": {
     "average": 127,
     "roll": "15d8+60"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "flind",
   "name": "Flind",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

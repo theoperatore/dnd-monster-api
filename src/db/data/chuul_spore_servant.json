@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "16 (natural armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 93,
     "roll": "11d10+33"
   },
-  "race": "plant",
-  "size": "large",
+  "race": "PLANT",
+  "size": "LARGE",
   "speed": "30 ft., swim 30 ft.",
   "source": "out-of-the-abyss",
   "id": "chuul_spore_servant",
   "name": "Chuul Spore Servant",
+  "image": null,
   "_tags": [
     "large",
     "plant",

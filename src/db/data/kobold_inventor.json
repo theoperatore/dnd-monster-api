@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "12",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 13,
     "roll": "3d6+3"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "kobold_inventor",
   "name": "Kobold Inventor",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

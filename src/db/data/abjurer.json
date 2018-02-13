@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "12 (15 with mage armor)",
   "challengeRating": "9",
   "hitPoints": {
     "average": 84,
     "roll": "13d8+26"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "abjurer",
   "name": "Abjurer",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

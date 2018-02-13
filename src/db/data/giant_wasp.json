@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "12",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 13,
     "roll": "3d8"
   },
-  "race": "beast",
-  "size": "medium",
+  "race": "BEAST",
+  "size": "MEDIUM",
   "speed": "10 ft., fly 50 ft., swim 50 ft.",
   "source": "monster-manual",
   "id": "giant_wasp",
   "name": "Giant Wasp",
+  "image": null,
   "_tags": [
     "medium",
     "beast",

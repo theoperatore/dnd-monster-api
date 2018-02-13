@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "18 (scale mail +1, shield)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 58,
     "roll": "9d8+18"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "talis_the_white",
   "name": "Talis the White",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

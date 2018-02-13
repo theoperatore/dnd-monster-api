@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "15 (natural armor)",
   "challengeRating": "11",
   "hitPoints": {
     "average": 262,
     "roll": "21d12+128"
   },
-  "race": "giant",
-  "size": "huge",
+  "race": "GIANT",
+  "size": "HUGE",
   "speed": "40 ft.",
   "source": "volos-guide",
   "id": "cloud_giant_smiling_one",
   "name": "Cloud Giant Smiling One",
+  "image": null,
   "_tags": [
     "huge",
     "giant",

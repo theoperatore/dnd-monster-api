@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "10",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 9,
     "roll": "2d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "apprentice_wizard",
   "name": "Apprentice Wizard",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

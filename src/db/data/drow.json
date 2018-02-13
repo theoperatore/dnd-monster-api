@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "15 (chain shirt)",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 13,
     "roll": "3d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "drow",
   "name": "Drow",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

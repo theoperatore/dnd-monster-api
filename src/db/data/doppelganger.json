@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "14",
   "challengeRating": "3",
   "hitPoints": {
     "average": 52,
     "roll": "8d8+16"
   },
-  "race": "monstrosity",
-  "size": "medium",
+  "race": "MONSTROSITY",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "doppelganger",
   "name": "Doppelganger",
+  "image": null,
   "_tags": [
     "medium",
     "monstrosity",

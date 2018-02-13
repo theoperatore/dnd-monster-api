@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "17 (splint)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 57,
     "roll": "6d12+18"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "langdedrosa_cyanwrath",
   "name": "Langdedrosa Cyanwrath",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

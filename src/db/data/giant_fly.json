@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "11",
   "challengeRating": "0",
   "hitPoints": {
     "average": 19,
     "roll": "3d10+3"
   },
-  "race": "beast",
-  "size": "large",
+  "race": "BEAST",
+  "size": "LARGE",
   "speed": "30 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "giant_fly",
   "name": "Giant Fly",
+  "image": null,
   "_tags": [
     "large",
     "beast",

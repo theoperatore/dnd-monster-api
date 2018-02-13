@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "18 (plate)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 82,
     "roll": "11d8+33"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "burrowshark",
   "name": "Burrowshark",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

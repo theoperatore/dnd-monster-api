@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "12",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 5,
     "roll": "1d8+1"
   },
-  "race": "beast",
-  "size": "medium",
+  "race": "BEAST",
+  "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
   "id": "mastiff",
   "name": "Mastiff",
+  "image": null,
   "_tags": [
     "medium",
     "beast",

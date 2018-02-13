@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "13",
   "challengeRating": "4",
   "hitPoints": {
     "average": 59,
     "roll": "7d10+21"
   },
-  "race": "monstrosity",
-  "size": "large",
+  "race": "MONSTROSITY",
+  "size": "LARGE",
   "speed": "40 ft., climb 40 ft.",
   "source": "volos-guide",
   "id": "girallon",
   "name": "Girallon",
+  "image": null,
   "_tags": [
     "large",
     "monstrosity",

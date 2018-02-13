@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "11 (natural armor)",
   "challengeRating": "0",
   "hitPoints": {
     "average": 2,
     "roll": "1d4"
   },
-  "race": "beast",
-  "size": "tiny",
+  "race": "BEAST",
+  "size": "TINY",
   "speed": "20 ft., swim 20 ft.",
   "source": "monster-manual",
   "id": "crab",
   "name": "Crab",
+  "image": null,
   "_tags": [
     "tiny",
     "beast",

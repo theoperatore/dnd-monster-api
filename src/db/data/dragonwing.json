@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "14 (leather armor)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 33,
     "roll": "6d8+6"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "dragonwing",
   "name": "Dragonwing",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

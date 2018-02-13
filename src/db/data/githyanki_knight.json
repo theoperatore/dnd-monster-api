@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "18 (plate)",
   "challengeRating": "8",
   "hitPoints": {
     "average": 91,
     "roll": "14d8+28"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "githyanki_knight",
   "name": "Githyanki Knight",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

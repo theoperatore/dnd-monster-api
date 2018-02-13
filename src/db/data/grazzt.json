@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "shapechanger)",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "20 (natural armor)",
   "challengeRating": "24",
   "hitPoints": {
     "average": 378,
     "roll": "36d10+180"
   },
-  "race": "fiend",
-  "size": "large",
+  "race": "FIEND",
+  "size": "LARGE",
   "speed": "40 ft.",
   "source": "out-of-the-abyss",
   "id": "grazzt",
   "name": "Graz'zt",
+  "image": null,
   "_tags": [
     "large",
     "fiend",

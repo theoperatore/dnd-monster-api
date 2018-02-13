@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "17",
   "challengeRating": "19",
   "hitPoints": {
     "average": 325,
     "roll": "26d12+156"
   },
-  "race": "elemental",
-  "size": "huge",
+  "race": "ELEMENTAL",
+  "size": "HUGE",
   "speed": "50 ft., fly 50 ft.",
   "source": "elemental-evil",
   "id": "imix",
   "name": "Imix",
+  "image": null,
   "_tags": [
     "huge",
     "elemental",

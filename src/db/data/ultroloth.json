@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "19 (natural armor)",
   "challengeRating": "13",
   "hitPoints": {
     "average": 153,
     "roll": "18d8+72"
   },
-  "race": "fiend",
-  "size": "medium",
+  "race": "FIEND",
+  "size": "MEDIUM",
   "speed": "30 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "ultroloth",
   "name": "Ultroloth",
+  "image": null,
   "_tags": [
     "medium",
     "fiend",

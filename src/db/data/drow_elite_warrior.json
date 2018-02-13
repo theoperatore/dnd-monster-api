@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "18 (studded leather, shield)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 71,
     "roll": "11d8+22"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "drow_elite_warrior",
   "name": "Drow Elite Warrior",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "11 (leather)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 60,
     "roll": "8d10+16"
   },
-  "race": "monstrosity",
-  "size": "large",
+  "race": "MONSTROSITY",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "yakfolk_warrior",
   "name": "Yakfolk Warrior",
+  "image": null,
   "_tags": [
     "large",
     "monstrosity",

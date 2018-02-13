@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "12",
   "challengeRating": "0",
   "hitPoints": {
     "average": 27,
     "roll": "5d8+5"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "darz_helgar",
   "name": "Darz Helgar",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

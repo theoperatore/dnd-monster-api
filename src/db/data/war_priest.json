@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "18 (plate)",
   "challengeRating": "9",
   "hitPoints": {
     "average": 117,
     "roll": "18d8+36"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "war_priest",
   "name": "War Priest",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

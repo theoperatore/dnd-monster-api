@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "18 (plate)",
   "challengeRating": "5",
   "hitPoints": {
     "average": 65,
     "roll": "10d8+20"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "half-red_dragon_veteran",
   "name": "Half-Red Dragon Veteran",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

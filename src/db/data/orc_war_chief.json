@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "16 (chain mail)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 93,
     "roll": "11d8+44"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "orc_war_chief",
   "name": "Orc War Chief",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

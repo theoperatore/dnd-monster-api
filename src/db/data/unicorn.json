@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful good",
+  "alignment": "LAWFUL_GOOD",
   "armorClass": "12",
   "challengeRating": "5",
   "hitPoints": {
     "average": 67,
     "roll": "9d10+18"
   },
-  "race": "celestial",
-  "size": "large",
+  "race": "CELESTIAL",
+  "size": "LARGE",
   "speed": "50 ft.",
   "source": "monster-manual",
   "id": "unicorn",
   "name": "Unicorn",
+  "image": null,
   "_tags": [
     "large",
     "celestial",

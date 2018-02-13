@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "11 (16 with barkskin)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 22,
     "roll": "5d8"
   },
-  "race": "fey",
-  "size": "medium",
+  "race": "FEY",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "dryad",
   "name": "Dryad",
+  "image": null,
   "_tags": [
     "medium",
     "fey",

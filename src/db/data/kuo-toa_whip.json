@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "11 (natural armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 65,
     "roll": "10d8+20"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "32 ft., swim 30 ft.",
   "source": "monster-manual",
   "id": "kuo-toa_whip",
   "name": "Kuo-Toa Whip",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

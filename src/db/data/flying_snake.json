@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "14",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 5,
     "roll": "2d4"
   },
-  "race": "beast",
-  "size": "tiny",
+  "race": "BEAST",
+  "size": "TINY",
   "speed": "30 ft., fly 60 ft., swim 30 ft.",
   "source": "monster-manual",
   "id": "flying_snake",
   "name": "Flying Snake",
+  "image": null,
   "_tags": [
     "tiny",
     "beast",

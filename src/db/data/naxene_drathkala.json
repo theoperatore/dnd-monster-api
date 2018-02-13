@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "10 (13 with mage armor)",
   "challengeRating": "0",
   "hitPoints": {
     "average": 27,
     "roll": "6d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "naxene_drathkala",
   "name": "Naxene Drathkala",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

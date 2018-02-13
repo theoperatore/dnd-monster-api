@@ -1,7 +1,11 @@
 'use strict';
 
+const path = require('path');
 const marked = require('marked');
 const cheerio = require('cheerio');
+const { JSDOM } = require('jsdom');
+const request = require('request');
+const fse = require('fs-extra');
 const utils = require('./utils');
 
 /* example of a single jsonFile
@@ -57,6 +61,9 @@ const utils = require('./utils');
 <p><strong><em>Javelin.</em></strong> Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
 <p><strong><em>Summon Air Elemental.</em></strong> Five aarakocra within 30 feet of each other can magically summon an air elemental. Each of the five must use its action and movement on three consecutive turns to perform an aerial dance and must maintain concentration while doing so (as if concentrating on a spell). When all five have finished their third turn of the dance, the elemental appears in an unoccupied space within 60 feet of them. It is friendly toward them and obeys their spoken commands. It remains for 1 hour, until it or all its summoners die, or until any of its summoners dismisses it as a bonus action. A summoner can&#39;t perform the dance again until it finishes a short rest. When the elemental returns to the Elemental Plane of Air, any aarakocra within 5 feet of it can return with it.</p>
 */
+
+const IMAGE_SCRAPING_ENDPOINT = 'https://www.aidedd.org/dnd/monstres.php?vo=';
+
 const ABILITY_BY_INDEX = [
   'STR',
   'DEX',
@@ -78,11 +85,16 @@ const HP_REGEX = /(\d+)\W?(?:\((\d+d\d+(?:\W+\d+)?)\))?/;
 // will match: 10 (0)
 const ABIL_REGEX = /(\d+)\W+\(([+-]?\d+)\)/;
 
+// matches: medium monstrosity (shapechanger, yuan-ti), neutral evil
+// matches: medium monstrosity, neutral evil
+// gives you the last part as capture group 1
+const ALIGNMENT_REGEX = /.+(?:\(.+\))?\,\W+(.+)/;
+
 async function parseStats(htmlString, file) {
   const $ = cheerio.load(htmlString);
   const sizeTypeAlignment = $('p:first-of-type > strong').text() || 'notFound';
-  const parts = sizeTypeAlignment.split(',');
-  const alignment = parts[1] || 'notFound';
+  const alignment = ALIGNMENT_REGEX.exec(sizeTypeAlignment)[1] || 'notFound';
+  const normalAlignment = alignment.trim().toUpperCase().replace(/[\s\-]/g, '_').replace(/[\(\)\%]/g, '');
 
   const armorClass = $('p:nth-of-type(2)').contents().filter(function () { return this.nodeType === 3}).text() || 'notFound';
 
@@ -110,18 +122,19 @@ async function parseStats(htmlString, file) {
     }, {});
 
   // TODO: parse actions / abilities
+  // TODO: figure out how to represent 50/50 75/25 splits in alignments
 
   return {
     abilityScores,
-    alignment: alignment.trim(),
+    alignment: normalAlignment,
     armorClass: armorClass.trim(),
     challengeRating: file.tags[2].split('cr')[1],
     hitPoints: {
       average: Number(hitPointParts[1]),
       roll: hitPointParts[2],
     },
-    race: file.tags[1],
-    size: file.tags[0],
+    race: file.tags[1].toUpperCase(),
+    size: file.tags[0].toUpperCase(),
     speed: speed.trim(),
     source: file.tags[file.tags.length - 1],
   };
@@ -137,7 +150,25 @@ function parseMarkdown(md) {
   });
 }
 
-async function convertFileToJson(file) {
+async function findImageFromDom(dom) {
+  const imgTag = dom.window.document.querySelector('img');
+  return imgTag ? imgTag.src : null;
+}
+
+async function getAndSaveImageData(imgUrl, destination) {
+  return new Promise((resolve, reject) => {
+    request(imgUrl)
+      .on('error', err => {
+        console.log('error getting ', imgUrl, err.message);
+        resolve();
+      })
+      .pipe(fse.createWriteStream(destination))
+      .on('close', resolve);
+  });
+}
+
+async function convertFileToJson(file, index, arr, getImages = false) {
+  utils.info(`[${index + 1}/${arr.length}]`, file.title);
   const convertedContent = await parseMarkdown(file.content);
   const parsedMonsterStats = await parseStats(convertedContent, file);
 
@@ -149,17 +180,60 @@ async function convertFileToJson(file) {
     .replace('\\', ' ')
     .split(' ')
     .join('_');
+
+  const imgName = file.title
+    .toLowerCase()
+    .replace("'", '')
+    .replace('/', ' ')
+    .replace('\\', ' ')
+    .split(' ')
+    .join('-');
+
+  // TODO: scrape images from somewhere...
+  //       possibly https://www.aidedd.org/dnd/monstres.php?vo=duodrone
+  //       then dive the html for the img tag and capture the src.
+  let imageUrl = null;
+  if (getImages) {
+    const dom = await JSDOM.fromURL(`${IMAGE_SCRAPING_ENDPOINT}${imgName}`);
+    imageUrl = await findImageFromDom(dom);
+    if (imageUrl) {
+      const parts = imageUrl.split('.');
+      const ext = parts[parts.length - 1];
+      const destination = path.resolve(__dirname, `assets/${imgName}.${ext}`);
+      await getAndSaveImageData(imageUrl, destination);
+    }
+  }
+
   return Object.assign({}, parsedMonsterStats, {
     id,
     name: file.title,
+    image: imageUrl ? `https://raw.githubusercontent.com//src/db/assets/${imgName}.${ext}` : null, // default image
     _tags: file.tags,
   });
 }
 
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+
 async function convertMdToJson(jsonFiles) {
-  utils.info('parsing monsters...');
-  // convertFileToJson(jsonFiles.filter(f => f.title.toLowerCase() === 'strahd zombie')[0]);
-  return Promise.all(jsonFiles.map(convertFileToJson));
+  const assetDesination = path.resolve(__dirname, 'assets');
+  await fse.emptyDir(assetDesination)
+  // const tmp = await convertFileToJson(jsonFiles[0], 0, []);
+  // return [tmp];
+
+  // sequence and delay each convert for images sake so we don't accidentally
+  // overload the server...again...
+  const out = [];
+  const final = await jsonFiles.reduce((promise, file, idx, arr) => {
+    return promise.then(result => {
+      out.push(result[1]);
+      return Promise.all([delay(300), convertFileToJson(file, idx, arr, false)]);
+    });
+  }, Promise.resolve([null, null]));
+
+  // push the final entry to the array.
+  out.push[final[1]];
+  // the first entry is null
+  return out.slice(1);
 }
 
 module.exports = convertMdToJson;

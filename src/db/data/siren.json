@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic good",
+  "alignment": "CHAOTIC_GOOD",
   "armorClass": "14",
   "challengeRating": "3",
   "hitPoints": {
     "average": 38,
     "roll": "7d8+7"
   },
-  "race": "fey",
-  "size": "medium",
+  "race": "FEY",
+  "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "tales-from-the-yawning-portal",
   "id": "siren",
   "name": "Siren",
+  "image": null,
   "_tags": [
     "medium",
     "fey",

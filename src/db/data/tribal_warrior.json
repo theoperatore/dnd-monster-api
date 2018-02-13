@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "12 (hide armor)",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 11,
     "roll": "2d8+2"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "tribal_warrior",
   "name": "Tribal Warrior",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

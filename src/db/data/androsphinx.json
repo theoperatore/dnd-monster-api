@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful neutral",
+  "alignment": "LAWFUL_NEUTRAL",
   "armorClass": "17 (natural armor)",
   "challengeRating": "17",
   "hitPoints": {
     "average": 199,
     "roll": "19d10+95"
   },
-  "race": "monstrosity",
-  "size": "large",
+  "race": "MONSTROSITY",
+  "size": "LARGE",
   "speed": "40 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "androsphinx",
   "name": "Androsphinx",
+  "image": null,
   "_tags": [
     "large",
     "monstrosity",

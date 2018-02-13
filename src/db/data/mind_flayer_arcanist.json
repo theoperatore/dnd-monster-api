@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "15 (breastplate)",
   "challengeRating": "8",
   "hitPoints": {
     "average": 71,
     "roll": "13d8+13"
   },
-  "race": "aberration",
-  "size": "medium",
+  "race": "ABERRATION",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "mind_flayer_arcanist",
   "name": "Mind Flayer Arcanist",
+  "image": null,
   "_tags": [
     "medium",
     "aberration",

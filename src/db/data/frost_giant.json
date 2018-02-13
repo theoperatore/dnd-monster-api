@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "15 (patchwork armor)",
   "challengeRating": "8",
   "hitPoints": {
     "average": 138,
     "roll": "12d12+60"
   },
-  "race": "giant",
-  "size": "huge",
+  "race": "GIANT",
+  "size": "HUGE",
   "speed": "40 ft.",
   "source": "monster-manual",
   "id": "frost_giant",
   "name": "Frost Giant",
+  "image": null,
   "_tags": [
     "huge",
     "giant",

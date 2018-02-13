@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic good",
+  "alignment": "CHAOTIC_GOOD",
   "armorClass": "12",
   "challengeRating": "2",
   "hitPoints": {
     "average": 59,
     "roll": "7d10+21"
   },
-  "race": "celestial",
-  "size": "large",
+  "race": "CELESTIAL",
+  "size": "LARGE",
   "speed": "60 ft., fly 90 ft.",
   "source": "monster-manual",
   "id": "pegasus",
   "name": "Pegasus",
+  "image": null,
   "_tags": [
     "large",
     "celestial",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "13 (16 with mage armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 39,
     "roll": "6d8+12"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "azbara_jos",
   "name": "Azbara Jos",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

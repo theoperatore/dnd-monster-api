@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "13 (15 with the Black Dragon Mask)",
   "challengeRating": "7",
   "hitPoints": {
     "average": 90,
     "roll": "12d8+36"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "rezmir",
   "name": "Rezmir",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

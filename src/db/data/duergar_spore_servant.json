@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "16 (scale armor, shield)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 26,
     "roll": "4d8+8"
   },
-  "race": "plant",
-  "size": "medium",
+  "race": "PLANT",
+  "size": "MEDIUM",
   "speed": "15 ft.",
   "source": "out-of-the-abyss",
   "id": "duergar_spore_servant",
   "name": "Duergar Spore Servant",
+  "image": null,
   "_tags": [
     "medium",
     "plant",

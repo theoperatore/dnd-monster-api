@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "13",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 2,
     "roll": "1d4"
   },
-  "race": "beast",
-  "size": "tiny",
+  "race": "BEAST",
+  "size": "TINY",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
   "id": "poisonous_snake",
   "name": "Poisonous Snake",
+  "image": null,
   "_tags": [
     "tiny",
     "beast",

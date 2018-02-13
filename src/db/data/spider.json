@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "12",
   "challengeRating": "0",
   "hitPoints": {
     "average": 1,
     "roll": "1d4-1"
   },
-  "race": "beast",
-  "size": "tiny",
+  "race": "BEAST",
+  "size": "TINY",
   "speed": "20 ft., climb 20 ft.",
   "source": "monster-manual",
   "id": "spider",
   "name": "Spider",
+  "image": null,
   "_tags": [
     "tiny",
     "beast",

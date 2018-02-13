@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "11 (14 with mage armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 49,
     "roll": "11d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "warlock_of_the_archfey",
   "name": "Warlock of the Archfey",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

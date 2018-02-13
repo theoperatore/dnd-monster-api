@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "10",
   "challengeRating": "0",
   "hitPoints": {
     "average": 22,
     "roll": "4d8+4"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "miros_xelbrin",
   "name": "Miros Xelbrin",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

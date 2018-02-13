@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "16 (natural armor)",
   "challengeRating": "13",
   "hitPoints": {
     "average": 144,
     "roll": "17d8+68"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "vampire",
   "name": "Vampire",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "16 (scale)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 33,
     "roll": "6d8+6"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
   "id": "feathergale_knight",
   "name": "Feathergale Knight",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

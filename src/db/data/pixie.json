@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "15",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 1,
     "roll": "1d4-1"
   },
-  "race": "fey",
-  "size": "tiny",
+  "race": "FEY",
+  "size": "TINY",
   "speed": "10 ft., fly 30 ft.",
   "source": "monster-manual",
   "id": "pixie",
   "name": "Pixie",
+  "image": null,
   "_tags": [
     "tiny",
     "fey",

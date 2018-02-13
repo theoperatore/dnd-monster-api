@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "16 (studded leather, shield)",
   "challengeRating": "3",
   "hitPoints": {
     "average": 52,
     "roll": "7d10+14"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
   "id": "dralmorrer_borngray",
   "name": "Dralmorrer Borngray",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

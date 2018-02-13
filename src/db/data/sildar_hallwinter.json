@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral good",
+  "alignment": "NEUTRAL_GOOD",
   "armorClass": "16 (chain mail)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 27,
     "roll": "5d8+5"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "lost-mine-of-phandelver",
   "id": "sildar_hallwinter",
   "name": "Sildar Hallwinter",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

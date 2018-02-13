@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "12 (hide armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 52,
     "roll": "7d10+14"
   },
-  "race": "monstrosity",
-  "size": "large",
+  "race": "MONSTROSITY",
+  "size": "LARGE",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "yakfolk_priest",
   "name": "Yakfolk Priest",
+  "image": null,
   "_tags": [
     "large",
     "monstrosity",

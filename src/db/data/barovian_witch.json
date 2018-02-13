@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "10",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 16,
     "roll": "3d8+3"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
   "id": "barovian_witch",
   "name": "Barovian Witch",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

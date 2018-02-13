@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful good",
+  "alignment": "LAWFUL_GOOD",
   "armorClass": "14 (leather)",
   "challengeRating": "0",
   "hitPoints": {
     "average": 22,
     "roll": "5d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "sirac_of_suzail",
   "name": "Sirac of Suzail",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

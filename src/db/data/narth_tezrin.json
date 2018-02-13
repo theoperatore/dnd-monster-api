@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic good",
+  "alignment": "CHAOTIC_GOOD",
   "armorClass": "12",
   "challengeRating": "0",
   "hitPoints": {
     "average": 18,
     "roll": "4d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "narth_tezrin",
   "name": "Narth Tezrin",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

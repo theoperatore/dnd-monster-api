@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "18 (natural armor)",
   "challengeRating": "18",
   "hitPoints": {
     "average": 324,
     "roll": "24d12+168"
   },
-  "race": "elemental",
-  "size": "huge",
+  "race": "ELEMENTAL",
+  "size": "HUGE",
   "speed": "50 ft., swim 100 ft.",
   "source": "elemental-evil",
   "id": "olhydra",
   "name": "Olhydra",
+  "image": null,
   "_tags": [
     "huge",
     "elemental",

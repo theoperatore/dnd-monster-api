@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "14 (leather armor)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 31,
     "roll": "7d8"
   },
-  "race": "fey",
-  "size": "medium",
+  "race": "FEY",
+  "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
   "id": "satyr",
   "name": "Satyr",
+  "image": null,
   "_tags": [
     "medium",
     "fey",

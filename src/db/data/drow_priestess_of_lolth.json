@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "15 (scale mail)",
   "challengeRating": "8",
   "hitPoints": {
     "average": 71,
     "roll": "13d8+13"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "drow_priestess_of_lolth",
   "name": "Drow Priestess of Lolth",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "5",
   "challengeRating": "10",
   "hitPoints": {
     "average": 217,
     "roll": "14d20+70"
   },
-  "race": "ooze",
-  "size": "gargantuan",
+  "race": "OOZE",
+  "size": "GARGANTUAN",
   "speed": "10 ft.",
   "source": "tales-from-the-yawning-portal",
   "id": "white_maw",
   "name": "White Maw",
+  "image": null,
   "_tags": [
     "gargantuan",
     "ooze",

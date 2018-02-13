@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral",
+  "alignment": "NEUTRAL",
   "armorClass": "9",
   "challengeRating": "5",
   "hitPoints": {
     "average": 93,
     "roll": "11d8+44"
   },
-  "race": "construct",
-  "size": "medium",
+  "race": "CONSTRUCT",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "flesh_golem",
   "name": "Flesh Golem",
+  "image": null,
   "_tags": [
     "medium",
     "construct",

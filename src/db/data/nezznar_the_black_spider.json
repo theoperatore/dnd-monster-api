@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "11 (14 with mage armor)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 27,
     "roll": "6d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "lost-mine-of-phandelver",
   "id": "nezznar_the_black_spider",
   "name": "Nezznar the Black Spider",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

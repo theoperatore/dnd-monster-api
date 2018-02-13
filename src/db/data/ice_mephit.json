@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "11",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 21,
     "roll": "6d6"
   },
-  "race": "elemental",
-  "size": "small",
+  "race": "ELEMENTAL",
+  "size": "SMALL",
   "speed": "30 ft., fly 30 ft.",
   "source": "monster-manual",
   "id": "ice_mephit",
   "name": "Ice Mephit",
+  "image": null,
   "_tags": [
     "small",
     "elemental",

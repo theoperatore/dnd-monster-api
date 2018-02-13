@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "20 (plate, shield)",
   "challengeRating": "17",
   "hitPoints": {
     "average": 180,
     "roll": "19d8+95"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "death_knight",
   "name": "Death Knight",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

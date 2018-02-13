@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "18 (chain mail, shield)",
   "challengeRating": "l",
   "hitPoints": {
     "average": 37,
     "roll": "5d8+15"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
   "id": "dread_warrior",
   "name": "Dread Warrior",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "any alignment",
+  "alignment": "ANY_ALIGNMENT",
   "armorClass": "18 (plate)",
   "challengeRating": "12",
   "hitPoints": {
     "average": 229,
     "roll": "27d8+108"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "warlord",
   "name": "Warlord",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

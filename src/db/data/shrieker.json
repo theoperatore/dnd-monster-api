@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "5",
   "challengeRating": "0",
   "hitPoints": {
     "average": 13,
     "roll": "3d8"
   },
-  "race": "plant",
-  "size": "medium",
+  "race": "PLANT",
+  "size": "MEDIUM",
   "speed": "0 ft.",
   "source": "monster-manual",
   "id": "shrieker",
   "name": "Shrieker",
+  "image": null,
   "_tags": [
     "medium",
     "plant",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "14 (leather armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 18,
     "roll": "4d8"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "25 ft.",
   "source": "out-of-the-abyss",
   "id": "duergar_soulblade",
   "name": "Duergar Soulblade",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

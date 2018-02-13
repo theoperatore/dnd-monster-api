@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "19 (natural armor)",
   "challengeRating": "14",
   "hitPoints": {
     "average": 187,
     "roll": "25d10+50"
   },
-  "race": "undead",
-  "size": "large",
+  "race": "UNDEAD",
+  "size": "LARGE",
   "speed": "0 ft., fly 20 ft. (hover)",
   "source": "monster-manual",
   "id": "death_tyrant",
   "name": "Death Tyrant",
+  "image": null,
   "_tags": [
     "large",
     "undead",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic good",
+  "alignment": "CHAOTIC_GOOD",
   "armorClass": "15",
   "challengeRating": "2",
   "hitPoints": {
     "average": 14,
     "roll": "4d4+4"
   },
-  "race": "dragon",
-  "size": "tiny",
+  "race": "DRAGON",
+  "size": "TINY",
   "speed": "10 ft., fly 60 ft.",
   "source": "monster-manual",
   "id": "faerie_dragon_(violet)",
   "name": "Faerie Dragon (Violet)",
+  "image": null,
   "_tags": [
     "tiny",
     "dragon",

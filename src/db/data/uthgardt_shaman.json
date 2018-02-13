@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "13",
   "challengeRating": "2",
   "hitPoints": {
     "average": 38,
     "roll": "7d8+7"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "uthgardt_shaman",
   "name": "Uthgardt Shaman",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

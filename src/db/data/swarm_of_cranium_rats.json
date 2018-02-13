@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "12",
   "challengeRating": "5",
   "hitPoints": {
     "average": 36,
     "roll": "8d8"
   },
-  "race": "swarm",
-  "size": "medium",
+  "race": "SWARM",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "swarm_of_cranium_rats",
   "name": "Swarm of Cranium Rats",
+  "image": null,
   "_tags": [
     "medium",
     "swarm",

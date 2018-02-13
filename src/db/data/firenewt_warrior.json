@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "16 (chain shirt, shield)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 22,
     "roll": "4d8+4"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
   "id": "firenewt_warrior",
   "name": "Firenewt Warrior",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

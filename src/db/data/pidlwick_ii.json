@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 10,
     "roll": "3d6"
   },
-  "race": "construct",
-  "size": "small",
+  "race": "CONSTRUCT",
+  "size": "SMALL",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
   "id": "pidlwick_ii",
   "name": "Pidlwick II",
+  "image": null,
   "_tags": [
     "small",
     "construct",

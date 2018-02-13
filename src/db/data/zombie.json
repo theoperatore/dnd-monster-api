@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "8",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 22,
     "roll": "3d8+9"
   },
-  "race": "undead",
-  "size": "medium",
+  "race": "UNDEAD",
+  "size": "MEDIUM",
   "speed": "20 ft.",
   "source": "monster-manual",
   "id": "zombie",
   "name": "Zombie",
+  "image": null,
   "_tags": [
     "medium",
     "undead",

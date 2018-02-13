@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "15 (studded leather)",
   "challengeRating": "2",
   "hitPoints": {
     "average": 31,
     "roll": "7d6+7"
   },
-  "race": "humanoid",
-  "size": "small",
+  "race": "HUMANOID",
+  "size": "SMALL",
   "speed": "30 ft. (60 ft. with boots of speed)",
   "source": "out-of-the-abyss",
   "id": "droki",
   "name": "Droki",
+  "image": null,
   "_tags": [
     "small",
     "humanoid",

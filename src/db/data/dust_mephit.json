@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "12",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 17,
     "roll": "5d6"
   },
-  "race": "elemental",
-  "size": "small",
+  "race": "ELEMENTAL",
+  "size": "SMALL",
   "speed": "30 ft., fly 30 ft.",
   "source": "monster-manual",
   "id": "dust_mephit",
   "name": "Dust Mephit",
+  "image": null,
   "_tags": [
     "small",
     "elemental",

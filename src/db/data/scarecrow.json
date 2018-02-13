@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic evil",
+  "alignment": "CHAOTIC_EVIL",
   "armorClass": "11",
   "challengeRating": "1",
   "hitPoints": {
     "average": 36,
     "roll": "8d8"
   },
-  "race": "construct",
-  "size": "medium",
+  "race": "CONSTRUCT",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "scarecrow",
   "name": "Scarecrow",
+  "image": null,
   "_tags": [
     "medium",
     "construct",

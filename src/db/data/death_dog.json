@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "12",
   "challengeRating": "1",
   "hitPoints": {
     "average": 39,
     "roll": "6d8+12"
   },
-  "race": "monstrosity",
-  "size": "medium",
+  "race": "MONSTROSITY",
+  "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
   "id": "death_dog",
   "name": "Death Dog",
+  "image": null,
   "_tags": [
     "medium",
     "monstrosity",

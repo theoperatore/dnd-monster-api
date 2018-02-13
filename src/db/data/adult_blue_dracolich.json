@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful evil",
+  "alignment": "LAWFUL_EVIL",
   "armorClass": "19 (natural armor)",
   "challengeRating": "17",
   "hitPoints": {
     "average": 225,
     "roll": "18d12+108"
   },
-  "race": "undead",
-  "size": "huge",
+  "race": "UNDEAD",
+  "size": "HUGE",
   "speed": "40 ft., burrow 30 ft., fly 80 ft.",
   "source": "monster-manual",
   "id": "adult_blue_dracolich",
   "name": "Adult Blue Dracolich",
+  "image": null,
   "_tags": [
     "huge",
     "undead",

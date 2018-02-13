@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "20 (plate, shield)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 60,
     "roll": "8d8+24"
   },
-  "race": "construct",
-  "size": "medium",
+  "race": "CONSTRUCT",
+  "size": "MEDIUM",
   "speed": "30 ft., fly 30 ft.",
   "source": "monster-manual",
   "id": "helmed_horror",
   "name": "Helmed Horror",
+  "image": null,
   "_tags": [
     "medium",
     "construct",

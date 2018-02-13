@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "lawful good",
+  "alignment": "LAWFUL_GOOD",
   "armorClass": "18 (plate)",
   "challengeRating": "0",
   "hitPoints": {
     "average": 52,
     "roll": "8d8+16"
   },
-  "race": "humanoid",
-  "size": "medium",
+  "race": "HUMANOID",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
   "id": "sir_baric_nylef",
   "name": "Sir Baric Nylef",
+  "image": null,
   "_tags": [
     "medium",
     "humanoid",

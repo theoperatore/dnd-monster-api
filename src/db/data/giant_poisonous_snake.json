@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "unaligned",
+  "alignment": "UNALIGNED",
   "armorClass": "14",
   "challengeRating": "1/4",
   "hitPoints": {
     "average": 11,
     "roll": "2d8+2"
   },
-  "race": "beast",
-  "size": "medium",
+  "race": "BEAST",
+  "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
   "id": "giant_poisonous_snake",
   "name": "Giant Poisonous Snake",
+  "image": null,
   "_tags": [
     "medium",
     "beast",

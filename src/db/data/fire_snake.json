@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "neutral evil",
+  "alignment": "NEUTRAL_EVIL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "1",
   "hitPoints": {
     "average": 22,
     "roll": "5d8"
   },
-  "race": "elemental",
-  "size": "medium",
+  "race": "ELEMENTAL",
+  "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "fire_snake",
   "name": "Fire Snake",
+  "image": null,
   "_tags": [
     "medium",
     "elemental",

@@ -31,19 +31,20 @@
       "ability": "CHA"
     }
   },
-  "alignment": "chaotic neutral",
+  "alignment": "CHAOTIC_NEUTRAL",
   "armorClass": "14 (natural armor)",
   "challengeRating": "1/2",
   "hitPoints": {
     "average": 9,
     "roll": "2d6+2"
   },
-  "race": "elemental",
-  "size": "small",
+  "race": "ELEMENTAL",
+  "size": "SMALL",
   "speed": "30 ft.",
   "source": "monster-manual",
   "id": "magmin",
   "name": "Magmin",
+  "image": null,
   "_tags": [
     "small",
     "elemental",
