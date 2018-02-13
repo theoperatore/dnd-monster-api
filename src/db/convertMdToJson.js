@@ -231,7 +231,7 @@ async function convertMdToJson(jsonFiles) {
   }, Promise.resolve([null, null]));
 
   // push the final entry to the array.
-  out.push[final[1]];
+  out.push(final[1]);
   // the first entry is null
   return out.slice(1);
 }
