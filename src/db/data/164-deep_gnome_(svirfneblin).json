@@ -45,7 +45,7 @@
   "id": "deep_gnome_(svirfneblin)",
   "_index": 164,
   "name": "Deep Gnome (Svirfneblin)",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/deep-gnome-(svirfneblin).jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/deep-gnome-(svirfneblin).jpg",
   "_tags": [
     "small",
     "humanoid",

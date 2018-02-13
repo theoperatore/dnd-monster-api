@@ -45,7 +45,7 @@
   "id": "orc_war_chief",
   "_index": 506,
   "name": "Orc War Chief",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/orc-war-chief.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/orc-war-chief.jpg",
   "_tags": [
     "medium",
     "humanoid",

@@ -201,7 +201,7 @@ async function convertFileToJson(file, index, arr, getImages = false) {
       const parts = imageUrl.split('.');
       const ext = parts[parts.length - 1];
       const destination = path.resolve(__dirname, `assets/${imgName}.${ext}`);
-      imageUrlOut = `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/${imgName}.${ext}`;
+      imageUrlOut = `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/${imgName}.${ext}`;
       await getAndSaveImageData(imageUrl, destination);
     }
   }

@@ -45,7 +45,7 @@
   "id": "planetar",
   "_index": 527,
   "name": "Planetar",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/planetar.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/planetar.jpg",
   "_tags": [
     "large",
     "celestial",

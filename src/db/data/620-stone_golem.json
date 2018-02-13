@@ -45,7 +45,7 @@
   "id": "stone_golem",
   "_index": 620,
   "name": "Stone Golem",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/stone-golem.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/stone-golem.jpg",
   "_tags": [
     "large",
     "construct",

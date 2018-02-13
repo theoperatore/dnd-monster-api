@@ -45,7 +45,7 @@
   "id": "empyrean",
   "_index": 223,
   "name": "Empyrean",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/empyrean.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/empyrean.jpg",
   "_tags": [
     "huge",
     "celestial",

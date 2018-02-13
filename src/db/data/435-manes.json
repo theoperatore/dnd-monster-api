@@ -45,7 +45,7 @@
   "id": "manes",
   "_index": 435,
   "name": "Manes",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/manes.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/manes.jpg",
   "_tags": [
     "small",
     "fiend",

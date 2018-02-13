@@ -45,7 +45,7 @@
   "id": "druid",
   "_index": 201,
   "name": "Druid",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/druid.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/druid.jpg",
   "_tags": [
     "medium",
     "humanoid",

@@ -45,7 +45,7 @@
   "id": "young_blue_dragon",
   "_index": 736,
   "name": "Young Blue Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/young-blue-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/young-blue-dragon.jpg",
   "_tags": [
     "large",
     "dragon",

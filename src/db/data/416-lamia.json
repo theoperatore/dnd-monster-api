@@ -45,7 +45,7 @@
   "id": "lamia",
   "_index": 416,
   "name": "Lamia",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/lamia.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/lamia.jpg",
   "_tags": [
     "large",
     "monstrosity",

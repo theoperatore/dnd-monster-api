@@ -45,7 +45,7 @@
   "id": "half-red_dragon_veteran",
   "_index": 355,
   "name": "Half-Red Dragon Veteran",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/half-red-dragon-veteran.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/half-red-dragon-veteran.jpg",
   "_tags": [
     "medium",
     "humanoid",

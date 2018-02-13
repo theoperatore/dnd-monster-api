@@ -45,7 +45,7 @@
   "id": "troll",
   "_index": 666,
   "name": "Troll",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/troll.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/troll.jpg",
   "_tags": [
     "large",
     "giant",

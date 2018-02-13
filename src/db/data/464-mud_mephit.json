@@ -45,7 +45,7 @@
   "id": "mud_mephit",
   "_index": 464,
   "name": "Mud Mephit",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/mud-mephit.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/mud-mephit.jpg",
   "_tags": [
     "small",
     "elemental",

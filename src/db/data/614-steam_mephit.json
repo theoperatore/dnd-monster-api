@@ -45,7 +45,7 @@
   "id": "steam_mephit",
   "_index": 614,
   "name": "Steam Mephit",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/steam-mephit.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/steam-mephit.jpg",
   "_tags": [
     "small",
     "elemental",

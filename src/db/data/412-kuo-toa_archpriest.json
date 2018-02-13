@@ -45,7 +45,7 @@
   "id": "kuo-toa_archpriest",
   "_index": 412,
   "name": "Kuo-Toa Archpriest",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/kuo-toa-archpriest.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/kuo-toa-archpriest.jpg",
   "_tags": [
     "medium",
     "humanoid",

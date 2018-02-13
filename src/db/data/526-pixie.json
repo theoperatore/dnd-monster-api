@@ -45,7 +45,7 @@
   "id": "pixie",
   "_index": 526,
   "name": "Pixie",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/pixie.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/pixie.jpg",
   "_tags": [
     "tiny",
     "fey",

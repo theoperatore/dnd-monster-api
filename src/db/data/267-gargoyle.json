@@ -45,7 +45,7 @@
   "id": "gargoyle",
   "_index": 267,
   "name": "Gargoyle",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/gargoyle.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/gargoyle.jpg",
   "_tags": [
     "medium",
     "elemental",

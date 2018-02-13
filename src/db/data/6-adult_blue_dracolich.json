@@ -45,7 +45,7 @@
   "id": "adult_blue_dracolich",
   "_index": 6,
   "name": "Adult Blue Dracolich",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/adult-blue-dracolich.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/adult-blue-dracolich.jpg",
   "_tags": [
     "huge",
     "undead",

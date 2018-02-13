@@ -45,7 +45,7 @@
   "id": "animated_armor",
   "_index": 33,
   "name": "Animated Armor",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/animated-armor.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/animated-armor.jpg",
   "_tags": [
     "medium",
     "construct",

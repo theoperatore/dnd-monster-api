@@ -45,7 +45,7 @@
   "id": "shadow",
   "_index": 586,
   "name": "Shadow",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/shadow.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/shadow.jpg",
   "_tags": [
     "medium",
     "undead",

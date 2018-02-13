@@ -45,7 +45,7 @@
   "id": "archmage",
   "_index": 43,
   "name": "Archmage",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/archmage.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/archmage.jpg",
   "_tags": [
     "medium",
     "humanoid",

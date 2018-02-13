@@ -45,7 +45,7 @@
   "id": "mimic",
   "_index": 450,
   "name": "Mimic",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/mimic.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/mimic.jpg",
   "_tags": [
     "medium",
     "monstrosity",

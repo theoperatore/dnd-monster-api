@@ -45,7 +45,7 @@
   "id": "minotaur",
   "_index": 456,
   "name": "Minotaur",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/minotaur.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/minotaur.jpg",
   "_tags": [
     "large",
     "monstrosity",

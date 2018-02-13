@@ -45,7 +45,7 @@
   "id": "githzerai_monk",
   "_index": 314,
   "name": "Githzerai Monk",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/githzerai-monk.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/githzerai-monk.jpg",
   "_tags": [
     "medium",
     "humanoid",

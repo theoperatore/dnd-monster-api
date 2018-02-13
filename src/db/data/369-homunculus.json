@@ -45,7 +45,7 @@
   "id": "homunculus",
   "_index": 369,
   "name": "Homunculus",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/homunculus.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/homunculus.jpg",
   "_tags": [
     "tiny",
     "construct",

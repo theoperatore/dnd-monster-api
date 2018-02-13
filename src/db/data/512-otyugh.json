@@ -45,7 +45,7 @@
   "id": "otyugh",
   "_index": 512,
   "name": "Otyugh",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/otyugh.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/otyugh.jpg",
   "_tags": [
     "large",
     "aberration",

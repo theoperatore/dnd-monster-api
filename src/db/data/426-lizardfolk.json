@@ -45,7 +45,7 @@
   "id": "lizardfolk",
   "_index": 426,
   "name": "Lizardfolk",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/lizardfolk.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/lizardfolk.jpg",
   "_tags": [
     "medium",
     "humanoid",

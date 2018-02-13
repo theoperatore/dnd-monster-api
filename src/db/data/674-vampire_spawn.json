@@ -45,7 +45,7 @@
   "id": "vampire_spawn",
   "_index": 674,
   "name": "Vampire Spawn",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/vampire-spawn.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/vampire-spawn.jpg",
   "_tags": [
     "medium",
     "undead",

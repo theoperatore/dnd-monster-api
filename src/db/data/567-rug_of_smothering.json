@@ -45,7 +45,7 @@
   "id": "rug_of_smothering",
   "_index": 567,
   "name": "Rug of Smothering",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/rug-of-smothering.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/rug-of-smothering.jpg",
   "_tags": [
     "large",
     "construct",

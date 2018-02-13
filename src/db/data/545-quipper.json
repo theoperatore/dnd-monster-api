@@ -45,7 +45,7 @@
   "id": "quipper",
   "_index": 545,
   "name": "Quipper",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/quipper.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/quipper.jpg",
   "_tags": [
     "tiny",
     "beast",

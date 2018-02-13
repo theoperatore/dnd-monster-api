@@ -45,7 +45,7 @@
   "id": "aarakocra",
   "_index": 0,
   "name": "Aarakocra",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/aarakocra.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/aarakocra.jpg",
   "_tags": [
     "medium",
     "humanoid",

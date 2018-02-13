@@ -45,7 +45,7 @@
   "id": "iron_golem",
   "_index": 390,
   "name": "Iron Golem",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/iron-golem.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/iron-golem.jpg",
   "_tags": [
     "large",
     "construct",

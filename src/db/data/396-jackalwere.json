@@ -45,7 +45,7 @@
   "id": "jackalwere",
   "_index": 396,
   "name": "Jackalwere",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/jackalwere.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/jackalwere.jpg",
   "_tags": [
     "medium",
     "humanoid",

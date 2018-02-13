@@ -45,7 +45,7 @@
   "id": "thug",
   "_index": 651,
   "name": "Thug",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/thug.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/thug.jpg",
   "_tags": [
     "medium",
     "humanoid",

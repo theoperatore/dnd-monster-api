@@ -45,7 +45,7 @@
   "id": "vampire",
   "_index": 677,
   "name": "Vampire",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/vampire.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/vampire.jpg",
   "_tags": [
     "medium",
     "undead",

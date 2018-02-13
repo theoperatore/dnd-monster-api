@@ -45,7 +45,7 @@
   "id": "guardian_naga",
   "_index": 350,
   "name": "Guardian Naga",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/guardian-naga.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/guardian-naga.jpg",
   "_tags": [
     "large",
     "monstrosity",

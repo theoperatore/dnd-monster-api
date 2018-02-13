@@ -45,7 +45,7 @@
   "id": "aboleth",
   "_index": 2,
   "name": "Aboleth",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/aboleth.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/aboleth.jpg",
   "_tags": [
     "large",
     "aberration",

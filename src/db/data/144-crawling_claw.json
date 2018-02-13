@@ -45,7 +45,7 @@
   "id": "crawling_claw",
   "_index": 144,
   "name": "Crawling Claw",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/crawling-claw.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/crawling-claw.jpg",
   "_tags": [
     "tiny",
     "undead",

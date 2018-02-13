@@ -45,7 +45,7 @@
   "id": "ancient_black_dragon",
   "_index": 22,
   "name": "Ancient Black Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ancient-black-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ancient-black-dragon.jpg",
   "_tags": [
     "gargantuan",
     "dragon",

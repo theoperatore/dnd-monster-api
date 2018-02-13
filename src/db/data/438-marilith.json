@@ -45,7 +45,7 @@
   "id": "marilith",
   "_index": 438,
   "name": "Marilith",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/marilith.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/marilith.jpg",
   "_tags": [
     "large",
     "fiend",

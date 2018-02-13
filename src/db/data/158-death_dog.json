@@ -45,7 +45,7 @@
   "id": "death_dog",
   "_index": 158,
   "name": "Death Dog",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/death-dog.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/death-dog.jpg",
   "_tags": [
     "medium",
     "monstrosity",

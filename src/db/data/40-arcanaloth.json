@@ -45,7 +45,7 @@
   "id": "arcanaloth",
   "_index": 40,
   "name": "Arcanaloth",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/arcanaloth.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/arcanaloth.jpg",
   "_tags": [
     "medium",
     "fiend",

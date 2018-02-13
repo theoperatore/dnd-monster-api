@@ -45,7 +45,7 @@
   "id": "roper",
   "_index": 565,
   "name": "Roper",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/roper.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/roper.jpg",
   "_tags": [
     "large",
     "monstrosity",

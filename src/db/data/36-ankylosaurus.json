@@ -45,7 +45,7 @@
   "id": "ankylosaurus",
   "_index": 36,
   "name": "Ankylosaurus",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ankylosaurus.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ankylosaurus.jpg",
   "_tags": [
     "huge",
     "beast",

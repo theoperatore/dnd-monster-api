@@ -45,7 +45,7 @@
   "id": "displacer_beast",
   "_index": 177,
   "name": "Displacer Beast",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/displacer-beast.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/displacer-beast.jpg",
   "_tags": [
     "large",
     "monstrosity",

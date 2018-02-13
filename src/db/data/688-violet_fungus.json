@@ -45,7 +45,7 @@
   "id": "violet_fungus",
   "_index": 688,
   "name": "Violet Fungus",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/violet-fungus.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/violet-fungus.jpg",
   "_tags": [
     "medium",
     "plant",

@@ -45,7 +45,7 @@
   "id": "quadrone",
   "_index": 538,
   "name": "Quadrone",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/quadrone.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/quadrone.jpg",
   "_tags": [
     "medium",
     "construct",

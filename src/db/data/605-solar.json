@@ -45,7 +45,7 @@
   "id": "solar",
   "_index": 605,
   "name": "Solar",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/solar.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/solar.jpg",
   "_tags": [
     "large",
     "celestial",

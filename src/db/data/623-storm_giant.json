@@ -45,7 +45,7 @@
   "id": "storm_giant",
   "_index": 623,
   "name": "Storm Giant",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/storm-giant.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/storm-giant.jpg",
   "_tags": [
     "huge",
     "giant",

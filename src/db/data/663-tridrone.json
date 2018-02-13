@@ -45,7 +45,7 @@
   "id": "tridrone",
   "_index": 663,
   "name": "Tridrone",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/tridrone.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/tridrone.jpg",
   "_tags": [
     "medium",
     "construct",

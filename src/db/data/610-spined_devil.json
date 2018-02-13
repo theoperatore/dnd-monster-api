@@ -45,7 +45,7 @@
   "id": "spined_devil",
   "_index": 610,
   "name": "Spined Devil",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/spined-devil.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/spined-devil.jpg",
   "_tags": [
     "small",
     "fiend",

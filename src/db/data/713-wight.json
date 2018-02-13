@@ -45,7 +45,7 @@
   "id": "wight",
   "_index": 713,
   "name": "Wight",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/wight.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/wight.jpg",
   "_tags": [
     "medium",
     "undead",

@@ -45,7 +45,7 @@
   "id": "skeleton",
   "_index": 600,
   "name": "Skeleton",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/skeleton.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/skeleton.jpg",
   "_tags": [
     "medium",
     "undead",

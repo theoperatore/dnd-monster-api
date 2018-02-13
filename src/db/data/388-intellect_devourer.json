@@ -45,7 +45,7 @@
   "id": "intellect_devourer",
   "_index": 388,
   "name": "Intellect Devourer",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/intellect-devourer.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/intellect-devourer.jpg",
   "_tags": [
     "tiny",
     "aberration",

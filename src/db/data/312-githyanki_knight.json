@@ -45,7 +45,7 @@
   "id": "githyanki_knight",
   "_index": 312,
   "name": "Githyanki Knight",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/githyanki-knight.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/githyanki-knight.jpg",
   "_tags": [
     "medium",
     "humanoid",

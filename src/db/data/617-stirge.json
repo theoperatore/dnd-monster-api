@@ -45,7 +45,7 @@
   "id": "stirge",
   "_index": 617,
   "name": "Stirge",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/stirge.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/stirge.jpg",
   "_tags": [
     "tiny",
     "beast",

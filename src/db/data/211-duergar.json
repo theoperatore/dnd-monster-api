@@ -45,7 +45,7 @@
   "id": "duergar",
   "_index": 211,
   "name": "Duergar",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/duergar.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/duergar.jpg",
   "_tags": [
     "medium",
     "humanoid",

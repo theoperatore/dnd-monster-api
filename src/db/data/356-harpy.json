@@ -45,7 +45,7 @@
   "id": "harpy",
   "_index": 356,
   "name": "Harpy",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/harpy.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/harpy.jpg",
   "_tags": [
     "medium",
     "monstrosity",

@@ -45,7 +45,7 @@
   "id": "hezrou",
   "_index": 361,
   "name": "Hezrou",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/hezrou.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hezrou.jpg",
   "_tags": [
     "large",
     "fiend",

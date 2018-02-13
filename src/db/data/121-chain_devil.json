@@ -45,7 +45,7 @@
   "id": "chain_devil",
   "_index": 121,
   "name": "Chain Devil",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/chain-devil.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/chain-devil.jpg",
   "_tags": [
     "medium",
     "fiend",

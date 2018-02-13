@@ -45,7 +45,7 @@
   "id": "gnoll",
   "_index": 323,
   "name": "Gnoll",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/gnoll.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/gnoll.jpg",
   "_tags": [
     "medium",
     "humanoid",

@@ -45,7 +45,7 @@
   "id": "raven",
   "_index": 550,
   "name": "Raven",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/raven.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/raven.jpg",
   "_tags": [
     "tiny",
     "beast",

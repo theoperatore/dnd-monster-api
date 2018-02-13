@@ -45,7 +45,7 @@
   "id": "owlbear",
   "_index": 514,
   "name": "Owlbear",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/owlbear.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/owlbear.jpg",
   "_tags": [
     "large",
     "monstrosity",

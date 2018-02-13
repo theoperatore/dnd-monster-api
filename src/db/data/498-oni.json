@@ -45,7 +45,7 @@
   "id": "oni",
   "_index": 498,
   "name": "Oni",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/oni.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/oni.jpg",
   "_tags": [
     "large",
     "giant",

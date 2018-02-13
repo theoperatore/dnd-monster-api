@@ -45,7 +45,7 @@
   "id": "rat",
   "_index": 548,
   "name": "Rat",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/rat.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/rat.jpg",
   "_tags": [
     "tiny",
     "beast",

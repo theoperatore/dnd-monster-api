@@ -45,7 +45,7 @@
   "id": "wererat",
   "_index": 705,
   "name": "Wererat",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/wererat.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/wererat.jpg",
   "_tags": [
     "medium",
     "humanoid",

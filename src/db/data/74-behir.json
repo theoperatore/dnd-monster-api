@@ -45,7 +45,7 @@
   "id": "behir",
   "_index": 74,
   "name": "Behir",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/behir.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/behir.jpg",
   "_tags": [
     "huge",
     "monstrosity",

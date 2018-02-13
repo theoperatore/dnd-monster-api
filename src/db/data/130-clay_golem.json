@@ -45,7 +45,7 @@
   "id": "clay_golem",
   "_index": 130,
   "name": "Clay Golem",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/clay-golem.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/clay-golem.jpg",
   "_tags": [
     "large",
     "construct",

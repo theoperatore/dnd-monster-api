@@ -45,7 +45,7 @@
   "id": "velociraptor",
   "_index": 685,
   "name": "Velociraptor",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/velociraptor.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/velociraptor.jpg",
   "_tags": [
     "tiny",
     "beast",

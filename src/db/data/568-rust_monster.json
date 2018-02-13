@@ -45,7 +45,7 @@
   "id": "rust_monster",
   "_index": 568,
   "name": "Rust Monster",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/rust-monster.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/rust-monster.jpg",
   "_tags": [
     "medium",
     "monstrosity",

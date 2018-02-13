@@ -45,7 +45,7 @@
   "id": "balor",
   "_index": 59,
   "name": "Balor",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/balor.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/balor.jpg",
   "_tags": [
     "huge",
     "fiend",

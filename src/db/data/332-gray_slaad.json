@@ -45,7 +45,7 @@
   "id": "gray_slaad",
   "_index": 332,
   "name": "Gray Slaad",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/gray-slaad.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/gray-slaad.jpg",
   "_tags": [
     "medium",
     "aberration",

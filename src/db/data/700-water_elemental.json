@@ -45,7 +45,7 @@
   "id": "water_elemental",
   "_index": 700,
   "name": "Water Elemental",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/water-elemental.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/water-elemental.jpg",
   "_tags": [
     "large",
     "elemental",

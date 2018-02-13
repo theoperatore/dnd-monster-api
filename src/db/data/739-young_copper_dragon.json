@@ -45,7 +45,7 @@
   "id": "young_copper_dragon",
   "_index": 739,
   "name": "Young Copper Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/young-copper-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/young-copper-dragon.jpg",
   "_tags": [
     "large",
     "dragon",

@@ -45,7 +45,7 @@
   "id": "quetzalcoatlus",
   "_index": 543,
   "name": "Quetzalcoatlus",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/quetzalcoatlus.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/quetzalcoatlus.jpg",
   "_tags": [
     "huge",
     "beast",

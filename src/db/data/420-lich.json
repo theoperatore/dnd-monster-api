@@ -45,7 +45,7 @@
   "id": "lich",
   "_index": 420,
   "name": "Lich",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/lich.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/lich.jpg",
   "_tags": [
     "medium",
     "undead",

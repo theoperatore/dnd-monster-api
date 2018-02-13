@@ -45,7 +45,7 @@
   "id": "vine_blight",
   "_index": 687,
   "name": "Vine Blight",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/vine-blight.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/vine-blight.jpg",
   "_tags": [
     "medium",
     "plant",

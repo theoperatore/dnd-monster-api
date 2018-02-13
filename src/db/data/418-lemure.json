@@ -45,7 +45,7 @@
   "id": "lemure",
   "_index": 418,
   "name": "Lemure",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/lemure.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/lemure.jpg",
   "_tags": [
     "medium",
     "fiend",

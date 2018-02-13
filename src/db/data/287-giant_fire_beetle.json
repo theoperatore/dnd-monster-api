@@ -45,7 +45,7 @@
   "id": "giant_fire_beetle",
   "_index": 287,
   "name": "Giant Fire Beetle",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/giant-fire-beetle.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/giant-fire-beetle.jpg",
   "_tags": [
     "small",
     "beast",

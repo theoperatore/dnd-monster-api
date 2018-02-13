@@ -45,7 +45,7 @@
   "id": "androsphinx",
   "_index": 32,
   "name": "Androsphinx",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/androsphinx.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/androsphinx.jpg",
   "_tags": [
     "large",
     "monstrosity",

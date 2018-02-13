@@ -45,7 +45,7 @@
   "id": "worg",
   "_index": 720,
   "name": "Worg",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/worg.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/worg.jpg",
   "_tags": [
     "large",
     "monstrosity",

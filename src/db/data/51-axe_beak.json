@@ -45,7 +45,7 @@
   "id": "axe_beak",
   "_index": 51,
   "name": "Axe Beak",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/axe-beak.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/axe-beak.jpg",
   "_tags": [
     "large",
     "beast",

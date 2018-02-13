@@ -45,7 +45,7 @@
   "id": "hawk",
   "_index": 357,
   "name": "Hawk",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/hawk.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hawk.jpg",
   "_tags": [
     "tiny",
     "beast",

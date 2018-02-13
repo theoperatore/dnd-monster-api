@@ -45,7 +45,7 @@
   "id": "hobgoblin",
   "_index": 368,
   "name": "Hobgoblin",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/hobgoblin.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hobgoblin.jpg",
   "_tags": [
     "medium",
     "humanoid",

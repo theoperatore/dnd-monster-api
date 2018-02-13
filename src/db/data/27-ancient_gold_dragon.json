@@ -45,7 +45,7 @@
   "id": "ancient_gold_dragon",
   "_index": 27,
   "name": "Ancient Gold Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ancient-gold-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ancient-gold-dragon.jpg",
   "_tags": [
     "gargantuan",
     "dragon",

@@ -45,7 +45,7 @@
   "id": "earth_elemental",
   "_index": 217,
   "name": "Earth Elemental",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/earth-elemental.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/earth-elemental.jpg",
   "_tags": [
     "large",
     "elemental",

@@ -45,7 +45,7 @@
   "id": "drow",
   "_index": 200,
   "name": "Drow",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/drow.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/drow.jpg",
   "_tags": [
     "medium",
     "humanoid",

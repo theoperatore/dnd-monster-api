@@ -45,7 +45,7 @@
   "id": "hydra",
   "_index": 378,
   "name": "Hydra",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/hydra.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hydra.jpg",
   "_tags": [
     "huge",
     "monstrosity",

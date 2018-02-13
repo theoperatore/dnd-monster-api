@@ -45,7 +45,7 @@
   "id": "werebear",
   "_index": 703,
   "name": "Werebear",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/werebear.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/werebear.jpg",
   "_tags": [
     "medium",
     "humanoid",

@@ -45,7 +45,7 @@
   "id": "badger",
   "_index": 58,
   "name": "Badger",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/badger.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/badger.jpg",
   "_tags": [
     "tiny",
     "beast",

@@ -45,7 +45,7 @@
   "id": "doppelganger",
   "_index": 181,
   "name": "Doppelganger",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/doppelganger.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/doppelganger.jpg",
   "_tags": [
     "medium",
     "monstrosity",

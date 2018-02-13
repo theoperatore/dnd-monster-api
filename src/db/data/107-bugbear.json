@@ -45,7 +45,7 @@
   "id": "bugbear",
   "_index": 107,
   "name": "Bugbear",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/bugbear.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/bugbear.jpg",
   "_tags": [
     "medium",
     "humanoid",

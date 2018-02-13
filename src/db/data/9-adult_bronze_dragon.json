@@ -45,7 +45,7 @@
   "id": "adult_bronze_dragon",
   "_index": 9,
   "name": "Adult Bronze Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/adult-bronze-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/adult-bronze-dragon.jpg",
   "_tags": [
     "huge",
     "dragon",

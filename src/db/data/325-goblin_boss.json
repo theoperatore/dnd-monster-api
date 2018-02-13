@@ -45,7 +45,7 @@
   "id": "goblin_boss",
   "_index": 325,
   "name": "Goblin Boss",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/goblin-boss.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/goblin-boss.jpg",
   "_tags": [
     "small",
     "humanoid",

@@ -45,7 +45,7 @@
   "id": "ancient_blue_dragon",
   "_index": 23,
   "name": "Ancient Blue Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ancient-blue-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ancient-blue-dragon.jpg",
   "_tags": [
     "gargantuan",
     "dragon",

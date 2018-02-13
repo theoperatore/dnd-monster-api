@@ -45,7 +45,7 @@
   "id": "adult_gold_dragon",
   "_index": 11,
   "name": "Adult Gold Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/adult-gold-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/adult-gold-dragon.jpg",
   "_tags": [
     "huge",
     "dragon",

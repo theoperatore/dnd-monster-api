@@ -45,7 +45,7 @@
   "id": "hippogriff",
   "_index": 363,
   "name": "Hippogriff",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/hippogriff.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hippogriff.jpg",
   "_tags": [
     "large",
     "monstrosity",

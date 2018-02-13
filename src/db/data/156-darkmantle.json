@@ -45,7 +45,7 @@
   "id": "darkmantle",
   "_index": 156,
   "name": "Darkmantle",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/darkmantle.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/darkmantle.jpg",
   "_tags": [
     "small",
     "monstrosity",

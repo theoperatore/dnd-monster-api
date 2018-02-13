@@ -45,7 +45,7 @@
   "id": "owl",
   "_index": 513,
   "name": "Owl",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/owl.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/owl.jpg",
   "_tags": [
     "tiny",
     "beast",

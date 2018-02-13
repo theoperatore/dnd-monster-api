@@ -45,7 +45,7 @@
   "id": "giant_spider",
   "_index": 302,
   "name": "Giant Spider",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/giant-spider.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/giant-spider.jpg",
   "_tags": [
     "large",
     "beast",

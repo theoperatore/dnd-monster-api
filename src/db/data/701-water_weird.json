@@ -45,7 +45,7 @@
   "id": "water_weird",
   "_index": 701,
   "name": "Water Weird",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/water-weird.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/water-weird.jpg",
   "_tags": [
     "large",
     "elemental",

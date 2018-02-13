@@ -45,7 +45,7 @@
   "id": "ghoul",
   "_index": 275,
   "name": "Ghoul",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ghoul.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ghoul.jpg",
   "_tags": [
     "medium",
     "undead",

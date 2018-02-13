@@ -45,7 +45,7 @@
   "id": "plesiosaurus",
   "_index": 528,
   "name": "Plesiosaurus",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/plesiosaurus.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/plesiosaurus.jpg",
   "_tags": [
     "large",
     "beast",

@@ -45,7 +45,7 @@
   "id": "ankheg",
   "_index": 35,
   "name": "Ankheg",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ankheg.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ankheg.jpg",
   "_tags": [
     "large",
     "monstrosity",

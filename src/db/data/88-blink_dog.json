@@ -45,7 +45,7 @@
   "id": "blink_dog",
   "_index": 88,
   "name": "Blink Dog",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/blink-dog.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/blink-dog.jpg",
   "_tags": [
     "medium",
     "fey",

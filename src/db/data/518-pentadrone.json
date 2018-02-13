@@ -45,7 +45,7 @@
   "id": "pentadrone",
   "_index": 518,
   "name": "Pentadrone",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/pentadrone.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/pentadrone.jpg",
   "_tags": [
     "medium",
     "construct",

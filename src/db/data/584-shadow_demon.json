@@ -45,7 +45,7 @@
   "id": "shadow_demon",
   "_index": 584,
   "name": "Shadow Demon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/shadow-demon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/shadow-demon.jpg",
   "_tags": [
     "medium",
     "fiend",

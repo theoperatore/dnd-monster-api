@@ -45,7 +45,7 @@
   "id": "bullywug",
   "_index": 109,
   "name": "Bullywug",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/bullywug.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/bullywug.jpg",
   "_tags": [
     "medium",
     "humanoid",

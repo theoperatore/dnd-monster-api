@@ -45,7 +45,7 @@
   "id": "chasme",
   "_index": 124,
   "name": "Chasme",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/chasme.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/chasme.jpg",
   "_tags": [
     "large",
     "fiend",

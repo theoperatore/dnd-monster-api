@@ -45,7 +45,7 @@
   "id": "quasit",
   "_index": 542,
   "name": "Quasit",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/quasit.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/quasit.jpg",
   "_tags": [
     "tiny",
     "fiend",

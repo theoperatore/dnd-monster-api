@@ -45,7 +45,7 @@
   "id": "sprite",
   "_index": 612,
   "name": "Sprite",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/sprite.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/sprite.jpg",
   "_tags": [
     "tiny",
     "fey",

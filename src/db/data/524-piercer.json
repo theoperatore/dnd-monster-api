@@ -45,7 +45,7 @@
   "id": "piercer",
   "_index": 524,
   "name": "Piercer",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/piercer.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/piercer.jpg",
   "_tags": [
     "large",
     "monstrosity",

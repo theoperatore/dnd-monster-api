@@ -45,7 +45,7 @@
   "id": "wyvern",
   "_index": 722,
   "name": "Wyvern",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/wyvern.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/wyvern.jpg",
   "_tags": [
     "large",
     "dragon",

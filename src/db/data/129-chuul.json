@@ -45,7 +45,7 @@
   "id": "chuul",
   "_index": 129,
   "name": "Chuul",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/chuul.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/chuul.jpg",
   "_tags": [
     "large",
     "aberration",

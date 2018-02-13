@@ -45,7 +45,7 @@
   "id": "goblin",
   "_index": 326,
   "name": "Goblin",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/goblin.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/goblin.jpg",
   "_tags": [
     "small",
     "humanoid",

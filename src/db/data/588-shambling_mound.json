@@ -45,7 +45,7 @@
   "id": "shambling_mound",
   "_index": 588,
   "name": "Shambling Mound",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/shambling-mound.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/shambling-mound.jpg",
   "_tags": [
     "large",
     "plant",

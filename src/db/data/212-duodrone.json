@@ -45,7 +45,7 @@
   "id": "duodrone",
   "_index": 212,
   "name": "Duodrone",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/duodrone.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/duodrone.jpg",
   "_tags": [
     "medium",
     "construct",

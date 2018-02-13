@@ -45,7 +45,7 @@
   "id": "slithering_tracker",
   "_index": 603,
   "name": "Slithering Tracker",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/slithering-tracker.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/slithering-tracker.jpg",
   "_tags": [
     "medium",
     "ooze",

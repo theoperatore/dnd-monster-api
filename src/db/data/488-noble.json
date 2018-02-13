@@ -45,7 +45,7 @@
   "id": "noble",
   "_index": 488,
   "name": "Noble",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/noble.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/noble.jpg",
   "_tags": [
     "medium",
     "humanoid",

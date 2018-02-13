@@ -45,7 +45,7 @@
   "id": "ochre_jelly",
   "_index": 491,
   "name": "Ochre Jelly",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ochre-jelly.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ochre-jelly.jpg",
   "_tags": [
     "large",
     "ooze",

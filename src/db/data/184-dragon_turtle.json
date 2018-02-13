@@ -45,7 +45,7 @@
   "id": "dragon_turtle",
   "_index": 184,
   "name": "Dragon Turtle",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/dragon-turtle.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/dragon-turtle.jpg",
   "_tags": [
     "gargantuan",
     "dragon",

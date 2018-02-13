@@ -45,7 +45,7 @@
   "id": "helmed_horror",
   "_index": 360,
   "name": "Helmed Horror",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/helmed-horror.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/helmed-horror.jpg",
   "_tags": [
     "medium",
     "construct",

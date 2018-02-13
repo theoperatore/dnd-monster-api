@@ -45,7 +45,7 @@
   "id": "demilich",
   "_index": 169,
   "name": "Demilich",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/demilich.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/demilich.jpg",
   "_tags": [
     "tiny",
     "undead",

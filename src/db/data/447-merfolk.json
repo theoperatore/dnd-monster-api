@@ -45,7 +45,7 @@
   "id": "merfolk",
   "_index": 447,
   "name": "Merfolk",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/merfolk.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/merfolk.jpg",
   "_tags": [
     "medium",
     "humanoid",

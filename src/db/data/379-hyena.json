@@ -45,7 +45,7 @@
   "id": "hyena",
   "_index": 379,
   "name": "Hyena",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/hyena.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hyena.jpg",
   "_tags": [
     "medium",
     "beast",

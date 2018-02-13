@@ -45,7 +45,7 @@
   "id": "dryad",
   "_index": 202,
   "name": "Dryad",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/dryad.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/dryad.jpg",
   "_tags": [
     "medium",
     "fey",

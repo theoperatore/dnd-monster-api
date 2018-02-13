@@ -45,7 +45,7 @@
   "id": "fire_snake",
   "_index": 247,
   "name": "Fire Snake",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/fire-snake.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/fire-snake.jpg",
   "_tags": [
     "medium",
     "elemental",

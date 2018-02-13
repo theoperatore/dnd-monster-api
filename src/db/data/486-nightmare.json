@@ -45,7 +45,7 @@
   "id": "nightmare",
   "_index": 486,
   "name": "Nightmare",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/nightmare.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/nightmare.jpg",
   "_tags": [
     "large",
     "fiend",

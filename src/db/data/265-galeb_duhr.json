@@ -45,7 +45,7 @@
   "id": "galeb_duhr",
   "_index": 265,
   "name": "Galeb Duhr",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/galeb-duhr.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/galeb-duhr.jpg",
   "_tags": [
     "medium",
     "elemental",

@@ -45,7 +45,7 @@
   "id": "green_slaad",
   "_index": 338,
   "name": "Green Slaad",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/green-slaad.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/green-slaad.jpg",
   "_tags": [
     "large",
     "aberration",

@@ -45,7 +45,7 @@
   "id": "spider",
   "_index": 609,
   "name": "Spider",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/spider.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/spider.jpg",
   "_tags": [
     "tiny",
     "beast",

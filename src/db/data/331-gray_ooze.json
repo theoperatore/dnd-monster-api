@@ -45,7 +45,7 @@
   "id": "gray_ooze",
   "_index": 331,
   "name": "Gray Ooze",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/gray-ooze.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/gray-ooze.jpg",
   "_tags": [
     "medium",
     "ooze",

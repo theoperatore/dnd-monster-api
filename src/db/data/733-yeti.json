@@ -45,7 +45,7 @@
   "id": "yeti",
   "_index": 733,
   "name": "Yeti",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/yeti.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/yeti.jpg",
   "_tags": [
     "large",
     "monstrosity",

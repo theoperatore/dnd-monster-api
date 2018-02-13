@@ -45,7 +45,7 @@
   "id": "young_brass_dragon",
   "_index": 737,
   "name": "Young Brass Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/young-brass-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/young-brass-dragon.jpg",
   "_tags": [
     "large",
     "dragon",

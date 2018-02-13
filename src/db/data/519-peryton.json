@@ -45,7 +45,7 @@
   "id": "peryton",
   "_index": 519,
   "name": "Peryton",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/peryton.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/peryton.jpg",
   "_tags": [
     "medium",
     "monstrosity",

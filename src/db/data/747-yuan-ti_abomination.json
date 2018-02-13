@@ -45,7 +45,7 @@
   "id": "yuan-ti_abomination",
   "_index": 747,
   "name": "Yuan-ti Abomination",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/yuan-ti-abomination.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/yuan-ti-abomination.jpg",
   "_tags": [
     "large",
     "monstrosity",

@@ -45,7 +45,7 @@
   "id": "manticore",
   "_index": 436,
   "name": "Manticore",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/manticore.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/manticore.jpg",
   "_tags": [
     "large",
     "monstrosity",

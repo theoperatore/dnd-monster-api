@@ -45,7 +45,7 @@
   "id": "adult_red_dragon",
   "_index": 13,
   "name": "Adult Red Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/adult-red-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/adult-red-dragon.jpg",
   "_tags": [
     "huge",
     "dragon",

@@ -45,7 +45,7 @@
   "id": "flumph",
   "_index": 255,
   "name": "Flumph",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/flumph.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/flumph.jpg",
   "_tags": [
     "small",
     "aberration",

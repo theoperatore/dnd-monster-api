@@ -45,7 +45,7 @@
   "id": "treant",
   "_index": 658,
   "name": "Treant",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/treant.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/treant.jpg",
   "_tags": [
     "huge",
     "plant",

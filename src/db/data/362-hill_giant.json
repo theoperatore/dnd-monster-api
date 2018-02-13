@@ -45,7 +45,7 @@
   "id": "hill_giant",
   "_index": 362,
   "name": "Hill Giant",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/hill-giant.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hill-giant.jpg",
   "_tags": [
     "huge",
     "giant",

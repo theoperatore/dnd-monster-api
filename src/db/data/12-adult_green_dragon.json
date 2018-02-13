@@ -45,7 +45,7 @@
   "id": "adult_green_dragon",
   "_index": 12,
   "name": "Adult Green Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/adult-green-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/adult-green-dragon.jpg",
   "_tags": [
     "huge",
     "dragon",

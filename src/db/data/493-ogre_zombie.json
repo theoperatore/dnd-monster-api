@@ -45,7 +45,7 @@
   "id": "ogre_zombie",
   "_index": 493,
   "name": "Ogre Zombie",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/ogre-zombie.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ogre-zombie.jpg",
   "_tags": [
     "large",
     "undead",

@@ -45,7 +45,7 @@
   "id": "cyclops",
   "_index": 150,
   "name": "Cyclops",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/cyclops.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/cyclops.jpg",
   "_tags": [
     "huge",
     "giant",

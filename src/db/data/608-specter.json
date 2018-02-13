@@ -45,7 +45,7 @@
   "id": "specter",
   "_index": 608,
   "name": "Specter",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/specter.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/specter.jpg",
   "_tags": [
     "medium",
     "undead",

@@ -45,7 +45,7 @@
   "id": "kuo-toa",
   "_index": 415,
   "name": "Kuo-Toa",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/kuo-toa.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/kuo-toa.jpg",
   "_tags": [
     "medium",
     "humanoid",

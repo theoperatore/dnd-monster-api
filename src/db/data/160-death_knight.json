@@ -45,7 +45,7 @@
   "id": "death_knight",
   "_index": 160,
   "name": "Death Knight",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/death-knight.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/death-knight.jpg",
   "_tags": [
     "medium",
     "undead",

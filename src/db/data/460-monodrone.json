@@ -45,7 +45,7 @@
   "id": "monodrone",
   "_index": 460,
   "name": "Monodrone",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/monodrone.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/monodrone.jpg",
   "_tags": [
     "medium",
     "construct",

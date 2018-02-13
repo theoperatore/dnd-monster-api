@@ -45,7 +45,7 @@
   "id": "chimera",
   "_index": 125,
   "name": "Chimera",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/chimera.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/chimera.jpg",
   "_tags": [
     "large",
     "monstrosity",

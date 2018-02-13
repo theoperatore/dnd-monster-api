@@ -45,7 +45,7 @@
   "id": "roc",
   "_index": 564,
   "name": "Roc",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/roc.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/roc.jpg",
   "_tags": [
     "gargantuan",
     "monstrosity",

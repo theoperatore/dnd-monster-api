@@ -45,7 +45,7 @@
   "id": "djinni",
   "_index": 179,
   "name": "Djinni",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/djinni.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/djinni.jpg",
   "_tags": [
     "large",
     "elemental",

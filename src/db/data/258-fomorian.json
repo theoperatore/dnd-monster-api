@@ -45,7 +45,7 @@
   "id": "fomorian",
   "_index": 258,
   "name": "Fomorian",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/fomorian.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/fomorian.jpg",
   "_tags": [
     "huge",
     "giant",

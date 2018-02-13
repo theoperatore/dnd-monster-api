@@ -45,7 +45,7 @@
   "id": "wereboar",
   "_index": 704,
   "name": "Wereboar",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/wereboar.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/wereboar.jpg",
   "_tags": [
     "medium",
     "humanoid",
