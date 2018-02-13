@@ -114,14 +114,17 @@ const schema = buildSchema(`
   }
 
   type Query {
-    monster(id: ID): ApiListResponse
+    monsters(id: ID, limit: Int = 10, offset: Int = 0): ApiListResponse
   }
 `);
 
 const graphqlConfig = {
   schema,
   rootValue: {
-    monster: ({ id }) => ({}),
+    monsters: ({ id, limit, offset }) => ({
+      count: 761,
+      monsters: [],
+    }),
   },
   graphiql: process.env !== 'production',
 };

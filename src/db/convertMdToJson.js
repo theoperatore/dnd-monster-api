@@ -207,7 +207,7 @@ async function convertFileToJson(file, index, arr, getImages = false) {
   return Object.assign({}, parsedMonsterStats, {
     id,
     name: file.title,
-    image: imageUrl ? `https://raw.githubusercontent.com//src/db/assets/${imgName}.${ext}` : null, // default image
+    image: imageUrl ? `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/src/db/assets/${imgName}.${ext}` : null, // default image
     _tags: file.tags,
   });
 }
