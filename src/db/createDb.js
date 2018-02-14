@@ -46,7 +46,7 @@ const BESTIARY_URL = 'https://github.com/chisaipete/bestiary.git';
     const db = level(path.resolve(__dirname, 'builtDb'), { valueEncoding: 'json' });
     const batchOptions = fullJsonFiles.map((file, idx) => ({
       type: 'put',
-      key: `monster:${idx}`,
+      key: file.id,
       value: file,
     }));
 

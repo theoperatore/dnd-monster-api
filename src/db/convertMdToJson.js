@@ -193,7 +193,7 @@ async function convertFileToJson(file, index, arr, getImages = false) {
   //       possibly https://www.aidedd.org/dnd/monstres.php?vo=duodrone
   //       then dive the html for the img tag and capture the src.
   let imageUrl = null;
-  let imageUrlOut = null;
+  let imageUrlOut = require(path.resolve(__dirname, `./data/${index}-${id}.json`)).image || null;
   if (getImages) {
     const dom = await JSDOM.fromURL(`${IMAGE_SCRAPING_ENDPOINT}${imgName}`);
     imageUrl = await findImageFromDom(dom);
@@ -218,8 +218,11 @@ async function convertFileToJson(file, index, arr, getImages = false) {
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function convertMdToJson(jsonFiles) {
-  const assetDesination = path.resolve(__dirname, 'assets');
-  await fse.emptyDir(assetDesination)
+  const requestImages = false;
+  if (requestImages) {
+    const assetDesination = path.resolve(__dirname, 'assets');
+    await fse.emptyDir(assetDesination)
+  }
   // const tmp = await convertFileToJson(jsonFiles[0], 0, []);
   // return [tmp];
 
@@ -229,7 +232,7 @@ async function convertMdToJson(jsonFiles) {
   const final = await jsonFiles.reduce((promise, file, idx, arr) => {
     return promise.then(result => {
       out.push(result[1]);
-      return Promise.all([delay(1000), convertFileToJson(file, idx, arr, false)]);
+      return Promise.all([delay(1000), convertFileToJson(file, idx, arr, requestImages)]);
     });
   }, Promise.resolve([null, null]));
 

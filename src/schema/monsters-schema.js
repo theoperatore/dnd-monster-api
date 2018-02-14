@@ -99,6 +99,6 @@ module.exports = `
   }
 
   type Query {
-    monsters(id: ID, limit: Int = 10, offset: Int = 0): ApiListResponse
+    getMonsters(id: ID, limit: Int = 10, offset: Int = 0): ApiListResponse
   }
-`
+`;
