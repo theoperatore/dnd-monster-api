@@ -45,7 +45,7 @@
   "id": "cloud_giant",
   "_index": 133,
   "name": "Cloud Giant",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/cloud-giant.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/cloud-giant.jpg",
   "_tags": [
     "huge",
     "giant",

@@ -45,7 +45,7 @@
   "id": "zombie",
   "_index": 759,
   "name": "Zombie",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/zombie.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/zombie.jpg",
   "_tags": [
     "medium",
     "undead",

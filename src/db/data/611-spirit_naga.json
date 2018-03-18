@@ -45,7 +45,7 @@
   "id": "spirit_naga",
   "_index": 611,
   "name": "Spirit Naga",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/spirit-naga.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/spirit-naga.jpg",
   "_tags": [
     "large",
     "monstrosity",

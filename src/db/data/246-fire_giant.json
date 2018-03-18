@@ -45,7 +45,7 @@
   "id": "fire_giant",
   "_index": 246,
   "name": "Fire Giant",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/fire-giant.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/fire-giant.jpg",
   "_tags": [
     "huge",
     "giant",

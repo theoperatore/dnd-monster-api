@@ -45,7 +45,7 @@
   "id": "dire_wolf",
   "_index": 176,
   "name": "Dire Wolf",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/dire-wolf.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/dire-wolf.jpg",
   "_tags": [
     "large",
     "beast",

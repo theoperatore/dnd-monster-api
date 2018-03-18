@@ -45,7 +45,7 @@
   "id": "xorn",
   "_index": 723,
   "name": "Xorn",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/xorn.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/xorn.jpg",
   "_tags": [
     "medium",
     "elemental",

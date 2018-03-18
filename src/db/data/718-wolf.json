@@ -45,7 +45,7 @@
   "id": "wolf",
   "_index": 718,
   "name": "Wolf",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/wolf.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/wolf.jpg",
   "_tags": [
     "medium",
     "beast",

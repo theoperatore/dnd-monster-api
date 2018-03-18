@@ -45,7 +45,7 @@
   "id": "ancient_silver_dragon",
   "_index": 30,
   "name": "Ancient Silver Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ancient-silver-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ancient-silver-dragon.jpg",
   "_tags": [
     "gargantuan",
     "dragon",

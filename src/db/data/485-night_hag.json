@@ -45,7 +45,7 @@
   "id": "night_hag",
   "_index": 485,
   "name": "Night Hag",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/night-hag.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/night-hag.jpg",
   "_tags": [
     "medium",
     "fiend",

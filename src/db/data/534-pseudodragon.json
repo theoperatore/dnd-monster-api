@@ -45,7 +45,7 @@
   "id": "pseudodragon",
   "_index": 534,
   "name": "Pseudodragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/pseudodragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/pseudodragon.jpg",
   "_tags": [
     "tiny",
     "dragon",

@@ -45,7 +45,7 @@
   "id": "adult_silver_dragon",
   "_index": 14,
   "name": "Adult Silver Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/adult-silver-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/adult-silver-dragon.jpg",
   "_tags": [
     "huge",
     "dragon",

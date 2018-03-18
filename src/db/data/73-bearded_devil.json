@@ -45,7 +45,7 @@
   "id": "bearded_devil",
   "_index": 73,
   "name": "Bearded Devil",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/bearded-devil.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/bearded-devil.jpg",
   "_tags": [
     "medium",
     "fiend",

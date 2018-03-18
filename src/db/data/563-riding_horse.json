@@ -45,7 +45,7 @@
   "id": "riding_horse",
   "_index": 563,
   "name": "Riding Horse",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/riding-horse.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/riding-horse.jpg",
   "_tags": [
     "large",
     "beast",

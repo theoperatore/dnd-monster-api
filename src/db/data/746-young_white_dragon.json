@@ -45,7 +45,7 @@
   "id": "young_white_dragon",
   "_index": 746,
   "name": "Young White Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/young-white-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/young-white-dragon.jpg",
   "_tags": [
     "large",
     "dragon",

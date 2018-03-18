@@ -45,7 +45,7 @@
   "id": "grung",
   "_index": 347,
   "name": "Grung",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/grung.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/grung.jpg",
   "_tags": [
     "small",
     "humanoid",

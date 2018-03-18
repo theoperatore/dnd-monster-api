@@ -45,7 +45,7 @@
   "id": "quaggoth",
   "_index": 541,
   "name": "Quaggoth",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/quaggoth.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/quaggoth.jpg",
   "_tags": [
     "medium",
     "humanoid",

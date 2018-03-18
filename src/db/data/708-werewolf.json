@@ -45,7 +45,7 @@
   "id": "werewolf",
   "_index": 708,
   "name": "Werewolf",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/werewolf.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/werewolf.jpg",
   "_tags": [
     "medium",
     "humanoid",

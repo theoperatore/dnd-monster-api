@@ -45,7 +45,7 @@
   "id": "unicorn",
   "_index": 672,
   "name": "Unicorn",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/unicorn.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/unicorn.jpg",
   "_tags": [
     "large",
     "celestial",

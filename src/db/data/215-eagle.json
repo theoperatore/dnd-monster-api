@@ -45,7 +45,7 @@
   "id": "eagle",
   "_index": 215,
   "name": "Eagle",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/eagle.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/eagle.jpg",
   "_tags": [
     "small",
     "beast",

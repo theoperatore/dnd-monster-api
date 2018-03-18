@@ -45,7 +45,7 @@
   "id": "imp",
   "_index": 387,
   "name": "Imp",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/imp.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/imp.jpg",
   "_tags": [
     "tiny",
     "fiend",

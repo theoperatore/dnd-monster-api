@@ -45,7 +45,7 @@
   "id": "air_elemental",
   "_index": 18,
   "name": "Air Elemental",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/air-elemental.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/air-elemental.jpg",
   "_tags": [
     "large",
     "elemental",

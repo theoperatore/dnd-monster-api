@@ -45,7 +45,7 @@
   "id": "magma_mephit",
   "_index": 430,
   "name": "Magma Mephit",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/magma-mephit.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/magma-mephit.jpg",
   "_tags": [
     "small",
     "elemental",

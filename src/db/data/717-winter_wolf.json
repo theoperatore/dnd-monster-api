@@ -45,7 +45,7 @@
   "id": "winter_wolf",
   "_index": 717,
   "name": "Winter Wolf",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/winter-wolf.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/winter-wolf.jpg",
   "_tags": [
     "large",
     "monstrosity",

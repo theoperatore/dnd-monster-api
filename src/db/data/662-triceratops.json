@@ -45,7 +45,7 @@
   "id": "triceratops",
   "_index": 662,
   "name": "Triceratops",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/triceratops.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/triceratops.jpg",
   "_tags": [
     "huge",
     "beast",

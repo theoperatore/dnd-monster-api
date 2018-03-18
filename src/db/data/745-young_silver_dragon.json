@@ -45,7 +45,7 @@
   "id": "young_silver_dragon",
   "_index": 745,
   "name": "Young Silver Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/young-silver-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/young-silver-dragon.jpg",
   "_tags": [
     "large",
     "dragon",

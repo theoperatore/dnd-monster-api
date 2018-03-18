@@ -45,7 +45,7 @@
   "id": "gynosphinx",
   "_index": 352,
   "name": "Gynosphinx",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/gynosphinx.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/gynosphinx.jpg",
   "_tags": [
     "large",
     "monstrosity",

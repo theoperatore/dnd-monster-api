@@ -45,7 +45,7 @@
   "id": "satyr",
   "_index": 575,
   "name": "Satyr",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/satyr.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/satyr.jpg",
   "_tags": [
     "medium",
     "fey",

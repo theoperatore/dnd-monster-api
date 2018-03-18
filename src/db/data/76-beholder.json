@@ -45,7 +45,7 @@
   "id": "beholder",
   "_index": 76,
   "name": "Beholder",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/beholder.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/beholder.jpg",
   "_tags": [
     "large",
     "aberration",

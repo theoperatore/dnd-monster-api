@@ -45,7 +45,7 @@
   "id": "tyrannosaurus_rex",
   "_index": 668,
   "name": "Tyrannosaurus Rex",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/tyrannosaurus-rex.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/tyrannosaurus-rex.jpg",
   "_tags": [
     "huge",
     "beast",

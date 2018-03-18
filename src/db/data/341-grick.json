@@ -45,7 +45,7 @@
   "id": "grick",
   "_index": 341,
   "name": "Grick",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/grick.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/grick.jpg",
   "_tags": [
     "medium",
     "monstrosity",

@@ -45,7 +45,7 @@
   "id": "mind_flayer",
   "_index": 453,
   "name": "Mind Flayer",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/mind-flayer.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/mind-flayer.jpg",
   "_tags": [
     "medium",
     "aberration",

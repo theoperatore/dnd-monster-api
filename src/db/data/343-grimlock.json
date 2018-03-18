@@ -45,7 +45,7 @@
   "id": "grimlock",
   "_index": 343,
   "name": "Grimlock",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/grimlock.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/grimlock.jpg",
   "_tags": [
     "medium",
     "humanoid",

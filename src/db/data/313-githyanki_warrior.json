@@ -45,7 +45,7 @@
   "id": "githyanki_warrior",
   "_index": 313,
   "name": "Githyanki Warrior",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/githyanki-warrior.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/githyanki-warrior.jpg",
   "_tags": [
     "medium",
     "humanoid",

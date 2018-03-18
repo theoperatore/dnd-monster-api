@@ -45,7 +45,7 @@
   "id": "barlgura",
   "_index": 68,
   "name": "Barlgura",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/barlgura.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/barlgura.jpg",
   "_tags": [
     "large",
     "fiend",

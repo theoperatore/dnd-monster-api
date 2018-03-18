@@ -45,7 +45,7 @@
   "id": "swarm_of_bats",
   "_index": 628,
   "name": "Swarm of Bats",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/swarm-of-bats.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/swarm-of-bats.jpg",
   "_tags": [
     "medium",
     "swarm",

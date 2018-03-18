@@ -45,7 +45,7 @@
   "id": "young_red_dragon",
   "_index": 742,
   "name": "Young Red Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/young-red-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/young-red-dragon.jpg",
   "_tags": [
     "large",
     "dragon",

@@ -45,7 +45,7 @@
   "id": "salamander",
   "_index": 574,
   "name": "Salamander",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/salamander.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/salamander.jpg",
   "_tags": [
     "large",
     "elemental",

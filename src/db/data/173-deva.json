@@ -45,7 +45,7 @@
   "id": "deva",
   "_index": 173,
   "name": "Deva",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/deva.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/deva.jpg",
   "_tags": [
     "medium",
     "celestial",

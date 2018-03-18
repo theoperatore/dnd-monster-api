@@ -45,7 +45,7 @@
   "id": "sea_hag",
   "_index": 579,
   "name": "Sea Hag",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/sea-hag.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/sea-hag.jpg",
   "_tags": [
     "medium",
     "fey",

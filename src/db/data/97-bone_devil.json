@@ -45,7 +45,7 @@
   "id": "bone_devil",
   "_index": 97,
   "name": "Bone Devil",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/bone-devil.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/bone-devil.jpg",
   "_tags": [
     "large",
     "fiend",

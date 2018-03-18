@@ -45,7 +45,7 @@
   "id": "beholder_zombie",
   "_index": 75,
   "name": "Beholder Zombie",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/beholder-zombie.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/beholder-zombie.jpg",
   "_tags": [
     "large",
     "undead",

@@ -45,7 +45,7 @@
   "id": "orog",
   "_index": 511,
   "name": "Orog",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/orog.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/orog.jpg",
   "_tags": [
     "medium",
     "humanoid",

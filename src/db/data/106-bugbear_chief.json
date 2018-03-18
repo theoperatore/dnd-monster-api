@@ -45,7 +45,7 @@
   "id": "bugbear_chief",
   "_index": 106,
   "name": "Bugbear Chief",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/bugbear-chief.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/bugbear-chief.jpg",
   "_tags": [
     "medium",
     "humanoid",

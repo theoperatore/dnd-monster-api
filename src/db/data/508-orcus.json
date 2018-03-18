@@ -45,7 +45,7 @@
   "id": "orcus",
   "_index": 508,
   "name": "Orcus",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/orcus.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/orcus.jpg",
   "_tags": [
     "huge",
     "fiend",

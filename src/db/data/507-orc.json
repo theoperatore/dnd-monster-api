@@ -45,7 +45,7 @@
   "id": "orc",
   "_index": 507,
   "name": "Orc",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/orc.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/orc.jpg",
   "_tags": [
     "medium",
     "humanoid",

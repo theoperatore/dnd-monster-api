@@ -45,7 +45,7 @@
   "id": "dretch",
   "_index": 192,
   "name": "Dretch",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/dretch.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/dretch.jpg",
   "_tags": [
     "small",
     "fiend",

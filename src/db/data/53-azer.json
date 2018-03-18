@@ -45,7 +45,7 @@
   "id": "azer",
   "_index": 53,
   "name": "Azer",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/azer.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/azer.jpg",
   "_tags": [
     "medium",
     "elemental",

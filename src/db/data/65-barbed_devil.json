@@ -45,7 +45,7 @@
   "id": "barbed_devil",
   "_index": 65,
   "name": "Barbed Devil",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/barbed-devil.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/barbed-devil.jpg",
   "_tags": [
     "medium",
     "fiend",

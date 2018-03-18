@@ -45,7 +45,7 @@
   "id": "bulette",
   "_index": 108,
   "name": "Bulette",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/bulette.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/bulette.jpg",
   "_tags": [
     "large",
     "monstrosity",

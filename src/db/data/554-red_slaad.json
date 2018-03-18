@@ -45,7 +45,7 @@
   "id": "red_slaad",
   "_index": 554,
   "name": "Red Slaad",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/red-slaad.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/red-slaad.jpg",
   "_tags": [
     "large",
     "aberration",

@@ -45,7 +45,7 @@
   "id": "dao",
   "_index": 151,
   "name": "Dao",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/dao.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/dao.jpg",
   "_tags": [
     "large",
     "elemental",

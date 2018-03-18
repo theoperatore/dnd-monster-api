@@ -45,7 +45,7 @@
   "id": "grell",
   "_index": 339,
   "name": "Grell",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/grell.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/grell.jpg",
   "_tags": [
     "medium",
     "aberration",

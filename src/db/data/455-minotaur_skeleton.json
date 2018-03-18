@@ -45,7 +45,7 @@
   "id": "minotaur_skeleton",
   "_index": 455,
   "name": "Minotaur Skeleton",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/minotaur-skeleton.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/minotaur-skeleton.jpg",
   "_tags": [
     "large",
     "undead",

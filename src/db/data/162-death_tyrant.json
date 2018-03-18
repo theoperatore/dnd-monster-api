@@ -45,7 +45,7 @@
   "id": "death_tyrant",
   "_index": 162,
   "name": "Death Tyrant",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/death-tyrant.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/death-tyrant.jpg",
   "_tags": [
     "large",
     "undead",

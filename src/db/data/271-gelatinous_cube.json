@@ -45,7 +45,7 @@
   "id": "gelatinous_cube",
   "_index": 271,
   "name": "Gelatinous Cube",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/gelatinous-cube.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/gelatinous-cube.jpg",
   "_tags": [
     "large",
     "ooze",

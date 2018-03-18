@@ -45,7 +45,7 @@
   "id": "winged_kobold",
   "_index": 716,
   "name": "Winged Kobold",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/winged-kobold.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/winged-kobold.jpg",
   "_tags": [
     "small",
     "humanoid",

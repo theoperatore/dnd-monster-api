@@ -45,7 +45,7 @@
   "id": "banshee",
   "_index": 63,
   "name": "Banshee",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/banshee.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/banshee.jpg",
   "_tags": [
     "medium",
     "undead",

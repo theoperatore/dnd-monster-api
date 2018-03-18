@@ -45,7 +45,7 @@
   "id": "ice_devil",
   "_index": 381,
   "name": "Ice Devil",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ice-devil.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ice-devil.jpg",
   "_tags": [
     "large",
     "fiend",

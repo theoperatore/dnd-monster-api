@@ -45,7 +45,7 @@
   "id": "merrow",
   "_index": 448,
   "name": "Merrow",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/merrow.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/merrow.jpg",
   "_tags": [
     "large",
     "monstrosity",

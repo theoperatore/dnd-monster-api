@@ -45,7 +45,7 @@
   "id": "blue_slaad",
   "_index": 92,
   "name": "Blue Slaad",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/blue-slaad.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/blue-slaad.jpg",
   "_tags": [
     "large",
     "aberration",

@@ -45,7 +45,7 @@
   "id": "efreeti",
   "_index": 218,
   "name": "Efreeti",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/efreeti.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/efreeti.jpg",
   "_tags": [
     "large",
     "elemental",

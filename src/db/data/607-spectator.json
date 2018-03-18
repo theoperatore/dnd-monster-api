@@ -45,7 +45,7 @@
   "id": "spectator",
   "_index": 607,
   "name": "Spectator",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/spectator.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/spectator.jpg",
   "_tags": [
     "medium",
     "aberration",

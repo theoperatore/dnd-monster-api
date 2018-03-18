@@ -45,7 +45,7 @@
   "id": "phase_spider",
   "_index": 522,
   "name": "Phase Spider",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/phase-spider.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/phase-spider.jpg",
   "_tags": [
     "large",
     "monstrosity",

@@ -45,7 +45,7 @@
   "id": "umber_hulk",
   "_index": 671,
   "name": "Umber Hulk",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/umber-hulk.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/umber-hulk.jpg",
   "_tags": [
     "large",
     "monstrosity",

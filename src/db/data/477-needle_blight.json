@@ -45,7 +45,7 @@
   "id": "needle_blight",
   "_index": 477,
   "name": "Needle Blight",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/needle-blight.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/needle-blight.jpg",
   "_tags": [
     "medium",
     "plant",

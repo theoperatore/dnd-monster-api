@@ -45,7 +45,7 @@
   "id": "myconid_adult",
   "_index": 468,
   "name": "Myconid Adult",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/myconid-adult.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/myconid-adult.jpg",
   "_tags": [
     "medium",
     "plant",

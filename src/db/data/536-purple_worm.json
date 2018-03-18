@@ -45,7 +45,7 @@
   "id": "purple_worm",
   "_index": 536,
   "name": "Purple Worm",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/purple-worm.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/purple-worm.jpg",
   "_tags": [
     "gargantuan",
     "monstrosity",

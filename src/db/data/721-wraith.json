@@ -45,7 +45,7 @@
   "id": "wraith",
   "_index": 721,
   "name": "Wraith",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/wraith.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/wraith.jpg",
   "_tags": [
     "medium",
     "undead",

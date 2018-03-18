@@ -45,7 +45,7 @@
   "id": "couatl",
   "_index": 139,
   "name": "Couatl",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/couatl.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/couatl.jpg",
   "_tags": [
     "medium",
     "celestial",

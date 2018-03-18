@@ -45,7 +45,7 @@
   "id": "green_hag",
   "_index": 337,
   "name": "Green Hag",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/green-hag.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/green-hag.jpg",
   "_tags": [
     "medium",
     "fey",

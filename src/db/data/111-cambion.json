@@ -45,7 +45,7 @@
   "id": "cambion",
   "_index": 111,
   "name": "Cambion",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/cambion.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/cambion.jpg",
   "_tags": [
     "medium",
     "fiend",

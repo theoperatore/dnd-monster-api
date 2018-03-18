@@ -45,7 +45,7 @@
   "id": "hook_horror",
   "_index": 371,
   "name": "Hook Horror",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hook-horror.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/hook-horror.jpg",
   "_tags": [
     "large",
     "monstrosity",

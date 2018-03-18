@@ -45,7 +45,7 @@
   "id": "tarrasque",
   "_index": 643,
   "name": "Tarrasque",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/tarrasque.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/tarrasque.jpg",
   "_tags": [
     "gargantuan",
     "monstrosity",

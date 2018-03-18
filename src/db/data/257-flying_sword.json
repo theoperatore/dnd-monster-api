@@ -45,7 +45,7 @@
   "id": "flying_sword",
   "_index": 257,
   "name": "Flying Sword",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/flying-sword.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/flying-sword.jpg",
   "_tags": [
     "small",
     "construct",

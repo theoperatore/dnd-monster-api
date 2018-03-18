@@ -45,7 +45,7 @@
   "id": "scarecrow",
   "_index": 576,
   "name": "Scarecrow",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/scarecrow.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/scarecrow.jpg",
   "_tags": [
     "medium",
     "construct",

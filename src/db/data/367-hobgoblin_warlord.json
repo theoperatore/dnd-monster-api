@@ -45,7 +45,7 @@
   "id": "hobgoblin_warlord",
   "_index": 367,
   "name": "Hobgoblin Warlord",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hobgoblin-warlord.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/hobgoblin-warlord.jpg",
   "_tags": [
     "medium",
     "humanoid",

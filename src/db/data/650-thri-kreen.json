@@ -45,7 +45,7 @@
   "id": "thri-kreen",
   "_index": 650,
   "name": "Thri-kreen",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/thri-kreen.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/thri-kreen.jpg",
   "_tags": [
     "medium",
     "humanoid",

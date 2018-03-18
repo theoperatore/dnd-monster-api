@@ -45,7 +45,7 @@
   "id": "horned_devil",
   "_index": 372,
   "name": "Horned Devil",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/horned-devil.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/horned-devil.jpg",
   "_tags": [
     "large",
     "fiend",

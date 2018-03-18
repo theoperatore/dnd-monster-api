@@ -45,7 +45,7 @@
   "id": "magmin",
   "_index": 431,
   "name": "Magmin",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/magmin.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/magmin.jpg",
   "_tags": [
     "small",
     "elemental",

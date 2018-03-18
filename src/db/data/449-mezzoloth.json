@@ -45,7 +45,7 @@
   "id": "mezzoloth",
   "_index": 449,
   "name": "Mezzoloth",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/mezzoloth.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/mezzoloth.jpg",
   "_tags": [
     "medium",
     "fiend",

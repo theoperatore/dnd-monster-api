@@ -201,7 +201,7 @@ async function convertFileToJson(file, index, arr, getImages = false) {
       const parts = imageUrl.split('.');
       const ext = parts[parts.length - 1];
       const destination = path.resolve(__dirname, `assets/${imgName}.${ext}`);
-      imageUrlOut = `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/${imgName}.${ext}`;
+      imageUrlOut = `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/${imgName}.${ext}`;
       await getAndSaveImageData(imageUrl, destination);
     }
   }
@@ -218,7 +218,7 @@ async function convertFileToJson(file, index, arr, getImages = false) {
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function convertMdToJson(jsonFiles) {
-  const requestImages = false;
+  const requestImages = true;
   if (requestImages) {
     const assetDesination = path.resolve(__dirname, 'assets');
     await fse.emptyDir(assetDesination)

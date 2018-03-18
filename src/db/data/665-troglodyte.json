@@ -45,7 +45,7 @@
   "id": "troglodyte",
   "_index": 665,
   "name": "Troglodyte",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/troglodyte.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/troglodyte.jpg",
   "_tags": [
     "medium",
     "humanoid",

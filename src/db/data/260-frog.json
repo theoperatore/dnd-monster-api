@@ -45,7 +45,7 @@
   "id": "frog",
   "_index": 260,
   "name": "Frog",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/frog.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/frog.jpg",
   "_tags": [
     "tiny",
     "beast",

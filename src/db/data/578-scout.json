@@ -45,7 +45,7 @@
   "id": "scout",
   "_index": 578,
   "name": "Scout",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/scout.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/scout.jpg",
   "_tags": [
     "medium",
     "humanoid",

@@ -45,7 +45,7 @@
   "id": "ettin",
   "_index": 229,
   "name": "Ettin",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ettin.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ettin.jpg",
   "_tags": [
     "large",
     "giant",

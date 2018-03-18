@@ -45,7 +45,7 @@
   "id": "marid",
   "_index": 437,
   "name": "Marid",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/marid.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/marid.jpg",
   "_tags": [
     "large",
     "elemental",

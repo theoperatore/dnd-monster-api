@@ -45,7 +45,7 @@
   "id": "gorgon",
   "_index": 328,
   "name": "Gorgon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/gorgon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/gorgon.jpg",
   "_tags": [
     "large",
     "monstrosity",

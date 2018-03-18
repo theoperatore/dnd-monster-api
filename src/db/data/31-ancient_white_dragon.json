@@ -45,7 +45,7 @@
   "id": "ancient_white_dragon",
   "_index": 31,
   "name": "Ancient White Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ancient-white-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ancient-white-dragon.jpg",
   "_tags": [
     "gargantuan",
     "dragon",

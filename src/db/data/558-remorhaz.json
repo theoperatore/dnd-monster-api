@@ -45,7 +45,7 @@
   "id": "remorhaz",
   "_index": 558,
   "name": "Remorhaz",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/remorhaz.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/remorhaz.jpg",
   "_tags": [
     "huge",
     "monstrosity",

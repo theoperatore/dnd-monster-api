@@ -45,7 +45,7 @@
   "id": "ultroloth",
   "_index": 670,
   "name": "Ultroloth",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ultroloth.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ultroloth.jpg",
   "_tags": [
     "medium",
     "fiend",

@@ -45,7 +45,7 @@
   "id": "erinyes",
   "_index": 225,
   "name": "Erinyes",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/erinyes.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/erinyes.jpg",
   "_tags": [
     "medium",
     "fiend",

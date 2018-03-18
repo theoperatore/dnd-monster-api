@@ -45,7 +45,7 @@
   "id": "flying_snake",
   "_index": 256,
   "name": "Flying Snake",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/flying-snake.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/flying-snake.jpg",
   "_tags": [
     "tiny",
     "beast",

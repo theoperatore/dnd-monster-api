@@ -45,7 +45,7 @@
   "id": "hell_hound",
   "_index": 358,
   "name": "Hell Hound",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/hell-hound.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/hell-hound.jpg",
   "_tags": [
     "medium",
     "fiend",

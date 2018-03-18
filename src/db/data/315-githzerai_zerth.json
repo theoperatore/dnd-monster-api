@@ -45,7 +45,7 @@
   "id": "githzerai_zerth",
   "_index": 315,
   "name": "Githzerai Zerth",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/githzerai-zerth.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/githzerai-zerth.jpg",
   "_tags": [
     "medium",
     "humanoid",

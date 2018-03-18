@@ -45,7 +45,7 @@
   "id": "kobold",
   "_index": 408,
   "name": "Kobold",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/kobold.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/kobold.jpg",
   "_tags": [
     "small",
     "humanoid",

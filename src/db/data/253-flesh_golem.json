@@ -45,7 +45,7 @@
   "id": "flesh_golem",
   "_index": 253,
   "name": "Flesh Golem",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/flesh-golem.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/flesh-golem.jpg",
   "_tags": [
     "medium",
     "construct",

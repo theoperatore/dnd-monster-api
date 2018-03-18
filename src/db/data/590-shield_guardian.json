@@ -45,7 +45,7 @@
   "id": "shield_guardian",
   "_index": 590,
   "name": "Shield Guardian",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/shield-guardian.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/shield-guardian.jpg",
   "_tags": [
     "large",
     "construct",

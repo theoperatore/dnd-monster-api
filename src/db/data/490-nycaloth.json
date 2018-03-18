@@ -45,7 +45,7 @@
   "id": "nycaloth",
   "_index": 490,
   "name": "Nycaloth",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/nycaloth.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/nycaloth.jpg",
   "_tags": [
     "large",
     "fiend",

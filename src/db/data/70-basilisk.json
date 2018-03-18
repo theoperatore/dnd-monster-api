@@ -45,7 +45,7 @@
   "id": "basilisk",
   "_index": 70,
   "name": "Basilisk",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/basilisk.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/basilisk.jpg",
   "_tags": [
     "medium",
     "monstrosity",

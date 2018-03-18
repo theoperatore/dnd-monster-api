@@ -45,7 +45,7 @@
   "id": "yuan-ti_pureblood",
   "_index": 756,
   "name": "Yuan-ti Pureblood",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/yuan-ti-pureblood.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/yuan-ti-pureblood.jpg",
   "_tags": [
     "medium",
     "humanoid",

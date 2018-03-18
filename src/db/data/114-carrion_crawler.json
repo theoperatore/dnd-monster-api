@@ -45,7 +45,7 @@
   "id": "carrion_crawler",
   "_index": 114,
   "name": "Carrion Crawler",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/carrion-crawler.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/carrion-crawler.jpg",
   "_tags": [
     "large",
     "monstrosity",

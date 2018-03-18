@@ -45,7 +45,7 @@
   "id": "mummy",
   "_index": 467,
   "name": "Mummy",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/mummy.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/mummy.jpg",
   "_tags": [
     "medium",
     "undead",

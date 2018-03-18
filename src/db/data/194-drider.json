@@ -45,7 +45,7 @@
   "id": "drider",
   "_index": 194,
   "name": "Drider",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/drider.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/drider.jpg",
   "_tags": [
     "large",
     "monstrosity",

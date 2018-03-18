@@ -45,7 +45,7 @@
   "id": "flameskull",
   "_index": 251,
   "name": "Flameskull",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/flameskull.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/flameskull.jpg",
   "_tags": [
     "tiny",
     "undead",

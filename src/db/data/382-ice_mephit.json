@@ -45,7 +45,7 @@
   "id": "ice_mephit",
   "_index": 382,
   "name": "Ice Mephit",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ice-mephit.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ice-mephit.jpg",
   "_tags": [
     "small",
     "elemental",

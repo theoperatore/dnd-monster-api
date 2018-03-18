@@ -45,7 +45,7 @@
   "id": "vrock",
   "_index": 690,
   "name": "Vrock",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/vrock.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/vrock.jpg",
   "_tags": [
     "large",
     "fiend",

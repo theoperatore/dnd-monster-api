@@ -45,7 +45,7 @@
   "id": "stone_giant",
   "_index": 619,
   "name": "Stone Giant",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/stone-giant.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/stone-giant.jpg",
   "_tags": [
     "huge",
     "giant",

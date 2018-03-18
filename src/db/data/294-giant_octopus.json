@@ -45,7 +45,7 @@
   "id": "giant_octopus",
   "_index": 294,
   "name": "Giant Octopus",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/giant-octopus.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/giant-octopus.jpg",
   "_tags": [
     "large",
     "beast",

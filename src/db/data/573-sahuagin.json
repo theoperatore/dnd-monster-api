@@ -45,7 +45,7 @@
   "id": "sahuagin",
   "_index": 573,
   "name": "Sahuagin",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/sahuagin.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/sahuagin.jpg",
   "_tags": [
     "medium",
     "humanoid",

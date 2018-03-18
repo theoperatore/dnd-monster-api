@@ -45,7 +45,7 @@
   "id": "kenku",
   "_index": 401,
   "name": "Kenku",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/kenku.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/kenku.jpg",
   "_tags": [
     "medium",
     "humanoid",

@@ -45,7 +45,7 @@
   "id": "ancient_brass_dragon",
   "_index": 24,
   "name": "Ancient Brass Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ancient-brass-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ancient-brass-dragon.jpg",
   "_tags": [
     "gargantuan",
     "dragon",

@@ -45,7 +45,7 @@
   "id": "frost_giant",
   "_index": 263,
   "name": "Frost Giant",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/frost-giant.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/frost-giant.jpg",
   "_tags": [
     "huge",
     "giant",

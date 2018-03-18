@@ -45,7 +45,7 @@
   "id": "smoke_mephit",
   "_index": 604,
   "name": "Smoke Mephit",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/smoke-mephit.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/smoke-mephit.jpg",
   "_tags": [
     "small",
     "elemental",

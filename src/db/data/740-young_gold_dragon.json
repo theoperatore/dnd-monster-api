@@ -45,7 +45,7 @@
   "id": "young_gold_dragon",
   "_index": 740,
   "name": "Young Gold Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/young-gold-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/young-gold-dragon.jpg",
   "_tags": [
     "large",
     "dragon",

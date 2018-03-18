@@ -45,7 +45,7 @@
   "id": "ghast",
   "_index": 273,
   "name": "Ghast",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ghast.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ghast.jpg",
   "_tags": [
     "medium",
     "undead",

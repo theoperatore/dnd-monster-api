@@ -45,7 +45,7 @@
   "id": "cult_fanatic",
   "_index": 148,
   "name": "Cult Fanatic",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/cult-fanatic.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/cult-fanatic.jpg",
   "_tags": [
     "medium",
     "humanoid",

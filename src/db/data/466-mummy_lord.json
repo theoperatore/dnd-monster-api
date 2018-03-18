@@ -45,7 +45,7 @@
   "id": "mummy_lord",
   "_index": 466,
   "name": "Mummy Lord",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/mummy-lord.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/mummy-lord.jpg",
   "_tags": [
     "medium",
     "undead",

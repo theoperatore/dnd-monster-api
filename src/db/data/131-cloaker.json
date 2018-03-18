@@ -45,7 +45,7 @@
   "id": "cloaker",
   "_index": 131,
   "name": "Cloaker",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/cloaker.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/cloaker.jpg",
   "_tags": [
     "large",
     "aberration",

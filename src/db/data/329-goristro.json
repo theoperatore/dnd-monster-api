@@ -45,7 +45,7 @@
   "id": "goristro",
   "_index": 329,
   "name": "Goristro",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/goristro.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/goristro.jpg",
   "_tags": [
     "huge",
     "fiend",

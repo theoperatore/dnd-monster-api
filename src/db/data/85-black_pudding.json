@@ -45,7 +45,7 @@
   "id": "black_pudding",
   "_index": 85,
   "name": "Black Pudding",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/black-pudding.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/black-pudding.jpg",
   "_tags": [
     "large",
     "ooze",

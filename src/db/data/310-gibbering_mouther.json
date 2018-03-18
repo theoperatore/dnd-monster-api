@@ -45,7 +45,7 @@
   "id": "gibbering_mouther",
   "_index": 310,
   "name": "Gibbering Mouther",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/gibbering-mouther.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/gibbering-mouther.jpg",
   "_tags": [
     "medium",
     "aberration",

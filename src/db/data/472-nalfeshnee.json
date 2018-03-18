@@ -45,7 +45,7 @@
   "id": "nalfeshnee",
   "_index": 472,
   "name": "Nalfeshnee",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/nalfeshnee.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/nalfeshnee.jpg",
   "_tags": [
     "large",
     "fiend",

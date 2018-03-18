@@ -45,7 +45,7 @@
   "id": "mastiff",
   "_index": 443,
   "name": "Mastiff",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/mastiff.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/mastiff.jpg",
   "_tags": [
     "medium",
     "beast",

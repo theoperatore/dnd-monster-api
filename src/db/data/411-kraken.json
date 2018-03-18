@@ -45,7 +45,7 @@
   "id": "kraken",
   "_index": 411,
   "name": "Kraken",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/kraken.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/kraken.jpg",
   "_tags": [
     "gargantuan",
     "monstrosity",

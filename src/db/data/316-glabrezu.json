@@ -45,7 +45,7 @@
   "id": "glabrezu",
   "_index": 316,
   "name": "Glabrezu",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/glabrezu.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/glabrezu.jpg",
   "_tags": [
     "large",
     "fiend",

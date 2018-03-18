@@ -45,7 +45,7 @@
   "id": "twig_blight",
   "_index": 667,
   "name": "Twig Blight",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/twig-blight.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/twig-blight.jpg",
   "_tags": [
     "small",
     "plant",

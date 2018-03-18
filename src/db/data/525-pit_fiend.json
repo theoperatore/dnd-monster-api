@@ -45,7 +45,7 @@
   "id": "pit_fiend",
   "_index": 525,
   "name": "Pit Fiend",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/pit-fiend.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/pit-fiend.jpg",
   "_tags": [
     "large",
     "fiend",

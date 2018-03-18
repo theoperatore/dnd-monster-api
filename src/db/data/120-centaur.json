@@ -45,7 +45,7 @@
   "id": "centaur",
   "_index": 120,
   "name": "Centaur",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/centaur.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/centaur.jpg",
   "_tags": [
     "large",
     "monstrosity",

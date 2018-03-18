@@ -45,7 +45,7 @@
   "id": "adult_blue_dragon",
   "_index": 7,
   "name": "Adult Blue Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/adult-blue-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/adult-blue-dragon.jpg",
   "_tags": [
     "huge",
     "dragon",

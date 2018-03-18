@@ -45,7 +45,7 @@
   "id": "medusa",
   "_index": 445,
   "name": "Medusa",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/medusa.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/medusa.jpg",
   "_tags": [
     "medium",
     "monstrosity",

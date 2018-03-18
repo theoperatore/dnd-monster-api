@@ -45,7 +45,7 @@
   "id": "weretiger",
   "_index": 707,
   "name": "Weretiger",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/weretiger.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/weretiger.jpg",
   "_tags": [
     "medium",
     "humanoid",

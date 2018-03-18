@@ -45,7 +45,7 @@
   "id": "adult_black_dragon",
   "_index": 5,
   "name": "Adult Black Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/adult-black-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/adult-black-dragon.jpg",
   "_tags": [
     "huge",
     "dragon",

@@ -45,7 +45,7 @@
   "id": "invisible_stalker",
   "_index": 389,
   "name": "Invisible Stalker",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/invisible-stalker.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/invisible-stalker.jpg",
   "_tags": [
     "medium",
     "elemental",

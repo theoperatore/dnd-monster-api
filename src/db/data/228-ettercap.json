@@ -45,7 +45,7 @@
   "id": "ettercap",
   "_index": 228,
   "name": "Ettercap",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ettercap.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ettercap.jpg",
   "_tags": [
     "medium",
     "monstrosity",

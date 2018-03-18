@@ -45,7 +45,7 @@
   "id": "adult_copper_dragon",
   "_index": 10,
   "name": "Adult Copper Dragon",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/adult-copper-dragon.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/adult-copper-dragon.jpg",
   "_tags": [
     "huge",
     "dragon",

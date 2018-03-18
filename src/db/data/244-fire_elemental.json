@@ -45,7 +45,7 @@
   "id": "fire_elemental",
   "_index": 244,
   "name": "Fire Elemental",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/fire-elemental.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/fire-elemental.jpg",
   "_tags": [
     "large",
     "elemental",

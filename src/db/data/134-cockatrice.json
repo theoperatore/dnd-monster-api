@@ -45,7 +45,7 @@
   "id": "cockatrice",
   "_index": 134,
   "name": "Cockatrice",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/cockatrice.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/cockatrice.jpg",
   "_tags": [
     "small",
     "monstrosity",

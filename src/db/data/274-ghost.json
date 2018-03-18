@@ -45,7 +45,7 @@
   "id": "ghost",
   "_index": 274,
   "name": "Ghost",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/ghost.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ghost.jpg",
   "_tags": [
     "medium",
     "undead",

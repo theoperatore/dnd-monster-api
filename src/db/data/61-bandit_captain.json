@@ -45,7 +45,7 @@
   "id": "bandit_captain",
   "_index": 61,
   "name": "Bandit Captain",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/db/assets/bandit-captain.jpg",
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/bandit-captain.jpg",
   "_tags": [
     "medium",
     "humanoid",
