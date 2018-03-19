@@ -11,9 +11,10 @@ module.exports = `
     GIANT
     HUMANOID
     MONSTROSITY
-    OOZES
-    PLANTS
+    OOZE
+    PLANT
     UNDEAD
+    SWARM
   }
 
   type MonsterHitPoints {
