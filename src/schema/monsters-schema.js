@@ -10,7 +10,7 @@ module.exports = `
     FIEND
     GIANT
     HUMANOID
-    MONSTROSITIES
+    MONSTROSITY
     OOZES
     PLANTS
     UNDEAD
