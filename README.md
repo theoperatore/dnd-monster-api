@@ -13,15 +13,11 @@ nvm use 9.0.0
 
 With the source cloned, you'll want to:
 - install dependencies
-- build the database
 - start the server
 
 ```bash
 # install deps
 yarn # or npm install
-
-# build database
-yarn build-db # or npm run build-db
 
 # start server on default port 9966
 yarn start # or npm start
@@ -62,6 +58,12 @@ You can also query by "id" or the monster's name with `_` for spaces.
 ```
 
 That's the only resource available currently.
+
+## Advanced
+
+You can rebuild the local database using `yarn build-db`. This will run the parser against the most recent version of the raw data, save it as json locally, then dump it into [leveldb]().
+
+**If you need to regenerate images**, then you'll have to dive into the code and find the switch and set it to true. I'm purposefully telling and not telling how this is done. Just be mindful of this option; you will never need it on all the time.
 
 # Content Procurement
 

@@ -7,6 +7,11 @@
   "author": "Al Petersen <theoperatore@gmail.com>",
   "license": "MIT",
   "private": true,
+  "engines": {
+    "node": ">=9.0.0",
+    "npm": ">=5",
+    "yarn": ">=1.2.1"
+  },
   "scripts": {
     "build-db": "node src/db/createDb.js",
     "start": "node src/main.js"
