@@ -218,7 +218,8 @@ async function convertFileToJson(file, index, arr, getImages = false) {
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function convertMdToJson(jsonFiles) {
-  const requestImages = true;
+  const requestImages = false;
+  const delayTime = requestImages ? 1000 : 10;
   if (requestImages) {
     const assetDesination = path.resolve(__dirname, 'assets');
     await fse.emptyDir(assetDesination)
@@ -232,7 +233,7 @@ async function convertMdToJson(jsonFiles) {
   const final = await jsonFiles.reduce((promise, file, idx, arr) => {
     return promise.then(result => {
       out.push(result[1]);
-      return Promise.all([delay(1000), convertFileToJson(file, idx, arr, requestImages)]);
+      return Promise.all([delay(delayTime), convertFileToJson(file, idx, arr, requestImages)]);
     });
   }, Promise.resolve([null, null]));
 

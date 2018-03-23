@@ -11,8 +11,8 @@
       "ability": "DEX"
     },
     "CON": {
-      "score": 15,
-      "mod": 2,
+      "score": 25,
+      "mod": 7,
       "ability": "CON"
     },
     "INT": {

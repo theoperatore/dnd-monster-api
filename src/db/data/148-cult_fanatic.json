@@ -35,7 +35,7 @@
   "armorClass": "13 (leather armor)",
   "challengeRating": "2",
   "hitPoints": {
-    "average": 22,
+    "average": 33,
     "roll": "6d8+6"
   },
   "race": "HUMANOID",
