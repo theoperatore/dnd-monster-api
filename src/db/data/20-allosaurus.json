@@ -35,7 +35,7 @@
   "armorClass": "15 (natural armor)",
   "challengeRating": "2",
   "hitPoints": {
-    "average": 60,
+    "average": 51,
     "roll": "6d10+18"
   },
   "race": "BEAST",
