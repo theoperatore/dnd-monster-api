@@ -4,7 +4,6 @@ require('dotenv').config();
 
 const path = require('path');
 const level = require('level');
-const fastMemoize = require('fast-memoize');
 const cors = require('cors');
 const compression = require('compression');
 const helmet = require('helmet');
@@ -14,24 +13,24 @@ const { buildSchema } = require('graphql');
 
 // schemas and services
 const MonsterService = require('./services/monsterService');
+const MonsterStore = require('./stores/monsterStore');
 const schema = buildSchema(require('./schema/monsters-schema'));
 
 const PORT = process.env.PORT || 9966;
 const app = express();
 
 const db = level(path.resolve(process.cwd(), 'src/db/builtDb'), { valueEncoding: 'json' });
-const monsterService = new MonsterService(db);
+const monsterStore = new MonsterStore(db);
+const monsterService = new MonsterService(monsterStore);
 
-const memoizedGetMonsters = fastMemoize(
-  ({ id, limit, offset }) => id
-    ? monsterService.getMonsterById(id)
-    : monsterService.getMonstersRange(limit, offset)
-);
+const getMonsters = ({ id, limit, offset }) => id
+  ? monsterService.getMonsterById(id)
+  : monsterService.getMonstersRange(limit, offset);
 
 const graphqlConfig = {
   schema,
   rootValue: {
-    getMonsters: memoizedGetMonsters,
+    getMonsters,
   },
   graphiql: process.env !== 'production',
 };
