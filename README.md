@@ -44,15 +44,13 @@ Get 10 monsters starting from the 10th monster in the database (range 10 - 19). 
 }
 ```
 
-You can also query by "id" or the monster's name with `_` for spaces.
+You can also query by "id" or the monster's name lowercase with `_` for spaces.
 ```
 {
-  getMonsters(id: "adult_white_dragon") {
-    monsters {
-      name
-      armorClass
-      challengeRating
-    }
+  getMonster(id: "adult_white_dragon") {
+    name
+    armorClass
+    challengeRating
   }
 }
 ```
