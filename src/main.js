@@ -23,6 +23,9 @@ const db = new Yadb(path.resolve(process.cwd(), 'src/db/data'));
 const monsterStore = new MonsterStore(db);
 const monsterService = new MonsterService(monsterStore);
 
+// TODO: actually make reolvers rather than resource getters.
+// TODO: create a different way to get data...possibly employ
+//       friends with beer as payment for hand coding...
 const graphqlConfig = {
   schema,
   rootValue: {
