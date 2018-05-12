@@ -96,10 +96,12 @@ module.exports = `
 
   type ApiListResponse {
     count: Int
+    total: Int
     monsters: [Monster]!
   }
 
   type Query {
-    getMonsters(id: ID, limit: Int = 10, offset: Int = 0): ApiListResponse
+    getMonsters(limit: Int = 10, offset: Int = 0): ApiListResponse
+    getMonster(id: ID!): Monster
   }
 `;

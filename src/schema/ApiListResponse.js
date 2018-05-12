@@ -1,9 +1,10 @@
 'use strict';
 
 class ApiListResponse {
-  constructor({ count = 0, monsters = [] } = {}) {
+  constructor({ total = 0, count = 0, monsters = [] } = {}) {
     this.count = count;
     this.monsters = monsters;
+    this.total = total;
   }
 }
 

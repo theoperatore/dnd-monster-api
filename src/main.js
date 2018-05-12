@@ -3,13 +3,13 @@
 require('dotenv').config();
 
 const path = require('path');
-const level = require('level');
 const cors = require('cors');
 const compression = require('compression');
 const helmet = require('helmet');
 const express = require('express');
 const graphqlHTTP = require('express-graphql');
 const { buildSchema } = require('graphql');
+const Yadb = require('./yadb/ya-db');
 
 // schemas and services
 const MonsterService = require('./services/monsterService');
@@ -19,18 +19,19 @@ const schema = buildSchema(require('./schema/monsters-schema'));
 const PORT = process.env.PORT || 9966;
 const app = express();
 
-const db = level(path.resolve(process.cwd(), 'src/db/builtDb'), { valueEncoding: 'json' });
+const db = new Yadb(path.resolve(process.cwd(), 'src/db/data'));
 const monsterStore = new MonsterStore(db);
 const monsterService = new MonsterService(monsterStore);
-
-const getMonsters = ({ id, limit, offset }) => id
-  ? monsterService.getMonsterById(id)
-  : monsterService.getMonstersRange(limit, offset);
 
 const graphqlConfig = {
   schema,
   rootValue: {
-    getMonsters,
+    getMonsters({ limit, offset }) {
+      return monsterService.getMonstersRange(limit, offset);
+    },
+    getMonster({ id }) {
+      return monsterService.getMonsterById(id);
+    },
   },
   graphiql: process.env !== 'production',
 };

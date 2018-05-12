@@ -7,33 +7,23 @@ class MonsterStore {
     this.db = db;
   }
 
-  _inRange(num, min, max) {
-    return num >= min && num < max;
+  getTotalMonsterCount() {
+    return this.db.getTotal();
   }
 
   // returns an array of Monster objects that are in range
   // starting from the offset provided.
   getMonstersRange(limit, offset) {
-    const min = offset;
-    const max = offset + limit;
-    return new Promise((resolve, reject) => {
-      const monsters = [];
-      this.db.createValueStream()
-        .on('data', monster => {
-          if (this._inRange(monster._index, min, max)) {
-            monsters.push(new Monster(monster));
-          }
-        })
-        .on('close', () => resolve(monsters))
-        .on('error', reject);
-    });
+    return this.db
+      .readRange(limit, offset)
+      .then(monsters => monsters.map(m => new Monster(m)));
   }
 
   // return a promise that resolves to a single monster given the monster
   // id.
   // throws if the monster is not found.
   getMonsterById(id) {
-    return this.db.get(id).then(monster => new Monster(monster));
+    return this.db.findFirst(id).then(monster => monster? new Monster(monster) : null);
   }
 }
 
