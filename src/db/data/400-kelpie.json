@@ -32,7 +32,7 @@
     }
   },
   "alignment": "NEUTRAL_EVIL",
-  "armorClass": "14 (natural armor)If the charmed target is more than 5 feet away from the kelpie, the target must move on its turn toward the kelpie by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks.",
+  "armorClass": "14 (natural armor)",
   "challengeRating": "4",
   "hitPoints": {
     "average": 67,
@@ -40,7 +40,7 @@
   },
   "race": "PLANT",
   "size": "MEDIUM",
-  "speed": "10 ft., swim 30 ft.A target that successfully saves is immune to this kelpie's hypnosis for the next 24 hours.",
+  "speed": "10 ft., swim 30 ft.",
   "source": "tales-from-the-yawning-portal",
   "id": "kelpie",
   "_index": 400,

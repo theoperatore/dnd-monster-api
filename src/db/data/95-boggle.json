@@ -32,7 +32,7 @@
     }
   },
   "alignment": "CHAOTIC_NEUTRAL",
-  "armorClass": "14If the oil is sticky, any creature that enters the puddle's area or starts its turn there must succeed on a DC 11 Strength saving throw or be restrained. On its turn. a creature can use an action to try to extricate itself from the sticky puddle, ending the effect and moving into the nearest safe unoccupied space with a successful DC 11 Strength check.",
+  "armorClass": "14",
   "challengeRating": "1/8",
   "hitPoints": {
     "average": 18,

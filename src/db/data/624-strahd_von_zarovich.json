@@ -32,7 +32,7 @@
     }
   },
   "alignment": "LAWFUL_EVIL",
-  "armorClass": "16 (natural armor)While in mist form, Strahd can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 30 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage he takes from sunlight.Harmed by Running Water: He takes 20 acid damage if he ends his turn in running water.",
+  "armorClass": "16 (natural armor)",
   "challengeRating": "15",
   "hitPoints": {
     "average": 144,
@@ -40,7 +40,7 @@
   },
   "race": "UNDEAD",
   "size": "MEDIUM",
-  "speed": "30 ft.Sunlight Hypersensitivity: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.",
+  "speed": "30 ft.",
   "source": "curse-of-strahd",
   "id": "strahd_von_zarovich",
   "_index": 624,

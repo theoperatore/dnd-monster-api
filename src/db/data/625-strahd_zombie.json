@@ -32,7 +32,7 @@
     }
   },
   "alignment": "UNALIGNED",
-  "armorClass": "8A severed leg is unable to attack and has a speed of 5 feet.",
+  "armorClass": "8",
   "challengeRating": "1",
   "hitPoints": {
     "average": 30,
@@ -40,7 +40,7 @@
   },
   "race": "UNDEAD",
   "size": "MEDIUM",
-  "speed": "20 ft.If its head is severed, the zombie loses its bite attack and its body is blinded unless the head can see it. The severed head has a speed of 0 feet. It can make a bite attack but only against a target in its space.",
+  "speed": "20 ft.",
   "source": "curse-of-strahd",
   "id": "strahd_zombie",
   "_index": 625,
