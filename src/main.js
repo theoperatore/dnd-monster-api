@@ -28,13 +28,19 @@ const monsterService = new MonsterService(monsterStore);
 //       friends with beer as payment for hand coding...
 const graphqlConfig = {
   schema,
+  // rootValue: new QueryResolver(),
   rootValue: {
+    // getMonsters: new ApiListResponse(),
+    // getMonster: new Monster(),
     getMonsters({ limit, offset }) {
       return monsterService.getMonstersRange(limit, offset);
     },
     getMonster({ id }) {
       return monsterService.getMonsterById(id);
     },
+  },
+  context: {
+    monsterStore,
   },
   graphiql: process.env !== 'production',
 };

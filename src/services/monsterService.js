@@ -7,18 +7,14 @@ class MonsterService {
     this.monsterStore = monsterStore;
   }
 
-  async getMonstersRange(limit, offset) {
-    try {
-      const monsters = await this.monsterStore.getMonstersRange(limit, offset);
-      const total = await this.monsterStore.getTotalMonsterCount();
-      return new ApiListResponse({
+  getMonstersRange(limit, offset) {
+    return this.monsterStore
+      .getMonstersRange(limit, offset)
+      .then(monsters => new ApiListResponse({
         count: monsters.length,
-        total,
         monsters,
-      });
-    } catch (e) {
-      return new ApiListResponse();
-    }
+      }))
+      .catch(() => new ApiListResponse());
   }
 
   getMonsterById(id) {

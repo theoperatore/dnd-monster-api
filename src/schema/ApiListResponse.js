@@ -1,10 +1,13 @@
 'use strict';
 
 class ApiListResponse {
-  constructor({ total = 0, count = 0, monsters = [] } = {}) {
+  constructor({ count = 0, monsters = [] } = {}) {
     this.count = count;
     this.monsters = monsters;
-    this.total = total;
+  }
+
+  total(fieldParams, context) {
+    return context.monsterStore.getTotalMonsterCount();
   }
 }
 
