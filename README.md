@@ -61,7 +61,7 @@ That's the only resource available currently.
 
 ## Advanced
 
-You can rebuild the local database using `yarn build-db`. This will run the parser against the most recent version of the raw data, save it as json locally, then dump it into [leveldb]().
+You can rebuild the local database using `yarn build-db`. This will run the parser against the most recent version of the raw data and save it as json locally.
 
 **If you need to regenerate images**, then you'll have to dive into the code and find the switch and set it to true. I'm purposefully telling and not telling how this is done. Just be mindful of this option; you will never need it on all the time.
 
