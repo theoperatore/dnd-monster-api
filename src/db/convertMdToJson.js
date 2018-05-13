@@ -62,8 +62,8 @@ const utils = require('./utils');
 <p><strong><em>Summon Air Elemental.</em></strong> Five aarakocra within 30 feet of each other can magically summon an air elemental. Each of the five must use its action and movement on three consecutive turns to perform an aerial dance and must maintain concentration while doing so (as if concentrating on a spell). When all five have finished their third turn of the dance, the elemental appears in an unoccupied space within 60 feet of them. It is friendly toward them and obeys their spoken commands. It remains for 1 hour, until it or all its summoners die, or until any of its summoners dismisses it as a bonus action. A summoner can&#39;t perform the dance again until it finishes a short rest. When the elemental returns to the Elemental Plane of Air, any aarakocra within 5 feet of it can return with it.</p>
 */
 
-const IMAGE_SCRAPING_ENDPOINT = 'https://www.aidedd.org/dnd/monstres.php?vo=';
-const IMAGE_SCRAPING_ENDPOINT_VF = 'https://www.aidedd.org/dnd/monstres.php?vf=';
+// document.querySelectorAll('tr > td:first-child > a');
+const IMAGE_MONSTER_LIST_ENDPOINT = 'https://www.aidedd.org/regles/monstres/?l=1&min=Z&max=30&c=&sz=&lg=&t=&s=';
 
 const ABILITY_BY_INDEX = [
   'STR',
@@ -151,6 +151,36 @@ function parseMarkdown(md) {
   });
 }
 
+async function getMonsterMasterList(dom) {
+  const allAnchors = dom.window.document.querySelectorAll('tr > td:first-child > a');
+  const arr = [];
+  for (let i = 0; i < allAnchors.length; i++) {
+    const monsterlink = allAnchors[i];
+    const name = monsterlink.innerHTML
+      .replace('<strong>', '')
+      .replace('</strong>', '')
+      .replace('*', '')
+      .trim();
+
+    const id = name
+      .toLowerCase()
+      .split(' ')
+      .join('_');
+
+    arr.push({
+      href: monsterlink.href,
+      name,
+      id,
+    });
+  }
+
+  return arr;
+}
+
+function findMonsterInList(masterList, monsterId) {
+  return masterList.find(master => master.id === monsterId);
+}
+
 async function findImageFromDom(dom) {
   const imgTag = dom.window.document.querySelector('img');
   return imgTag ? imgTag.src : null;
@@ -168,7 +198,7 @@ async function getAndSaveImageData(imgUrl, destination) {
   });
 }
 
-async function convertFileToJson(file, index, arr, getImages = false) {
+async function convertFileToJson(file, index, arr, getImages = false, masterList = []) {
   utils.info(`[${index + 1}/${arr.length}]`, file.title);
   const convertedContent = await parseMarkdown(file.content);
   const parsedMonsterStats = await parseStats(convertedContent, file);
@@ -196,18 +226,11 @@ async function convertFileToJson(file, index, arr, getImages = false) {
   let imageUrl = null;
   let imageUrlOut = require(path.resolve(__dirname, `./data/${index}-${id}.json`)).image || null;
   if (getImages) {
-    const dom = await JSDOM.fromURL(`${IMAGE_SCRAPING_ENDPOINT}${imgName}`);
-    imageUrl = await findImageFromDom(dom);
-    if (imageUrl) {
-      const parts = imageUrl.split('.');
-      const ext = parts[parts.length - 1];
-      const destination = path.resolve(__dirname, `assets/${imgName}.${ext}`);
-      imageUrlOut = `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/${imgName}.${ext}`;
-      await getAndSaveImageData(imageUrl, destination);
-    } else {
-      const vfdom = await JSDOM.fromURL(`${IMAGE_SCRAPING_ENDPOINT_VF}${imgName}`);
-      imageUrl = await findImageFromDom(vfdom);
-
+    const masterListMonster = findMonsterInList(masterList, id);
+    if (masterListMonster) {
+      console.log('\trequesting image: ', masterListMonster.href, ' : ', masterListMonster.name, masterListMonster.id);
+      const dom = await JSDOM.fromURL(masterListMonster.href);
+      imageUrl = await findImageFromDom(dom);
       if (imageUrl) {
         const parts = imageUrl.split('.');
         const ext = parts[parts.length - 1];
@@ -232,9 +255,13 @@ const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 async function convertMdToJson(jsonFiles) {
   const requestImages = false;
   const delayTime = requestImages ? 1000 : 10;
+  let masterList = null;
   if (requestImages) {
-    const assetDesination = path.resolve(__dirname, 'assets');
-    await fse.emptyDir(assetDesination)
+    // uncomment to empty images directory on regetting..
+    // const assetDesination = path.resolve(__dirname, 'assets');
+    // await fse.emptyDir(assetDesination)
+    const listDom = await JSDOM.fromURL(IMAGE_MONSTER_LIST_ENDPOINT);
+    masterList = await getMonsterMasterList(listDom);
   }
   // const tmp = await convertFileToJson(jsonFiles[0], 0, []);
   // return [tmp];
@@ -245,7 +272,7 @@ async function convertMdToJson(jsonFiles) {
   const final = await jsonFiles.reduce((promise, file, idx, arr) => {
     return promise.then(result => {
       out.push(result[1]);
-      return Promise.all([delay(delayTime), convertFileToJson(file, idx, arr, requestImages)]);
+      return Promise.all([delay(delayTime), convertFileToJson(file, idx, arr, requestImages, masterList)]);
     });
   }, Promise.resolve([null, null]));
 
