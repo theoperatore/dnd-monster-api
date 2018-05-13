@@ -45,7 +45,7 @@
   "id": "duergar_stone_guard",
   "_index": 209,
   "name": "Duergar Stone Guard",
-  "image": null,
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/duergar-stone-guard.jpg",
   "_tags": [
     "medium",
     "humanoid",

@@ -63,6 +63,7 @@ const utils = require('./utils');
 */
 
 const IMAGE_SCRAPING_ENDPOINT = 'https://www.aidedd.org/dnd/monstres.php?vo=';
+const IMAGE_SCRAPING_ENDPOINT_VF = 'https://www.aidedd.org/dnd/monstres.php?vf=';
 
 const ABILITY_BY_INDEX = [
   'STR',
@@ -203,6 +204,17 @@ async function convertFileToJson(file, index, arr, getImages = false) {
       const destination = path.resolve(__dirname, `assets/${imgName}.${ext}`);
       imageUrlOut = `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/${imgName}.${ext}`;
       await getAndSaveImageData(imageUrl, destination);
+    } else {
+      const vfdom = await JSDOM.fromURL(`${IMAGE_SCRAPING_ENDPOINT_VF}${imgName}`);
+      imageUrl = await findImageFromDom(vfdom);
+
+      if (imageUrl) {
+        const parts = imageUrl.split('.');
+        const ext = parts[parts.length - 1];
+        const destination = path.resolve(__dirname, `assets/${imgName}.${ext}`);
+        imageUrlOut = `https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/${imgName}.${ext}`;
+        await getAndSaveImageData(imageUrl, destination);
+      }
     }
   }
 
