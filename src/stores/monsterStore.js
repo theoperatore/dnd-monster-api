@@ -1,6 +1,6 @@
 'use strict';
 
-const Monster = require('../schema/Monster');
+const MonsterResolver = require('../resolvers/MonsterResolver');
 
 class MonsterStore {
   constructor(db) {
@@ -11,19 +11,19 @@ class MonsterStore {
     return this.db.getTotal();
   }
 
-  // returns an array of Monster objects that are in range
+  // returns an array of MonsterResolver objects that are in range
   // starting from the offset provided.
   getMonstersRange(limit, offset) {
     return this.db
       .readRange(limit, offset)
-      .then(monsters => monsters.map(m => new Monster(m)));
+      .then(monsters => monsters.map(m => new MonsterResolver(m)));
   }
 
   // return a promise that resolves to a single monster given the monster
   // id.
   // throws if the monster is not found.
   getMonsterById(id) {
-    return this.db.findFirst(id).then(monster => monster? new Monster(monster) : null);
+    return this.db.findFirst(id).then(monster => monster? new MonsterResolver(monster) : null);
   }
 }
 

@@ -1,6 +1,6 @@
 'use strict';
 
-class Monster {
+class MonsterResolver {
   constructor({ id, name, race, armorClass, hitPoints, image, challengeRating, size, speed, alignment, abilityScores, _tags, _index }) {
     this.id = id;
     this.name = name;
@@ -18,4 +18,4 @@ class Monster {
   }
 }
 
-module.exports = Monster;
+module.exports = MonsterResolver;
