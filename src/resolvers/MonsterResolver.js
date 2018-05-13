@@ -1,7 +1,7 @@
 'use strict';
 
 class MonsterResolver {
-  constructor({ id, name, race, armorClass, hitPoints, image, challengeRating, size, speed, alignment, abilityScores, _tags, _index }) {
+  constructor({ id, name, race, armorClass, hitPoints, image, challengeRating, size, speed, alignment, abilityScores, source, _tags, _index }) {
     this.id = id;
     this.name = name;
     this.race = race;
@@ -13,6 +13,7 @@ class MonsterResolver {
     this.speed = speed;
     this.alignment = alignment;
     this.abilityScores = abilityScores;
+    this.source = source;
     this._index = _index;
     this._tags = _tags;
   }

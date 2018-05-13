@@ -92,6 +92,7 @@ module.exports = `
     speed: String
     alignment: MonsterAlignment
     abilityScores: MonsterAbilityScoresMap
+    source: String
   }
 
   type ApiListResponse {
