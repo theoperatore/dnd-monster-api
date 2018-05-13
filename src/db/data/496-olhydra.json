@@ -42,6 +42,42 @@
   "size": "HUGE",
   "speed": "50 ft., swim 100 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Aquan"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Str +11",
+    "Con +13",
+    "Wis +10"
+  ],
+  "abilities": [
+    {
+      "name": "Empowered Attacks.",
+      "description": "Olhydra's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Olhydra's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). She can innately cast the following spells, requiring no material components:\n* At will: wall of ice\n* 3/day: ice storm\n* 1/day: storm of vengeance",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Olhydra fails a saving throw, she can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Olhydra has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Water Form.",
+      "description": "Olhydra can enter a hostile creature's space and stop there. She can move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    }
+  ],
   "id": "olhydra",
   "_index": 496,
   "name": "Olhydra",

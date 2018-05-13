@@ -42,6 +42,32 @@
   "size": "HUGE",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +11",
+    "Stealth +7"
+  ],
+  "savingThrows": [
+    "Dex +7",
+    "Con +10",
+    "Wis +6",
+    "Cha +8"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "adult_black_dragon",
   "_index": 5,
   "name": "Adult Black Dragon",

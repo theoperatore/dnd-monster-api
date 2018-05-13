@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Acrobatics +4",
+    "Athletics +3",
+    "Perception +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Unarmored Defense.",
+      "description": "While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    },
+    {
+      "name": "Unarmored Movement.",
+      "description": "While the monk is wearing no armor and wielding no shield, its walking speed increases by 10 feet (included in its speed).",
+      "recharge": null
+    }
+  ],
   "id": "sacred_stone_monk",
   "_index": 570,
   "name": "Sacred Stone Monk",

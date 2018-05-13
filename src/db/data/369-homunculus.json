@@ -42,6 +42,18 @@
   "size": "TINY",
   "speed": "20 ft., fly 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands the languages of its creator but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Telepathic Bond.",
+      "description": "While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.",
+      "recharge": null
+    }
+  ],
   "id": "homunculus",
   "_index": 369,
   "name": "Homunculus",

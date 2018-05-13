@@ -42,6 +42,20 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Gnoll"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Dex +4"
+  ],
+  "abilities": [
+    {
+      "name": "Rampage.",
+      "description": "When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.",
+      "recharge": null
+    }
+  ],
   "id": "gnoll_flesh_gnawer",
   "_index": 319,
   "name": "Gnoll Flesh Gnawer",

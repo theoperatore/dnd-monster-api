@@ -42,6 +42,35 @@
   "size": "MEDIUM",
   "speed": "30 ft., fly 90 ft.",
   "source": "monster-manual",
+  "languages": [
+    "all",
+    "telepathy 120 ft."
+  ],
+  "skills": [
+    "Insight +9",
+    "Perception +9"
+  ],
+  "savingThrows": [
+    "Wis +9",
+    "Cha +9"
+  ],
+  "abilities": [
+    {
+      "name": "Angelic Weapons.",
+      "description": "The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:\nAt will: detect evil and good\n1/day each: commune, raise dead",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The deva has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "deva",
   "_index": 173,
   "name": "Deva",

@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Undercommon"
+  ],
+  "skills": [
+    "Arcana +3",
+    "Insight +4",
+    "Perception +2",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Sight.",
+      "description": "The nothic has advantage on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "nothic",
   "_index": 489,
   "name": "Nothic",

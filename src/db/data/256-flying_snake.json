@@ -42,6 +42,16 @@
   "size": "TINY",
   "speed": "30 ft., fly 60 ft., swim 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Flyby.",
+      "description": "The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "recharge": null
+    }
+  ],
   "id": "flying_snake",
   "_index": 256,
   "name": "Flying Snake",

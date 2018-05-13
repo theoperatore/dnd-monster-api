@@ -42,6 +42,29 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Infernal",
+    "telepathy 120 ft."
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Dex +7",
+    "Con +9",
+    "Wis +7",
+    "Cha +9"
+  ],
+  "abilities": [
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede the devil's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The devil has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "ice_devil_spear",
   "_index": 380,
   "name": "Ice Devil Spear",

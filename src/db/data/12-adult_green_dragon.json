@@ -42,6 +42,35 @@
   "size": "HUGE",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Deception +8",
+    "Insight +7",
+    "Perception +12",
+    "Persuasion +8",
+    "Stealth +6"
+  ],
+  "savingThrows": [
+    "Dex +6",
+    "Con +10",
+    "Wis +7",
+    "Cha +8"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "adult_green_dragon",
   "_index": 12,
   "name": "Adult Green Dragon",

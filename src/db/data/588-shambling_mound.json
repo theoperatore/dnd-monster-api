@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "20 ft., swim 20 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Stealth +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Lightning Absorption.",
+      "description": "Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.",
+      "recharge": null
+    }
+  ],
   "id": "shambling_mound",
   "_index": 588,
   "name": "Shambling Mound",

@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    }
+  ],
   "id": "mastiff",
   "_index": 443,
   "name": "Mastiff",

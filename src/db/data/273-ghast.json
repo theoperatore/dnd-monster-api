@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Stench.",
+      "description": "Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.",
+      "recharge": null
+    },
+    {
+      "name": "Turn Defiance.",
+      "description": "The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.",
+      "recharge": null
+    }
+  ],
   "id": "ghast",
   "_index": 273,
   "name": "Ghast",

@@ -42,6 +42,38 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "the languages it knew in life"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Str +7",
+    "Con +7",
+    "Wis +6",
+    "Cha +7"
+  ],
+  "abilities": [
+    {
+      "name": "Regeneration.",
+      "description": "The revenant regains 10 hit points at the start of its turn. If the revenant takes fire or radiant damage, this trait doesn't function at the start of the revenant's next turn. The revenant's body is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    },
+    {
+      "name": "Rejuvenation.",
+      "description": "When the revenant's body is destroyed, its soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.",
+      "recharge": null
+    },
+    {
+      "name": "Turn Immunity.",
+      "description": "The revenant is immune to effects that turn undead.",
+      "recharge": null
+    },
+    {
+      "name": "Vengeful Tracker.",
+      "description": "The revenant knows the distance to and direction of any creature against which it seeks revenge, even if the creature and the revenant are on different planes of existence. If the creature being tracked by the revenant dies, the revenant knows.",
+      "recharge": null
+    }
+  ],
   "id": "revenant",
   "_index": 559,
   "name": "Revenant",

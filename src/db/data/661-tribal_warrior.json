@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "any one language"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pack Tactics.",
+      "description": "The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
   "id": "tribal_warrior",
   "_index": 661,
   "name": "Tribal Warrior",

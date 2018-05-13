@@ -42,6 +42,15 @@
   "size": "SMALL",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +0"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "kobold_inventor",
   "_index": 406,
   "name": "Kobold Inventor",

@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Thri-kreen"
+  ],
+  "skills": [
+    "Perception +3",
+    "Stealth +4",
+    "Survival +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Chameleon Carapace.",
+      "description": "The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity (Stealth) checks made to hide.",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The thri-kreen's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.",
+      "recharge": null
+    }
+  ],
   "id": "thri-kreen",
   "_index": 650,
   "name": "Thri-kreen",

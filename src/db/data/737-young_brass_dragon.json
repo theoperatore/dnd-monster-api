@@ -42,6 +42,22 @@
   "size": "LARGE",
   "speed": "40 ft., burrow 20 ft., fly 80 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +6",
+    "Persuasion +5",
+    "Stealth +3"
+  ],
+  "savingThrows": [
+    "Dex +3",
+    "Con +6",
+    "Wis +3",
+    "Cha +5"
+  ],
+  "abilities": [],
   "id": "young_brass_dragon",
   "_index": 737,
   "name": "Young Brass Dragon",

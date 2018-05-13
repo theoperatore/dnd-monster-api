@@ -42,6 +42,12 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Common but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
   "id": "needle_blight",
   "_index": 477,
   "name": "Needle Blight",

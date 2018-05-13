@@ -42,6 +42,16 @@
   "size": "SMALL",
   "speed": "30 ft., climb 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pack Tactics.",
+      "description": "The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
   "id": "baboon",
   "_index": 57,
   "name": "Baboon",

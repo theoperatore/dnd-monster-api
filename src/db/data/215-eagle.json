@@ -42,6 +42,18 @@
   "size": "SMALL",
   "speed": "10 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Sight.",
+      "description": "The eagle has advantage on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "eagle",
   "_index": 215,
   "name": "Eagle",

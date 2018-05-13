@@ -42,6 +42,47 @@
   "size": "HUGE",
   "speed": "50 ft., swim 50 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "all",
+    "telepathy 120 ft."
+  ],
+  "skills": [
+    "Insight +11",
+    "Perception +19"
+  ],
+  "savingThrows": [
+    "Dex +10",
+    "Con +16",
+    "Wis +11",
+    "Cha +15"
+  ],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Demogorgon's spellcasting ability is Charisma (spell save DC 23). Demogorgon can innately cast the following spells, requiring no material components:\nAt will: detect magic, major image\n3/day each: dispel magic, fear, telekinesis\n1/day each: feeblemind, project image",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Demogorgon fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Demogorgon has advantage on saving throws against spell and other magic effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapon.",
+      "description": "Demogorgon's weapon attacks are magical",
+      "recharge": null
+    },
+    {
+      "name": "Two Heads.",
+      "description": "Demogorgon has advantage on saving throws against being blinded, defened, stunned, and knocked unconscious.",
+      "recharge": null
+    }
+  ],
   "id": "demogorgon",
   "_index": 170,
   "name": "Demogorgon",

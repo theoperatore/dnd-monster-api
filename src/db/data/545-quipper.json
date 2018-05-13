@@ -42,6 +42,21 @@
   "size": "TINY",
   "speed": "swim 40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Blood Frenzy.",
+      "description": "The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The quipper can breathe only underwater.",
+      "recharge": null
+    }
+  ],
   "id": "quipper",
   "_index": 545,
   "name": "Quipper",

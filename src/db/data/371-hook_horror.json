@@ -42,6 +42,25 @@
   "size": "LARGE",
   "speed": "30 ft., climb 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Hook Horror"
+  ],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Echolocation.",
+      "description": "The hook horror can't use its blindsight while deafened.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing.",
+      "description": "The hook horror has advantage on Wisdom (Perception) checks that rely on hearing.",
+      "recharge": null
+    }
+  ],
   "id": "hook_horror",
   "_index": 371,
   "name": "Hook Horror",

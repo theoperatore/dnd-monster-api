@@ -42,6 +42,23 @@
   "size": "LARGE",
   "speed": "30 ft., swim 90 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Aquan"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Water Form.",
+      "description": "The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    },
+    {
+      "name": "Freeze.",
+      "description": "If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 ft. until the end of its next turn.",
+      "recharge": null
+    }
+  ],
   "id": "water_elemental",
   "_index": 700,
   "name": "Water Elemental",

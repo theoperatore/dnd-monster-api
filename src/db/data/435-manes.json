@@ -42,6 +42,12 @@
   "size": "SMALL",
   "speed": "20 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Abyssal but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
   "id": "manes",
   "_index": 435,
   "name": "Manes",

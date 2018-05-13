@@ -42,6 +42,14 @@
   "size": "MEDIUM",
   "speed": "30 ft., climb 30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "understands Draconic but can't speak it"
+  ],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "red_guard_drake",
   "_index": 553,
   "name": "Red Guard Drake",

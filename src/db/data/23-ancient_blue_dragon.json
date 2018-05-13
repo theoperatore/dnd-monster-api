@@ -42,6 +42,21 @@
   "size": "GARGANTUAN",
   "speed": "40 ft., burrow 40 ft., fly 80 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +17",
+    "Stealth +7"
+  ],
+  "savingThrows": [
+    "Dex +7",
+    "Con +15",
+    "Wis +10",
+    "Cha +12"
+  ],
+  "abilities": [],
   "id": "ancient_blue_dragon",
   "_index": 23,
   "name": "Ancient Blue Dragon",

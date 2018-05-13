@@ -42,6 +42,13 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Giant"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
   "id": "half-ogre_(ogrillon)",
   "_index": 354,
   "name": "Half-Ogre (Ogrillon)",

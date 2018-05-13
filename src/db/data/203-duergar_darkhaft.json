@@ -42,6 +42,29 @@
   "size": "MEDIUM",
   "speed": "25 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "Dwarvish",
+    "Undercommon"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The darkhaft's innate spellcasting ability is Intelligence (spell save DC 10) it can innately cast the following spells, requiring no components:\nAt will: friends, mage hand\n1/day each: disguise self, sleep",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Duergar Resilience.",
+      "description": "The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "duergar_darkhaft",
   "_index": 203,
   "name": "Duergar Darkhaft",

@@ -42,6 +42,32 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Undercommon"
+  ],
+  "skills": [
+    "Athletics +5",
+    "Perception +3",
+    "Stealth +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Blind Senses.",
+      "description": "The grimlock can't use its blindsight while deafened and unable to smell.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Stone Camouflage.",
+      "description": "The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+      "recharge": null
+    }
+  ],
   "id": "grimlock",
   "_index": 343,
   "name": "Grimlock",

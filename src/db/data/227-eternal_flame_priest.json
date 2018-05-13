@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Common",
+    "Ignan"
+  ],
+  "skills": [
+    "Deception +5",
+    "Intimidation +5",
+    "Religion +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:\n* Cantrips (at will): control flames, create bonfire, fire bolt, light, minor illusion\n* 1st level (4 slots): burning hands, expeditious retreat, mage armor\n* 2nd level (3 slots): blur, scorching ray\n* 3rd level (2 slots): fireball",
+      "recharge": null
+    }
+  ],
   "id": "eternal_flame_priest",
   "_index": 227,
   "name": "Eternal Flame Priest",

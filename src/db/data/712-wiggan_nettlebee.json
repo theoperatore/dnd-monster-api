@@ -42,6 +42,27 @@
   "size": "SMALL",
   "speed": "30 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Common",
+    "Halfling"
+  ],
+  "skills": [
+    "Deception +3",
+    "Insight +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Brave Devotion.",
+      "description": "Wiggan has advantage on saving throws against being charmed or frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Wiggan is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared:\n* Cantrips (at will): guidance, light, mending, shillelagh, thaumaturgy\n* 1st Level (4 slots): animal friendship, cure wounds, healing word, inflict wounds, speak with animals\n* 2nd Level (3 slots): barkskin, spike growth, spiritual weapon",
+      "recharge": null
+    }
+  ],
   "id": "wiggan_nettlebee",
   "_index": 712,
   "name": "Wiggan Nettlebee",

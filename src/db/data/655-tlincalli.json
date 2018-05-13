@@ -42,6 +42,16 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Tlincalli"
+  ],
+  "skills": [
+    "Perception +4",
+    "Stealth +4",
+    "Survival +4"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "tlincalli",
   "_index": 655,
   "name": "Tlincalli",

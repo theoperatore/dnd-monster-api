@@ -42,6 +42,13 @@
   "size": "SMALL",
   "speed": "0 ft., swim 30 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "Abyssal",
+    "Ixitxachitl"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
   "id": "ixitxachitl",
   "_index": 392,
   "name": "Ixitxachitl",

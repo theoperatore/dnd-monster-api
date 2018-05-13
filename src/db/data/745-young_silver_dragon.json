@@ -42,6 +42,23 @@
   "size": "LARGE",
   "speed": "40 ft., fly 80 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Arcana +6",
+    "History +6",
+    "Perception +8",
+    "Stealth +4"
+  ],
+  "savingThrows": [
+    "Dex +4",
+    "Con +9",
+    "Wis +4",
+    "Cha +8"
+  ],
+  "abilities": [],
   "id": "young_silver_dragon",
   "_index": 745,
   "name": "Young Silver Dragon",

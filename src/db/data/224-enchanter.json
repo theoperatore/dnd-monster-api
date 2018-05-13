@@ -42,6 +42,24 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "any four languages"
+  ],
+  "skills": [
+    "Arcana +6",
+    "History +6"
+  ],
+  "savingThrows": [
+    "Int +6",
+    "Wis +4"
+  ],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The enchanter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The enchanter has the following wizard spells prepared:\nCantrips (at will): friends, mage hand, mending, message\n1st level (4 slots): charm person*, mage armor, magic missile\n2nd level (3 slots): hold person*, invisibility, suggestion*\n3rd level (3 slots): fireball, haste, tongues\n4th level (3 slots): dominate beast*, stoneskin\n5th level (2 slots): hold monster*\n*Enchantment spell of 1st level or higher",
+      "recharge": null
+    }
+  ],
   "id": "enchanter",
   "_index": 224,
   "name": "Enchanter",

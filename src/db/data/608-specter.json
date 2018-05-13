@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "0 ft., fly 50 ft. (hover)",
   "source": "monster-manual",
+  "languages": [
+    "understands all languages it knew in life but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "specter",
   "_index": 608,
   "name": "Specter",

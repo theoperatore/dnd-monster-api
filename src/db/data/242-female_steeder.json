@@ -42,6 +42,25 @@
   "size": "LARGE",
   "speed": "30 ft., climb 30 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "-"
+  ],
+  "skills": [
+    "Stealth +7"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spider Climb.",
+      "description": "The steeder can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Leap.",
+      "description": "The steeder can expend all its movement on its turn to jump up to 90 feet vertically or horizontally, provided that is speed is at least 30 feet.",
+      "recharge": null
+    }
+  ],
   "id": "female_steeder",
   "_index": 242,
   "name": "Female Steeder",

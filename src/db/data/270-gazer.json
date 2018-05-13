@@ -42,6 +42,26 @@
   "size": "TINY",
   "speed": "0 ft., fly 30 ft. (hover)",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [
+    "Perception +4",
+    "Stealth +2"
+  ],
+  "savingThrows": [
+    "Wis +2"
+  ],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the gazer can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Mimicry.",
+      "description": "The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
+      "recharge": null
+    }
+  ],
   "id": "gazer",
   "_index": 270,
   "name": "Gazer",

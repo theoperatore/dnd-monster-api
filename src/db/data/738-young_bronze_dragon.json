@@ -42,6 +42,28 @@
   "size": "LARGE",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Insight +4",
+    "Perception +7",
+    "Stealth +3"
+  ],
+  "savingThrows": [
+    "Dex +3",
+    "Con +7",
+    "Wis +4",
+    "Cha +6"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "young_bronze_dragon",
   "_index": 738,
   "name": "Young Bronze Dragon",

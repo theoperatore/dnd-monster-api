@@ -42,6 +42,29 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "any four languages"
+  ],
+  "skills": [
+    "Arcana +8",
+    "History +8"
+  ],
+  "savingThrows": [
+    "Int +8",
+    "Wis +5"
+  ],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The abjurer is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The abjurer has the following wizard spells prepared:\nCantrips (at will): blade ward. dancing lights, mending, message, ray of frost\n1st level (4 slots): alarm*, mage armor, magic missile, shield*\n2nd level (3 slots): arcane lock*, invisibility\n3rd level (3 slots): counterspell*, dispel magic*, fireball\n4th level (3 slots): banishment*, stoneskin*\n5th level (2 slots): cone of cold, wall of force\n6th level (1 slot): flesh to stone, globe of invulnerability*\n7th level (1 slot): symbol* teleport\n*Abjuration spell of 1st level or higher",
+      "recharge": null
+    },
+    {
+      "name": "Arcane Ward.",
+      "description": "The abjurer has a magical ward that has 30 hit points. Whenever the abjurer takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the abjurer takes any remaining damage. When the abjurer casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.",
+      "recharge": null
+    }
+  ],
   "id": "abjurer",
   "_index": 1,
   "name": "Abjurer",

@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "understands Gnoll but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Rampage.",
+      "description": "When the witherling reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make a bite attack.",
+      "recharge": null
+    }
+  ],
   "id": "gnoll_witherling",
   "_index": 322,
   "name": "Gnoll Witherling",

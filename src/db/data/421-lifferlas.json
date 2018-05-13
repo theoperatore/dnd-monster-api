@@ -42,6 +42,23 @@
   "size": "HUGE",
   "speed": "20 ft.",
   "source": "storm-kings-thunder",
+  "languages": [
+    "Common"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While Lifferlas remains motionless, it is indistinguishable from a normal tree.",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "A druid of the Emerald Enclave awakened the tree Lifferlas with a spell. Goldenfields is his home, its people his friends. Children like to carve their name and initials into his body and hang from his boughs, and he's happy with that.\nIdeal: \"I exist to protect the people and plants of Goldenfields.\"\nBond: \"Children are wonderful. I would do anything to make them feel happy and safe.\"\nFlaw: \"I can't remember people's names and often get them mixed up.\"",
+      "recharge": null
+    }
+  ],
   "id": "lifferlas",
   "_index": 421,
   "name": "Lifferlas",

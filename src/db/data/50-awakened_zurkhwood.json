@@ -42,6 +42,23 @@
   "size": "HUGE",
   "speed": "20 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "one language known by its creator"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the tree remains motionless, it is indistinguishable from a normal zurkhwood mushroom.",
+      "recharge": null
+    },
+    {
+      "name": "Mute.",
+      "description": "If the awakened zurkhwood was created by a myconid sovereign, it can't speak.",
+      "recharge": null
+    }
+  ],
   "id": "awakened_zurkhwood",
   "_index": 50,
   "name": "Awakened Zurkhwood",

@@ -42,6 +42,36 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Athletics +S",
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 243",
+      "recharge": null
+    },
+    {
+      "name": "Barkskin.",
+      "description": "Sir Braford's AC can't be lower than 16.",
+      "recharge": null
+    },
+    {
+      "name": "Special Equipment.",
+      "description": "Sir Braford wields Shatterspike, a magic longsword that grants a + 1 bonus to attack and damage rolls made with it (included in his attack). See appendix B for the item's other properties.",
+      "recharge": null
+    },
+    {
+      "name": "Tree Thrall.",
+      "description": "If the Gulthias Tree dies, Sir Braford dies 24 hours later.",
+      "recharge": null
+    }
+  ],
   "id": "sir_braford",
   "_index": 597,
   "name": "Sir Braford",

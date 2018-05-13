@@ -42,6 +42,25 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +6",
+    "Stealth +5"
+  ],
+  "savingThrows": [
+    "Dex +5",
+    "Wis +4"
+  ],
+  "abilities": [
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, Naergoth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "naergoth_bladelord",
   "_index": 471,
   "name": "Naergoth Bladelord",

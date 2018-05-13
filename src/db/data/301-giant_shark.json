@@ -42,6 +42,23 @@
   "size": "HUGE",
   "speed": "swim 50 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Blood Frenzy.",
+      "description": "The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The shark can breathe only underwater.",
+      "recharge": null
+    }
+  ],
   "id": "giant_shark",
   "_index": 301,
   "name": "Giant Shark",

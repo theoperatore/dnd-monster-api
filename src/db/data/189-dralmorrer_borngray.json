@@ -42,6 +42,47 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Common",
+    "Bullywug",
+    "Draconic",
+    "Elvish",
+    "Goblin",
+    "Sylvan"
+  ],
+  "skills": [
+    "Arcana +5",
+    "Deception +1",
+    "Insight +2",
+    "Perception +2",
+    "Religion +5"
+  ],
+  "savingThrows": [
+    "Str +6",
+    "Con +4"
+  ],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "Dralmorrer has advantage on saving throws against being charmed, and magic can't put him to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list:\n* Cantrips (at will): fire bolt, prestidigitation, shocking grasp\n* 1st level (4 slots): longstrider, magic missile, shield, thunderwave\n* 2nd level (2 slots): magic weapon, misty step",
+      "recharge": null
+    },
+    {
+      "name": "War Magic.",
+      "description": "When Dralmorrer uses his action to cast a cantrip, he can also take a bonus action to make one weapon attack.",
+      "recharge": null
+    },
+    {
+      "name": "Weapon Bond.",
+      "description": "Provided his longsword is on the same plane Dralmorrer can take a bonus action to teleport it to his hand.",
+      "recharge": null
+    }
+  ],
   "id": "dralmorrer_borngray",
   "_index": 189,
   "name": "Dralmorrer Borngray",

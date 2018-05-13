@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "50 ft., fly 50 ft. (hover)",
   "source": "monster-manual",
+  "languages": [
+    "Auran",
+    "understands Common but doesn't speak it"
+  ],
+  "skills": [
+    "Perception +8",
+    "Stealth +10"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Invisibility.",
+      "description": "The stalker is invisible.",
+      "recharge": null
+    },
+    {
+      "name": "Faultless Tracker.",
+      "description": "The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.",
+      "recharge": null
+    }
+  ],
   "id": "invisible_stalker",
   "_index": 389,
   "name": "Invisible Stalker",

@@ -42,6 +42,20 @@
   "size": "MEDIUM",
   "speed": "10 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Stealth +1"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the blight remains motionless, it is indistinguishable from a tangle of vines.",
+      "recharge": null
+    }
+  ],
   "id": "vine_blight",
   "_index": 687,
   "name": "Vine Blight",

@@ -42,6 +42,19 @@
   "size": "MEDIUM",
   "speed": "0 ft., swim 30 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "Abyssal",
+    "Ixitxachitl"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The ixtachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachil has the following cleric spells prepared:\nCantrips (at will): guidance, thaumaturgy\n1st level (4 slots): charm person, create or destroy water\n2nd level (3 slots): hold person, silence\n3rd level (2 slots): dispel magic, tongues",
+      "recharge": null
+    }
+  ],
   "id": "vampiric_ixitxachitl_cleric",
   "_index": 678,
   "name": "Vampiric Ixitxachitl Cleric",

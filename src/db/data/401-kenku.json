@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Auran and Common but speaks only through the use of its Mimicry trait"
+  ],
+  "skills": [
+    "Deception +4",
+    "Perception +2",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ambusher.",
+      "description": "In the first round of a combat, the kenku has advantage on attack rolls against any creature it surprised",
+      "recharge": null
+    },
+    {
+      "name": "Mimicry.",
+      "description": "The kenku can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.",
+      "recharge": null
+    }
+  ],
   "id": "kenku",
   "_index": 401,
   "name": "Kenku",

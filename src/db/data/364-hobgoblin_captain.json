@@ -42,6 +42,19 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Goblin"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Martial Advantage.",
+      "description": "Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.",
+      "recharge": null
+    }
+  ],
   "id": "hobgoblin_captain",
   "_index": 364,
   "name": "Hobgoblin Captain",

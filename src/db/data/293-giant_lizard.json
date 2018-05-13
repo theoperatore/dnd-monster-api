@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "30 ft., climb 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Variant: Hold Breath.",
+      "description": "The lizard can hold its breath for 15 minutes. (A lizard that has this trait also has a swimming speed of 30 feet.)",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Spider Climb.",
+      "description": "The lizard can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
   "id": "giant_lizard",
   "_index": 293,
   "name": "Giant Lizard",

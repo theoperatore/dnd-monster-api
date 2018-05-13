@@ -42,6 +42,33 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands the languages of its creator but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fire Absorption.",
+      "description": "Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.",
+      "recharge": null
+    },
+    {
+      "name": "Immutable Form.",
+      "description": "The golem is immune to any spell or effect that would alter its form.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The golem has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The golem's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
   "id": "iron_golem",
   "_index": 390,
   "name": "Iron Golem",

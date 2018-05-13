@@ -42,6 +42,25 @@
   "size": "MEDIUM",
   "speed": "30 ft. (40 ft., climb 30 ft. in bear or hybrid form)",
   "source": "monster-manual",
+  "languages": [
+    "Common (can't speak in bear form)"
+  ],
+  "skills": [
+    "Perception +7"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it. is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Smell.",
+      "description": "The werebear has advantage on WisGlom (Perception) checks that rely on smell.",
+      "recharge": null
+    }
+  ],
   "id": "werebear",
   "_index": 703,
   "name": "Werebear",

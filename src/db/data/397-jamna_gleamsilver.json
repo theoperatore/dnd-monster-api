@@ -42,6 +42,41 @@
   "size": "SMALL",
   "speed": "25 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Common",
+    "Gnomish",
+    "Goblin",
+    "Sylvan"
+  ],
+  "skills": [
+    "Acrobatics +5",
+    "Deception +3",
+    "Insight +2",
+    "Perception +4",
+    "Persuasion +3",
+    "Stealth +7"
+  ],
+  "savingThrows": [
+    "Dex +5",
+    "Int +4"
+  ],
+  "abilities": [
+    {
+      "name": "Cunning Action.",
+      "description": "Jamna can take a bonus action to take the Dash, Disengage, or Hide action.",
+      "recharge": null
+    },
+    {
+      "name": "Gnome Cunning.",
+      "description": "Jamna has advantage on Intelligence, Wisdom and Charisma saving throws against magic.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Jamna is a 4th-level spellcaster that uses Intelligence as her spellcasting ability (spell save DC 12, +4 to hit with spell attacks). Jamna has the following spells prepared from the wizard spell list.\n* Cantrips (at will): mage hand, minor illusion, prestidigitation, ray of frost\n* 1st level (3 slots): charm person, color spray, disguise self, longstrider",
+      "recharge": null
+    }
+  ],
   "id": "jamna_gleamsilver",
   "_index": 397,
   "name": "Jamna Gleamsilver",

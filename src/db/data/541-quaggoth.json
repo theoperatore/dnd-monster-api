@@ -42,6 +42,20 @@
   "size": "MEDIUM",
   "speed": "30 ft., climb 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Undercommon"
+  ],
+  "skills": [
+    "Athletics +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Wounded Fury.",
+      "description": "While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.",
+      "recharge": null
+    }
+  ],
   "id": "quaggoth",
   "_index": 541,
   "name": "Quaggoth",

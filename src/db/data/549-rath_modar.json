@@ -42,6 +42,35 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Infernal",
+    "Primordial",
+    "Thayan"
+  ],
+  "skills": [
+    "Arcana +7",
+    "Deception +3",
+    "Insight +5",
+    "Stealth +6"
+  ],
+  "savingThrows": [
+    "Int +7",
+    "Wis +5"
+  ],
+  "abilities": [
+    {
+      "name": "Special Equipment.",
+      "description": "Rath has a staff of fire, and scrolls of dimension door, feather fall, and fireball.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:\n* Cantrips (at will): fire bolt, minor illusion, prestidigitation, shocking grasp\n* 1st level (4 slots): chromatic orb, color spray, mage armor, magic missile\n* 2nd level (3 slots): detect thoughts, mirror image, phantasmal force\n* 3rd level (3 slots): counterspell, fireball, major image\n* 4th level (3 slots): confusion, greater invisibility\n* 5th level (2 slots): mislead, seeming\n* 6th level (1 slot): globe of invulnerability",
+      "recharge": null
+    }
+  ],
   "id": "rath_modar",
   "_index": 549,
   "name": "Rath Modar",

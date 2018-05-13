@@ -42,6 +42,31 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Deception +6",
+    "Insight +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Ambusher.",
+      "description": "In the first round of a combat, the doppelganger has advantage on attack rolls against any creature it surprised",
+      "recharge": null
+    },
+    {
+      "name": "Surprise Attack.",
+      "description": "If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.",
+      "recharge": null
+    }
+  ],
   "id": "doppelganger",
   "_index": 181,
   "name": "Doppelganger",

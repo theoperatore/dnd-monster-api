@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Iron Scent.",
+      "description": "The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.",
+      "recharge": null
+    },
+    {
+      "name": "Rust Metal.",
+      "description": "Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Non magical ammunition made of metal that hits the rust monster is destroyed after dealing damage.",
+      "recharge": null
+    }
+  ],
   "id": "rust_monster",
   "_index": 568,
   "name": "Rust Monster",

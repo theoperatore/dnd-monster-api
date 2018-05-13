@@ -42,6 +42,55 @@
   "size": "HUGE",
   "speed": "30 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "all",
+    "telepathy 120 ft."
+  ],
+  "skills": [
+    "Perception +12"
+  ],
+  "savingThrows": [
+    "Dex +7",
+    "Con +13",
+    "Wis +12"
+  ],
+  "abilities": [
+    {
+      "name": "Foul.",
+      "description": "Any creature, other than an ooze, that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature's next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Juiblex's spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). Juiblex can innately cast the following spells, requiring no material components:\nAt will: acid splash (17th level), detect magic\n3/day each: blight, contagion, gaseous form",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Juiblex fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Juiblex has advantage on saving throws against spell and other magic effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapon.",
+      "description": "Juiblex's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "Juiblex regains 20 hit points at the start of its turn. If it takes fire or radiant damage, this trait doesn't function at the start of its next turn. Juiblex dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "Juiblex can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
   "id": "juiblex",
   "_index": 398,
   "name": "Juiblex",

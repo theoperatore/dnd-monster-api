@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "20 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "understands Abyssal but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fungus Stride.",
+      "description": "Once on its turn, the bridesmaid can use 10 feet of its movement to step magically into one living mushroom or fungus patch within 5 feet and emerge from another within 60 feet of the first one, appearing in an unoccupied space within 5 feet of the second mushroom or fungus patch. The mushrooms and patches must be large or bigger.",
+      "recharge": null
+    }
+  ],
   "id": "bridesmaid_of_zuggtmoy",
   "_index": 101,
   "name": "Bridesmaid of Zuggtmoy",

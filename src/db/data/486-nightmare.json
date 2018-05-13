@@ -42,6 +42,25 @@
   "size": "LARGE",
   "speed": "60 ft., fly 90 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Abyssal",
+    "Common",
+    "and Infernal but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Confer Fire Resistance.",
+      "description": "The nightmare can grant resistance to fire damage to anyone riding it.",
+      "recharge": null
+    },
+    {
+      "name": "Illumination.",
+      "description": "The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
+      "recharge": null
+    }
+  ],
   "id": "nightmare",
   "_index": 486,
   "name": "Nightmare",

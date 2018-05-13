@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Common",
+    "Ignan"
+  ],
+  "skills": [
+    "Intimidation +4",
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Searing Armor.",
+      "description": "The razerblast's armor is hot. Any creature grappling the razerblast or grappled by it takes 5 (1d10) fire damage at the end of that creature's turn.",
+      "recharge": null
+    },
+    {
+      "name": "Shrapnel Explosion.",
+      "description": "When the razerblast drops to 0 hit points, a flaming orb in its chest explodes, destroying the razerblast's body and scattering its armor as shrapnel. Creatures within 10 feet of the razerblast when it explodes must succeed on a DC 12 Dexterity saving throw, taking 21 (6d6) piercing damage on a failed save, or half as much damage on a successful one.",
+      "recharge": null
+    }
+  ],
   "id": "razerblast",
   "_index": 551,
   "name": "Razerblast",

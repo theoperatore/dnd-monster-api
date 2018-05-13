@@ -42,6 +42,47 @@
   "size": "GARGANTUAN",
   "speed": "50 ft..",
   "source": "storm-kings-thunder",
+  "languages": [
+    "Ignan"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Con +12",
+    "Wis +7",
+    "Cha +11"
+  ],
+  "abilities": [
+    {
+      "name": "Empowered Attacks.",
+      "description": "Maegera's slam attacks are treated as magical for the purpose of overcoming resistance and immunity to damage from nonmagical attacks.",
+      "recharge": null
+    },
+    {
+      "name": "Fire Aura.",
+      "description": "At the start of each of Maegera's turns, each creature within 30 feet of it takes 35 (10d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature also takes 35 (10d6) fire damage from touching Maegera or from hitting it with a melee attack while within 10 feet of it, and a creature takes that damage the first time on a turn that Maegera moves into its space. Nonmagical weapons that hit Maegera are destroyed by fire immediately after dealing damage to it.",
+      "recharge": null
+    },
+    {
+      "name": "Fire Form.",
+      "description": "Maegera can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing if fire could pass through that space.",
+      "recharge": null
+    },
+    {
+      "name": "Illumination.",
+      "description": "Maegera sheds bright light in a 120-foot radius and dim light in an additional 120 ft..",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Maegera's can innately cast fireball (spell save DC 19) at will, requiring no material components. Maegera's spell casting ability is Charisma.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Maegera has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "maegera_the_dawn_titan",
   "_index": 428,
   "name": "Maegera the Dawn Titan",

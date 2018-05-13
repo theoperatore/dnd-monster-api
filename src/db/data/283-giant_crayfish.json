@@ -42,6 +42,23 @@
   "size": "LARGE",
   "speed": "30 ft., swim 30 ft.",
   "source": "tales-from-the-yawning-portal",
+  "languages": [],
+  "skills": [
+    "Stealth +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 235",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "The giant crayfish can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "giant_crayfish",
   "_index": 283,
   "name": "Giant Crayfish",

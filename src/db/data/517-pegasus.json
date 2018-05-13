@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "60 ft., fly 90 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Celestial",
+    "Common",
+    "Elvish",
+    "and Sylvan but can't speak"
+  ],
+  "skills": [
+    "Perception +6"
+  ],
+  "savingThrows": [
+    "Dex +4",
+    "Wis +4",
+    "Cha +3"
+  ],
+  "abilities": [],
   "id": "pegasus",
   "_index": 517,
   "name": "Pegasus",

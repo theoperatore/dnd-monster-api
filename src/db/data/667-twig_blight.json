@@ -42,6 +42,20 @@
   "size": "SMALL",
   "speed": "20 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Common but can't speak"
+  ],
+  "skills": [
+    "Stealth +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the blight remains motionless, it is indistinguishable from a dead shrub.",
+      "recharge": null
+    }
+  ],
   "id": "twig_blight",
   "_index": 667,
   "name": "Twig Blight",

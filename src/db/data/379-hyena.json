@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "50 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pack Tactics.",
+      "description": "The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
   "id": "hyena",
   "_index": 379,
   "name": "Hyena",

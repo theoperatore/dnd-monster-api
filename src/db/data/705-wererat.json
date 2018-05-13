@@ -42,6 +42,26 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common (can't speak in rat form)"
+  ],
+  "skills": [
+    "Perception +2",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Smell.",
+      "description": "The wererat has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    }
+  ],
   "id": "wererat",
   "_index": 705,
   "name": "Wererat",

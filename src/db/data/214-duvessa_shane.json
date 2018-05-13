@@ -42,6 +42,25 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
+  "languages": [
+    "Common",
+    "Dwarvish",
+    "Giant",
+    "Orc"
+  ],
+  "skills": [
+    "Deception +5",
+    "Insight +3",
+    "Persuasion +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Roleplaying Information.",
+      "description": "The daughter of a Waterdhavian trader and a tavern server, Duvessa has her mother's talent for negotiation and her father's charm. As the first woman to serve as Town Speaker of BRyn Shander, and a young one at that, she has much to prove.\nIdeal: \"The people of Icewind Dale are survivors. They can weather any storm.\"\nBond: \"My mother taught me what it means to be a good leader. I won't disappoint her.\"\nFlaw: \"I don't give an inch in any argument of conflict.\"",
+      "recharge": null
+    }
+  ],
   "id": "duvessa_shane",
   "_index": 214,
   "name": "Duvessa Shane",

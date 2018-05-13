@@ -42,6 +42,38 @@
   "size": "LARGE",
   "speed": "30 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Infernal",
+    "telepathy 120 ft."
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Dex +8",
+    "Con +13",
+    "Wis +10"
+  ],
+  "abilities": [
+    {
+      "name": "Fear Aura.",
+      "description": "Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The pit fiend has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The pit fiend's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:\nAt will: detect magic, fireball\n3/day each: hold monster, wall of fire",
+      "recharge": null
+    }
+  ],
   "id": "pit_fiend",
   "_index": 525,
   "name": "Pit Fiend",

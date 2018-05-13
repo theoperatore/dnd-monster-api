@@ -42,6 +42,24 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Auran",
+    "Common"
+  ],
+  "skills": [
+    "Animal Handling +2",
+    "Athletics +5",
+    "Deception +4",
+    "Persuasion +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells:\n* Cantrips (at will): friends, gust, light, message, ray of frost\n* 1st level (4 slots): expeditious retreat, feather fall, jump\n* 2nd level (3 slots): levitate, misty step\n* 3rd level (2 slots): haste",
+      "recharge": null
+    }
+  ],
   "id": "thurl_merosska",
   "_index": 652,
   "name": "Thurl Merosska",

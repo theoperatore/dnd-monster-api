@@ -42,6 +42,26 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Giant",
+    "Orc"
+  ],
+  "skills": [
+    "Perception +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Two Heads.",
+      "description": "The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.",
+      "recharge": null
+    },
+    {
+      "name": "Wakeful.",
+      "description": "When one of the ettin's heads is asleep, its other head is awake.",
+      "recharge": null
+    }
+  ],
   "id": "ettin",
   "_index": 229,
   "name": "Ettin",

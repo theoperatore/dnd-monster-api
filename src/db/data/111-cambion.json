@@ -42,6 +42,35 @@
   "size": "MEDIUM",
   "speed": "30 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "Common",
+    "Infernal"
+  ],
+  "skills": [
+    "Deception +6",
+    "Intimidation +6",
+    "Perception +4",
+    "Stealth +7"
+  ],
+  "savingThrows": [
+    "Str +7",
+    "Con +6",
+    "Int +5",
+    "Cha +6"
+  ],
+  "abilities": [
+    {
+      "name": "Fiendish Blessing.",
+      "description": "The AC of the cambion includes its Charisma bonus.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The cambion's spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components:\n3/day each: alter self, command, detect magic\n1/day: plane shift (self only)",
+      "recharge": null
+    }
+  ],
   "id": "cambion",
   "_index": 111,
   "name": "Cambion",

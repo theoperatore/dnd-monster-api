@@ -42,6 +42,26 @@
   "size": "MEDIUM",
   "speed": "0 ft., fly 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Echolocation.",
+      "description": "The swarm can't use its blindsight while deafened.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing.",
+      "description": "The swarm has advantage on Wisdom (Perception) checks that rely on hearing.",
+      "recharge": null
+    },
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    }
+  ],
   "id": "swarm_of_bats",
   "_index": 628,
   "name": "Swarm of Bats",

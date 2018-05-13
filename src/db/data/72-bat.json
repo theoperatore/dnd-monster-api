@@ -42,6 +42,21 @@
   "size": "TINY",
   "speed": "5 ft., fly 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Echolocation.",
+      "description": "The bat can't use its blindsight while deafened.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing.",
+      "description": "The bat has advantage on Wisdom (Perception) checks that rely on hearing.",
+      "recharge": null
+    }
+  ],
   "id": "bat",
   "_index": 72,
   "name": "Bat",

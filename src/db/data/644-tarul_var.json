@@ -42,6 +42,61 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
+  "languages": [
+    "Abyssal",
+    "Common",
+    "Infernal",
+    "Primordial",
+    "Thayan"
+  ],
+  "skills": [
+    "Arcana +9",
+    "History +9",
+    "Insight +7",
+    "Perception +7"
+  ],
+  "savingThrows": [
+    "Con +8",
+    "Int +9",
+    "Wis +7"
+  ],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 244",
+      "recharge": null
+    },
+    {
+      "name": "Undead Nature.",
+      "description": "A lich doesn't require air, food, drink, or sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Focused Conjuration.",
+      "description": "While Var is concentrating on a conjuration spell, his concentration can't be broken as a result of taking damage.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Var fails a saving throw, he can choose to succeed instead .",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Rejuvenation.",
+      "description": "If Var is destroyed but his phylactery remains intact, Var gains a new body in ldlO days, regaining all his hit points and becoming active again. The new body appears within 5 feet of the phylactery.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Var is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:\nCantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray of frost \n1st level (4 slots): detect magic, magic missile, shield, unseen servant*\n2nd level (3 slots): detect thoughts, flaming sphere,* mirror image, scorching ray \n3rd level (3 slots): counterspell, dispel magic, fireball\n4th level (3 slots): dimension door,* Evard's black tentacles*\n5th level (3 slots): cloudkill,* scrying \n6th level (1 slot): circle of death \n*Conjuration spell of 1st level or higher.",
+      "recharge": null
+    },
+    {
+      "name": "Turn Resistance.",
+      "description": "Var has advantage on saving throws against any effect that turns undead .",
+      "recharge": null
+    }
+  ],
   "id": "tarul_var",
   "_index": 644,
   "name": "Tarul Var",

@@ -42,6 +42,29 @@
   "size": "GARGANTUAN",
   "speed": "40 ft., fly 80 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Arcana +11",
+    "History +11",
+    "Perception +16",
+    "Stealth +7"
+  ],
+  "savingThrows": [
+    "Dex +7",
+    "Con +16",
+    "Wis +9",
+    "Cha +13"
+  ],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "ancient_silver_dragon",
   "_index": 30,
   "name": "Ancient Silver Dragon",

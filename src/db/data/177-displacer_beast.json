@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Avoidance.",
+      "description": "If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails .",
+      "recharge": null
+    },
+    {
+      "name": "Displacement.",
+      "description": "The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is incapacitated or has a speed of 0.",
+      "recharge": null
+    }
+  ],
   "id": "displacer_beast",
   "_index": 177,
   "name": "Displacer Beast",

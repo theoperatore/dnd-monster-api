@@ -42,6 +42,29 @@
   "size": "LARGE",
   "speed": "10 ft., swim 60 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +4",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "While out of water, the octopus can hold its breath for 1 hour.",
+      "recharge": null
+    },
+    {
+      "name": "Underwater Camouflage.",
+      "description": "The octopus has advantage on Dexterity (Stealth) checks made while underwater.",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The octopus can breathe only underwater.",
+      "recharge": null
+    }
+  ],
   "id": "giant_octopus",
   "_index": 294,
   "name": "Giant Octopus",

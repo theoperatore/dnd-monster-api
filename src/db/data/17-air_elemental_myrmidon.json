@@ -42,6 +42,19 @@
   "size": "MEDIUM",
   "speed": "30 ft., fly 30 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Auran",
+    "one language of its creator's choice"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Weapons.",
+      "description": "The myrmidon's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
   "id": "air_elemental_myrmidon",
   "_index": 17,
   "name": "Air Elemental Myrmidon",

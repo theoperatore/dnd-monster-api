@@ -42,6 +42,19 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "Abyssal",
+    "telepathy 60 ft."
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If Yestabrod fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(1/Day)."
+    }
+  ],
   "id": "yestabrod",
   "_index": 731,
   "name": "Yestabrod",

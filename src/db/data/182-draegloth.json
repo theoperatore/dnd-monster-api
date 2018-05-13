@@ -42,6 +42,28 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Abyssal",
+    "Elvish",
+    "Undercommon"
+  ],
+  "skills": [
+    "Perception +3",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The draegloth's innate spellcasting ability is Charisma (spell save DC 11). The draegloth can innately cast the following spells, requiring no material components:\nAt will: darkness\n1/day each: confusion, dancing lights, faerie fire",
+      "recharge": null
+    }
+  ],
   "id": "draegloth",
   "_index": 182,
   "name": "Draegloth",

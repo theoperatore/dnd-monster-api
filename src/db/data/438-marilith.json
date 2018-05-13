@@ -42,6 +42,34 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "telepathy 120 ft."
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Str +9",
+    "Con +10",
+    "Wis +8",
+    "Cha +10"
+  ],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The marilith has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The marilith's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Reactive.",
+      "description": "The marilith can take one reaction on every turn in combat.",
+      "recharge": null
+    }
+  ],
   "id": "marilith",
   "_index": 438,
   "name": "Marilith",

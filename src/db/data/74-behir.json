@@ -42,6 +42,15 @@
   "size": "HUGE",
   "speed": "50 ft., climb 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +6",
+    "Stealth +7"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "behir",
   "_index": 74,
   "name": "Behir",

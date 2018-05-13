@@ -42,6 +42,32 @@
   "size": "GARGANTUAN",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +16",
+    "Stealth +9"
+  ],
+  "savingThrows": [
+    "Dex +9",
+    "Con +14",
+    "Wis +9",
+    "Cha +11"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "ancient_black_dragon",
   "_index": 22,
   "name": "Ancient Black Dragon",

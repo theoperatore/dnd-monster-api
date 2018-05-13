@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "any one language (usually Common)"
+  ],
+  "skills": [
+    "Nature +4",
+    "Perception +5",
+    "Stealth +6",
+    "Survival +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Sight.",
+      "description": "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+      "recharge": null
+    }
+  ],
   "id": "scout",
   "_index": 578,
   "name": "Scout",

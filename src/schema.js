@@ -1,4 +1,10 @@
 module.exports = `
+  type MonsterAbility {
+    name: String!,
+    description: String!,
+    recharge: String,
+  }
+
   enum MonsterRace {
     ABERRATION
     BEAST
@@ -93,6 +99,10 @@ module.exports = `
     alignment: MonsterAlignment
     abilityScores: MonsterAbilityScoresMap
     source: String
+    abilities: [MonsterAbility]!
+    languages: [String]!
+    skills: [String]!
+    savingThrows: [String]!
   }
 
   type ApiListResponse {

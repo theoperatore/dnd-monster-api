@@ -42,6 +42,20 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Otyugh"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Con +7"
+  ],
+  "abilities": [
+    {
+      "name": "Limited Telepathy.",
+      "description": "The otyugh can magically transmit simple messages and images to any creature within 120 ft. of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.",
+      "recharge": null
+    }
+  ],
   "id": "otyugh",
   "_index": 512,
   "name": "Otyugh",

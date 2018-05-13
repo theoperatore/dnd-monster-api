@@ -42,6 +42,35 @@
   "size": "LARGE",
   "speed": "40 ft., climb 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "telepathy 120 ft."
+  ],
+  "skills": [
+    "Perception +5",
+    "Stealth +5"
+  ],
+  "savingThrows": [
+    "Dex +5",
+    "Con +6"
+  ],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:\n1/day each: entangle, phantasmal force\n2/day each: disguise self, invisibility (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Reckless.",
+      "description": "At the start of its turn, the barlgura can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Running Leap.",
+      "description": "The barlgura's long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start.",
+      "recharge": null
+    }
+  ],
   "id": "barlgura",
   "_index": 68,
   "name": "Barlgura",

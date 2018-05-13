@@ -42,6 +42,17 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "lost-mine-of-phandelver",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [
+    "Str +3",
+    "Con +3"
+  ],
+  "abilities": [],
   "id": "sildar_hallwinter",
   "_index": 594,
   "name": "Sildar Hallwinter",

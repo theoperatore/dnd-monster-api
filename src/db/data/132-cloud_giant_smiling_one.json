@@ -42,6 +42,38 @@
   "size": "HUGE",
   "speed": "40 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Giant"
+  ],
+  "skills": [
+    "Deception +11",
+    "Insight +7",
+    "Perception +7",
+    "Sleight of Hand +9"
+  ],
+  "savingThrows": [
+    "Con +10",
+    "Int +6",
+    "Wis +7"
+  ],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The giant's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:\nAt will: detect magic, fog cloud, light\n3/day each: featherfall, fly, misty step, telekinesis\n1/day each: control weather, gaseous form",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The giant is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The giant has the following bard spells prepared:\nCantrips (at will): minor illusion, prestidigitation, vicious mockery\n1st level (4 slots): cure wounds, disguise self, silent image, Tasha's hideous laughter\n2nd level (3 slots): invisibility, suggestion\n3rd level (2 slots): major image, tongues",
+      "recharge": null
+    },
+    {
+      "name": "Keen Smell.",
+      "description": "The giant has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    }
+  ],
   "id": "cloud_giant_smiling_one",
   "_index": 132,
   "name": "Cloud Giant Smiling One",

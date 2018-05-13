@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Sight and Smell.",
+      "description": "The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.",
+      "recharge": null
+    }
+  ],
   "id": "owlbear",
   "_index": 514,
   "name": "Owlbear",

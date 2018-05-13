@@ -42,6 +42,33 @@
   "size": "GARGANTUAN",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Insight +10",
+    "Perception +17",
+    "Stealth +7"
+  ],
+  "savingThrows": [
+    "Dex +7",
+    "Con +15",
+    "Wis +10",
+    "Cha +12"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "ancient_bronze_dragon",
   "_index": 25,
   "name": "Ancient Bronze Dragon",

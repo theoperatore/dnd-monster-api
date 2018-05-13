@@ -42,6 +42,30 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal"
+  ],
+  "skills": [
+    "Perception +7"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the minotaur moves at least 10 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 ft. away and knocked prone.",
+      "recharge": null
+    },
+    {
+      "name": "Labyrinthine Recall.",
+      "description": "The minotaur can perfectly recall any path it has traveled.",
+      "recharge": null
+    },
+    {
+      "name": "Reckless.",
+      "description": "At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.",
+      "recharge": null
+    }
+  ],
   "id": "minotaur",
   "_index": 456,
   "name": "Minotaur",

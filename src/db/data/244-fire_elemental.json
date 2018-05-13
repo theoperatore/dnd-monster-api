@@ -42,6 +42,28 @@
   "size": "LARGE",
   "speed": "50 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Ignan"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fire Form.",
+      "description": "The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.",
+      "recharge": null
+    },
+    {
+      "name": "Illumination.",
+      "description": "The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 ft..",
+      "recharge": null
+    },
+    {
+      "name": "Water Susceptibility.",
+      "description": "For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.",
+      "recharge": null
+    }
+  ],
   "id": "fire_elemental",
   "_index": 244,
   "name": "Fire Elemental",

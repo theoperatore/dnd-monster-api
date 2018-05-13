@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "0 ft., swim 60 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the dolphin moves at least 30 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 3 (1d6) bludgeoning damage.",
+      "recharge": null
+    },
+    {
+      "name": "Hold Breath.",
+      "description": "The dolphin can hold its breath for 20 minutes.",
+      "recharge": null
+    }
+  ],
   "id": "dolphin",
   "_index": 180,
   "name": "Dolphin",

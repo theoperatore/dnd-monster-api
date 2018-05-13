@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Common",
+    "Druidic"
+  ],
+  "skills": [
+    "Arcana +3",
+    "Deception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared:\n* Cantrips (at will): druidcraft, guidance, poison spray, produce flame\n* 1st level (4 slots): animal friendship, faerie fire, healing word, jump, thunderwave\n* 2nd level (3 slots): flame blade, spike growth\n* 3rd level (3 slots): dispel magic, stinking cloud\n* 4th level (2 slots): blight, wall of fire",
+      "recharge": null
+    },
+    {
+      "name": "Summon Mephits",
+      "description": "By puffing on his pipe, Elizar can use an action to cast conjure minor elementals. If he does so, he summons four smoke mephits.",
+      "recharge": "(Recharges after a Long Rest)."
+    }
+  ],
   "id": "elizar_dryflagon",
   "_index": 221,
   "name": "Elizar Dryflagon",

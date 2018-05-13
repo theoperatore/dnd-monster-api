@@ -42,6 +42,12 @@
   "size": "MEDIUM",
   "speed": "20 ft., fly 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
   "id": "harpy",
   "_index": 356,
   "name": "Harpy",

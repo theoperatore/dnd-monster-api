@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "60 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pounce.",
+      "description": "If the allosaurus moves at least 30 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the allosaurus can make one bite attack against it as a bonus action.",
+      "recharge": null
+    }
+  ],
   "id": "allosaurus",
   "_index": 20,
   "name": "Allosaurus",

@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pounce.",
+      "description": "If the deinonychus moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the deinonychus can make one bite attack against it as a bonus action.",
+      "recharge": null
+    }
+  ],
   "id": "deinonychus",
   "_index": 168,
   "name": "Deinonychus",

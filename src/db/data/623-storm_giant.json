@@ -42,6 +42,34 @@
   "size": "HUGE",
   "speed": "50 ft., swim 50 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Giant"
+  ],
+  "skills": [
+    "Arcana +8",
+    "Athletics +14",
+    "History +8",
+    "Perception +9"
+  ],
+  "savingThrows": [
+    "Str +14",
+    "Con +10",
+    "Wis +9",
+    "Cha +9"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The giant can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:\nAt will: detect magic, feather fall, levitate, light\n3/day each: control weather, water breathing",
+      "recharge": null
+    }
+  ],
   "id": "storm_giant",
   "_index": 623,
   "name": "Storm Giant",

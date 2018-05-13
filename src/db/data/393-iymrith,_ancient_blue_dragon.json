@@ -42,6 +42,29 @@
   "size": "GARGANTUAN",
   "speed": "40 ft., burrow 40 ft., fly 80 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Giant",
+    "Terran"
+  ],
+  "skills": [
+    "Perception +17",
+    "Stealth +7"
+  ],
+  "savingThrows": [
+    "Dex +7",
+    "Con +15",
+    "Wis +10",
+    "Cha +12"
+  ],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Iymrith's innate spellcasting ability is Charisma (spell save DC 20).  Iymrith's stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components:\n1/day: counterspell, detect magic, ice storm, stone shape, teleport",
+      "recharge": null
+    }
+  ],
   "id": "iymrith,_ancient_blue_dragon",
   "_index": 393,
   "name": "Iymrith, Ancient Blue Dragon",

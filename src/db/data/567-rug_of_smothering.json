@@ -42,6 +42,26 @@
   "size": "LARGE",
   "speed": "10 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Antimagic Susceptibility.",
+      "description": "The rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+      "recharge": null
+    },
+    {
+      "name": "Damage Transfer.",
+      "description": "While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the rug remains motionless, it is indistinguishable from a normal rug.",
+      "recharge": null
+    }
+  ],
   "id": "rug_of_smothering",
   "_index": 567,
   "name": "Rug of Smothering",

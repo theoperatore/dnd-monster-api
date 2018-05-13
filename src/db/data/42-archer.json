@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "any one language (usually Common)"
+  ],
+  "skills": [
+    "Acrobatics +6",
+    "Perception +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Archer's Eye.",
+      "description": "As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow.",
+      "recharge": null
+    }
+  ],
   "id": "archer",
   "_index": 42,
   "name": "Archer",

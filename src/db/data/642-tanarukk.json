@@ -42,6 +42,28 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Abyssal",
+    "Common",
+    "Orc"
+  ],
+  "skills": [
+    "Intimidation +2",
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the tanarukk can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The tanarukk has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "tanarukk",
   "_index": 642,
   "name": "Tanarukk",

@@ -42,6 +42,19 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Draconic",
+    "Ignan"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The firenewt can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "firenewt_warrior",
   "_index": 249,
   "name": "Firenewt Warrior",

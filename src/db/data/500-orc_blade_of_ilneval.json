@@ -42,6 +42,30 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Orc"
+  ],
+  "skills": [
+    "Insight +3",
+    "Intimidation +4",
+    "Perception +3"
+  ],
+  "savingThrows": [
+    "Wis +3"
+  ],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Foe Smiter of Ilneval.",
+      "description": "The orc deals an extra die of damage when it hits with a longsword attack (included in the attack).",
+      "recharge": null
+    }
+  ],
   "id": "orc_blade_of_ilneval",
   "_index": 500,
   "name": "Orc Blade of Ilneval",

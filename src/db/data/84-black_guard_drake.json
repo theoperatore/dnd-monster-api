@@ -42,6 +42,20 @@
   "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "understands Draconic but can't speak it"
+  ],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The guard drake can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "black_guard_drake",
   "_index": 84,
   "name": "Black Guard Drake",

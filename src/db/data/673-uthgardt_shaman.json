@@ -42,6 +42,24 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
+  "languages": [
+    "Bothii",
+    "Common"
+  ],
+  "skills": [
+    "Medicine +4",
+    "Nature +4",
+    "Perception +4",
+    "Survival +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The shaman can innately cast the following spells. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).\n* At Will: dancing lights, message, mage hand, thaumaturgy\n* 1/day: augury, bestow curse, cordon of arrows, detect magic, hex, prayer of healing, speak with dead, spirit guardians",
+      "recharge": null
+    }
+  ],
   "id": "uthgardt_shaman",
   "_index": 673,
   "name": "Uthgardt Shaman",

@@ -42,6 +42,20 @@
   "size": "MEDIUM",
   "speed": "30 ft., climb 30 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +4",
+    "Stealth +2"
+  ],
+  "savingThrows": [
+    "Dex +2",
+    "Con +5",
+    "Wis +2",
+    "Cha +4"
+  ],
+  "abilities": [],
   "id": "red_dragon_wyrmling",
   "_index": 552,
   "name": "Red Dragon Wyrmling",

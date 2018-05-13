@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The catoblepas has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Stench.",
+      "description": "Any creature other than a catoblepas that starts its turn within 10 feet of the catoblepas must succeed on a DC 16 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of any catoblepas for 1 hour.",
+      "recharge": null
+    }
+  ],
   "id": "catoblepas",
   "_index": 116,
   "name": "Catoblepas",

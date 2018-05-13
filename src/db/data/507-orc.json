@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Orc"
+  ],
+  "skills": [
+    "Intimidation +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    }
+  ],
   "id": "orc",
   "_index": 507,
   "name": "Orc",

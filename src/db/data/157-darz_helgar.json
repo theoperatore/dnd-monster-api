@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Intimidation +2",
+    "Sleight of Hand +4",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Sneak Attack",
+      "description": "Darz deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Darz that isn't incapacitated and Darz doesn't have disadvantage on the attack roll.",
+      "recharge": "(1/turn)."
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "In his youth, Darz was a member of the Xanathar Thieves' Guild in Waterdeep. After serving ten years in prison for his crimes, he cut all ties to the city and moved north to be a campground caretaker.\nIdeal: \"You csan run from your past, but you can't hide from it.\"\nBond: \"I've made a new life in Triboar. I'm not gonna run away this time. \"\nFlaw: \"I have no regrets. I do whatever it takes to survive.\"",
+      "recharge": null
+    }
+  ],
   "id": "darz_helgar",
   "_index": 157,
   "name": "Darz Helgar",

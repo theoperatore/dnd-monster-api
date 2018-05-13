@@ -42,6 +42,38 @@
   "size": "LARGE",
   "speed": "40 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Sphinx"
+  ],
+  "skills": [
+    "Arcana +9",
+    "Perception +10",
+    "Religion +15"
+  ],
+  "savingThrows": [
+    "Dex +6",
+    "Con +11",
+    "Int +9",
+    "Wis +10"
+  ],
+  "abilities": [
+    {
+      "name": "Inscrutable.",
+      "description": "The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The sphinx's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:\n* Cantrips (at will): sacred flame, spare the dying, thaumaturgy\n* 1st level (4 slots): command, detect evil and good, detect magic\n* 2nd level (3 slots): lesser restoration, zone of truth\n* 3rd level (3 slots): dispel magic, tongues\n* 4th level (3 slots): banishment, freedom of movement\n* 5th level (2 slots): flame strike, greater restoration\n* 6th level (1 slot): heroes' feast",
+      "recharge": null
+    }
+  ],
   "id": "androsphinx",
   "_index": 32,
   "name": "Androsphinx",

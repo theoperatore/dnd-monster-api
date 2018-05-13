@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +4",
+    "Stealth +4",
+    "Survival +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The lizardfolk can hold its breath for 15 minutes.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting",
+      "description": "The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared:\n* Cantrips (at will): druidcraft, produce flame, thorn whip\n* 1st Level (4 slots): entangle, fog cloud\n* 2nd Level (3 slots): heat metal, spike growth\n* 3rd Level (2 slots): conjure animals (reptiles only), plant growth",
+      "recharge": "(Lizardfolk Form Only)."
+    }
+  ],
   "id": "lizardfolk_shaman",
   "_index": 425,
   "name": "Lizardfolk Shaman",

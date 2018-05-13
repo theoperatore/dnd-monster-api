@@ -42,6 +42,15 @@
   "size": "MEDIUM",
   "speed": "10 ft., fly 30 ft. (hover)",
   "source": "monster-manual",
+  "languages": [
+    "Grell"
+  ],
+  "skills": [
+    "Perception +4",
+    "Stealth +6"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "grell",
   "_index": 339,
   "name": "Grell",

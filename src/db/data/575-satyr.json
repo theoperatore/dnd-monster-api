@@ -42,6 +42,24 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Elvish",
+    "Sylvan"
+  ],
+  "skills": [
+    "Perception +2",
+    "Performance +6",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The satyr has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "satyr",
   "_index": 575,
   "name": "Satyr",

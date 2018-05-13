@@ -42,6 +42,34 @@
   "size": "GARGANTUAN",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Insight +10",
+    "Perception +17",
+    "Persuasion +16",
+    "Stealth +9"
+  ],
+  "savingThrows": [
+    "Dex +9",
+    "Con +16",
+    "Wis +10",
+    "Cha +16"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "ancient_gold_dragon",
   "_index": 27,
   "name": "Ancient Gold Dragon",

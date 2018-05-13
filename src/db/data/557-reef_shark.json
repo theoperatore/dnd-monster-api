@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "swim 40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pack Tactics.",
+      "description": "The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The shark can breathe only underwater.",
+      "recharge": null
+    }
+  ],
   "id": "reef_shark",
   "_index": 557,
   "name": "Reef Shark",

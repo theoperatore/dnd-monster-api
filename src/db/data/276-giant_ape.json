@@ -42,6 +42,13 @@
   "size": "HUGE",
   "speed": "40 ft., climb 40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Athletics +9",
+    "Perception +4"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "giant_ape",
   "_index": 276,
   "name": "Giant Ape",

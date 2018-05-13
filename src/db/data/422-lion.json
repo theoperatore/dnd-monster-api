@@ -42,6 +42,34 @@
   "size": "LARGE",
   "speed": "50 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3",
+    "Stealth +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The lion has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Pounce.",
+      "description": "If the lion moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.",
+      "recharge": null
+    },
+    {
+      "name": "Running Leap.",
+      "description": "With a 10-foot running start, the lion can long jump up to 25 ft..",
+      "recharge": null
+    }
+  ],
   "id": "lion",
   "_index": 422,
   "name": "Lion",

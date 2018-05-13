@@ -42,6 +42,23 @@
   "size": "LARGE",
   "speed": "10 ft., climb 10 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [
+    "Stealth +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fake Appearance.",
+      "description": "While the trapper is attached to a ceiling, floor, or wall and remains motionless, it is almost indistinguishable from an ordinary section of ceiling, floor, or wall. A creature that can see it and succeeds on a DC 20 Intelligence (investigation) or Intelligence (Nature) check can discern its presence.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The trapper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
   "id": "trapper",
   "_index": 657,
   "name": "Trapper",

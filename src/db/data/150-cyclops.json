@@ -42,6 +42,18 @@
   "size": "HUGE",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Giant"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Poor Depth Perception.",
+      "description": "The cyclops has disadvantage on any attack roll against a target more than 30 ft. away.",
+      "recharge": null
+    }
+  ],
   "id": "cyclops",
   "_index": 150,
   "name": "Cyclops",

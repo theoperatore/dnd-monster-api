@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Trampling Charge.",
+      "description": "If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.",
+      "recharge": null
+    }
+  ],
   "id": "gorgon",
   "_index": 328,
   "name": "Gorgon",

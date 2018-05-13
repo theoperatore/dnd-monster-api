@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "5 ft., swim 30 ft.",
   "source": "tales-from-the-yawning-portal",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 236",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The eel can breathe only underwater.",
+      "recharge": null
+    }
+  ],
   "id": "giant_lightning_eel",
   "_index": 292,
   "name": "Giant Lightning Eel",

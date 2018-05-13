@@ -42,6 +42,20 @@
   "size": "MEDIUM",
   "speed": "30 ft., burrow 15 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +4",
+    "Stealth +2"
+  ],
+  "savingThrows": [
+    "Dex +2",
+    "Con +3",
+    "Wis +2",
+    "Cha +3"
+  ],
+  "abilities": [],
   "id": "brass_dragon_wyrmling",
   "_index": 100,
   "name": "Brass Dragon Wyrmling",

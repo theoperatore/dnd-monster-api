@@ -42,6 +42,14 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "understands Draconic but can't speak it"
+  ],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "guard_drake",
   "_index": 348,
   "name": "Guard Drake",

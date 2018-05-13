@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "25 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Antimagic Susceptibility.",
+      "description": "The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the armor remains motionless, it is indistinguishable from a normal suit of armor.",
+      "recharge": null
+    }
+  ],
   "id": "animated_armor",
   "_index": 33,
   "name": "Animated Armor",

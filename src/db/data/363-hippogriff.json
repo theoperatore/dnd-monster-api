@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "40 ft, fly 60 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Sight.",
+      "description": "The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "hippogriff",
   "_index": 363,
   "name": "Hippogriff",

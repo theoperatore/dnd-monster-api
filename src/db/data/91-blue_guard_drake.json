@@ -42,6 +42,14 @@
   "size": "MEDIUM",
   "speed": "30 ft., burrow 20 ft.",
   "source": "volos-guide",
+  "languages": [
+    "understands Draconic but can't speak it"
+  ],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "blue_guard_drake",
   "_index": 91,
   "name": "Blue Guard Drake",

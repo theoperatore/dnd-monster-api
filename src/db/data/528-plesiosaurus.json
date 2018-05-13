@@ -42,6 +42,19 @@
   "size": "LARGE",
   "speed": "20 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The plesiosaurus can hold its breath for 1 hour.",
+      "recharge": null
+    }
+  ],
   "id": "plesiosaurus",
   "_index": 528,
   "name": "Plesiosaurus",

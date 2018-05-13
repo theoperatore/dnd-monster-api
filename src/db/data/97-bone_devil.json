@@ -42,6 +42,31 @@
   "size": "LARGE",
   "speed": "40 ft., fly 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Infernal",
+    "telepathy 120 ft."
+  ],
+  "skills": [
+    "Deception +7",
+    "Insight +6"
+  ],
+  "savingThrows": [
+    "Int +5",
+    "Wis +6",
+    "Cha +7"
+  ],
+  "abilities": [
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede the devil's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The devil has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "bone_devil",
   "_index": 97,
   "name": "Bone Devil",

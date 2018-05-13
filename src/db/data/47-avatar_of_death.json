@@ -41,6 +41,28 @@
   "size": "MEDIUM",
   "speed": "60 ft., fly 60 ft. (hover)",
   "source": "monster-manual",
+  "languages": [
+    "all languages known to its summoner"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The avatar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    },
+    {
+      "name": "Turning Immunity.",
+      "description": "The avatar is immune to features that turn undead.",
+      "recharge": null
+    },
+    {
+      "name": "Hit Points.",
+      "description": "The Avatar of Death appears with hit points equal to half its summoner's maximum hit points.",
+      "recharge": null
+    }
+  ],
   "id": "avatar_of_death",
   "_index": 47,
   "name": "Avatar of Death",

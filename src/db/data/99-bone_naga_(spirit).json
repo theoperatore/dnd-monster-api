@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common plus one other language"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared:\n* Cantrips (at will): mage hand, minor illusion, ray of frost\n* 1st level (4 slots): charm person, sleep\n* 2nd level (3 slots): detect thoughts, hold person\n* 3rd level (2 slots): lightning bolt",
+      "recharge": null
+    }
+  ],
   "id": "bone_naga_(spirit)",
   "_index": 99,
   "name": "Bone Naga (Spirit)",

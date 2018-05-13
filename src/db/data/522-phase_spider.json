@@ -42,6 +42,28 @@
   "size": "LARGE",
   "speed": "30 ft., climb 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Stealth +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ethereal Jaunt.",
+      "description": "As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The spider ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
   "id": "phase_spider",
   "_index": 522,
   "name": "Phase Spider",

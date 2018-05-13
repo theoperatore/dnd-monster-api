@@ -42,6 +42,34 @@
   "size": "HUGE",
   "speed": "20 ft., swim 40 ft.",
   "source": "tales-from-the-yawning-portal",
+  "languages": [
+    "understands Common but can't speak; telepathy 60 ft."
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Str +11",
+    "Con +9",
+    "Int +4",
+    "Wis +6",
+    "Cha +6"
+  ],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 239",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "The kraken can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The kraken deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
   "id": "malformed_kraken",
   "_index": 433,
   "name": "Malformed Kraken",

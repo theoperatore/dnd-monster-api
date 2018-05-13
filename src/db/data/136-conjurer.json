@@ -42,6 +42,29 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "any four languages"
+  ],
+  "skills": [
+    "Arcana +6",
+    "History +6"
+  ],
+  "savingThrows": [
+    "Int +6",
+    "Wis +4"
+  ],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The conjurer is a 9th-level spellcaster. Its spellcasting ability is intelligence (spell save DC 14, +6 to hit with spell attacks). The conjurer has the following wizard spells prepared:\nCantrips (at will): acid splash, mage hand, poison spray, prestidigitation\n1st level (4 slots): mage armor, magic missile, unseen servant*\n2nd level (3 slots): cloud of daggers*, misty step*, web*\n3rd level (3 slots): fireball, stinking cloud*\n4th level (3 slots): Evard's black tentacles*, stoneskin\n5th level (2 slots): cloudkill*, conjure elemental*\n*Conjuration spell of 1st level or higher",
+      "recharge": null
+    },
+    {
+      "name": "Benign Transportation",
+      "description": "As a bonus action, the conjurer teleports up to 30 feet to an unoccupied space that it can see. If it instead chooses a space within range that is occupied by a willing Small or Medium creature, they both teleport, swapping places.",
+      "recharge": "(Recharges after the Conjurer Casts a Conjuration Spell of 1st Level or Higher)."
+    }
+  ],
   "id": "conjurer",
   "_index": 136,
   "name": "Conjurer",

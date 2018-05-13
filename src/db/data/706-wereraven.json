@@ -42,6 +42,26 @@
   "size": "MEDIUM",
   "speed": "30 ft., fly 50 ft. in raven and hybrid forms",
   "source": "curse-of-strahd",
+  "languages": [
+    "Common (can't speak in raven form)"
+  ],
+  "skills": [
+    "Insight +4",
+    "Perception +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The wereraven can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Mimicry.",
+      "description": "The wereraven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
+      "recharge": null
+    }
+  ],
   "id": "wereraven",
   "_index": 706,
   "name": "Wereraven",

@@ -42,6 +42,16 @@
   "size": "MEDIUM",
   "speed": "5 ft., climb 5 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    }
+  ],
   "id": "swarm_of_rot_grubs",
   "_index": 637,
   "name": "Swarm of Rot Grubs",

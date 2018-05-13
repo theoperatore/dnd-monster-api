@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "50 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Rampage.",
+      "description": "When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.",
+      "recharge": null
+    }
+  ],
   "id": "giant_hyena",
   "_index": 291,
   "name": "Giant Hyena",

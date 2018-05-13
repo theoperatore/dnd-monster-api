@@ -42,6 +42,25 @@
   "size": "HUGE",
   "speed": "20 ft., swim 30 ft.",
   "source": "storm-kings-thunder",
+  "languages": [
+    "--"
+  ],
+  "skills": [
+    "Stealth +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The crab can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Shell Camouflage.",
+      "description": "While the crab remains motionless with it's eyestalks and pincers tucked close to it's body, it resembles a natural formation or a pile of detritus. A creature within 30 feet of it can discren its true nature with a successful DC 15 intelligence (Nature) check.",
+      "recharge": null
+    }
+  ],
   "id": "hulking_crab",
   "_index": 375,
   "name": "Hulking Crab",

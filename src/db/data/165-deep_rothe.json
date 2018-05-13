@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the rothe moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The deep rothe's spellcasting ability is Charisma. It can innately cast dancing lights at will, requiring no components.",
+      "recharge": null
+    }
+  ],
   "id": "deep_rothe",
   "_index": 165,
   "name": "Deep Rothe",

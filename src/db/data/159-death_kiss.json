@@ -42,6 +42,24 @@
   "size": "LARGE",
   "speed": "0 ft., fly 30 ft. (hover)",
   "source": "volos-guide",
+  "languages": [
+    "Deep Speech",
+    "Undercommon"
+  ],
+  "skills": [
+    "Perception +5"
+  ],
+  "savingThrows": [
+    "Con +8",
+    "Wis +5"
+  ],
+  "abilities": [
+    {
+      "name": "Lightning Blood.",
+      "description": "A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.",
+      "recharge": null
+    }
+  ],
   "id": "death_kiss",
   "_index": 159,
   "name": "Death Kiss",

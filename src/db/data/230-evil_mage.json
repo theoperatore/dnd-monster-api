@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "lost-mine-of-phandelver",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Dwarvish",
+    "Elvish"
+  ],
+  "skills": [
+    "Arcana +5",
+    "History +5"
+  ],
+  "savingThrows": [
+    "Int +5",
+    "Wis +3"
+  ],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:\n* Cantrips (at will): light, mage hand, shocking grasp\n* 1st Level (4 slots): charm person, magic missile\n* 2nd Level (3 slots): hold person, misty step",
+      "recharge": null
+    }
+  ],
   "id": "evil_mage",
   "_index": 230,
   "name": "Evil Mage",

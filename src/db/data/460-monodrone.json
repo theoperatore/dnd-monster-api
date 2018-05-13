@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "30 ft., fly 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Modron"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Axiomatic Mind.",
+      "description": "The monodrone can't be compelled to act in a manner contrary to its nature or its instructions.",
+      "recharge": null
+    },
+    {
+      "name": "Disintegration.",
+      "description": "If the monodrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.",
+      "recharge": null
+    }
+  ],
   "id": "monodrone",
   "_index": 460,
   "name": "Monodrone",

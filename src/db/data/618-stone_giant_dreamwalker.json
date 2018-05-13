@@ -42,6 +42,26 @@
   "size": "HUGE",
   "speed": "40 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Giant"
+  ],
+  "skills": [
+    "Athletics +14",
+    "Perception +3"
+  ],
+  "savingThrows": [
+    "Dex +6",
+    "Con +9",
+    "Wis +3"
+  ],
+  "abilities": [
+    {
+      "name": "Dreamwalker's Charm.",
+      "description": "An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't incapacitated. On a failed save, the creature is charmed by the giant. A creature charmed in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours.",
+      "recharge": null
+    }
+  ],
   "id": "stone_giant_dreamwalker",
   "_index": 618,
   "name": "Stone Giant Dreamwalker",

@@ -42,6 +42,16 @@
   "size": "TINY",
   "speed": "20 ft., burrow 5 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The badger has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    }
+  ],
   "id": "badger",
   "_index": 58,
   "name": "Badger",

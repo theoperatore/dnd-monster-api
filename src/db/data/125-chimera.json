@@ -42,6 +42,14 @@
   "size": "LARGE",
   "speed": "30 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Draconic but can't speak"
+  ],
+  "skills": [
+    "Perception +8"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "chimera",
   "_index": 125,
   "name": "Chimera",

@@ -42,6 +42,41 @@
   "size": "MEDIUM",
   "speed": "31 ft., swim 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Undercommon"
+  ],
+  "skills": [
+    "Perception +9",
+    "Religion +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The kuo-toa can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Otherwordly Perception.",
+      "description": "The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.",
+      "recharge": null
+    },
+    {
+      "name": "Slippery.",
+      "description": "The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:\n* Cantrips (at will): guidance, sacred flame, thaumaturgy\n* 1st level (4 slots): detect magic, sanctuary, shield of faith\n* 2nd level (3 slots): hold person, spiritual weapon\n* 3rd level (3 slots): spirit guardians, tongues\n* 4th level (3 slots): control water, divination\n* 5th level (2 slots): mass cure wounds, scrying",
+      "recharge": null
+    }
+  ],
   "id": "kuo-toa_archpriest",
   "_index": 412,
   "name": "Kuo-Toa Archpriest",

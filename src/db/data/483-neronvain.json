@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Elvish",
+    "Infernal"
+  ],
+  "skills": [
+    "Arcana +7",
+    "Perception +5"
+  ],
+  "savingThrows": [
+    "Con +6",
+    "Wis +5"
+  ],
+  "abilities": [
+    {
+      "name": "Draconic Majesty.",
+      "description": "Neronvain adds his Charisma bonus to his AC (included).",
+      "recharge": null
+    }
+  ],
   "id": "neronvain",
   "_index": 483,
   "name": "Neronvain",

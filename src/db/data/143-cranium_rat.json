@@ -42,6 +42,23 @@
   "size": "TINY",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "telepathy 30 ft."
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Illumination.",
+      "description": "As a bonus action, the cranium rat can shed dim light from its brain in a 5-foot radius or extinguish the light.",
+      "recharge": null
+    },
+    {
+      "name": "Telepathic Shroud.",
+      "description": "The cranium rat is immune to any effect that would sense its emotions or read its thoughts, as well as to all divination spells.",
+      "recharge": null
+    }
+  ],
   "id": "cranium_rat",
   "_index": 143,
   "name": "Cranium Rat",

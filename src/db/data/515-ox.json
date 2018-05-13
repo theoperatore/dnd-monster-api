@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the ox moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.",
+      "recharge": null
+    },
+    {
+      "name": "Beast of Burden.",
+      "description": "The oxen is considered to be a Huge animal for the purposes of determining its carrying capacity.",
+      "recharge": null
+    }
+  ],
   "id": "ox",
   "_index": 515,
   "name": "Ox",

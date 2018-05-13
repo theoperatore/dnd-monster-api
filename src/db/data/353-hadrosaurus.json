@@ -42,6 +42,12 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "hadrosaurus",
   "_index": 353,
   "name": "Hadrosaurus",

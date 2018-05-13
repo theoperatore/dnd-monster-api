@@ -42,6 +42,19 @@
   "size": "GARGANTUAN",
   "speed": "50 ft., burrow 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [
+    "Con +11",
+    "Wis +4"
+  ],
+  "abilities": [
+    {
+      "name": "Tunneler.",
+      "description": "The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.",
+      "recharge": null
+    }
+  ],
   "id": "purple_worm",
   "_index": 536,
   "name": "Purple Worm",

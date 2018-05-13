@@ -42,6 +42,28 @@
   "size": "HUGE",
   "speed": "50 ft., fly 50 ft. (hover), swim 50 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Giant"
+  ],
+  "skills": [
+    "Arcana +8",
+    "History +8",
+    "Perception +10"
+  ],
+  "savingThrows": [
+    "Str +14",
+    "Con +10",
+    "Wis +10",
+    "Cha +9"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The giant can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "storm_giant_quintessent",
   "_index": 622,
   "name": "Storm Giant Quintessent",

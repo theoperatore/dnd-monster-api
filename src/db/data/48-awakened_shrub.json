@@ -42,6 +42,18 @@
   "size": "SMALL",
   "speed": "20 ft.",
   "source": "monster-manual",
+  "languages": [
+    "one language known by its creator"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the shrub remains motionless, it is indistinguishable from a normal shrub.",
+      "recharge": null
+    }
+  ],
   "id": "awakened_shrub",
   "_index": 48,
   "name": "Awakened Shrub",

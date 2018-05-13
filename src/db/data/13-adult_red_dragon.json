@@ -42,6 +42,27 @@
   "size": "HUGE",
   "speed": "40 ft., climb 40 ft., fly 80 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +13",
+    "Stealth +6"
+  ],
+  "savingThrows": [
+    "Dex +6",
+    "Con +13",
+    "Wis +7",
+    "Cha +11"
+  ],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "adult_red_dragon",
   "_index": 13,
   "name": "Adult Red Dragon",

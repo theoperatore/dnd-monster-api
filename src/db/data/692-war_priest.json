@@ -42,6 +42,24 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "any two languages"
+  ],
+  "skills": [
+    "Intimidation +5",
+    "Religion +4"
+  ],
+  "savingThrows": [
+    "Con +6",
+    "Wis +7"
+  ],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:\nCantrips (at will): light, mending, sacred flame, spare the dying\n1st level (4 slots): divine favor, guiding bolt, healing word, shield of faith\n2nd level (3 slots): lesser restoration, magic weapon, prayer of healing, silence, spiritual weapon\n3rd level (3 slots): beacon of hope, crusader's mantle, dispel magic, revivify, spirit guardians, water wall\n4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin \n5th level (1 slot): flame strike, mass cure wounds, hold monster",
+      "recharge": null
+    }
+  ],
   "id": "war_priest",
   "_index": 692,
   "name": "War Priest",

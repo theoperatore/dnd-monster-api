@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "10 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Aquan",
+    "Common"
+  ],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The merfolk can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "merfolk",
   "_index": 447,
   "name": "Merfolk",

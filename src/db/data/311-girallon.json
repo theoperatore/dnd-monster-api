@@ -42,6 +42,24 @@
   "size": "LARGE",
   "speed": "40 ft., climb 40 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [
+    "Perception +3",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "Volo's Guide to Monsters, p. 152",
+      "recharge": null
+    },
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the girallon can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    }
+  ],
   "id": "girallon",
   "_index": 311,
   "name": "Girallon",

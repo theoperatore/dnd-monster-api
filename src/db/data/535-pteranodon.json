@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "10 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +1"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Flyby.",
+      "description": "The pteranodon doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "recharge": null
+    }
+  ],
   "id": "pteranodon",
   "_index": 535,
   "name": "Pteranodon",

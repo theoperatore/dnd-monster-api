@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands the languages of its creator but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the scarecrow remains motionless, it is indistinguishable from an ordinary, inanimate scarecrow.",
+      "recharge": null
+    }
+  ],
   "id": "scarecrow",
   "_index": 576,
   "name": "Scarecrow",

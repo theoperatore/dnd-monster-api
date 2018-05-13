@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "40 ft., burrow 40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Standing Leap.",
+      "description": "The bulette's long jump is up to 30 ft. and its high jump is up to 15 ft., with or without a running start.",
+      "recharge": null
+    }
+  ],
   "id": "bulette",
   "_index": 108,
   "name": "Bulette",

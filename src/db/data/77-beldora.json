@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Dwarvish",
+    "Halfling"
+  ],
+  "skills": [
+    "Deception +5",
+    "Insight +3",
+    "Investigation +5",
+    "Perception +5",
+    "Persuasion +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Roleplaying Information.",
+      "description": "Beldora is a member of the harpers who survives using her wits and wiles. She looks like a homeless waif, but she's a survivor who shies away from material wealth.\nIdeal: \"We should all strive to help one another\"\nBond: \"I'll risk my life to protect the powerless.\"\nFlaw: \"I like lying to people. Makes life more interesting, no?\"",
+      "recharge": null
+    }
+  ],
   "id": "beldora",
   "_index": 77,
   "name": "Beldora",

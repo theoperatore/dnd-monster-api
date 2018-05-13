@@ -42,6 +42,29 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "History +2",
+    "Intimidation +4",
+    "Investigation +2",
+    "Perception +2",
+    "Presuasion +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Brave.",
+      "description": "Darathra has advantage on saving throws against being frightened",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "As the Lord Protector of Triboar and a secret agent of the Harpers, Darathra has sworn an oath to defend the town. She takes her duty very seriously. In addition to her gear, Darathra has an unarmored warhorse named Buster.\nIdeal: \"Good people should be given every chance to prosper, free of tyranny.\"\nBond: \"I'll lay down my life to protect Triboar and its citizens.\"\nFlaw: \"I refuse to back down. Push me, and I'll push back.\"",
+      "recharge": null
+    }
+  ],
   "id": "darathra_shendrel",
   "_index": 152,
   "name": "Darathra Shendrel",

@@ -42,6 +42,19 @@
   "size": "MEDIUM",
   "speed": "40 ft., swim 40 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Aquan",
+    "one language of its creator's choice"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Weapons.",
+      "description": "The myrmidon's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
   "id": "water_elemental_myrmidon",
   "_index": 699,
   "name": "Water Elemental Myrmidon",

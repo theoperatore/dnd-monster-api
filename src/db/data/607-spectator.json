@@ -42,6 +42,16 @@
   "size": "MEDIUM",
   "speed": "0 ft., fly 30 ft. (hover)",
   "source": "monster-manual",
+  "languages": [
+    "Deep Speech",
+    "Undercommon",
+    "telepathy 120 ft."
+  ],
+  "skills": [
+    "Perception +6"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "spectator",
   "_index": 607,
   "name": "Spectator",

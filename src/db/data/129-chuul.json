@@ -42,6 +42,25 @@
   "size": "LARGE",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Deep Speech but can't speak"
+  ],
+  "skills": [
+    "Perception +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The chuul can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Sense Magic.",
+      "description": "The chuul senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn't itself magical.",
+      "recharge": null
+    }
+  ],
   "id": "chuul",
   "_index": 129,
   "name": "Chuul",

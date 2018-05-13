@@ -42,6 +42,26 @@
   "size": "HUGE",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Druidic",
+    "Elvish",
+    "Sylvan"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the treant remains motionless, it is indistinguishable from a normal tree.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The treant deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
   "id": "treant",
   "_index": 658,
   "name": "Treant",

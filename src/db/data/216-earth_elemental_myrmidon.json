@@ -42,6 +42,19 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Terran",
+    "one language of its creator's choice"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Weapons.",
+      "description": "The myrmidon's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
   "id": "earth_elemental_myrmidon",
   "_index": 216,
   "name": "Earth Elemental Myrmidon",

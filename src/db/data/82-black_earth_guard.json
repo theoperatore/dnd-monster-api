@@ -42,6 +42,15 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Intimidation +1",
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "black_earth_guard",
   "_index": 82,
   "name": "Black Earth Guard",

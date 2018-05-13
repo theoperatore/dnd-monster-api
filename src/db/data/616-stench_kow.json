@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the kow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.",
+      "recharge": null
+    },
+    {
+      "name": "Stench.",
+      "description": "Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 26 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all stench kows for 1 hour.",
+      "recharge": null
+    }
+  ],
   "id": "stench_kow",
   "_index": 616,
   "name": "Stench Kow",

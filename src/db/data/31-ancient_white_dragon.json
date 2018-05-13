@@ -42,6 +42,32 @@
   "size": "GARGANTUAN",
   "speed": "40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +13",
+    "Stealth +6"
+  ],
+  "savingThrows": [
+    "Dex +6",
+    "Con +14",
+    "Wis +7",
+    "Cha +8"
+  ],
+  "abilities": [
+    {
+      "name": "Ice Walk.",
+      "description": "The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "ancient_white_dragon",
   "_index": 31,
   "name": "Ancient White Dragon",

@@ -42,6 +42,15 @@
   "size": "SMALL",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Abyssal plus one other language",
+    "usually Common or Goblin"
+  ],
+  "skills": [
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "xvart_speaker",
   "_index": 724,
   "name": "Xvart Speaker",

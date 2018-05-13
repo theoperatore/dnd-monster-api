@@ -42,6 +42,19 @@
   "size": "HUGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Giant"
+  ],
+  "skills": [
+    "Athletics +9",
+    "Perception +3"
+  ],
+  "savingThrows": [
+    "Con +8",
+    "Wis +3",
+    "Cha +4"
+  ],
+  "abilities": [],
   "id": "frost_giant",
   "_index": 263,
   "name": "Frost Giant",

@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Abyssal"
+  ],
+  "skills": [
+    "Perception +5",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The babau's innate spellcasting ability is Wisdom (spell save DC 11). The babau can innately cast the following spells, requiring no material components:\nAt will: darkness, dispel magic, fear, heat metal, levitate",
+      "recharge": null
+    }
+  ],
   "id": "babau",
   "_index": 56,
   "name": "Babau",

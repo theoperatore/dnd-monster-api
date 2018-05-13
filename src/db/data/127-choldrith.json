@@ -42,6 +42,47 @@
   "size": "MEDIUM",
   "speed": "30 ft., climb 30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Undercommon"
+  ],
+  "skills": [
+    "Athletics +5",
+    "Religion +2",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The choldrith has advantage on saving throws against being charmed, and magic can't put the choldrith to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The choldrith is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The choldrith has the following cleric spells prepared:\n* Cantrips (at will): guidance, mending, resistance, thaumaturgy\n* 1st level (4 slots): bane, healing word, sanctuary, shield of faith\n* 2nd level (3 slots): hold person, spiritual weapon (dagger)",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the choldrith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Web Sense.",
+      "description": "While in contact with a web, the choldrith knows the exact location of any other creature in contact with the same web.",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The choldrith ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
   "id": "choldrith",
   "_index": 127,
   "name": "Choldrith",

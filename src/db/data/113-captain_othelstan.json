@@ -42,6 +42,33 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Giant"
+  ],
+  "skills": [
+    "Athletics +7",
+    "Intimidation +7",
+    "Perception +5",
+    "Religion +4"
+  ],
+  "savingThrows": [
+    "Str +7",
+    "Con +6"
+  ],
+  "abilities": [
+    {
+      "name": "Action Surge",
+      "description": "On his turn, Othelstan can take one additional action.",
+      "recharge": "(Recharges on a Short or Long Rest)."
+    },
+    {
+      "name": "Tiamat's Blessing of Retribution.",
+      "description": "When Othelstan takes damage that reduces him to 0 hit points, he immediately regains 20 hit points. If he has 20 hit points or fewer at the end of his next turn, he dies.",
+      "recharge": null
+    }
+  ],
   "id": "captain_othelstan",
   "_index": 113,
   "name": "Captain Othelstan",

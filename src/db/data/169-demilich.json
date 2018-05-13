@@ -42,6 +42,31 @@
   "size": "TINY",
   "speed": "0 ft., fly 30 ft. (hover)",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [
+    "Con +6",
+    "Int +11",
+    "Wis +9",
+    "Cha +11"
+  ],
+  "abilities": [
+    {
+      "name": "Avoidance.",
+      "description": "If the demilich is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the demilich fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Turn Immunity.",
+      "description": "The demilich is immune to effects that turn undead.",
+      "recharge": null
+    }
+  ],
   "id": "demilich",
   "_index": 169,
   "name": "Demilich",

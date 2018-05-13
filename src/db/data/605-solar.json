@@ -42,6 +42,40 @@
   "size": "LARGE",
   "speed": "50 ft., fly 150 ft.",
   "source": "monster-manual",
+  "languages": [
+    "all",
+    "telepathy 120 ft."
+  ],
+  "skills": [
+    "Perception +14"
+  ],
+  "savingThrows": [
+    "Int +14",
+    "Wis +14",
+    "Cha +17"
+  ],
+  "abilities": [
+    {
+      "name": "Angelic Weapons.",
+      "description": "The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).",
+      "recharge": null
+    },
+    {
+      "name": "Divine Awareness.",
+      "description": "The solar knows if it hears a lie.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The solar's spell casting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:\nAt will: detect evil and good, invisibility (self only)\n3/day each: blade barrier, dispel evil and good, resurrection\n1/day each: commune, control weather",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The solar has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "solar",
   "_index": 605,
   "name": "Solar",

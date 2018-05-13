@@ -42,6 +42,25 @@
   "size": "MEDIUM",
   "speed": "30 ft., fly 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands the languages of its creator but can't speak"
+  ],
+  "skills": [
+    "Perception +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The helmed horror has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spell Immunity.",
+      "description": "The helmed horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt.",
+      "recharge": null
+    }
+  ],
   "id": "helmed_horror",
   "_index": 360,
   "name": "Helmed Horror",

@@ -42,6 +42,30 @@
   "size": "GARGANTUAN",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [
+    "Int +1",
+    "Wis +8",
+    "Cha +6"
+  ],
+  "abilities": [
+    {
+      "name": "Creature Sense.",
+      "description": "The neothelid is aware of the presence of creatures within 1 mile of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each creature's Intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can't be perceived in this manner.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The neothelid's innate spellcasting ability is Wisdom (spell save DC 16). It can innately cast the following spells, requiring no components:\nAt will: levitate\n1/day each: confusion, feeblemind, telekinesis",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The neothelid has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "neothelid",
   "_index": 481,
   "name": "Neothelid",

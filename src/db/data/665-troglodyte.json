@@ -42,6 +42,30 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Troglodyte"
+  ],
+  "skills": [
+    "Stealth +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Chameleon Skin.",
+      "description": "The troglodyte has advantage on Dexterity (Stealth) checks made to hide.",
+      "recharge": null
+    },
+    {
+      "name": "Stench.",
+      "description": "Any creature other than a troglodyte that starts its turn within 5 ft. of the troglodyte must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "troglodyte",
   "_index": 665,
   "name": "Troglodyte",

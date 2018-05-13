@@ -42,6 +42,31 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
+  "languages": [
+    "Common",
+    "Thayan"
+  ],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 246",
+      "recharge": null
+    },
+    {
+      "name": "Doomvault Devotion.",
+      "description": "Within the Doomvault, the warrior has advantage on saving throws against being charmed or frightened .",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
   "id": "thayan_warrior",
   "_index": 645,
   "name": "Thayan Warrior",

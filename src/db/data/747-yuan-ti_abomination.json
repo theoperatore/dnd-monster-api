@@ -42,6 +42,33 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +5",
+    "Stealth +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The yuan_ti's innate spellcasting ability is Charisma (spell save DC 15). The yuan_ti can innately cast the following spells, requiring no material components:\nAt will: animal friendship (snakes only)\n3/day: suggestion\n1/day: fear",
+      "recharge": "(Abomination Form Only)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The yuan-ti has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "yuan-ti_abomination",
   "_index": 747,
   "name": "Yuan-ti Abomination",

@@ -42,6 +42,20 @@
   "size": "LARGE",
   "speed": "0 ft., fly 20 ft. (hover)",
   "source": "monster-manual",
+  "languages": [
+    "understands Deep Speech and Undercommon but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Wis +2"
+  ],
+  "abilities": [
+    {
+      "name": "Undead Fortitude.",
+      "description": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+      "recharge": null
+    }
+  ],
   "id": "beholder_zombie",
   "_index": 75,
   "name": "Beholder Zombie",

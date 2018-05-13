@@ -42,6 +42,16 @@
   "size": "MEDIUM",
   "speed": "30 ft., burrow 10 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The badger has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    }
+  ],
   "id": "giant_badger",
   "_index": 277,
   "name": "Giant Badger",

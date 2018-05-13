@@ -42,6 +42,25 @@
   "size": "MEDIUM",
   "speed": "30 ft. (40 ft. in wolf form)",
   "source": "monster-manual",
+  "languages": [
+    "Common (can't speak in wolf form)"
+  ],
+  "skills": [
+    "Perception +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    }
+  ],
   "id": "werewolf",
   "_index": 708,
   "name": "Werewolf",

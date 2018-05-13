@@ -42,6 +42,28 @@
   "size": "SMALL",
   "speed": "30 ft., climb 30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Deep Speech",
+    "Undercommon"
+  ],
+  "skills": [
+    "Intimidation +4",
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Mental Fortitude.",
+      "description": "The neogi has advantage on saving throws against being charmed or frightened. and magic can't put the neogi to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
   "id": "neogi",
   "_index": 480,
   "name": "Neogi",

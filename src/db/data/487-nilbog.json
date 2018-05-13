@@ -42,6 +42,31 @@
   "size": "SMALL",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Goblin"
+  ],
+  "skills": [
+    "Stealth +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The nilbog's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:\nAt will: mage hand, Tasha's hideous laughter, vicious mockery 1/day: confusion",
+      "recharge": null
+    },
+    {
+      "name": "Nilbogism.",
+      "description": "Any creature that attempts to damage the nilbog must first succeed on a DC 12 Charisma saving throw or be charmed until the end of the creature's next turn. A creature charmed in this way must use its action praising the nilbog. The nilbog can't regain hit points, including through magical healing, except through its Reversal of Fortune reaction.",
+      "recharge": null
+    },
+    {
+      "name": "Nimble Escape.",
+      "description": "The nilbog can take the Disengage or Hide action as a bonus action on each of its turns.",
+      "recharge": null
+    }
+  ],
   "id": "nilbog",
   "_index": 487,
   "name": "Nilbog",

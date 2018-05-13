@@ -42,6 +42,16 @@
   "size": "MEDIUM",
   "speed": "0 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.",
+      "recharge": null
+    }
+  ],
   "id": "shrieker",
   "_index": 593,
   "name": "Shrieker",

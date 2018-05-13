@@ -42,6 +42,23 @@
   "size": "LARGE",
   "speed": "40 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "telepathy 120 ft."
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Dex +5",
+    "Wis +4",
+    "Cha +2"
+  ],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The vrock has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "vrock",
   "_index": 690,
   "name": "Vrock",

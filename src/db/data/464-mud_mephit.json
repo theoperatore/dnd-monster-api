@@ -42,6 +42,26 @@
   "size": "SMALL",
   "speed": "20 ft., fly 20 ft., swim 20 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Aquan",
+    "Terran"
+  ],
+  "skills": [
+    "Stealth +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Death Burst.",
+      "description": "When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 ft. of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature's next turn.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.",
+      "recharge": null
+    }
+  ],
   "id": "mud_mephit",
   "_index": 464,
   "name": "Mud Mephit",

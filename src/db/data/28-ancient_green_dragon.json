@@ -42,6 +42,35 @@
   "size": "GARGANTUAN",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Deception +11",
+    "Insight +10",
+    "Perception +17",
+    "Persuasion +11",
+    "Stealth +8"
+  ],
+  "savingThrows": [
+    "Dex +8",
+    "Con +14",
+    "Wis +10",
+    "Cha +11"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "ancient_green_dragon",
   "_index": 28,
   "name": "Ancient Green Dragon",

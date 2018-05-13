@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "any one language (usually Common)"
+  ],
+  "skills": [
+    "Medicine +4",
+    "Religion +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:\n* Cantrips (at will): light, sacred flame, thaumaturgy\n* 1st level (3 slots): bless, cure wounds, sanctuary",
+      "recharge": null
+    }
+  ],
   "id": "acolyte",
   "_index": 4,
   "name": "Acolyte",

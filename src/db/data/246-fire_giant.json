@@ -42,6 +42,30 @@
   "size": "HUGE",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Giant"
+  ],
+  "skills": [
+    "Athletics +11",
+    "Perception +6"
+  ],
+  "savingThrows": [
+    "Dex +3",
+    "Con +10",
+    "Cha +5"
+  ],
+  "abilities": [
+    {
+      "name": "Siege Monster.",
+      "description": "The giant deals double damage to objects and structures.",
+      "recharge": null
+    },
+    {
+      "name": "Tackle.",
+      "description": "When the giant enters any enemy's space for the first time on a turn, the enemy must succeed on a DC 19 Strength saving throw or be knocked prone.",
+      "recharge": null
+    }
+  ],
   "id": "fire_giant",
   "_index": 246,
   "name": "Fire Giant",

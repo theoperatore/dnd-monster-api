@@ -42,6 +42,22 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Gith"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Con +5",
+    "Int +5",
+    "Wis +5"
+  ],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:\nAt will: mage hand (the hand is invisible)\n3/day each: jump, misty step, nondetection (self only), tongues\n1/day each: plane shift, telekinesis",
+      "recharge": "(Psionics)."
+    }
+  ],
   "id": "githyanki_knight",
   "_index": 312,
   "name": "Githyanki Knight",

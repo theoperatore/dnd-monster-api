@@ -42,6 +42,30 @@
   "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Ice Toad"
+  ],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The toad can breathe air or water.",
+      "recharge": null
+    },
+    {
+      "name": "Cold Aura.",
+      "description": "Any creature that starts its turn within 5 feet of the toad takes 3 (1d6) cold damage.",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
+      "recharge": null
+    }
+  ],
   "id": "ice_toad",
   "_index": 383,
   "name": "Ice Toad",

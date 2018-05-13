@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "20 ft., swim 30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "understands Aquan and Common but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Limited Amphibiousness.",
+      "description": "The sea spawn can breathe air and water, but needs to be submerged in the sea at least once a day for 1 minute to avoid suffocating.",
+      "recharge": null
+    }
+  ],
   "id": "sea_spawn",
   "_index": 582,
   "name": "Sea Spawn",

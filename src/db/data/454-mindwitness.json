@@ -42,6 +42,25 @@
   "size": "LARGE",
   "speed": "0 ft., fly 20 ft. (hover)",
   "source": "volos-guide",
+  "languages": [
+    "Deep Speech",
+    "Undercommon",
+    "telepathy 600 ft."
+  ],
+  "skills": [
+    "Perception +8"
+  ],
+  "savingThrows": [
+    "Int +5",
+    "Wis +5"
+  ],
+  "abilities": [
+    {
+      "name": "Telepathic Hub.",
+      "description": "When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.",
+      "recharge": null
+    }
+  ],
   "id": "mindwitness",
   "_index": 454,
   "name": "Mindwitness",

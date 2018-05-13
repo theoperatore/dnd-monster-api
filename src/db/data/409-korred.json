@@ -42,6 +42,41 @@
   "size": "SMALL",
   "speed": "30 ft., burrow 30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Dwarvish",
+    "Gnomish",
+    "Sylvan",
+    "Terran",
+    "Undercommon"
+  ],
+  "skills": [
+    "Athletics +9",
+    "Perception +5",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Command Hair.",
+      "description": "The korred has at least one 50-foot-long rope woven out of its hair. As a bonus action, the korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become grappled by the rope (escape DC 13). Until this grapple ends. the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated.\n>A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred's turns while it has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The korred's innate spellcasting ability is Wisdom (save DC 13). It can innately cast the following spells, requiring no components:\nAt will: commune with nature, meld into stone, stone shape\n1/day each: conjure elemental (as 6th-level spell; galeb duhr, gargoyle, earth elemental, or xorn only), Otto's irresistible dance",
+      "recharge": null
+    },
+    {
+      "name": "Stone Camouflage.",
+      "description": "The korred has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+      "recharge": null
+    },
+    {
+      "name": "Stone's Strength.",
+      "description": "While on the ground, the korred deals 2 extra dice of damage with any weapon attack (included in its attacks).",
+      "recharge": null
+    }
+  ],
   "id": "korred",
   "_index": 409,
   "name": "Korred",

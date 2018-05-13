@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "10 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Echolocation.",
+      "description": "The bat can't use its blindsight while deafened.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing.",
+      "description": "The bat has advantage on Wisdom (Perception) checks that rely on hearing.",
+      "recharge": null
+    }
+  ],
   "id": "giant_bat",
   "_index": 278,
   "name": "Giant Bat",

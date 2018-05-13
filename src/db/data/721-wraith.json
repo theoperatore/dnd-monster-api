@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "0 ft., fly 60 ft. (hover)",
   "source": "monster-manual",
+  "languages": [
+    "the languages it knew in life"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "wraith",
   "_index": 721,
   "name": "Wraith",

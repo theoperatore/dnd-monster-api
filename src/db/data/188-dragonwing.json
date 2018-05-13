@@ -42,6 +42,39 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Deception +3",
+    "Stealth +5"
+  ],
+  "savingThrows": [
+    "Wis +2"
+  ],
+  "abilities": [
+    {
+      "name": "Dragon Fanatic.",
+      "description": "The dragonwing has advantage on saving throws against being charmed or frightened. While the dragonwing can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonwing ignores the effects of being charmed or frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Fanatic Advantage.",
+      "description": "Once per turn, if the dragonwing makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 7 (2d6) damage.",
+      "recharge": null
+    },
+    {
+      "name": "Limited Flight.",
+      "description": "The dragonwing can use a bonus action to gain a flying speed of 30 feet until the end of its turn.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The dragonwing has advantage on an attack roll against a creature if at least one of the dragonwing's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
   "id": "dragonwing",
   "_index": 188,
   "name": "Dragonwing",

@@ -42,6 +42,12 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "any one language (usually Common)"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
   "id": "bandit",
   "_index": 62,
   "name": "Bandit",

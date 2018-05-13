@@ -42,6 +42,26 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "understands Draconic but can't speak it"
+  ],
+  "skills": [
+    "Perception +4",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pack Tactics.",
+      "description": "The drake has advantage on an attack roll against a creature if at least one of the drake's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Surprise Attack.",
+      "description": "If the drake surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.",
+      "recharge": null
+    }
+  ],
   "id": "ambush_drake",
   "_index": 21,
   "name": "Ambush Drake",

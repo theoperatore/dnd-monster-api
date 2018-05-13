@@ -42,6 +42,28 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "storm-kings-thunder",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Insight +4",
+    "Investigation +2",
+    "Medicine +4",
+    "Survival +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Brave.",
+      "description": "Baric has advantage on saving throws against being frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "As a knight of the Order of the Gauntlet, Sir Baric has sworn oaths to catch evildoers and bring them to justice. His current quarry is a dwarf brigand, Worvil \"the Weezil\" Forkbeard, who is rumored to be hiding in Iceland Dale. In addition to his gear, Sir Baric has an unarmored warhorse, Henry.\nIdeal: \"Evil must not be allowed to thrive in this world.\"\nBond: \"Tyr is my lord; the order, my family. Through my actions, I shall honor both.\"\nFlaw: \"I'm not afraid to die. When Tyr finally calls me, I'll go to him happily.\"",
+      "recharge": null
+    }
+  ],
   "id": "sir_baric_nylef",
   "_index": 596,
   "name": "Sir Baric Nylef",

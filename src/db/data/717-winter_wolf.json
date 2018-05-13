@@ -42,6 +42,33 @@
   "size": "LARGE",
   "speed": "50 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Giant",
+    "Winter Wolf"
+  ],
+  "skills": [
+    "Perception +5",
+    "Stealth +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Snow Camouflage.",
+      "description": "The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.",
+      "recharge": null
+    }
+  ],
   "id": "winter_wolf",
   "_index": 717,
   "name": "Winter Wolf",

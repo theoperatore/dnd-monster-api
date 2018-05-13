@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)",
   "source": "monster-manual",
+  "languages": [
+    "Terran"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the galeb duhr remains motionless, it is indistinguishable from a normal boulder.",
+      "recharge": null
+    },
+    {
+      "name": "Rolling Charge.",
+      "description": "If the galeb duhr rolls at least 20 ft. straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.",
+      "recharge": null
+    }
+  ],
   "id": "galeb_duhr",
   "_index": 265,
   "name": "Galeb Duhr",

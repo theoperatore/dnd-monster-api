@@ -42,6 +42,22 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "volos-guide",
+  "languages": [
+    "any one language (usually Common)"
+  ],
+  "skills": [
+    "Acrobatics +5",
+    "Insight +5",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Unarmored Defense.",
+      "description": "While the adept is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    }
+  ],
   "id": "martial_arts_adept",
   "_index": 441,
   "name": "Martial Arts Adept",

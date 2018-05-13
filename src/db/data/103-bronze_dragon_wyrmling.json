@@ -42,6 +42,26 @@
   "size": "MEDIUM",
   "speed": "30 ft., fly 60 ft., swim 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +4",
+    "Stealth +2"
+  ],
+  "savingThrows": [
+    "Dex +2",
+    "Con +4",
+    "Wis +2",
+    "Cha +4"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "bronze_dragon_wyrmling",
   "_index": 103,
   "name": "Bronze Dragon Wyrmling",

@@ -42,6 +42,29 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Orc"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Corrupted Carrier.",
+      "description": "When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13 Constitution saving throw. On a failed save, the creature takes 14 (4d6) poison damage and becomes poisoned. On a success, the creature takes half as much damage and isn't poisoned. A creature poisoned by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While poisoned by this effect, a creature can't regain hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Nurtured One of Yurtrus.",
+      "description": "The orc has advantage on saving throws against poison and disease.",
+      "recharge": null
+    }
+  ],
   "id": "orc_nurtured_one_of_yurtrus",
   "_index": 504,
   "name": "Orc Nurtured One of Yurtrus",

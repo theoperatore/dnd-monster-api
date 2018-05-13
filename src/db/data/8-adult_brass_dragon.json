@@ -42,6 +42,29 @@
   "size": "HUGE",
   "speed": "40 ft., burrow 40 ft., fly 80 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "History +7",
+    "Perception +11",
+    "Persuasion +8",
+    "Stealth +5"
+  ],
+  "savingThrows": [
+    "Dex +5",
+    "Con +10",
+    "Wis +6",
+    "Cha +8"
+  ],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "adult_brass_dragon",
   "_index": 8,
   "name": "Adult Brass Dragon",

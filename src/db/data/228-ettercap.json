@@ -42,6 +42,30 @@
   "size": "MEDIUM",
   "speed": "30 ft., climb 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3",
+    "Stealth +4",
+    "Survival +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spider Climb.",
+      "description": "The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Web Sense.",
+      "description": "While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The ettercap ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
   "id": "ettercap",
   "_index": 228,
   "name": "Ettercap",

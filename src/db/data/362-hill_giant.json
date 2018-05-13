@@ -42,6 +42,14 @@
   "size": "HUGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Giant"
+  ],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "hill_giant",
   "_index": 362,
   "name": "Hill Giant",

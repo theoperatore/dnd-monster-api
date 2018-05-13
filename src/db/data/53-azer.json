@@ -42,6 +42,30 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Ignan"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Con +4"
+  ],
+  "abilities": [
+    {
+      "name": "Heated Body.",
+      "description": "A creature that touches the azer or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage.",
+      "recharge": null
+    },
+    {
+      "name": "Heated Weapons.",
+      "description": "When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).",
+      "recharge": null
+    },
+    {
+      "name": "Illumination.",
+      "description": "The azer sheds bright light in a 10-foot radius and dim light for an additional 10 ft..",
+      "recharge": null
+    }
+  ],
   "id": "azer",
   "_index": 53,
   "name": "Azer",

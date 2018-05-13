@@ -42,6 +42,28 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Infernal",
+    "telepathy 120 ft."
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Con +7",
+    "Wis +4",
+    "Cha +5"
+  ],
+  "abilities": [
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede the devil's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The devil has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "chain_devil",
   "_index": 121,
   "name": "Chain Devil",

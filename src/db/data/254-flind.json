@@ -42,6 +42,25 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Abyssal",
+    "Gnoll"
+  ],
+  "skills": [
+    "Intimidation +5",
+    "Perception +5"
+  ],
+  "savingThrows": [
+    "Con +8",
+    "Wis +5"
+  ],
+  "abilities": [
+    {
+      "name": "Aura of Blood Thirst.",
+      "description": "If the flind isn't incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind.",
+      "recharge": null
+    }
+  ],
   "id": "flind",
   "_index": 254,
   "name": "Flind",

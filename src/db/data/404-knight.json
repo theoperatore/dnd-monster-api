@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "any one language (usually Common)"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Con +4",
+    "Wis +2"
+  ],
+  "abilities": [
+    {
+      "name": "Brave.",
+      "description": "The knight has advantage on saving throws against being frightened.",
+      "recharge": null
+    }
+  ],
   "id": "knight",
   "_index": 404,
   "name": "Knight",

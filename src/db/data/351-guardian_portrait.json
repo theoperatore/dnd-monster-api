@@ -42,6 +42,13 @@
   "size": "MEDIUM",
   "speed": "0 ft.",
   "source": "curse-of-strahd",
+  "languages": [
+    "Common",
+    "plus up to two other languages"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
   "id": "guardian_portrait",
   "_index": 351,
   "name": "Guardian Portrait",

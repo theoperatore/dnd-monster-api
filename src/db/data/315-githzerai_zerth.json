@@ -42,6 +42,32 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Gith"
+  ],
+  "skills": [
+    "Arcana +6",
+    "Insight +6",
+    "Perception +6"
+  ],
+  "savingThrows": [
+    "Str +4",
+    "Dex +7",
+    "Int +6",
+    "Wis +6"
+  ],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:\nAt will: mage hand (the hand is invisible)\n3/day each: feather fall, jump, see invisibility, shield",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Psychic Defense.",
+      "description": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    }
+  ],
   "id": "githzerai_zerth",
   "_index": 315,
   "name": "Githzerai Zerth",

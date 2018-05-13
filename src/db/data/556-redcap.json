@@ -42,6 +42,27 @@
   "size": "SMALL",
   "speed": "25 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Sylvan"
+  ],
+  "skills": [
+    "Athletics +6",
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Iron Boots.",
+      "description": "While moving, the redcap has disadvantage on Dexterity (Stealth) checks.",
+      "recharge": null
+    },
+    {
+      "name": "Outsize Strength.",
+      "description": "While grappling, the redcap is considered to be Medium. Also, wielding a heavy weapon doesn't impose disadvantage on its attack rolls.",
+      "recharge": null
+    }
+  ],
   "id": "redcap",
   "_index": 556,
   "name": "Redcap",

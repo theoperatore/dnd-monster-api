@@ -42,6 +42,19 @@
   "size": "LARGE",
   "speed": "10 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "Aquan"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The merrow can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "merrow",
   "_index": 448,
   "name": "Merrow",

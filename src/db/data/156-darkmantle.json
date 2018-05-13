@@ -42,6 +42,23 @@
   "size": "SMALL",
   "speed": "10 ft., fly 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Stealth +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Echolocation.",
+      "description": "The darkmantle can't use its blindsight while deafened.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.",
+      "recharge": null
+    }
+  ],
   "id": "darkmantle",
   "_index": 156,
   "name": "Darkmantle",

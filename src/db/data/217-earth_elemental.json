@@ -42,6 +42,23 @@
   "size": "LARGE",
   "speed": "30 ft., burrow 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Terran"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Earth Glide.",
+      "description": "The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The elemental deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
   "id": "earth_elemental",
   "_index": 217,
   "name": "Earth Elemental",

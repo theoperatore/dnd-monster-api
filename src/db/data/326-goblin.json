@@ -42,6 +42,21 @@
   "size": "SMALL",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Goblin"
+  ],
+  "skills": [
+    "Stealth +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Nimble Escape.",
+      "description": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns.",
+      "recharge": null
+    }
+  ],
   "id": "goblin",
   "_index": 326,
   "name": "Goblin",

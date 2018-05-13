@@ -42,6 +42,24 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [
+    "Perception +4",
+    "Stealth +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Plant Camouflage .",
+      "description": "The thorny has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "The thorny regains 5 hit points at the start of its turn. If it takes cold, fire, or necrotic damage, this trait doesn't function at the start of the thorny's next turn. The thorny dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    }
+  ],
   "id": "thorny",
   "_index": 648,
   "name": "Thorny",

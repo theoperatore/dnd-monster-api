@@ -42,6 +42,38 @@
   "size": "SMALL",
   "speed": "25 ft.",
   "source": "storm-kings-thunder",
+  "languages": [
+    "Common",
+    "Halfling"
+  ],
+  "skills": [
+    "Perception +2",
+    "Performance +7",
+    "Persuasion +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Halfling Nimbleness.",
+      "description": "Oren can move through the space of any creature that is of a size large than his.",
+      "recharge": null
+    },
+    {
+      "name": "Lucky.",
+      "description": "When Oren rolls a 1 on an attack roll, ability check, or saving throw, he can reroll the die and must use the new roll.",
+      "recharge": null
+    },
+    {
+      "name": "Stout Resilience.",
+      "description": "Oren has advantage on saving throws against poison",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "Oren came to Nurthfurrow's End looking for easy work and found it. He sings for his supper, drinks like a fish, and wanders the fields at night dreaming up new lyrics to entertain the inn's other guests. Oren likes to stir up trouble from time to time, but he doesn't  have a mean bone in his body.\nIdeal: \"Music is food for the soul.\"\nBond: \"You had me at \"Can I buy you a drink.\"\nFlaw: \"I have a knack for putting myself in harm's way. Good thing I'm lucky!\"",
+      "recharge": null
+    }
+  ],
   "id": "oren_yogilvy",
   "_index": 510,
   "name": "Oren Yogilvy",

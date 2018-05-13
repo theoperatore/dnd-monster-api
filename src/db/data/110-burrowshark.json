@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Animal Handling +2",
+    "Athletics +6",
+    "Intimidation +3",
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Bond of the Black Earth.",
+      "description": "The burrowshark is magically bound to a bulette trained to serve as its mount. While mounted on its bulette, the burrowshark shares the bulette's senses and can ride the bulette while it burrows. The bonded bulette obeys the burrowshark's commands. If its mount dies, the burrowshark can train a new bulette to serve as its bonded mount, a process requiring a month.",
+      "recharge": null
+    }
+  ],
   "id": "burrowshark",
   "_index": 110,
   "name": "Burrowshark",

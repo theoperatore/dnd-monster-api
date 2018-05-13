@@ -42,6 +42,53 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tyranny-of-dragons",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Infernal",
+    "Giant",
+    "Netherese"
+  ],
+  "skills": [
+    "Arcana +5",
+    "Stealth +9"
+  ],
+  "savingThrows": [
+    "Dex +6",
+    "Wis +4"
+  ],
+  "abilities": [
+    {
+      "name": "Special Equipment.",
+      "description": "Rezmir has the Black Dragon Mask, Hazirawn, and an insignia of claws.",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "Rezmir can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Dark Advantage.",
+      "description": "Once per turn, Rezmir can deal an extra 10 (3d6) damage when she hits with a weapon attack, provided Rezmir has advantage on the attack roll.",
+      "recharge": null
+    },
+    {
+      "name": "Draconic Majesty.",
+      "description": "While wearing no armor and wearing the Black Dragon Mask, Rezmir adds her Charisma bonus to her AC (included).",
+      "recharge": null
+    },
+    {
+      "name": "Immolation.",
+      "description": "When Rezmir is reduced to 0 hit points, her body disintegrates into a pile of ash.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Rezmir fails a saving throw while wearing the Black Dragon Mask, she can choose to succeed instead.",
+      "recharge": "(1/Day)."
+    }
+  ],
   "id": "rezmir",
   "_index": 560,
   "name": "Rezmir",

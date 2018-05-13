@@ -42,6 +42,38 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
+  "languages": [
+    "the languages it knew in life"
+  ],
+  "skills": [
+    "Arcana +3",
+    "Perception +4"
+  ],
+  "savingThrows": [
+    "Wis +4"
+  ],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 233",
+      "recharge": null
+    },
+    {
+      "name": "Undead Nature.",
+      "description": "A wight doesn't require air, food, drink, or sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The wight's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:\nAt will: detect magic, disguise self, mage armor \n1/day each:fear, hold person, misty step",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "deathlock_wight",
   "_index": 163,
   "name": "Deathlock Wight",

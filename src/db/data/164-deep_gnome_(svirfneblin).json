@@ -42,6 +42,34 @@
   "size": "SMALL",
   "speed": "20 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Gnomish",
+    "Terran",
+    "Undercommon"
+  ],
+  "skills": [
+    "Investigation +3",
+    "Perception +2",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Stone Camouflage.",
+      "description": "The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+      "recharge": null
+    },
+    {
+      "name": "Gnome Cunning.",
+      "description": "The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:\nAt will: nondetection (self only)\n1/day each: blindness/deafness, blur, disguise self",
+      "recharge": null
+    }
+  ],
   "id": "deep_gnome_(svirfneblin)",
   "_index": 164,
   "name": "Deep Gnome (Svirfneblin)",

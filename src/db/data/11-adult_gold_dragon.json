@@ -42,6 +42,34 @@
   "size": "HUGE",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Insight +8",
+    "Perception +14",
+    "Persuasion +13",
+    "Stealth +8"
+  ],
+  "savingThrows": [
+    "Dex +8",
+    "Con +13",
+    "Wis +8",
+    "Cha +13"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "adult_gold_dragon",
   "_index": 11,
   "name": "Adult Gold Dragon",

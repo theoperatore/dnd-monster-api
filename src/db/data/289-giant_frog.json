@@ -42,6 +42,24 @@
   "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +2",
+    "Stealth +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The frog can breathe air and water",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The frog's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.",
+      "recharge": null
+    }
+  ],
   "id": "giant_frog",
   "_index": 289,
   "name": "Giant Frog",

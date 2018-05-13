@@ -42,6 +42,36 @@
   "size": "SMALL",
   "speed": "30 ft., climb 30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Undercommon"
+  ],
+  "skills": [
+    "Athletics +4",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The chitine has advantage on saving throws against being charmed, and magic can't put the chitine to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the chitine has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Web Sense.",
+      "description": "While in contact with a web, the chitine knows the exact location of any other creature in contact with the same web.",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The chitine ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
   "id": "chitine",
   "_index": 126,
   "name": "Chitine",

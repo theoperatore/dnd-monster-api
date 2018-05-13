@@ -42,6 +42,28 @@
   "size": "HUGE",
   "speed": "40 ft., climb 40 ft., fly 80 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Deception +8",
+    "Perception +12",
+    "Stealth +6"
+  ],
+  "savingThrows": [
+    "Dex +6",
+    "Con +10",
+    "Wis +7",
+    "Cha +8"
+  ],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "adult_copper_dragon",
   "_index": 10,
   "name": "Adult Copper Dragon",

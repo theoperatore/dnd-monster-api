@@ -42,6 +42,20 @@
   "size": "SMALL",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
+  "languages": [
+    "understands Common but doesn't speak and can't read or write"
+  ],
+  "skills": [
+    "Performance +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ambusher.",
+      "description": "During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.",
+      "recharge": null
+    }
+  ],
   "id": "pidlwick_ii",
   "_index": 523,
   "name": "Pidlwick II",

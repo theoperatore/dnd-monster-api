@@ -42,6 +42,26 @@
   "size": "SMALL",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Vegepygmy"
+  ],
+  "skills": [
+    "Perception +2",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Plant Camouflage .",
+      "description": "The vegepygmy has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "The vegepygmy regains 5 hit points at the start of its turn. If it takes cold, fire, or necrotic damage, this trait doesn't function at the start of the vegepygmy's next turn. The vegepygmy dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    }
+  ],
   "id": "vegepygmy",
   "_index": 684,
   "name": "Vegepygmy",

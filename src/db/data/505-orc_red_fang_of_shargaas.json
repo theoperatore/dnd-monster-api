@@ -42,6 +42,38 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Orc"
+  ],
+  "skills": [
+    "Intimidation +1",
+    "Perception +2",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Cunning Action.",
+      "description": "On each of its turns, the orc can use a bonus action to take the Dash, Disengage, or Hide action.",
+      "recharge": null
+    },
+    {
+      "name": "Hand of Shargaas.",
+      "description": "The orc deals an 2 extra dice of damage when it hits a target with a weapon attack (included in its attacks).",
+      "recharge": null
+    },
+    {
+      "name": "Shargaas's Sight.",
+      "description": "Magical darkness doesn't impede the orc's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Slayer.",
+      "description": "In the first round of a combat, the orc has advantage on attack rolls against any creature that hasn't taken a turn yet. If the orc hits a creature that round who was surprised, the hit is automatically a critical hit.",
+      "recharge": null
+    }
+  ],
   "id": "orc_red_fang_of_shargaas",
   "_index": 505,
   "name": "Orc Red Fang of Shargaas",

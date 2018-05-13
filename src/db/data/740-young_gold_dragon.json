@@ -42,6 +42,29 @@
   "size": "LARGE",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Insight +5",
+    "Perception +9",
+    "Persuasion +9",
+    "Stealth +6"
+  ],
+  "savingThrows": [
+    "Dex +6",
+    "Con +9",
+    "Wis +5",
+    "Cha +9"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "young_gold_dragon",
   "_index": 740,
   "name": "Young Gold Dragon",

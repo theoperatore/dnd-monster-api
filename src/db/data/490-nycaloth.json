@@ -42,6 +42,34 @@
   "size": "LARGE",
   "speed": "40 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "Infernal",
+    "telepathy 60 ft."
+  ],
+  "skills": [
+    "Intimidation +6",
+    "Perception +4",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:\nAt will: darkness, detect magic, dispel magic, invisibility (self only), mirror image",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The nycaloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The nycaloth's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
   "id": "nycaloth",
   "_index": 490,
   "name": "Nycaloth",

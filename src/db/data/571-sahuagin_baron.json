@@ -42,6 +42,35 @@
   "size": "MEDIUM",
   "speed": "30 ft., swim 50 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Sahuagin"
+  ],
+  "skills": [
+    "Perception +7"
+  ],
+  "savingThrows": [
+    "Dex +5",
+    "Con +6",
+    "Int +5",
+    "Wis +4"
+  ],
+  "abilities": [
+    {
+      "name": "Blood Frenzy.",
+      "description": "The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Limited Amphibiousness.",
+      "description": "The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
+      "recharge": null
+    },
+    {
+      "name": "Shark Telepathy.",
+      "description": "The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.",
+      "recharge": null
+    }
+  ],
   "id": "sahuagin_baron",
   "_index": 571,
   "name": "Sahuagin Baron",

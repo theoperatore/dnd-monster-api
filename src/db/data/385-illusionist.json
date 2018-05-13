@@ -42,6 +42,29 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "any four languages"
+  ],
+  "skills": [
+    "Arcana +5",
+    "History +5"
+  ],
+  "savingThrows": [
+    "Int +5",
+    "Wis +2"
+  ],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The illusionist is a 7th-level spellcaster. its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The illusionist has the following wizard spells prepared:\nCantrips (at will): dancing lights, mage hand, minor illusion, poison spray\n1st level (4 slots): color spray*, disguise self*, mage armor, magic missile\n2nd level (3 slots): invisibility*, mirror image*, phantasmal force\n3rd level (3 slots): major image*, phantom steed*\n4th level (1 slot): phantasmal killer*\n*Illusion spell of 1st level or higher",
+      "recharge": null
+    },
+    {
+      "name": "Displacement",
+      "description": "As a bonus action, the illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect ends if the illusionist takes damage, it is incapacitated, or its speed becomes 0.",
+      "recharge": "(Recharges after the Illusionist Casts an Illusion Spell of 1st Level or Higher)."
+    }
+  ],
   "id": "illusionist",
   "_index": 385,
   "name": "Illusionist",

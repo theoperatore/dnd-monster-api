@@ -42,6 +42,12 @@
   "size": "HUGE",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "giant_constrictor_snake",
   "_index": 281,
   "name": "Giant Constrictor Snake",

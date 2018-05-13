@@ -42,6 +42,14 @@
   "size": "TINY",
   "speed": "5 ft., fly 40 ft.",
   "source": "volos-guide",
+  "languages": [
+    "understands Abyssal",
+    "Infernal",
+    "and any languages it knew before becoming a vargouille but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
   "id": "vargouille",
   "_index": 682,
   "name": "Vargouille",

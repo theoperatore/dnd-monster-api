@@ -42,6 +42,16 @@
   "size": "HUGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Trampling Charge.",
+      "description": "If the elephant moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.",
+      "recharge": null
+    }
+  ],
   "id": "elephant",
   "_index": 220,
   "name": "Elephant",

@@ -42,6 +42,32 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Orc"
+  ],
+  "skills": [
+    "Intimidation +3",
+    "Religion +1"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Gruumsh's Fury.",
+      "description": "The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:\n* Cantrips (at will): guidance, resistance, thaumaturgy\n* 1st level (4 slots): bless, command\n* 2nd level (2 slots): augury, spiritual weapon (spear)",
+      "recharge": null
+    }
+  ],
   "id": "orc_eye_of_gruumsh",
   "_index": 502,
   "name": "Orc Eye of Gruumsh",

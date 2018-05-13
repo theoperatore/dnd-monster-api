@@ -42,6 +42,18 @@
   "size": "TINY",
   "speed": "20 ft., climb 20 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Common but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Turn Immunity.",
+      "description": "The claw is immune to effects that turn undead.",
+      "recharge": null
+    }
+  ],
   "id": "crawling_claw",
   "_index": 144,
   "name": "Crawling Claw",

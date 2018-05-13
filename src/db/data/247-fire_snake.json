@@ -42,6 +42,18 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Ignan but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Heated Body.",
+      "description": "A creature that touches the snake or hits it with a melee attack while within 5 ft. of it takes 3 (1d6) fire damage.",
+      "recharge": null
+    }
+  ],
   "id": "fire_snake",
   "_index": 247,
   "name": "Fire Snake",

@@ -42,6 +42,19 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "any two languages"
+  ],
+  "skills": [
+    "Athletics +4",
+    "Deception +4"
+  ],
+  "savingThrows": [
+    "Str +4",
+    "Dex +5",
+    "Wis +2"
+  ],
+  "abilities": [],
   "id": "bandit_captain",
   "_index": 61,
   "name": "Bandit Captain",

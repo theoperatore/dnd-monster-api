@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "20 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Distress Spores.",
+      "description": "When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.",
+      "recharge": null
+    },
+    {
+      "name": "Sun Sickness.",
+      "description": "While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.",
+      "recharge": null
+    }
+  ],
   "id": "myconid_adult",
   "_index": 468,
   "name": "Myconid Adult",

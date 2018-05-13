@@ -42,6 +42,16 @@
   "size": "MEDIUM",
   "speed": "10 ft., fly 50 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    }
+  ],
   "id": "swarm_of_ravens",
   "_index": 636,
   "name": "Swarm of Ravens",

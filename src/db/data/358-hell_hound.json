@@ -42,6 +42,25 @@
   "size": "MEDIUM",
   "speed": "50 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Infernal but can't speak it"
+  ],
+  "skills": [
+    "Perception +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
   "id": "hell_hound",
   "_index": 358,
   "name": "Hell Hound",

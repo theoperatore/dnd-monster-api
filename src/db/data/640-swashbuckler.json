@@ -42,6 +42,27 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "any one language (usually Common)"
+  ],
+  "skills": [
+    "Acrobatics +8",
+    "Athletics +5",
+    "Persuasion +6"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Lightfooted.",
+      "description": "The swashbuckler can take the Dash or Disengage action as a bonus action on each of its turns.",
+      "recharge": null
+    },
+    {
+      "name": "Suave Defense.",
+      "description": "While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its Charisma modifier.",
+      "recharge": null
+    }
+  ],
   "id": "swashbuckler",
   "_index": 640,
   "name": "Swashbuckler",

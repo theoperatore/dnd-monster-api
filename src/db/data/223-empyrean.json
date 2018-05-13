@@ -42,6 +42,41 @@
   "size": "HUGE",
   "speed": "50 ft., fly 50 ft., swim 50 ft.",
   "source": "monster-manual",
+  "languages": [
+    "all"
+  ],
+  "skills": [
+    "Insight +13",
+    "Persuasion +15"
+  ],
+  "savingThrows": [
+    "Str +17",
+    "Int +12",
+    "Wis +13",
+    "Cha +15"
+  ],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: greater restoration, pass without trace, water breathing, water walk\n1/day each: commune, dispel evil and good, earthquake, fire storm, plane shift (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the empyrean fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The empyrean has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The empyrean's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
   "id": "empyrean",
   "_index": 223,
   "name": "Empyrean",

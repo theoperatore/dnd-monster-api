@@ -42,6 +42,27 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "understands Common and the languages of its creator",
+    "but can't speak"
+  ],
+  "skills": [
+    "Athletics +8",
+    "Stealth +7"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Resonant Connection.",
+      "description": "If the banderhobb has even a tiny piece of a creature or an obect in its possession, such as a lock of hair or a splinter of wood, it knows the most direct route to that creature or object if it is within1 mile of the banderhobb.",
+      "recharge": null
+    },
+    {
+      "name": "Shadow Stealth.",
+      "description": "While in dim light or darkness, the banderhobb can take the Hide action as a bonus action.",
+      "recharge": null
+    }
+  ],
   "id": "banderhobb",
   "_index": 60,
   "name": "Banderhobb",

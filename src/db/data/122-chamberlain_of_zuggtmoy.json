@@ -42,6 +42,24 @@
   "size": "LARGE",
   "speed": "20 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "Abywssal",
+    "Undercommon"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Mushroom Portal.",
+      "description": "The chamberlain counts as a mushroom for the Fungus Stride feature of the bridesmaid of Zuggtmoy.",
+      "recharge": null
+    },
+    {
+      "name": "Poison Spores.",
+      "description": "Whenever the chamberlain takes damage, it releases a cloud of spores. Creatures within 5 feet of the chamberlain when this happens must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.",
+      "recharge": null
+    }
+  ],
   "id": "chamberlain_of_zuggtmoy",
   "_index": 122,
   "name": "Chamberlain of Zuggtmoy",

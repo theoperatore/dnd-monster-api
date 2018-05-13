@@ -42,6 +42,24 @@
   "size": "LARGE",
   "speed": "20 ft., fly 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "telepathy 120 ft."
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Con +11",
+    "Int +9",
+    "Wis +6",
+    "Cha +7"
+  ],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The nalfeshnee has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
   "id": "nalfeshnee",
   "_index": 472,
   "name": "Nalfeshnee",

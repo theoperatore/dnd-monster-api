@@ -42,6 +42,30 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "any one language (usually Common)"
+  ],
+  "skills": [
+    "Athletics +10",
+    "Intimidation +5"
+  ],
+  "savingThrows": [
+    "Str +7",
+    "Dex +5",
+    "Con +6"
+  ],
+  "abilities": [
+    {
+      "name": "Brave.",
+      "description": "The gladiator has advantage on saving throws against being frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Brute.",
+      "description": "A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).",
+      "recharge": null
+    }
+  ],
   "id": "gladiator",
   "_index": 317,
   "name": "Gladiator",

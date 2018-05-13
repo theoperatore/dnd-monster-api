@@ -42,6 +42,23 @@
   "size": "MEDIUM",
   "speed": "15 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands infernal but can't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede the lemure's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Hellish Rejuvenation.",
+      "description": "A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.",
+      "recharge": null
+    }
+  ],
   "id": "lemure",
   "_index": 418,
   "name": "Lemure",

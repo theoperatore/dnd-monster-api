@@ -42,6 +42,17 @@
   "size": "TINY",
   "speed": "10 ft., fly 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Elvish",
+    "Sylvan"
+  ],
+  "skills": [
+    "Perception +3",
+    "Stealth +8"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "sprite",
   "_index": 612,
   "name": "Sprite",

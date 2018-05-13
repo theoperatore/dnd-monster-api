@@ -42,6 +42,32 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "Infernal",
+    "telepathy 60 ft."
+  ],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:\n2/day each: darkness, dispel magic\n1/day: cloudkill",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The mezzoloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The mezzoloth's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
   "id": "mezzoloth",
   "_index": 449,
   "name": "Mezzoloth",

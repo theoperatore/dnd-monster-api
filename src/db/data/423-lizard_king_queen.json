@@ -42,6 +42,31 @@
   "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +4",
+    "Stealth +5",
+    "Survival +4"
+  ],
+  "savingThrows": [
+    "Con +4",
+    "Wis +2"
+  ],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The lizardfolk can hold its breath for 15 minutes.",
+      "recharge": null
+    },
+    {
+      "name": "Skewer.",
+      "description": "Once per turn, when the lizardfolk makes a melee attack with its trident and hits, the target takes an extra 10 (3d6) damage, and the lizardfolk gains temporary hit points equal to the extra damage dealt.",
+      "recharge": null
+    }
+  ],
   "id": "lizard_king_queen",
   "_index": 423,
   "name": "Lizard King/Queen",

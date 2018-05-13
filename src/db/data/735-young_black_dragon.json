@@ -42,6 +42,27 @@
   "size": "LARGE",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +6",
+    "Stealth +5"
+  ],
+  "savingThrows": [
+    "Dex +5",
+    "Con +6",
+    "Wis +3",
+    "Cha +5"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    }
+  ],
   "id": "young_black_dragon",
   "_index": 735,
   "name": "Young Black Dragon",

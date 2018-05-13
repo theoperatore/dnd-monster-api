@@ -42,6 +42,23 @@
   "size": "HUGE",
   "speed": "10 ft., fly 80 ft.",
   "source": "volos-guide",
+  "languages": [],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dive Attack.",
+      "description": "If the quetzalcoatlus is flying and dives at least 30 feet toward a target and then hits with a bite attack, the attack deals an extra 10 (3d6) damage to the target.",
+      "recharge": null
+    },
+    {
+      "name": "Flyby.",
+      "description": "The quetzalcoatlus doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
+      "recharge": null
+    }
+  ],
   "id": "quetzalcoatlus",
   "_index": 543,
   "name": "Quetzalcoatlus",

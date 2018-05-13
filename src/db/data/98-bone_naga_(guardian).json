@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common plus one other language"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:\n* Cantrips (at will): mending, sacred flame, thaumaturgy\n* 1st level (4 slots): command, shield of faith\n* 2nd level (3 slots): calm emotions, hold person\n* 3rd level (2 slots): bestow curse",
+      "recharge": null
+    }
+  ],
   "id": "bone_naga_(guardian)",
   "_index": 98,
   "name": "Bone Naga (Guardian)",

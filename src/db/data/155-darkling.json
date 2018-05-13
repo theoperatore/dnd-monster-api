@@ -42,6 +42,29 @@
   "size": "SMALL",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Elvish",
+    "Sylvan"
+  ],
+  "skills": [
+    "Acrobatics +5",
+    "Deception +2",
+    "Perception +5",
+    "Stealth +7"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Death Flash.",
+      "description": "When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area and able to see the bright light must succeed on a DC 10 Constitution saving throw or be blinded until the end of the creature's next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Light Sensitivity.",
+      "description": "While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "darkling",
   "_index": 155,
   "name": "Darkling",

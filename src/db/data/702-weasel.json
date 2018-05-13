@@ -42,6 +42,19 @@
   "size": "TINY",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    }
+  ],
   "id": "weasel",
   "_index": 702,
   "name": "Weasel",

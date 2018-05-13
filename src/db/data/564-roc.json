@@ -42,6 +42,23 @@
   "size": "GARGANTUAN",
   "speed": "20 ft., fly 120 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +4"
+  ],
+  "savingThrows": [
+    "Dex +4",
+    "Con +9",
+    "Wis +4",
+    "Cha +3"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Sight.",
+      "description": "The roc has advantage on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "roc",
   "_index": 564,
   "name": "Roc",

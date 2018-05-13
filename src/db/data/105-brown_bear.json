@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "40 ft., climb 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The bear has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    }
+  ],
   "id": "brown_bear",
   "_index": 105,
   "name": "Brown Bear",

@@ -42,6 +42,30 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "any one language (usually Common)"
+  ],
+  "skills": [
+    "Athletics +9",
+    "Intimidation +5",
+    "Perception +6"
+  ],
+  "savingThrows": [
+    "Str +9",
+    "Con +6"
+  ],
+  "abilities": [
+    {
+      "name": "Indomitable",
+      "description": "The champion rerolls a failed saving throw.",
+      "recharge": "(2/Day)."
+    },
+    {
+      "name": "Second Wind",
+      "description": "As a bonus action, the champion can regain 20 hit points.",
+      "recharge": "(Recharges after a Short or Long Rest)."
+    }
+  ],
   "id": "champion",
   "_index": 123,
   "name": "Champion",

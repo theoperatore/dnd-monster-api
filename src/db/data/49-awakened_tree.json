@@ -42,6 +42,18 @@
   "size": "HUGE",
   "speed": "20 ft.",
   "source": "monster-manual",
+  "languages": [
+    "one language known by its creator"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the tree remains motionless, it is indistinguishable from a normal tree.",
+      "recharge": null
+    }
+  ],
   "id": "awakened_tree",
   "_index": 49,
   "name": "Awakened Tree",

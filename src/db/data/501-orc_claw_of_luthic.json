@@ -42,6 +42,33 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Common",
+    "Orc"
+  ],
+  "skills": [
+    "Intimidation +2",
+    "Medicine +4",
+    "Survival +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "Volo's Guide to Monsters, p. 183",
+      "recharge": null
+    },
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The orc has the following cleric spells prepared:\nCantrips (at will): guidance, mending, resistance, thaumaturgy\n1st level (4 slots): bane, cure wounds, guiding bolt\n2nd level (3 slots): augury, warding bond\n3rd level (2 slots): bestow curse, create food and water",
+      "recharge": null
+    }
+  ],
   "id": "orc_claw_of_luthic",
   "_index": 501,
   "name": "Orc Claw of Luthic",

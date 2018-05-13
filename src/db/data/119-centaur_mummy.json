@@ -42,6 +42,31 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
+  "languages": [
+    "Common",
+    "Sylvan"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Wis +5"
+  ],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 231",
+      "recharge": null
+    },
+    {
+      "name": "Undead Nature.",
+      "description": "A mummy doesn't require air, food, drink, or sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Charge.",
+      "description": "If the centaur mummy moves at least 20 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.",
+      "recharge": null
+    }
+  ],
   "id": "centaur_mummy",
   "_index": 119,
   "name": "Centaur Mummy",

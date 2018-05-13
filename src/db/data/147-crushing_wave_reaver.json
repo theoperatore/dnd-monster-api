@@ -42,6 +42,15 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Athletics +4",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "crushing_wave_reaver",
   "_index": 147,
   "name": "Crushing Wave Reaver",

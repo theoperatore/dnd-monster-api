@@ -42,6 +42,29 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "elemental-evil",
+  "languages": [
+    "Ignan",
+    "one language of its creator's choice"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Illumination.",
+      "description": "The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The myrmidon's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Water Susceptibility.",
+      "description": "For every 5 feet the myrmidon moves in water, it takes 2 (1d4) cold damage.",
+      "recharge": null
+    }
+  ],
   "id": "fire_elemental_myrmidon",
   "_index": 243,
   "name": "Fire Elemental Myrmidon",

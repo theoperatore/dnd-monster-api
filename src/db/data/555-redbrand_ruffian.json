@@ -42,6 +42,14 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "lost-mine-of-phandelver",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Intimidation +2"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "redbrand_ruffian",
   "_index": 555,
   "name": "Redbrand Ruffian",

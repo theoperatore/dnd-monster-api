@@ -42,6 +42,25 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Modron"
+  ],
+  "skills": [
+    "Perception +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Axiomatic Mind.",
+      "description": "The pentadrone can't be compelled to act in a manner contrary to its nature or its instructions.",
+      "recharge": null
+    },
+    {
+      "name": "Disintegration.",
+      "description": "If the pentadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.",
+      "recharge": null
+    }
+  ],
   "id": "pentadrone",
   "_index": 518,
   "name": "Pentadrone",

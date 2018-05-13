@@ -42,6 +42,18 @@
   "size": "LARGE",
   "speed": "20 ft., swim 20 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Stealth +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The crocodile can hold its breath for 15 minutes.",
+      "recharge": null
+    }
+  ],
   "id": "crocodile",
   "_index": 145,
   "name": "Crocodile",

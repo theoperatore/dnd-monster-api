@@ -42,6 +42,28 @@
   "size": "LARGE",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "telepathy 120 ft."
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Str +7",
+    "Con +8",
+    "Wis +4"
+  ],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The hezrou has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Stench.",
+      "description": "Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.",
+      "recharge": null
+    }
+  ],
   "id": "hezrou",
   "_index": 361,
   "name": "Hezrou",

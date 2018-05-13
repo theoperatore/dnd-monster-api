@@ -42,6 +42,12 @@
   "size": "MEDIUM",
   "speed": "15 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "-"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
   "id": "duergar_spore_servant",
   "_index": 207,
   "name": "Duergar Spore Servant",

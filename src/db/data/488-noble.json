@@ -42,6 +42,16 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "any two languages"
+  ],
+  "skills": [
+    "Deception +5",
+    "Insight +4",
+    "Persuasion +5"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "noble",
   "_index": 488,
   "name": "Noble",

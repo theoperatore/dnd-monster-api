@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
+  "languages": [
+    "Common"
+  ],
+  "skills": [
+    "Arcana +4",
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The witch has the following wizard spells prepared:\n* Cantrips (at will): mage hand, prestidigitation, ray of frost\n* 1st level (4 slots): ray of sickness, sleep, Tasha's hideous laughter\n* 2nd level (2 slots): alter self, invisibility",
+      "recharge": null
+    }
+  ],
   "id": "barovian_witch",
   "_index": 69,
   "name": "Barovian Witch",

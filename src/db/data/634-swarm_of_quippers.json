@@ -42,6 +42,26 @@
   "size": "MEDIUM",
   "speed": "0 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Blood Frenzy.",
+      "description": "The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The swarm can breathe only underwater.",
+      "recharge": null
+    }
+  ],
   "id": "swarm_of_quippers",
   "_index": 634,
   "name": "Swarm of Quippers",

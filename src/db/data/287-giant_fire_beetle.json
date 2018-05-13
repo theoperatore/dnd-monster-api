@@ -42,6 +42,16 @@
   "size": "SMALL",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Illumination.",
+      "description": "The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..",
+      "recharge": null
+    }
+  ],
   "id": "giant_fire_beetle",
   "_index": 287,
   "name": "Giant Fire Beetle",

@@ -42,6 +42,25 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "Common",
+    "Undercommon"
+  ],
+  "skills": [
+    "Persuasion +5",
+    "Religion +2"
+  ],
+  "savingThrows": [
+    "Wis +4",
+    "Cha +5"
+  ],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "Grisha is a 6th-level-spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared:\nCantrips (at will): guidance, light, sacred flame, thaumaturgy\n1st level (4 slots): cure wounds, divine favor, inflict wounds, protection from good, shield of faith\n2nd level (3 slots): continual flame, hold person, magic weapon, spiritual weapon\n3rd level (3 slots): bestow curse, dispel magic, spirit guardian",
+      "recharge": null
+    }
+  ],
   "id": "grisha",
   "_index": 344,
   "name": "Grisha",

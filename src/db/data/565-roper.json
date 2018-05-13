@@ -42,6 +42,29 @@
   "size": "LARGE",
   "speed": "10 ft., climb 10 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +6",
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.",
+      "recharge": null
+    },
+    {
+      "name": "Grasping Tendrils.",
+      "description": "The roper can have up to six tendrils at a time. Each tendril can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying a tendril deals no damage to the roper, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
   "id": "roper",
   "_index": 565,
   "name": "Roper",

@@ -42,6 +42,29 @@
   "size": "LARGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "Common"
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Dex +6",
+    "Con +5",
+    "Wis +5",
+    "Cha +6"
+  ],
+  "abilities": [
+    {
+      "name": "Rejuvenation.",
+      "description": "If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:\n* Cantrips (at will): mage hand, minor illusion, ray of frost\n* 1st level (4 slots): charm person, detect magic, sleep\n* 2nd level (3 slots): detect thoughts, hold person\n* 3rd level (3 slots): lightning bolt, water breathing\n* 4th level (3 slots): blight, dimension door\n* 5th level (2 slots): dominate person",
+      "recharge": null
+    }
+  ],
   "id": "spirit_naga",
   "_index": 611,
   "name": "Spirit Naga",

@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "20 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The toad can breathe air and water",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The toad's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.",
+      "recharge": null
+    }
+  ],
   "id": "giant_toad",
   "_index": 305,
   "name": "Giant Toad",

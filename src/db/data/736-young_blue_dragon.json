@@ -42,6 +42,21 @@
   "size": "LARGE",
   "speed": "40 ft., burrow 40 ft., fly 80 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Perception +9",
+    "Stealth +4"
+  ],
+  "savingThrows": [
+    "Dex +4",
+    "Con +8",
+    "Wis +5",
+    "Cha +7"
+  ],
+  "abilities": [],
   "id": "young_blue_dragon",
   "_index": 736,
   "name": "Young Blue Dragon",

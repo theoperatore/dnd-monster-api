@@ -7,6 +7,10 @@ const { JSDOM } = require('jsdom');
 const request = require('request');
 const fse = require('fs-extra');
 const utils = require('./utils');
+const extractLanguages = require('./extractLanguages');
+const extractSkills = require('./extractSkills');
+const extractSavingThrows = require('./extractSavingThrows');
+const extractAbilities = require('./extractAbilities');
 
 /* example of a single jsonFile
 {
@@ -123,7 +127,11 @@ async function parseStats(htmlString, file) {
     }, {});
 
   // TODO: parse actions / abilities
-  // TODO: figure out how to represent 50/50 75/25 splits in alignments
+  // const actions = [];
+  const languages = extractLanguages(htmlString, file);
+  const skills = extractSkills(htmlString, file);
+  const abilities = extractAbilities(htmlString, file);
+  const savingThrows = extractSavingThrows(htmlString, file);
 
   return {
     abilityScores,
@@ -138,6 +146,10 @@ async function parseStats(htmlString, file) {
     size: file.tags[0].toUpperCase(),
     speed: speed.trim(),
     source: file.tags[file.tags.length - 1],
+    languages,
+    skills,
+    savingThrows,
+    abilities,
   };
 }
 

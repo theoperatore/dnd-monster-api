@@ -42,6 +42,24 @@
   "size": "MEDIUM",
   "speed": "25 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Dwarvish",
+    "Undercommon"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Duergar Resilience.",
+      "description": "The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "duergar",
   "_index": 211,
   "name": "Duergar",

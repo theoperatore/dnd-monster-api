@@ -42,6 +42,33 @@
   "size": "HUGE",
   "speed": "40 ft., fly 80 ft., swim 40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Insight +7",
+    "Perception +12",
+    "Stealth +5"
+  ],
+  "savingThrows": [
+    "Dex +5",
+    "Con +11",
+    "Wis +7",
+    "Cha +9"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
   "id": "adult_bronze_dragon",
   "_index": 9,
   "name": "Adult Bronze Dragon",

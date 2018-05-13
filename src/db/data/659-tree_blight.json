@@ -42,6 +42,23 @@
   "size": "HUGE",
   "speed": "30 ft.",
   "source": "curse-of-strahd",
+  "languages": [
+    "understands Common and Druidic but doesn't speak"
+  ],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the blight remains motionless, it is indistinguishable from a dead tree.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The blight deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
   "id": "tree_blight",
   "_index": 659,
   "name": "Tree Blight",

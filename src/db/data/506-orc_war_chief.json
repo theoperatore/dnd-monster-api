@@ -42,6 +42,30 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Orc"
+  ],
+  "skills": [
+    "Intimidation +5"
+  ],
+  "savingThrows": [
+    "Str +6",
+    "Con +6",
+    "Wis +2"
+  ],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Gruumsh's Fury.",
+      "description": "The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).",
+      "recharge": null
+    }
+  ],
   "id": "orc_war_chief",
   "_index": 506,
   "name": "Orc War Chief",

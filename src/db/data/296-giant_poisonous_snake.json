@@ -42,6 +42,12 @@
   "size": "MEDIUM",
   "speed": "30 ft., swim 30 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +2"
+  ],
+  "savingThrows": [],
+  "abilities": [],
   "id": "giant_poisonous_snake",
   "_index": 296,
   "name": "Giant Poisonous Snake",

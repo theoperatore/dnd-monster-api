@@ -42,6 +42,38 @@
   "size": "GARGANTUAN",
   "speed": "20 ft., swim 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "understands Abyssal",
+    "Celestial",
+    "Infernal",
+    "and Primordial but can't speak",
+    "telepathy 120 ft."
+  ],
+  "skills": [],
+  "savingThrows": [
+    "Str +17",
+    "Dex +7",
+    "Con +14",
+    "Int +13",
+    "Wis +11"
+  ],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The kraken can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Freedom of Movement.",
+      "description": "The kraken ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The kraken deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
   "id": "kraken",
   "_index": 411,
   "name": "Kraken",

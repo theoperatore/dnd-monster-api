@@ -42,6 +42,16 @@
   "size": "HUGE",
   "speed": "50 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Trampling Charge.",
+      "description": "If the triceratops moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.",
+      "recharge": null
+    }
+  ],
   "id": "triceratops",
   "_index": 662,
   "name": "Triceratops",

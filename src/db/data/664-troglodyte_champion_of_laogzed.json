@@ -42,6 +42,32 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "out-of-the-abyss",
+  "languages": [
+    "Troglodyte"
+  ],
+  "skills": [
+    "Athletics +6",
+    "Intimidation +3",
+    "Stealth +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Chameleon Skin.",
+      "description": "The troglodyte has aadvantage on Dexterity (Stealth) checks made to hide.",
+      "recharge": null
+    },
+    {
+      "name": "Stench.",
+      "description": "Any creature other than a ttroglodyte that starts its turn within 5 feet of the troglodyte must succeed on a DC 14 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all ttroglodytes for 1 hour.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
   "id": "troglodyte_champion_of_laogzed",
   "_index": 664,
   "name": "Troglodyte Champion of Laogzed",

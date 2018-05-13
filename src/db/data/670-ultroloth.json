@@ -42,6 +42,34 @@
   "size": "MEDIUM",
   "speed": "30 ft., fly 60 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal",
+    "Infernal",
+    "telepathy 120 ft."
+  ],
+  "skills": [
+    "Intimidation +9",
+    "Perception +7",
+    "Stealth +8"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:\nAt will: alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion\n3/day each: dimension door, fear, wall of fire\n1/day each: fire storm, mass suggestion",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The ultroloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The ultroloth's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
   "id": "ultroloth",
   "_index": 670,
   "name": "Ultroloth",

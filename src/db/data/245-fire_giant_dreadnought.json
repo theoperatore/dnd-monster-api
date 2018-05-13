@@ -42,6 +42,25 @@
   "size": "HUGE",
   "speed": "30 ft.",
   "source": "volos-guide",
+  "languages": [
+    "Giant"
+  ],
+  "skills": [
+    "Athletics +13",
+    "Perception +5"
+  ],
+  "savingThrows": [
+    "Dex +4",
+    "Con +11",
+    "Cha +5"
+  ],
+  "abilities": [
+    {
+      "name": "Dual Shields.",
+      "description": "The giant carries two shields, each of which is accounted for in the giant's AC. The giant must stow or drop one of its shields to hurl rocks.",
+      "recharge": null
+    }
+  ],
   "id": "fire_giant_dreadnought",
   "_index": 245,
   "name": "Fire Giant Dreadnought",

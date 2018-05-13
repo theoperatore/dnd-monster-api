@@ -42,6 +42,40 @@
   "size": "HUGE",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Abyssal"
+  ],
+  "skills": [
+    "Perception +7"
+  ],
+  "savingThrows": [
+    "Str +13",
+    "Dex +6",
+    "Con +13",
+    "Wis +7"
+  ],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (7d10) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked prone.",
+      "recharge": null
+    },
+    {
+      "name": "Labyrinthine Recall.",
+      "description": "The goristro can perfectly recall any path it has traveled.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The goristro has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The goristro deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
   "id": "goristro",
   "_index": 329,
   "name": "Goristro",

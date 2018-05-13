@@ -42,6 +42,23 @@
   "size": "LARGE",
   "speed": "5 ft., climb 5 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Stealth +5"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the piercer remains motionless on the ceiling, it is indistinguishable from a normal stalactite.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The piercer can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
   "id": "piercer",
   "_index": 524,
   "name": "Piercer",

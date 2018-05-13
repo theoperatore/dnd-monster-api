@@ -42,6 +42,19 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "monster-manual",
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "skills": [
+    "Athletics +5",
+    "Perception +2"
+  ],
+  "savingThrows": [
+    "Str +5",
+    "Con +4"
+  ],
+  "abilities": [],
   "id": "half-red_dragon_veteran",
   "_index": 355,
   "name": "Half-Red Dragon Veteran",

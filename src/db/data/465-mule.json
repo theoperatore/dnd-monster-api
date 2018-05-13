@@ -42,6 +42,21 @@
   "size": "MEDIUM",
   "speed": "40 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Beast of Burden.",
+      "description": "The mule is considered to be a Large animal for the purpose of determining its carrying capacity.",
+      "recharge": null
+    },
+    {
+      "name": "Sure-Footed.",
+      "description": "The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.",
+      "recharge": null
+    }
+  ],
   "id": "mule",
   "_index": 465,
   "name": "Mule",

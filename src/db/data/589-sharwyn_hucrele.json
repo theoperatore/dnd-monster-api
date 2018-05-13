@@ -42,6 +42,44 @@
   "size": "MEDIUM",
   "speed": "30 ft.",
   "source": "tales-from-the-yawning-portal",
+  "languages": [
+    "Common",
+    "Draconic",
+    "Goblin"
+  ],
+  "skills": [
+    "Arcana +5",
+    "Insight +4",
+    "Persuasion + 1"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 242",
+      "recharge": null
+    },
+    {
+      "name": "Barkskin.",
+      "description": "Sharwyn's AC can't be lower than 16.",
+      "recharge": null
+    },
+    {
+      "name": "Special Equipment.",
+      "description": "Sharwyn has a spell book that contains the spells listed in her Spellcasting trait, plus detect magic and silent image.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:\nCantrips (at will): light, prestidigitation, ray of frost \n1st level (2 slots): color spray, magic missile, shield, sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Tree Thrall.",
+      "description": "If the Gulthias Tree dies, Sharwyn dies 24 hours later.",
+      "recharge": null
+    }
+  ],
   "id": "sharwyn_hucrele",
   "_index": 589,
   "name": "Sharwyn Hucrele",

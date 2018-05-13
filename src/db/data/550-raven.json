@@ -42,6 +42,18 @@
   "size": "TINY",
   "speed": "10 ft., fly 50 ft.",
   "source": "monster-manual",
+  "languages": [],
+  "skills": [
+    "Perception +3"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Mimicry.",
+      "description": "The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
+      "recharge": null
+    }
+  ],
   "id": "raven",
   "_index": 550,
   "name": "Raven",
