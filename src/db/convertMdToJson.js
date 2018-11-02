@@ -128,6 +128,7 @@ async function parseStats(htmlString, file) {
 
   // TODO: parse actions / abilities
   // const actions = [];
+  // const legendaryActions = [];
   const languages = extractLanguages(htmlString, file);
   const skills = extractSkills(htmlString, file);
   const abilities = extractAbilities(htmlString, file);
