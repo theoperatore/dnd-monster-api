@@ -15,9 +15,11 @@
   "scripts": {
     "build-db": "node src/db/createDb.js",
     "start": "node src/main.js",
-    "test": "jest"
+    "test": "jest",
+    "start:grpc": "node src/grpc/server.js"
   },
   "dependencies": {
+    "@grpc/proto-loader": "^0.3.0",
     "chalk": "^2.3.1",
     "cheerio": "^1.0.0-rc.2",
     "compression": "^1.7.1",
@@ -28,7 +30,9 @@
     "express-graphql": "^0.6.11",
     "fast-memoize": "^2.3.2",
     "fs-extra": "^5.0.0",
+    "google-protobuf": "^3.6.1",
     "graphql": "^0.13.0",
+    "grpc": "^1.16.0",
     "helmet": "^3.11.0",
     "jsdom": "^11.6.2",
     "markdown-to-json": "^0.5.1",
