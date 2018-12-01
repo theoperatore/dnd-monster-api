@@ -139,7 +139,16 @@ message SearchResponse {
   repeated Monster monsters = 3;
 }
 
+message NameSearchRequest {
+  string name = 1;
+}
+
+message NameSearchResponse {
+  Monster match = 1;
+}
+
 service MonsterApiService {
   rpc GetMonster (MonsterRequest) returns (Monster);
-  rpc GetMonsters (SearchRequest) returns (stream SearchResponse);
+  rpc GetMonsters (SearchRequest) returns (SearchResponse);
+  rpc SearchMonstersByName (NameSearchRequest) returns (stream NameSearchResponse);
 }

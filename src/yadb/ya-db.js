@@ -80,6 +80,13 @@ class Yadb {
       });
   }
 
+  // TODO: make this return a stream and not a promise
+  getAllByPartial(partialFilename) {
+    return this._getFileList()
+      .then(files => files.filter(file => file.match(partialFilename)))
+      .then(files => Promise.all(files.map(this.read)));
+  }
+
   delete(filename) {
     const resolvedPath = path.resolve(this.dirPath, filename);
     return fs.remove(filename).then(() => true);

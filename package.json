@@ -1,7 +1,7 @@
 {
   "name": "dnd-monster-api",
   "version": "1.0.0",
-  "description": "An api that serves up Dungeon's & Dragons monsters via GraphQL",
+  "description": "An api that serves up Dungeon's & Dragons monsters via GraphQL and contains a gRPC server too",
   "main": "src/main.js",
   "repository": "git@github.com:theoperatore/dnd-monster-api.git",
   "author": "Al Petersen <theoperatore@gmail.com>",
