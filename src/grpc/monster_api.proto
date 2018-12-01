@@ -1,0 +1,145 @@
+syntax = "proto3";
+
+package grpc.monsterapi;
+
+// next = 2;
+message MonsterRequest {
+  string id = 1;  
+}
+
+// next = 16;
+enum MonsterRace {
+  UNKNOWN_RACE = 0;
+  ABERRATION = 1;
+  BEAST = 2;
+  CELESTIAL = 3;
+  CONSTRUCT = 4;
+  DRAGON = 5;
+  ELEMENTAL = 6;
+  FEY = 7;
+  FIEND = 8;
+  GIANT = 9;
+  HUMANOID = 10;
+  MONSTROSITY = 11;
+  OOZE = 12;
+  PLANT = 13;
+  UNDEAD = 14;
+  SWARM = 15;
+}
+
+// next = 3;
+message MonsterHitPoints {
+  int32 average = 1;
+  string roll = 2;
+}
+
+// next = 7;
+enum MonsterSize {
+  UNKNOWN_SIZE = 0;
+  TINY = 1;
+  SMALL = 2;
+  MEDIUM = 3;
+  LARGE = 4;
+  HUGE = 5;
+  GARGANTUAN = 6;
+}
+
+// next = 19;
+enum MonsterAlignment {
+  UNKNOWN_ALIGNMENT = 0;
+  LAWFUL_EVIL = 1;
+  LAWFUL_GOOD = 2;
+  LAWFUL_NEUTRAL = 3;
+  CHAOTIC_EVIL = 4;
+  CHAOTIC_GOOD = 5;
+  CHAOTIC_NEUTRAL = 6;
+  NEUTRAL_EVIL = 7;
+  NEUTRAL_GOOD = 8;
+  NEUTRAL = 9;
+  UNALIGNED = 10;
+
+  CONSTRUCT_ALIGNMENT = 11;
+
+  ANY_ALIGNMENT = 12;
+  ANY_EVIL_ALIGNMENT = 13;
+  ANY_NON_GOOD_ALIGNMENT = 14;
+  ANY_NON_LAWFUL_ALIGNMENT = 15;
+  ANY_CHAOTIC_ALIGNMENT = 16;
+
+  NEUTRAL_GOOD_50_OR_NEUTRAL_EVIL_50 = 17;
+  CHAOTIC_GOOD_75_OR_NEUTRAL_EVIL_25 = 18;
+}
+
+// next = 7;
+enum Ability {
+  UNKNOWN_ABILITY = 0;
+  STR = 1;
+  DEX = 2;
+  CON = 3;
+  WIS = 4;
+  INT = 5;
+  CHA = 6;
+}
+
+// next = 4;
+message AbilityScore {
+  int32 score = 1;
+  int32 mod = 2;
+  Ability ability = 3;
+}
+
+// next = 7;
+message MonsterAbilityScoresMap {
+  AbilityScore STR = 1;
+  AbilityScore DEX = 2;
+  AbilityScore CON = 3;
+  AbilityScore INT = 4;
+  AbilityScore WIS = 5;
+  AbilityScore CHA = 6;
+}
+
+// next = 4;
+message MonsterAbility {
+  string name = 1;
+  string description = 2;
+  string recharge = 3;
+}
+
+
+// next = 18;
+message Monster {
+  string id = 1;
+  string name = 3;
+  MonsterRace race = 4;
+  string armorClass = 5;
+  MonsterHitPoints hitPoints = 6;
+  string image = 7;
+  string challengeRating = 8;
+  MonsterSize size = 9;
+  string speed = 10;
+  MonsterAlignment alignment = 11;
+  MonsterAbilityScoresMap abilityScores = 12;
+  string source = 13;
+  repeated MonsterAbility abilities = 14;
+  repeated string languages = 15;
+  repeated string skills = 16;
+  repeated string savingThrows = 17;
+}
+
+//next = 3;
+message SearchRequest {
+  int32 limit = 1;
+  int32 offset = 2;
+}
+
+// next = 4;
+message SearchResponse {
+  int32 count = 1;
+  int32 total = 2;
+  repeated Monster monsters = 3;
+}
+
+service MonsterApiService {
+  rpc GetMonster (MonsterRequest) returns (Monster);
+  rpc GetMonsters (SearchRequest) returns (stream SearchResponse);
+}
