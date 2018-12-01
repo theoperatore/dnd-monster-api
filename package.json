@@ -33,6 +33,7 @@
     "google-protobuf": "^3.6.1",
     "graphql": "^0.13.0",
     "grpc": "^1.16.0",
+    "grpc-tools": "^1.6.6",
     "helmet": "^3.11.0",
     "jsdom": "^11.6.2",
     "markdown-to-json": "^0.5.1",
