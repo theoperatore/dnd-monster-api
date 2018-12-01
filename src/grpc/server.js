@@ -48,6 +48,7 @@ function getMonsters(call, callback) {
   .catch(error => callback({ code: 500, message: error.message }));
 }
 
+// TODO: make this actually be a stream
 const delay = ms => new Promise(r => setTimeout(r, ms));
 function SearchMonstersByName(call) {
   const { name } = call.request;
@@ -64,6 +65,13 @@ function SearchMonstersByName(call) {
     .catch(error => call.end({ code: 500, message: error.message }));
 }
 
+function GetRandomMonster(call, callback) {
+  monsterStore
+    .getRandomMonster()
+    .then(monster => callback(null, monster))
+    .catch(error => call.end({ code: 500, message: error.message }));
+}
+
 const monsterApiServer = new grpc.Server();
 
 monsterApiServer
@@ -71,6 +79,7 @@ monsterApiServer
     getMonster,
     getMonsters,
     SearchMonstersByName,
+    GetRandomMonster,
   });
 
 const result = monsterApiServer.bind('127.0.0.1:1337', grpc.ServerCredentials.createInsecure());

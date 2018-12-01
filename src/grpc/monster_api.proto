@@ -147,8 +147,11 @@ message NameSearchResponse {
   Monster match = 1;
 }
 
+message Empty {} 
+
 service MonsterApiService {
   rpc GetMonster (MonsterRequest) returns (Monster);
   rpc GetMonsters (SearchRequest) returns (SearchResponse);
   rpc SearchMonstersByName (NameSearchRequest) returns (stream NameSearchResponse);
+  rpc GetRandomMonster (Empty) returns (Monster);
 }

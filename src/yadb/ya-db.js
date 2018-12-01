@@ -87,6 +87,14 @@ class Yadb {
       .then(files => Promise.all(files.map(this.read)));
   }
 
+  getRandom() {
+    return this._getFileList()
+      .then(files => {
+        const idx = Math.ceil(Math.random() * (files.length -1));
+        return this.read(files[idx]);
+      })
+  }
+
   delete(filename) {
     const resolvedPath = path.resolve(this.dirPath, filename);
     return fs.remove(filename).then(() => true);

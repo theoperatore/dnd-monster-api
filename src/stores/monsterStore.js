@@ -34,6 +34,10 @@ class MonsterStore {
   findMonstersByName(namePartial) {
     return this.db.getAllByPartial(namePartial).then(monsters => monsters.map(m => new MonsterResolver(m)));
   }
+
+  getRandomMonster() {
+    return this.db.getRandom().then(m => new MonsterResolver(m));
+  }
 }
 
 module.exports = MonsterStore;
