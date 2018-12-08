@@ -13,6 +13,18 @@ class QueryResolver {
       .then(monsters => new ApiListResponseResolver(monsters))
       .catch(() => new ApiListResponseResolver());
   }
+
+  searchMonstersByName(root, context) {
+    return context.monsterStore
+      .findMonstersByName(root.name)
+      .catch(() => []);
+  }
+
+  getRandomMonster(root, context) {
+    return context.monsterStore
+      .getRandomMonster()
+      .catch(() => null);
+  }
 };
 
 module.exports = QueryResolver;

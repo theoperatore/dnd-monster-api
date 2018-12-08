@@ -114,5 +114,7 @@ module.exports = `
   type Query {
     getMonsters(limit: Int = 10, offset: Int = 0): ApiListResponse
     getMonster(id: ID!): Monster
+    searchMonstersByName(name: String!): [Monster]!
+    getRandomMonster: Monster
   }
 `;
