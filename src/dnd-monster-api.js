@@ -2,6 +2,7 @@
 
 require('dotenv').config();
 
+const getPort = require('get-port');
 const path = require('path');
 const cors = require('cors');
 const compression = require('compression');
@@ -16,9 +17,7 @@ const schema = buildSchema(require('./schema'));
 const MonsterStore = require('./stores/monsterStore');
 const QueryResolver = require('./resolvers/QueryResolver');
 
-const PORT = process.env.PORT || 9966;
 const app = express();
-
 const db = new Yadb(path.resolve(process.cwd(), 'src/db/data'));
 const monsterStore = new MonsterStore(db);
 
@@ -38,6 +37,7 @@ app.use(compression());
 app.use(cors());
 app.use('/graphql', graphqlHTTP(graphqlConfig));
 
-const server = app.listen(PORT, () => console.log('Monsters up on port', PORT));
-
-module.exports = server;
+(async () => {
+  const PORT = await getPort({ port: process.env.PORT || 9966 });
+  app.listen(PORT, () => console.log('Monsters up on port', PORT));
+})();

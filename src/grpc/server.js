@@ -1,4 +1,5 @@
 const path = require('path');
+const getPort = require('get-port');
 const grpc = require('grpc');
 const protoLoader = require('@grpc/proto-loader');
 const Yadb = require('../yadb/ya-db');
@@ -16,6 +17,11 @@ const protoDescriptor = grpc.loadPackageDefinition(packageDefintion);
 const monsterApi = protoDescriptor.grpc.monsterapi;
 const db = new Yadb(path.resolve(process.cwd(), 'src/db/data'));
 const monsterStore = new MonsterStore(db);
+
+let PORT = '';
+(async () => {
+  PORT = await getPort();
+})();
 
 function getMonster(call, callback) {
   console.log('getMonster request', call.request);
@@ -82,7 +88,7 @@ monsterApiServer
     GetRandomMonster,
   });
 
-const result = monsterApiServer.bind('127.0.0.1:1337', grpc.ServerCredentials.createInsecure());
+const result = monsterApiServer.bind(`127.0.0.1:${PORT}`, grpc.ServerCredentials.createInsecure());
 monsterApiServer.start();
 
 console.log('bind result', result);

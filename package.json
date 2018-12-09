@@ -8,40 +8,43 @@
   "license": "MIT",
   "private": true,
   "engines": {
-    "node": ">=9.0.0",
-    "npm": ">=5",
-    "yarn": ">=1.2.1"
+    "node": ">=10.14.1",
+    "npm": ">=6.4.1",
+    "yarn": ">=1.12.3"
   },
   "scripts": {
     "build-db": "node src/db/createDb.js",
-    "start": "node src/main.js",
+    "start": "node src/dnd-monster-api.js",
     "test": "jest",
-    "start:grpc": "node src/grpc/server.js"
+    "start:grpc": "node src/grpc/server.js",
+    "start:alorg": "node src/alorg/server.js",
+    "forever": "forever -d -a -o out.log -e err.log start src/dnd-monster-api.js"
   },
   "dependencies": {
     "@grpc/proto-loader": "^0.3.0",
+    "@theoperatore/alorg-service": "^1.0.1",
     "chalk": "^2.3.1",
     "cheerio": "^1.0.0-rc.2",
-    "compression": "^1.7.1",
-    "cors": "^2.8.4",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
     "del": "^3.0.0",
-    "dotenv": "^5.0.0",
-    "express": "^4.16.2",
-    "express-graphql": "^0.6.11",
-    "fast-memoize": "^2.3.2",
-    "fs-extra": "^5.0.0",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "fast-memoize": "^2.5.1",
+    "fs-extra": "^7.0.1",
+    "get-port": "^4.0.0",
     "google-protobuf": "^3.6.1",
-    "graphql": "^0.13.0",
-    "grpc": "^1.16.0",
-    "grpc-tools": "^1.6.6",
-    "helmet": "^3.11.0",
-    "jsdom": "^11.6.2",
+    "graphql": "^14.0.2",
+    "grpc": "^1.16.1",
+    "helmet": "^3.15.0",
+    "jsdom": "^13.0.0",
     "markdown-to-json": "^0.5.1",
-    "marked": "^0.3.12",
-    "request": "^2.83.0",
-    "simple-git": "^1.89.0"
+    "marked": "^0.5.2",
+    "request": "^2.88.0",
+    "simple-git": "^1.107.0"
   },
   "devDependencies": {
-    "jest": "^22.4.3"
+    "jest": "^23.6.0"
   }
 }
