@@ -13,12 +13,14 @@
     "yarn": ">=1.12.3"
   },
   "scripts": {
+    "postinstall": "yarn audit",
     "build-db": "node src/db/createDb.js",
     "start": "node src/dnd-monster-api.js",
     "test": "jest",
     "start:grpc": "node src/grpc/server.js",
     "start:alorg": "node src/alorg/server.js",
-    "forever": "forever -d -a -o out.log -e err.log start src/dnd-monster-api.js"
+    "forever": "forever -d -a -o out.log -e err.log start src/dnd-monster-api.js",
+    "forever:alorg": "forever -d -a -o out.forever.log -e err.forever.log start src/alorg/dnd-monster-api.js"
   },
   "dependencies": {
     "@grpc/proto-loader": "^0.3.0",
