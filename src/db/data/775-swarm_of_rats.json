@@ -1,0 +1,65 @@
+{
+  "id": "swarm_of_rats",
+  "_index": 775,
+  "name": "Swarm of Rats",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "10",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 24,
+    "roll": "7d8-7"
+  },
+  "race": "SWARM",
+  "size": "Medium swarm",
+  "speed": "30 ft.",
+  "senses": "darkvision 30 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The swarm has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

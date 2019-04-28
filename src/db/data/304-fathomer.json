@@ -1,0 +1,70 @@
+{
+  "id": "fathomer",
+  "_index": 304,
+  "name": "Fathomer",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "10 (13 with mage armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d8+16"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Aquan", "Common"],
+  "skills": ["Arcana +2", "Perception +4", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger",
+      "description": "The fathomer can use its action to polymorph into a Medium serpent composed of water, or back into its true form. Anything the fathomer is wearing or carrying is subsumed into the serpent form during the change, inaccessible until the fathomer returns to its true form. The fathomer reverts to its true form after 4 hours, unless it can expend another use of this trait. If the fathomer is knocked unconscious or dies, it also reverts to its true form.\nWhile in serpent form, the fathomer gains a swimming speed of 40 feet, the ability to breathe underwater, immunity to poison damage, as well as resistance to fire damage and bludgeoning, piercing, and slashing damage from nonmagical weapons. It also has immunity to the following conditions: exhaustion, grappled, paralyzed, poisoned, restrained, prone, unconscious. The serpent form can enter a hostile creature's space and stop there. In addition, if water can pass through a space, the serpent can do so without squeezing.",
+      "recharge": "(2/day)."
+    },
+    {
+      "name": "Olhydra's Armor",
+      "description": "The fathomer can cast mage armor at will, without expending material components.",
+      "recharge": "(Human Form Only)."
+    },
+    {
+      "name": "Spellcasting",
+      "description": "The fathomer is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has two 3rd-level spell slots, which it regains after finishing a short or long rest, and knows the following warlock spells:\n* Cantrips (at will): chill touch, eldritch blast, mage hand\n* 1st level: armor of Agathys, expeditious retreat, hex\n* 2nd level: invisibility\n* 3rd level: Vampiric touch",
+      "recharge": "(Human Form Only)."
+    }
+  ],
+  "image": null
+}

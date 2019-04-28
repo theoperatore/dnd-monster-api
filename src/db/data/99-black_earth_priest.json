@@ -1,0 +1,60 @@
+{
+  "id": "black_earth_priest",
+  "_index": 99,
+  "name": "Black Earth Priest",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (splint)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "7d8+14"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Common", "Terran"],
+  "skills": ["Intimidation +5", "Religion +3", "Persuasion +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:\n* Cantrips (at will): acid splash, blade ward, light, mending, mold earth\n* 1st level (4 slots): earth tremor, expeditious retreat, shield\n* 2nd level (3 slots): shatter, spider climb\n* 3rd level (2 slots): slow",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

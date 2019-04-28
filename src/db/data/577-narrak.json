@@ -1,0 +1,75 @@
+{
+  "id": "narrak",
+  "_index": 577,
+  "name": "Narrak",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 5,
+      "mod": -3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12 (15 to mage armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 40,
+    "roll": "9d6+9"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (derro)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "out-of-the-abyss",
+  "languages": ["Dwarvish", "Undercommon"],
+  "skills": ["Arcana +4", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Insanity.",
+      "description": "Droki has advantage on saving throws against being charmed or frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The derro has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Narrak is a 5th-level spellcaster. His spellcasting ability is Charisma (Save DC 13, +5 to hit with spell attacks) Narrak has two 2nd-level spell slots, which he regains after finishing a short or long rest, and knows the following Warlock spells:>>>\nCantrips (at will): eldritch blast, friends, poison spray\n1st level: armor of Agathys, charm person, hex\n2nd level: hold person, ray of enfeeblement, spider climb",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

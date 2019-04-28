@@ -1,0 +1,60 @@
+{
+  "id": "young_gold_dragon",
+  "_index": 898,
+  "name": "Young Gold Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 178,
+    "roll": "17d10+85"
+  },
+  "race": "DRAGON",
+  "size": "Large dragon",
+  "speed": "40 ft., fly 80 ft., swim 40 ft.",
+  "senses": "blindsight 30 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Insight +5", "Perception +9", "Persuasion +9", "Stealth +6"],
+  "savingThrows": ["Dex +6", "Con +9", "Wis +5", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/young-gold-dragon.jpg"
+}

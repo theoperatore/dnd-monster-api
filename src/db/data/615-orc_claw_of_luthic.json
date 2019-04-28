@@ -1,0 +1,70 @@
+{
+  "id": "orc_claw_of_luthic",
+  "_index": 615,
+  "name": "Orc Claw of Luthic",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14 (hide armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (orc)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Orc"],
+  "skills": ["Intimidation +2", "Medicine +4", "Survival +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "Volo's Guide to Monsters, p. 183",
+      "recharge": null
+    },
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The orc has the following cleric spells prepared:\nCantrips (at will): guidance, mending, resistance, thaumaturgy\n1st level (4 slots): bane, cure wounds, guiding bolt\n2nd level (3 slots): augury, warding bond\n3rd level (2 slots): bestow curse, create food and water",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

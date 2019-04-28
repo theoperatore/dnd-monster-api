@@ -1,0 +1,60 @@
+{
+  "id": "plesiosaurus",
+  "_index": 644,
+  "name": "Plesiosaurus",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 68,
+    "roll": "8d10+24"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "20 ft., swim 40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +3", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The plesiosaurus can hold its breath for 1 hour.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/plesiosaurus.jpg"
+}

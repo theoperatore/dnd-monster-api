@@ -1,0 +1,70 @@
+{
+  "id": "magma_mephit",
+  "_index": 522,
+  "name": "Magma Mephit",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "11",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d6+5"
+  },
+  "race": "ELEMENTAL",
+  "size": "Small elemental",
+  "speed": "30 ft., fly 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Ignan", "Terran"],
+  "skills": ["Stealth +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Death Burst.",
+      "description": "When the mephit dies, it explodes in a burst of lava. Each creature within 5 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The mephit can innately cast heat metal (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.",
+      "recharge": "(1/Day)."
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/magma-mephit.jpg"
+}

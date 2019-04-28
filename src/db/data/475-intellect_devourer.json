@@ -1,0 +1,60 @@
+{
+  "id": "intellect_devourer",
+  "_index": 475,
+  "name": "Intellect Devourer",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "12",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 21,
+    "roll": "6d4+6"
+  },
+  "race": "ABERRATION",
+  "size": "Tiny aberration",
+  "speed": "40 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "monster-manual",
+  "languages": ["understands Deep Speech but can't speak", "telepathy 60 ft."],
+  "skills": ["Perception +2", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Detect Sentience.",
+      "description": "The intellect devourer can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

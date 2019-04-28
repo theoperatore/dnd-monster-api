@@ -1,0 +1,70 @@
+{
+  "id": "bodak",
+  "_index": 112,
+  "name": "Bodak",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 58,
+    "roll": "9d8+18"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Abyssal", "the languages it knew in life"],
+  "skills": ["Perception +4", "Stealth +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Aura of Annihilation.",
+      "description": "The bodak can activate or deactivate this feature as a bonus action. While active, the aura deals 5 necrotic damage to any creature that ends its turn within 30 feet of the bodak. Undead and fiends ignore this effect.",
+      "recharge": null
+    },
+    {
+      "name": "Death Gaze.",
+      "description": "When a creature that can see the bodak's eyes starts its turn within 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution saving throw if the bodak isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is reduced to 0 hit points, unless it is immune to the frightened condition. Otherwise, a creature takes 16 (3d10) psychic damage on a failed save.\n>Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so. it has disadvantage on attack rolls against the bodak until the start of its next turn. If the creature looks at the bodak in the meantime, it must immediately make the saving throw.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Hypersensitivity.",
+      "description": "The bodak takes 5 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

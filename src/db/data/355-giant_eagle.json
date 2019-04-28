@@ -1,0 +1,60 @@
+{
+  "id": "giant_eagle",
+  "_index": 355,
+  "name": "Giant Eagle",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD",
+  "armorClass": "13",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 26,
+    "roll": "4d10+4"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "10 ft., fly 80 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Giant Eagle", "understands Common and Auran but can't speak"],
+  "skills": ["Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Sight.",
+      "description": "The eagle has advantage on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

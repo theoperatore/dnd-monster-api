@@ -1,0 +1,60 @@
+{
+  "id": "martial_arts_adept",
+  "_index": 534,
+  "name": "Martial Arts Adept",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "16",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 60,
+    "roll": "11d8+11"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Acrobatics +5", "Insight +5", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Unarmored Defense.",
+      "description": "While the adept is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

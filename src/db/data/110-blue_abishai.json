@@ -1,0 +1,74 @@
+{
+  "id": "blue_abishai",
+  "_index": 110,
+  "name": "Blue Abishai",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 22,
+      "mod": 6,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 23,
+      "mod": 6,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "17 (18,000 XP)",
+  "hitPoints": {
+    "average": 195
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (devil)",
+  "speed": "30 ft., fly 50 ft.",
+  "senses": "darkvision 120 ft., passive Perception 16",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Draconic", "Infernal", "telepathy 120 ft."],
+  "skills": ["Arcana +12"],
+  "savingThrows": ["Int +12", "Wis +12"],
+  "abilities": [
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede the abishai's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The abishai has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The abishai's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The abishai is a 13th-level spellcaster. Its spellcasting ability is Intelligence. The abishai has the following wizard spells prepared:\n* Cantrips (at will): friends, mage hand, message, minor illusion, shocking grasp\n* 1st level (4 slots): chromatic orb, disguise self, expeditious retreat, magic missile, charm person, thunderwave\n* 2nd level (3 slots): darkness, mirror image, misty step\n* 3rd level (3 slots): dispel magic, fear, lightning bolt\n* 4th level (3 slots): dimension door, greater invisibility, ice storm\n* 5th level (2 slots): cone of cold, wall of force\n* 6th level (1 slot): chain lightning\n* 7th level (1 slot): teleport",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

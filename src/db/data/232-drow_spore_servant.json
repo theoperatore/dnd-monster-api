@@ -1,0 +1,54 @@
+{
+  "id": "drow_spore_servant",
+  "_index": 232,
+  "name": "Drow Spore Servant",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "15 (chain shirt)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 13,
+    "roll": "3d8"
+  },
+  "race": "PLANT",
+  "size": "Medium plant",
+  "speed": "20 ft.",
+  "senses": "blindsight 30 ft. (blind beyond this radius)",
+  "source": "out-of-the-abyss",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": "tiamat",
+  "_index": 800,
+  "name": "Tiamat",
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 30,
+      "mod": 10,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 26,
+      "mod": 8,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 26,
+      "mod": 8,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 28,
+      "mod": 9,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "25 (natural armor)",
+  "challengeRating": "30 (155,000 XP)",
+  "hitPoints": {
+    "average": 615,
+    "roll": "30d20+300"
+  },
+  "race": "FIEND",
+  "size": "Gargantuan fiend",
+  "speed": "60 ft., fly 120 ft.",
+  "senses": "darkvision 240 ft., truesight 120 ft.",
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic", "Infernal"],
+  "skills": ["Arcana +17", "Perception +26", "Religion +17"],
+  "savingThrows": ["Str +19", "Dex +9", "Wis +17"],
+  "abilities": [
+    {
+      "name": "Discorporation.",
+      "description": "When Tiamat drops to 0 hit points or dies, her body is destroyed but her essence travels back to her domain in the Nine Hells, and she is unable to take physical form for a time.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "Tiamat can innately cast divine word (spell save DC 26). Her spellcasting ability is Charisma.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Tiamat fails a saving throw, she can choose to succeed instead.",
+      "recharge": "(5/Day)."
+    },
+    {
+      "name": "Limited Magic Immunity.",
+      "description": "Unless she wishes to be affected, Tiamat is immune to spells of 6th level or lower. She has advantage on saving throws against all other spells and magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Tiamat's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Multiple Heads.",
+      "description": "Tiamat can take one reaction per turn, rather than only one per round. She also has advantage on saving throws against being knocked unconscious. If she fails a saving throw against an effect that would stun a creature, one of her unspent legendary actions is spent.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "Tiamat regains 30 hit points at the start of her turn.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

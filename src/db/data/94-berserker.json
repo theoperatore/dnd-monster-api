@@ -1,0 +1,60 @@
+{
+  "id": "berserker",
+  "_index": 94,
+  "name": "Berserker",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_CHAOTIC_ALIGNMENT",
+  "armorClass": "13 (hide armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d8+27"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["any one language (usually Common)"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Reckless.",
+      "description": "At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

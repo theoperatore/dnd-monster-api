@@ -1,0 +1,70 @@
+{
+  "id": "fire_elemental",
+  "_index": 309,
+  "name": "Fire Elemental",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "13",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 102,
+    "roll": "12d10+36"
+  },
+  "race": "ELEMENTAL",
+  "size": "Large elemental",
+  "speed": "50 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Ignan"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fire Form.",
+      "description": "The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.",
+      "recharge": null
+    },
+    {
+      "name": "Illumination.",
+      "description": "The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 ft..",
+      "recharge": null
+    },
+    {
+      "name": "Water Susceptibility.",
+      "description": "For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/fire-elemental.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "helmed_horror",
+  "_index": 444,
+  "name": "Helmed Horror",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "20 (plate, shield)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d8+24"
+  },
+  "race": "CONSTRUCT",
+  "size": "Medium construct",
+  "speed": "30 ft., fly 30 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "monster-manual",
+  "languages": ["understands the languages of its creator but can't speak"],
+  "skills": ["Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The helmed horror has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spell Immunity.",
+      "description": "The helmed horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/helmed-horror.jpg"
+}

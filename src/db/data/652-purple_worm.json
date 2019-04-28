@@ -1,0 +1,60 @@
+{
+  "id": "purple_worm",
+  "_index": 652,
+  "name": "Purple Worm",
+  "abilityScores": {
+    "STR": {
+      "score": 28,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 7,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "15 (13,000 XP)",
+  "hitPoints": {
+    "average": 247,
+    "roll": "15d20+90"
+  },
+  "race": "MONSTROSITY",
+  "size": "Gargantuan monstrosity",
+  "speed": "50 ft., burrow 30 ft.",
+  "senses": "blindsight 30 ft., tremorsense 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": ["Con +11", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Tunneler.",
+      "description": "The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/purple-worm.jpg"
+}

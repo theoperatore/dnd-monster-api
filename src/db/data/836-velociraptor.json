@@ -1,0 +1,60 @@
+{
+  "id": "velociraptor",
+  "_index": 836,
+  "name": "Velociraptor",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 10,
+    "roll": "3d4+3"
+  },
+  "race": "BEAST",
+  "size": "Tiny beast",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": [],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pack Tactics.",
+      "description": "The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

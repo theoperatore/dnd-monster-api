@@ -1,0 +1,60 @@
+{
+  "id": "flying_snake",
+  "_index": 322,
+  "name": "Flying Snake",
+  "abilityScores": {
+    "STR": {
+      "score": 4,
+      "mod": -3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "14",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 5,
+    "roll": "2d4"
+  },
+  "race": "BEAST",
+  "size": "Tiny beast",
+  "speed": "30 ft., fly 60 ft., swim 30 ft.",
+  "senses": "blindsight 10 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Flyby.",
+      "description": "The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/flying-snake.jpg"
+}

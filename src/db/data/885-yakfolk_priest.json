@@ -1,0 +1,65 @@
+{
+  "id": "yakfolk_priest",
+  "_index": 885,
+  "name": "Yakfolk Priest",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 18,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12 (hide armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 52,
+    "roll": "7d10+14"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Yikaria"],
+  "skills": ["Deception +4", "Medicine +6", "Survival +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Possession",
+      "description": "The yakfolk attempts to magically possess a humanoid or giant. The yakfolk must touch the target throughout a short rest or the attempt fails. At the end of the rest, the target must succeed a DC 12 Con saving throw or be possessed by the yakfolk, which disappears with everything its carrying and wearing. Until the possession ends, the target is incapacitated, loses control of its body, and it unaware of its surroundings. The yakfolk now controls the body and cannot be targeted by any attack, spell, or other effect, and it retains its alignment, its Intelligence, Wisdom, and Charisma scores; and its proficiencies. It otherwise uses the target's statistics, except the target's knowledge, class features, feats, and proficiencies.\nThe possession lats until either the body drops to 0 hit points, the yakfolk ends the possession as an action, or the yakfolk is forced out of the body by an effect such as dispel evil and good spell. When the possession ends, the yakfolk appears in an unoccupied space within 5 feet of the body and is stunned until the end of its next turn. If the host body dies while it is possessed by the yakfolk, the yakfolk dies as well and its body does not reappear.",
+      "recharge": "(Recharges after a rest."
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The yakfolk is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The priest has the following cleric spells prepared:\n* Cantrips (at will): light, mending, sacred flame, thaumaturgy\n* 1st level (4 slots): bane, command, cure wounds, sanctuary\n* 2nd level (3 slots): augury, hold person, spiritual weapon\n* 3rd level (3 slots): bestow curse, protection from energy, sending\n* 4th level (1 slots): banishment",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

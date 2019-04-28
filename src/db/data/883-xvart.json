@@ -1,0 +1,70 @@
+{
+  "id": "xvart",
+  "_index": 883,
+  "name": "Xvart",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13 (leather armor)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 7,
+    "roll": "2d6"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (xvart)",
+  "speed": "30 ft.",
+  "senses": "darkvision 30 ft.",
+  "source": "volos-guide",
+  "languages": ["Abyssal"],
+  "skills": ["Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Low Cunning.",
+      "description": "The xvart can take the Disengage action as a bonus action on each of its turns.",
+      "recharge": null
+    },
+    {
+      "name": "Overbearing Pack.",
+      "description": "The xvart has advantage on Strength (Athletics) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Raxivort's Tongue.",
+      "description": "The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

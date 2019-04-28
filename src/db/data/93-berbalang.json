@@ -1,0 +1,64 @@
+{
+  "id": "berbalang",
+  "_index": 93,
+  "name": "Berbalang",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 9,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 38
+  },
+  "race": "ABERRATION",
+  "size": "Medium aberration",
+  "speed": "30 ft., fly 40 ft.",
+  "senses": "truesight 120 ft., passive Perception 12",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "but rarely speaks"],
+  "skills": ["Arcana +5", "History +5", "Insight +2", "Perception +2", "Religion +5"],
+  "savingThrows": ["Dex +5", "Int +5"],
+  "abilities": [
+    {
+      "name": "Spectral Duplicate",
+      "description": "As a bonus action, the berbalang creates one spectral duplicate of itself in an unoccupied space it can see within 60 feet of it. While the duplicate exists, the berbalang is unconscious. A berbalang can have only one duplicate at a time. The duplicate disappears when it or the berbalang drops to 0 hit points or when the berbalang dismisses it (no action required).\nThe duplicate has the same statistics and knowledge as the berbalang, and everything experienced by the duplicate is known by the berbalang. All damage dealt by the duplicate's attacks is psychic damage.",
+      "recharge": "(Recharges after a Short or Long Rest)."
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The berbalang's innate spellcasting ability is Intelligence. The berbalang can innately cast the following spells, requiring no material components:\n* At will: speak with dead\n* 1/day: plane shift (self only)",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

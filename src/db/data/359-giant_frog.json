@@ -1,0 +1,65 @@
+{
+  "id": "giant_frog",
+  "_index": 359,
+  "name": "Giant Frog",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "11",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d8"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": "darkvision 30 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +2", "Stealth +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The frog can breathe air and water",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The frog's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

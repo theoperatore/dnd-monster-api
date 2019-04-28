@@ -1,0 +1,60 @@
+{
+  "id": "pteranodon",
+  "_index": 651,
+  "name": "Pteranodon",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 13,
+    "roll": "3d8"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "10 ft., fly 60 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +1"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Flyby.",
+      "description": "The pteranodon doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

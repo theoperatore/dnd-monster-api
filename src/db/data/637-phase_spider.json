@@ -1,0 +1,70 @@
+{
+  "id": "phase_spider",
+  "_index": 637,
+  "name": "Phase Spider",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d10+5"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Stealth +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ethereal Jaunt.",
+      "description": "As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The spider ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/phase-spider.jpg"
+}

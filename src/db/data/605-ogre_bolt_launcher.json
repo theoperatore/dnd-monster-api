@@ -1,0 +1,53 @@
+{
+  "id": "ogre_bolt_launcher",
+  "_index": 605,
+  "name": "Ogre Bolt Launcher",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13 (hide armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 59
+  },
+  "race": "GIANT",
+  "size": "Large giant",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft., passive Perception 8",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common", "Giant"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

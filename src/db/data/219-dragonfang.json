@@ -1,0 +1,70 @@
+{
+  "id": "dragonfang",
+  "_index": 219,
+  "name": "Dragonfang",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic", "Infernal"],
+  "skills": ["Deception +4", "Stealth +5"],
+  "savingThrows": ["Wis +3"],
+  "abilities": [
+    {
+      "name": "Dragon Fanatic.",
+      "description": "The dragonfang has advantage on saving throws against being charmed or frightened. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonfang ignores the effects of being charmed or frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Fanatic Advantage.",
+      "description": "Once per turn, if the dragonfang makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage.",
+      "recharge": null
+    },
+    {
+      "name": "Limited Flight.",
+      "description": "The dragonfang can use a bonus action to gain a flying speed of 30 feet until the end of its turn.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

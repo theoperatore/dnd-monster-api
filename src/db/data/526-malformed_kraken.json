@@ -1,0 +1,70 @@
+{
+  "id": "malformed_kraken",
+  "_index": 526,
+  "name": "Malformed Kraken",
+  "abilityScores": {
+    "STR": {
+      "score": 25,
+      "mod": 7,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 172,
+    "roll": "15d12+75"
+  },
+  "race": "MONSTROSITY",
+  "size": "Huge monstrosity",
+  "speed": "20 ft., swim 40 ft.",
+  "senses": "truesight 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["understands Common but can't speak; telepathy 60 ft."],
+  "skills": [],
+  "savingThrows": ["Str +11", "Con +9", "Int +4", "Wis +6", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 239",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "The kraken can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The kraken deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

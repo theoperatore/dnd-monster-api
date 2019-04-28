@@ -1,4 +1,7 @@
 {
+  "id": "abominable_yeti",
+  "_index": 3,
+  "name": "Abominable Yeti",
   "abilityScores": {
     "STR": {
       "score": 24,
@@ -33,22 +36,18 @@
   },
   "alignment": "CHAOTIC_EVIL",
   "armorClass": "15 (natural armor)",
-  "challengeRating": "9",
+  "challengeRating": "9 (5,000 XP)",
   "hitPoints": {
     "average": 137,
     "roll": "11d12+66"
   },
   "race": "MONSTROSITY",
-  "size": "HUGE",
+  "size": "Huge monstrosity",
   "speed": "40 ft., climb 40 ft.",
+  "senses": "darkvision 60 ft.",
   "source": "monster-manual",
-  "languages": [
-    "Yeti"
-  ],
-  "skills": [
-    "Perception +5",
-    "Stealth +4"
-  ],
+  "languages": ["Yeti"],
+  "skills": ["Perception +5", "Stealth +4"],
   "savingThrows": [],
   "abilities": [
     {
@@ -67,14 +66,5 @@
       "recharge": null
     }
   ],
-  "id": "abominable_yeti",
-  "_index": 3,
-  "name": "Abominable Yeti",
-  "image": null,
-  "_tags": [
-    "huge",
-    "monstrosity",
-    "cr9",
-    "monster-manual"
-  ]
+  "image": null
 }

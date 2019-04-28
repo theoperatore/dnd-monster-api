@@ -1,0 +1,75 @@
+{
+  "id": "vladimir_horngaard",
+  "_index": 841,
+  "name": "Vladimir Horngaard",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "17 (half plate)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 192,
+    "roll": "16d8+64"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "curse-of-strahd",
+  "languages": ["Common", "Draconic"],
+  "skills": [],
+  "savingThrows": ["Str +7", "Con +7", "Wis +6", "Cha +7"],
+  "abilities": [
+    {
+      "name": "Regeneration.",
+      "description": "Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    },
+    {
+      "name": "Rejuvenation.",
+      "description": "When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.",
+      "recharge": null
+    },
+    {
+      "name": "Turn Immunity.",
+      "description": "Vladimir is immune to effects that turn undead.",
+      "recharge": null
+    },
+    {
+      "name": "Vengeful Tracker.",
+      "description": "Vladimir knows the distance to and direction of any creature against which it seeks revenge, even if the creature and Vladimir are on different planes of existence. If the creature being tracked by Vladimir dies, Vladimir knows.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

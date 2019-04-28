@@ -1,0 +1,85 @@
+{
+  "id": "ooze_master",
+  "_index": 613,
+  "name": "Ooze Master",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 1,
+      "mod": -5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "9 (natural armor)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 138,
+    "roll": "12d12+60"
+  },
+  "race": "UNDEAD",
+  "size": "Huge undead",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "blindsight 120 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Common", "Primordial", "Thayan"],
+  "skills": ["Arcana +7", "Insight +4"],
+  "savingThrows": ["Int +7", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 241",
+      "recharge": null
+    },
+    {
+      "name": "Undead Nature.",
+      "description": "The ooze master doesn't require air, food, drink, or sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Corrosive Form.",
+      "description": "A creature that touches the Ooze Master or hits it with a melee attack while within 5 feet of it takes 9 (2d8) acid damage. Any nonmagical weapon that hits the Ooze Master corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition that hits the Ooze Master is destroyed after dealing damage.\n>The Ooze Master can eat through 2-inch-thick, nonmagical wood or metal in 1 round.",
+      "recharge": null
+    },
+    {
+      "name": "Instinctive Attack.",
+      "description": "When the Ooze Master casts a spell with a casting time of 1 action, it can make one pseudopod attack as a bonus action.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The Ooze Master is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:\nCantrips (at will): acid splash, friends, mage hand, poison spray\n1st level (4 slots): charm person, detect magic, magic missile, ray of sickness\n2nd level (3 slots): detect thoughts, Melf's acid arrow, suggestion\n3rd level (3 slots):fear, slow, stinking cloud\n4th level (3 slots): confusion, Evard's evard's black tentacles\n5th level (1 slot): cloudkill.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The Ooze Master can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

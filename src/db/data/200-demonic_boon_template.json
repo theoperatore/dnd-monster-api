@@ -1,0 +1,155 @@
+{
+  "id": "demonic_boon_template",
+  "_index": 200,
+  "name": "Demonic Boon Template",
+  "abilityScores": {
+    "STR": {
+      "score": 0,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 0,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 0,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 0,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 0,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 0,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "0",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 0,
+    "roll": ""
+  },
+  "race": "HUMANOID",
+  "size": "",
+  "speed": "",
+  "senses": null,
+  "source": "template",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Unerring Tracker",
+      "description": "As a bonus action, this creature magically creates a psychic link with one creature it can see. For the next hour, as a bonus action this creature learns the current distance and direction to the target if it is on the same plane of existence. The link ends if this creature is incapacitated or if it uses this ability on a different target.",
+      "recharge": "(Baphomet)."
+    },
+    {
+      "name": "Incite the Hunters",
+      "description": "As an action, this creature allows each ally within 30 feet of it that has the Unerring Tracker trait to make one weapon attack as a reaction against the target of that ally's Unerring Tracker. Labyrinthine Recall. This creature can perfectly recall any path it has traveled.",
+      "recharge": "(Recharges after a Short or Long Rest) (Baphomet)."
+    },
+    {
+      "name": "Two Minds of Madness",
+      "description": "This creature has advantage on all Intelligence, Wisdom, and Charisma saving throws.",
+      "recharge": "(Demogorgon)."
+    },
+    {
+      "name": "Liar's Eye",
+      "description": "This creature has advantage on Wisdom (Insight or Perception) checks. As a bonus action, it automatically detects the location of all illusions and hidden creatures within 15 feet of it.",
+      "recharge": "(Fraz-Urb'luu)."
+    },
+    {
+      "name": "Joy from Pain",
+      "description": "Whenever this creature suffers a critical hit, it can make one melee weapon attack as a reaction.",
+      "recharge": "(Graz'zt)."
+    },
+    {
+      "name": "Master of Pleasures",
+      "description": "As a reaction when this creature takes damage, it can magically grant 5 temporary hit points to itself and up to three allies within 30 feet of it.",
+      "recharge": "(Graz'zt)."
+    },
+    {
+      "name": "Liquid Movement",
+      "description": "As an action, this creature can move up to 20 feet through spaces no more than an inch in diameter. It must end this movement in a space that can accommodate its full size. Otherwise, it takes 5 force damage and returns to the space where it began this movement.",
+      "recharge": "(Juiblex)."
+    },
+    {
+      "name": "Slimy Organs",
+      "description": "This creature has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. Whenever this creature suffers a critical hit or is reduced to 0 hit points, all creatures within 5 feet of it take acid damage equal to its number of Hit Dice.",
+      "recharge": "(Juiblex)."
+    },
+    {
+      "name": "Undying Soul",
+      "description": "If this creature is reduced to 0 hit points, it immediately makes a DC 10 Constitution saving throw. If it succeeds, it is instead reduced to 1 hit point.",
+      "recharge": "(Recharges after a Short or Long Rest) (Orcus)."
+    },
+    {
+      "name": "Aura of Death",
+      "description": "This creature emanates a deathly aura that extends 30 feet in every direction from its space while it isn't incapacitated. The aura is blocked by total cover. While in the aura, the creature and any friendly undead are immune to the frightened condition and have resistance to radiant damage. Enemies suffer disadvantage on death saving throws while in the aura.",
+      "recharge": "(Orcus)."
+    },
+    {
+      "name": "Gnashing Jaws",
+      "description": "Melee Weapon Attack: bonus to hit equal to this creature's proficiency bonus plus its Strength modifier, reach 5 ft., one target. Hit: 1d4 + this creature's Strength modifier piercing damage.",
+      "recharge": "(Yeenoghu)."
+    },
+    {
+      "name": "Rampage",
+      "description": "When this creature reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make its Gnashing Jaws attack once.",
+      "recharge": "(Yeenoghu)."
+    },
+    {
+      "name": "Aura of Bloodthirst",
+      "description": "If this creature isn't incapacitated, any creature with the Rampage trait can make its Gnashing Jaws attack as a bonus action while within 10 feet of this creature.",
+      "recharge": "(Yeenoghu)."
+    },
+    {
+      "name": "Spore Kissed",
+      "description": "This creature is immune to the charmed and frightened conditions. In addition, if it is reduced to 0 hit points, each creature within 10 feet of it takes poison damage equal to its number of Hit Dice.",
+      "recharge": "(Zuggtmoy)."
+    },
+    {
+      "name": "Fiery Soul",
+      "description": "This creature has resistance to fire damage. When it dies, it explodes; each creature within 10 feet of it takes fire damage equal to its number of Hit Dice.",
+      "recharge": "(Balor)."
+    },
+    {
+      "name": "Labyrinthine Recall",
+      "description": "This creature can perfectly recall any path it has traveled.",
+      "recharge": "(Goristro)."
+    },
+    {
+      "name": "Serpentine Reaction",
+      "description": "This creature can take an extra reaction each round, but this reaction can be used only to make an opportunity attack.",
+      "recharge": "(Marilith)."
+    },
+    {
+      "name": "Guarded Mind",
+      "description": "This creature is immune to the frightened condition.",
+      "recharge": "(Nalfeshnee)."
+    },
+    {
+      "name": "Horned One's Call",
+      "description": "When the cambion targets only one creature with the attacks of its Multiattack, it can choose one ally it can see within 30 feet. That ally can use its reaction to make one melee attack against a target of its choice.",
+      "recharge": "(Gambion)."
+    },
+    {
+      "name": "Spawn of the Grave",
+      "description": "At the end of each of the cambion's turns, each undead of its choice that it can see within 30 feet gains 10 temporary hit points, provided the cambion isn't incapacitated.",
+      "recharge": "(Gambion)."
+    }
+  ],
+  "image": null
+}

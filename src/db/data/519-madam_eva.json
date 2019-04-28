@@ -1,0 +1,67 @@
+{
+  "id": "madam_eva",
+  "_index": 519,
+  "name": "Madam Eva",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "10",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 88,
+    "roll": "16d8+16"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "20 ft.",
+  "senses": null,
+  "source": "curse-of-strahd",
+  "languages": ["Abyssal", "Common", "Elvish", "Infernal"],
+  "skills": [
+    "Arcana +7",
+    "Deception +8",
+    "Insight +13",
+    "Intimidation +8",
+    "Perception +9",
+    "Religion +7"
+  ],
+  "savingThrows": ["Con +5"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). Madam Eva has the following cleric spells prepared:\n* Cantrips (at will): light, mending, sacred flame, thaumaturgy\n* 1st level (4 slots): bane, command, detect evil and good, protection from evil and good\n* 2nd level (3 slots): lesser restoration, protection from poison, spiritual weapon\n* 3rd level (3 slots): create food and water, speak with dead, spirit guardians\n* 4th level (3 slots): divination, freedom of movement, guardians of faith\n* 5th level (2 slots): greater restoration, raise dead\n* 6th level (1 slot): find the path, harm, true seeing\n* 7th level (1 slot): fire storm, regenerate\n* 8th level (1 slot): earthquake",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

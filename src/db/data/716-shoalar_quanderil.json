@@ -1,0 +1,70 @@
+{
+  "id": "shoalar_quanderil",
+  "_index": 716,
+  "name": "Shoalar Quanderil",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "10 (13 with mage armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (water genasi)",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Aquan", "Common"],
+  "skills": ["Arcana +4", "Deception +5", "Insight +2", "Persuasion +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "Shoalar can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Shoalar's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:\n* At will: shape water\n* 1/day: create or destroy water",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He knows the following sorcerer spells:\n* Cantrips (at will): acid splash, chill touch, friends, prestidigitation, ray of frost\n* 1st level (4 slots): disguise self, mage armor, magic missile\n* 2nd level (3 slots): hold person, misty step\n* 3rd level (2 slots): tidal wave",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

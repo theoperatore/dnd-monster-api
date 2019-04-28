@@ -1,0 +1,65 @@
+{
+  "id": "hook_horror",
+  "_index": 455,
+  "name": "Hook Horror",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d10+20"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "blindsight 60 ft., darkvision 10 ft.",
+  "source": "monster-manual",
+  "languages": ["Hook Horror"],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Echolocation.",
+      "description": "The hook horror can't use its blindsight while deafened.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing.",
+      "description": "The hook horror has advantage on Wisdom (Perception) checks that rely on hearing.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/hook-horror.jpg"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "archdruid",
+  "_index": 50,
+  "name": "Archdruid",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "16 (hide armor, shield)",
+  "challengeRating": "12 (8,400 XP)",
+  "hitPoints": {
+    "average": 132,
+    "roll": "24d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["Druidic plus any two languages"],
+  "skills": ["Medicine +9", "Nature +5", "Perception +9"],
+  "savingThrows": ["Int +5", "Wis +9"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following druid spells prepared:\nCantrips (at will): druidcraft, mending, poison spray, produce flame\n1st level (4 slots): cure wounds, entangle, faerie fire, speak with animals\n2nd level (3 slots): animal messenger, beast sense, hold person\n3rd level (3 slots): conjure animals, meld into stone, water breathing\n4th level (3 slots): dominate beast, locate creature, stoneskin, wall of fire\n5th level (3 slots): commune with nature, mass cure wounds, tree stride\n6th level (1 slot): heal, heroes' feast, sunbeam\n7th level (1 slot): fire storm\n8th level (1 slot): animal shapes\n9th level (1 slot): foresight",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

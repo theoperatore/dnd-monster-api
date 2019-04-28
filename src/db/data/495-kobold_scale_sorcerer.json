@@ -1,0 +1,75 @@
+{
+  "id": "kobold_scale_sorcerer",
+  "_index": 495,
+  "name": "Kobold Scale Sorcerer",
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d6+10"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (kobold)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Arcana +2", "Medicine +1"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:\nCantrips (at will): fire bolt, mage hand, mending, poison spray\n1st level (4 slots): charm person, chromatic orb, expeditious retreat\n2nd level (2 slots): scorching ray",
+      "recharge": null
+    },
+    {
+      "name": "Sorcery Points.",
+      "description": "Sorcery Points. The kobold has 3 sorcery points. It can spend 1 or more sorcery points as a bonus action to gain one of the following benefits:\nHeightened Spell: When it casts a spell that forces a creature to a saving throw to resist the spell's effects, the kobold can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell.\nSubtle Spell: When the kobold casts a spell, it can spend 1 sorcery point to cast the spell without any somatic or verbal components.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The kobold has advantage on an attack roll against a creature it at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

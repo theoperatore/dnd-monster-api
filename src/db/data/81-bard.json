@@ -1,0 +1,70 @@
+{
+  "id": "bard",
+  "_index": 81,
+  "name": "Bard",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "15 (chain shirt)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 44,
+    "roll": "8d8+8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any two languages"],
+  "skills": ["Acrobatics +4", "Perception +5", "Performance +6"],
+  "savingThrows": ["Dex +4", "Wis +3"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The bard is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following bard spells prepared:\nCantrips (at will): friends, mage hand, vicious mockery\n1st level (4 slots): charm person, healing word, heroism, sleep, thunderwave\n2nd level (3 slots): invisibility, shatter",
+      "recharge": null
+    },
+    {
+      "name": "Song of Rest.",
+      "description": "The bard can perform a song while taking a short rest. Any ally who hears the song regains an extra ld6 hit points if it spends any Hit Dice to regain hit points at the end of that rest. The bard can confer this benefit on itself as well.",
+      "recharge": null
+    },
+    {
+      "name": "Taunt",
+      "description": "The bard can use a bonus action on its turn to target one creature within 30 feet of it. If the target can hear the bard, the target must succeed on a DC 12 Charisma saving throw or have disadvantage on ability checks, attack rolls, and saving throws until the start of the bard's next turn.",
+      "recharge": "(2/day)."
+    }
+  ],
+  "image": null
+}

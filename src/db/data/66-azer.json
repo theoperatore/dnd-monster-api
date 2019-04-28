@@ -1,0 +1,70 @@
+{
+  "id": "azer",
+  "_index": 66,
+  "name": "Azer",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_NEUTRAL",
+  "armorClass": "17 (natural armor, shield)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 39,
+    "roll": "6d8+12"
+  },
+  "race": "ELEMENTAL",
+  "size": "Medium elemental",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Ignan"],
+  "skills": [],
+  "savingThrows": ["Con +4"],
+  "abilities": [
+    {
+      "name": "Heated Body.",
+      "description": "A creature that touches the azer or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage.",
+      "recharge": null
+    },
+    {
+      "name": "Heated Weapons.",
+      "description": "When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).",
+      "recharge": null
+    },
+    {
+      "name": "Illumination.",
+      "description": "The azer sheds bright light in a 10-foot radius and dim light for an additional 10 ft..",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/azer.jpg"
+}

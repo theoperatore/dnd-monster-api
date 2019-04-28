@@ -1,0 +1,70 @@
+{
+  "id": "chasme",
+  "_index": 147,
+  "name": "Chasme",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 84,
+    "roll": "13d10+13"
+  },
+  "race": "FIEND",
+  "size": "Large fiend (demon)",
+  "speed": "20 ft., fly 60 ft.",
+  "senses": "blindsight 10 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "telepathy 120 ft."],
+  "skills": ["Perception +5"],
+  "savingThrows": ["Dex +5", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Drone.",
+      "description": "The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn with in 30 feet of the chasme must succeed on a DC 12 Constitution saving throw or fall unconscious for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours .",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The chasme has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

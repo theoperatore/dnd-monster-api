@@ -1,0 +1,64 @@
+{
+  "id": "dwarf_knight",
+  "_index": 267,
+  "name": "Dwarf Knight",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "18 (plate)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 52
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (dwarf)",
+  "speed": "30 ft.",
+  "senses": "darkvision, passive Perception 10",
+  "source": "unofficial",
+  "languages": ["any one language (usually Common)"],
+  "skills": [],
+  "savingThrows": ["Con +4", "Wis +2"],
+  "abilities": [
+    {
+      "name": "Brave.",
+      "description": "The knight has advantage on saving throws against being frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Dwarven Resilience.",
+      "description": "The dwarf has advantage on saving throws against poison and has resistance to poison damage",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

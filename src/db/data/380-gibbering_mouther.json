@@ -1,0 +1,65 @@
+{
+  "id": "gibbering_mouther",
+  "_index": 380,
+  "name": "Gibbering Mouther",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "9",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d8+27"
+  },
+  "race": "ABERRATION",
+  "size": "Medium aberration",
+  "speed": "10 ft., swim 10 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Aberrant Ground.",
+      "description": "The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Gibbering.",
+      "description": "The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/gibbering-mouther.jpg"
+}

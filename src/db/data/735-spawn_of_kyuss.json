@@ -1,0 +1,65 @@
+{
+  "id": "spawn_of_kyuss",
+  "_index": 735,
+  "name": "Spawn of Kyuss",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "10",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 76,
+    "roll": "9d8+36"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["understands the languages it knew in life but can't speak"],
+  "skills": [],
+  "savingThrows": ["Wis +1"],
+  "abilities": [
+    {
+      "name": "Regeneration.",
+      "description": "The spawn of Kyuss regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or a body of running water. If the spawn takes acid, fire, or radiant damage, this trait doesn't function at the start of the spawn's next turn. The spawn is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    },
+    {
+      "name": "Worms.",
+      "description": "If the spawn of Kyuss is targeted by an effect that cures disease or removes a curse, all the worms infesting it wither away, and it loses its Burrowing Worm action.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "giant_toad",
+  "_index": 375,
+  "name": "Giant Toad",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "11",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 39,
+    "roll": "6d10+6"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "20 ft., swim 40 ft.",
+  "senses": "darkvision 30 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The toad can breathe air and water",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The toad's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

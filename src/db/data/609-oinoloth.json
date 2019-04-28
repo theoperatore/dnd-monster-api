@@ -1,0 +1,74 @@
+{
+  "id": "oinoloth",
+  "_index": 609,
+  "name": "Oinoloth",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "12 (8400 XP)",
+  "hitPoints": {
+    "average": 126
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (yugoloth)",
+  "speed": "40 ft.",
+  "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 17",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Abyssal", "Infernal", "telepathy 60 ft."],
+  "skills": ["Deception +8", "Intimidation +8", "Perception +7"],
+  "savingThrows": ["Con +8", "Wis +7"],
+  "abilities": [
+    {
+      "name": "Bringer of Plagues",
+      "description": "As a bonus action, the oinoloth blights the area within 30 feet of it. The blight lasts for 24 hours. While blighted, all normal plants in the area wither and die, and the number of hit points restored by a spell to a creature in that area is halved.\nFurthermore, when a creature moves into the blighted area or starts its turn there, that creature must make a DC 16 Constitution saving throw. On a successful save, the creature is immune to the oinoloth's Bringer of Plagues for the next 24 hours. On a failed save, the creature takes 14 (4d6) necrotic damage and is poisoned.\nThe poisoned creature can't regain hit points. After every 24 hours that elapse, the poisoned creature can repeat the saving throw. On a failed save, the creature's hit point maximum is reduced by 5 (1d10). This reduction lasts until the poison ends, and the target dies if its hit point maximum is reduced to 0. The poison ends after the creature successfully saves against it three times.",
+      "recharge": "(Recharge 5-6)."
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The oinoloth's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:\n* At will: darkness, detect magic, dispel magic, invisibility (self only)\n* 1/day each: feeblemind, globe of invulnerability, wall of fire, wall of ice",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The oinoloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The oinoloth's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

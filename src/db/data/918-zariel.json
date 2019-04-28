@@ -1,0 +1,84 @@
+{
+  "id": "zariel",
+  "_index": 918,
+  "name": "Zariel",
+  "abilityScores": {
+    "STR": {
+      "score": 27,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 24,
+      "mod": 7,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 28,
+      "mod": 9,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 26,
+      "mod": 8,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 27,
+      "mod": 8,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 30,
+      "mod": 10,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "21 (natural armor)",
+  "challengeRating": "26 (90,000 XP)",
+  "hitPoints": {
+    "average": 580
+  },
+  "race": "FIEND",
+  "size": "Large fiend (devil)",
+  "speed": "50 ft., fly 150 ft.",
+  "senses": "darkvision 120 ft., passive Perception 26",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Intimidation +18", "Perception +16"],
+  "savingThrows": ["Int +16", "Wis +16", "Cha +18"],
+  "abilities": [
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede Zariel's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Zariel's weapon attacks are magical. When she hits with any weapon, the weapon deals an extra 36 (8d8) fire damage (included in the weapon attacks below).",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Zariel's innate spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:\n* At will: alter self (can become Medium when changing her appearance), detect evil and good, fireball, invisibility (self only), wall of fire\n* 3/day each: blade barrier, dispel evil and good, finger of death",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Zariel fails a saving throw, she can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Zariel has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "Zariel regains 20 hit points at the start of her turn. If she takes radiant damage, this trait doesn't function at the start of her next turn. Zariel dies only if she starts her turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

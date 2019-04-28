@@ -1,0 +1,75 @@
+{
+  "id": "drow_mage",
+  "_index": 230,
+  "name": "Drow Mage",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "10d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Elvish", "Undercommon"],
+  "skills": ["Arcana +6", "Deception +5", "Perception +4", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:\nAt will: dancing lights\n1/day each: darkness, faerie fire, levitate (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:\n* Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost\n* 1st level (4 slots): mage armor, magic missile, shield, witch bolt\n* 2nd level (3 slots): alter self, misty step, web\n* 3rd level (3 slots): fly, lightning bolt\n* 4th level (3 slots): Evard's black tentacles, greater invisibility\n* 5th level (2 slots): cloudkill",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/drow-mage.jpg"
+}

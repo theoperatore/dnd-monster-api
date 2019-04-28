@@ -1,0 +1,59 @@
+{
+  "id": "dwarf_veteran",
+  "_index": 272,
+  "name": "Dwarf Veteran",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "17 (splint)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 58
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (dwarf)",
+  "speed": "30 ft.",
+  "senses": "darkvision, passive Perception 12",
+  "source": "unofficial",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Athletics +5", "Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dwarven Resilience.",
+      "description": "The dwarf has advantage on saving throws against poison and has resistance to poison damage",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

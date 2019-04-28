@@ -1,0 +1,59 @@
+{
+  "id": "dwarf_guard",
+  "_index": 266,
+  "name": "Dwarf Guard",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "16 (chain shirt, shield)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 11
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (dwarf)",
+  "speed": "30 ft.",
+  "senses": "Darkvision, passive Perception 12",
+  "source": "unofficial",
+  "languages": ["dwarf"],
+  "skills": ["Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dwarven Resilience.",
+      "description": "The dwarf has advantage on saving throws against poison and has resistance to poison damage",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

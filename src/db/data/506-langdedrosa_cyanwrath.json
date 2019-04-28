@@ -1,0 +1,65 @@
+{
+  "id": "langdedrosa_cyanwrath",
+  "_index": 506,
+  "name": "Langdedrosa Cyanwrath",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "17 (splint)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 57,
+    "roll": "6d12+18"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (half-dragon)",
+  "speed": "30 ft.",
+  "senses": "blindsight 10 ft., darkvision 60 ft.",
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Athletics +6", "Intimidation +3", "Perception +4"],
+  "savingThrows": ["Str +6", "Con +5"],
+  "abilities": [
+    {
+      "name": "Action Surge",
+      "description": "On his turn, Langdedrosa can take one additional action.",
+      "recharge": "(Recharges on a Short or Long Rest)."
+    },
+    {
+      "name": "Improved Critical.",
+      "description": "Langdedrosa's weapon attacks score a critical hit on a roll of 19 or 20.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "pony",
+  "_index": 648,
+  "name": "Pony",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "10",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

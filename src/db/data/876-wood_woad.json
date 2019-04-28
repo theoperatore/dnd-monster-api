@@ -1,0 +1,75 @@
+{
+  "id": "wood_woad",
+  "_index": 876,
+  "name": "Wood Woad",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_NEUTRAL",
+  "armorClass": "18 (natural armor, shield)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d8+30"
+  },
+  "race": "PLANT",
+  "size": "Medium plant",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Sylvan"],
+  "skills": ["Athletics +7", "Perception +4", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Club.",
+      "description": "In the wood woad's hand, its club is magical and deals 7 (3d4) extra damage (included in its attacks).",
+      "recharge": null
+    },
+    {
+      "name": "Plant Camouflage.",
+      "description": "The wood woad has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "The wood woad regains 10 hit points at the start of its turn if it is in contact with the ground. If the wood woad takes fire damage, this trait doesn't function at the start of the wood woad's next turn. The wood woad dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    },
+    {
+      "name": "Tree Stride.",
+      "description": "Once on each of its turns, the wood woad can use 10 feet of its movement to step magically into one living tree within 5 feet of it and emerge from a second living tree within 60 feet of it that it can see, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "xvart_speaker",
+  "_index": 881,
+  "name": "Xvart Speaker",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13 (leather armor)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 7,
+    "roll": "2d6"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (xvart)",
+  "speed": "30 ft.",
+  "senses": "darkvision 30 ft.",
+  "source": "volos-guide",
+  "languages": ["Abyssal plus one other language", "usually Common or Goblin"],
+  "skills": ["Stealth +4"],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "camel",
+  "_index": 134,
+  "name": "Camel",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "9",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 15,
+    "roll": "2d10+4"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "50 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

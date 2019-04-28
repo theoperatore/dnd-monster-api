@@ -1,0 +1,70 @@
+{
+  "id": "peryton",
+  "_index": 634,
+  "name": "Peryton",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity",
+  "speed": "20 ft., fly 60 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["understands Common and Elvish but can't speak"],
+  "skills": ["Perception +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dive Attack.",
+      "description": "If the peryton is flying and dives at least 30 ft. straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 9 (2d8) damage to the target.",
+      "recharge": null
+    },
+    {
+      "name": "Flyby.",
+      "description": "The peryton doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Sight and Smell.",
+      "description": "The peryton has advantage on Wisdom (Perception) checks that rely on sight or smell.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/peryton.jpg"
+}

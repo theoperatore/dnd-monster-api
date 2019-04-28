@@ -1,0 +1,54 @@
+{
+  "id": "needle_blight",
+  "_index": 582,
+  "name": "Needle Blight",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12 (natural armor)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "PLANT",
+  "size": "Medium plant",
+  "speed": "30 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "monster-manual",
+  "languages": ["understands Common but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

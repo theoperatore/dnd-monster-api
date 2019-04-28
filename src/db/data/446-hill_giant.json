@@ -1,0 +1,54 @@
+{
+  "id": "hill_giant",
+  "_index": 446,
+  "name": "Hill Giant",
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 105,
+    "roll": "10d12+40"
+  },
+  "race": "GIANT",
+  "size": "Huge giant",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Giant"],
+  "skills": ["Perception +2"],
+  "savingThrows": [],
+  "abilities": [],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/hill-giant.jpg"
+}

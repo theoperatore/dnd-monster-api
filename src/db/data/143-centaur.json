@@ -1,0 +1,60 @@
+{
+  "id": "centaur",
+  "_index": 143,
+  "name": "Centaur",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD",
+  "armorClass": "12",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d10+12"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "50 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Elvish", "Sylvan"],
+  "skills": ["Athletics +6", "Perception +3", "Survival +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the centaur moves at least 30 ft. straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/centaur.jpg"
+}

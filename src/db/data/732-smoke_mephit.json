@@ -1,0 +1,65 @@
+{
+  "id": "smoke_mephit",
+  "_index": 732,
+  "name": "Smoke Mephit",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d6+5"
+  },
+  "race": "ELEMENTAL",
+  "size": "Small elemental",
+  "speed": "30 ft., fly 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Auran", "Ignan"],
+  "skills": ["Perception +2", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Death Burst.",
+      "description": "When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The mephit can innately cast dancing lights, requiring no material components. Its innate spellcasting ability is Charisma.",
+      "recharge": "(1/Day)."
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/smoke-mephit.jpg"
+}

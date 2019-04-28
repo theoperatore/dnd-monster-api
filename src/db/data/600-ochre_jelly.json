@@ -1,0 +1,65 @@
+{
+  "id": "ochre_jelly",
+  "_index": 600,
+  "name": "Ochre Jelly",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 6,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "8",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d10+12"
+  },
+  "race": "OOZE",
+  "size": "Large ooze",
+  "speed": "10 ft., climb 10 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amorphous.",
+      "description": "The jelly can move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ochre-jelly.jpg"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "deathlock_wight",
+  "_index": 192,
+  "name": "Deathlock Wight",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 37
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 14",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["the languages it knew in life"],
+  "skills": ["Arcana +3", "Perception +4"],
+  "savingThrows": ["Wis +4"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The wight's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no verbal or material components:\n* At will: detect magic, disguise self, mage armor\n* 1/day each: fear, hold person, misty step",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "owlbear",
+  "_index": 629,
+  "name": "Owlbear",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 59,
+    "roll": "7d10+21"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Sight and Smell.",
+      "description": "The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/owlbear.jpg"
+}

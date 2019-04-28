@@ -1,0 +1,64 @@
+{
+  "id": "githzerai_enlightened",
+  "_index": 393,
+  "name": "Githzerai Enlightened",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 19,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_NEUTRAL",
+  "armorClass": "18",
+  "challengeRating": "10 (5900 XP)",
+  "hitPoints": {
+    "average": 112
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (gith)",
+  "speed": "30 ft.",
+  "senses": "passive Perception 18",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Gith"],
+  "skills": ["Arcana +7", "Insight +8", "Perception +8"],
+  "savingThrows": ["Str +6", "Dex +8", "Int +7", "Wis +8"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:\n* At will: mage hand (the hand is invisible)\n* 3/day each: blur, expeditious retreat, feather fall, jump, see invisibility, shield\n* 1/day each: haste, plane shift, teleport",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Psychic Defense.",
+      "description": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

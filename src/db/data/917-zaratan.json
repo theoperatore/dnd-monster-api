@@ -1,0 +1,74 @@
+{
+  "id": "zaratan",
+  "_index": 917,
+  "name": "Zaratan",
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 30,
+      "mod": 10,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 21,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "21 (natural armor)",
+  "challengeRating": "22 (41,000 XP)",
+  "hitPoints": {
+    "average": 307
+  },
+  "race": "ELEMENTAL",
+  "size": "Gargantuan elemental",
+  "speed": "40 ft., swim 40 ft.",
+  "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 15",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": ["Wis +12", "Cha +11"],
+  "abilities": [
+    {
+      "name": "Earth-Shaking Movement.",
+      "description": "As a bonus action after moving at least 10 feet on the ground, the zaratan can send a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes difficult terrain for 1 minute. Each creature on the ground that is concentrating must succeed on a DC 25 Constitution saving throw or the creature's concentration is broken.\nThe shock wave deals 100 thunder damage to all structures in contact with the ground in the area. If a creature is near a structure that collapses, the creature might be buried; a creature within half the distance of the structure's height must make a DC 25 Dexterity saving throw. On a failed save, the creature takes 17 (5d6) bludgeoning damage, is knocked prone, and is trapped in the rubble. A trapped creature is restrained, requiring a successful DC 20 Strength (Athletics) check as an action to escape. Another creature within 5 feet of the buried creature can use its action to clear rubble and grant advantage on the check. If three creatures use their actions in this way, the check is an automatic success. On a successful save, the creature takes half as much damage and doesn't fall prone or become trapped.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the zaratan fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The zaratan's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The elemental deals double damage to objects and structures (included in Earth-Shaking Movement).",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

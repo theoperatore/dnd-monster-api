@@ -1,0 +1,54 @@
+{
+  "id": "riding_horse",
+  "_index": 681,
+  "name": "Riding Horse",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "10",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 13,
+    "roll": "2d10+2"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "60 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/riding-horse.jpg"
+}

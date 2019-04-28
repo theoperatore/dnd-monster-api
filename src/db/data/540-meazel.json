@@ -1,0 +1,59 @@
+{
+  "id": "meazel",
+  "_index": 540,
+  "name": "Meazel",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 9,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 35
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (meazel)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft., passive Perception 13",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common"],
+  "skills": ["Perception +3", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shadow Stealth.",
+      "description": "While in dim light or darkness, the meazel can take the Hide action as a bonus action.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

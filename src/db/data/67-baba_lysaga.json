@@ -1,0 +1,70 @@
+{
+  "id": "baba_lysaga",
+  "_index": 67,
+  "name": "Baba Lysaga",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "SHAPECHANGER",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "11 (7,200 XP)",
+  "hitPoints": {
+    "average": 120,
+    "roll": "16d8+48"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "curse-of-strahd",
+  "languages": ["Abyssal", "Common", "Draconic", "Dwarvish", "Giant"],
+  "skills": ["Arcana +13", "Religion +13"],
+  "savingThrows": ["Wis +7"],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "Baba Lysaga can use an action to polymorph into a swarm of insects (flies) or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.",
+      "recharge": null
+    },
+    {
+      "name": "Blessing of Mother Night.",
+      "description": "Baba Lysaga is shielded against divination magic, as though protected by a nondetection spell.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga has the following wizard spells prepared:\n* Cantrips (at will): acid splash, fire bolt, light, mage hand, prestidigitation\n* 1st level (4 slots): detect magic, magic missile, sleep, witch bolt\n* 2nd level (3 slots): crown of madness, enlarge/reduce, misty step\n* 3rd level (3 slots): dispel magic, fireball, lightning bolt\n* 4th level (3 slots): blight, Everard's black tentacles, polymorph\n* 5th level (2 slots): cloudkill, geas, scrying\n* 6th level (1 slot): programmed illusion, true seeing\n* 7th level (1 slot): finger of death, mirage arcane\n* 8th level (1 slot): power word stun",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,85 @@
+{
+  "id": "white_maw",
+  "_index": 866,
+  "name": "White Maw",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 1,
+      "mod": -5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "5",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 217,
+    "roll": "14d20+70"
+  },
+  "race": "OOZE",
+  "size": "Gargantuan ooze",
+  "speed": "10 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["telepathy 50 ft."],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 248",
+      "recharge": null
+    },
+    {
+      "name": "Ooze Nature.",
+      "description": "White Maw doesn't require sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Amorphous Form.",
+      "description": "White Maw can occupy another creature's space and vice versa.",
+      "recharge": null
+    },
+    {
+      "name": "Corrode Metal.",
+      "description": "Any nonmagical weapon made of metal that hits White Maw corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits White Maw is destroyed after dealing damage.\n>White Maw can eat through 2-inch-thick, nonmagical metal in 1 round.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While White Maw remains motionless, it is indistinguishable from white stone.",
+      "recharge": null
+    },
+    {
+      "name": "Killer Response.",
+      "description": "Any creature that starts its turn in White Maw's space is targeted by a pseudopod attack if White Maw isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

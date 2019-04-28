@@ -1,0 +1,54 @@
+{
+  "id": "cockatrice",
+  "_index": 158,
+  "name": "Cockatrice",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "11",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 27,
+    "roll": "6d6+6"
+  },
+  "race": "MONSTROSITY",
+  "size": "Small monstrosity",
+  "speed": "20 ft., fly 40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/cockatrice.jpg"
+}

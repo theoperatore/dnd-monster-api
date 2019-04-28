@@ -1,0 +1,75 @@
+{
+  "id": "arcanaloth",
+  "_index": 49,
+  "name": "Arcanaloth",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "12 (8,400 XP)",
+  "hitPoints": {
+    "average": 104,
+    "roll": "16d8+32"
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (yugoloth)",
+  "speed": "30 ft., fly 30 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Arcana +13", "Deception +9", "Insight +9", "Perception +7"],
+  "savingThrows": ["Dex +5", "Int +9", "Wis +7", "Cha +7"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:\nAt will: alter self, darkness, heat metal, invisibility (self only), magic missile",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The arcanaloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The arcanaloth's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:\n* Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation\n* 1st level (4 slots): detect magic, identify, shield, Tenser's floating disk\n* 2nd level (3 slots): detect thoughts, mirror image, phantasmal force, suggestion\n* 3rd level (3 slots): counterspell, fear, fireball\n* 4th level (3 slots): banishment, dimension door\n* 5th level (2 slots): contact other plane, hold monster\n* 6th level (1 slot): chain lightning\n* 7th level (1 slot): finger of death\n* 8th level (1 slot): mind blank",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

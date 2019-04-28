@@ -1,0 +1,65 @@
+{
+  "id": "bugbear",
+  "_index": 127,
+  "name": "Bugbear",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (hide armor, shield)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d8+5"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (goblinoid)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Goblin"],
+  "skills": ["Stealth +6", "Survival +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Brute.",
+      "description": "A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).",
+      "recharge": null
+    },
+    {
+      "name": "Surprise Attack.",
+      "description": "If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/bugbear.jpg"
+}

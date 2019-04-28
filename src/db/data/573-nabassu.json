@@ -1,0 +1,74 @@
+{
+  "id": "nabassu",
+  "_index": 573,
+  "name": "Nabassu",
+  "abilityScores": {
+    "STR": {
+      "score": 22,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "15 (13,000 XP)",
+  "hitPoints": {
+    "average": 190
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (demon)",
+  "speed": "40 ft., fly 60 ft.",
+  "senses": "darkvision 60 ft., passive Perception 17",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Abyssal", "telepathy 120 ft."],
+  "skills": ["Perception +7"],
+  "savingThrows": ["Str +11", "Dex +7"],
+  "abilities": [
+    {
+      "name": "Demonic Shadows.",
+      "description": "The nabassu darkens the area around its body in a 10-foot radius. Nonmagical light can't illuminate this area of dim light.",
+      "recharge": null
+    },
+    {
+      "name": "Devour Soul.",
+      "description": "A nabassu can eat the soul of a creature it has killed within the last hour, provided that creature is neither a construct nor an undead. The devouring requires the nabassu to be within 5 feet of the corpse for at least 10 minutes, after which it gains a number of Hit Dice (d8s) equal to half the creature's number of Hit Dice. Roll those dice, and increase the nabassu's hit points by the numbers rolled. For every 4 Hit Dice the nabassu gains in this way, its attacks deal an extra 3 (1d6) damage on a hit. The nabassu retains these benefits for 6 days. A creature devoured by a nabassu can be restored to life only by a wish spell.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The nabassu has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The nabassu's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

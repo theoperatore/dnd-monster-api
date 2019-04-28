@@ -1,0 +1,60 @@
+{
+  "id": "gnoll",
+  "_index": 402,
+  "name": "Gnoll",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (hide armor, shield)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (gnoll)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Gnoll"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Rampage.",
+      "description": "When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/gnoll.jpg"
+}

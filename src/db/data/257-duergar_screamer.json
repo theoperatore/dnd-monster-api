@@ -1,0 +1,59 @@
+{
+  "id": "duergar_screamer",
+  "_index": 257,
+  "name": "Duergar Screamer",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 7,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 5,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 38
+  },
+  "race": "CONSTRUCT",
+  "size": "Medium construct",
+  "speed": "20 ft.",
+  "senses": "darkvision 60 ft., passive Perception 7",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["understands Dwarvish but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Engine of Pain.",
+      "description": "Once per turn, a creature that attacks the screamer can target the duergar trapped in it. The attacker has disadvantage on the attack roll. On a hit, the attack deals an extra 11 (2d10) damage to the screamer, and the screamer can respond by using its Multiattack with its reaction.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

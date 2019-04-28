@@ -1,0 +1,85 @@
+{
+  "id": "choldrith",
+  "_index": 151,
+  "name": "Choldrith",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (studded leather armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 66,
+    "roll": "12d8+12"
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Undercommon"],
+  "skills": ["Athletics +5", "Religion +2", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The choldrith has advantage on saving throws against being charmed, and magic can't put the choldrith to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The choldrith is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The choldrith has the following cleric spells prepared:\n* Cantrips (at will): guidance, mending, resistance, thaumaturgy\n* 1st level (4 slots): bane, healing word, sanctuary, shield of faith\n* 2nd level (3 slots): hold person, spiritual weapon (dagger)",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the choldrith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Web Sense.",
+      "description": "While in contact with a web, the choldrith knows the exact location of any other creature in contact with the same web.",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The choldrith ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

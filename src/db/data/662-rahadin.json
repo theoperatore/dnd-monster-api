@@ -1,0 +1,75 @@
+{
+  "id": "rahadin",
+  "_index": 662,
+  "name": "Rahadin",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 22,
+      "mod": 6,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (studded leather)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 135,
+    "roll": "18d8+54"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "35 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "curse-of-strahd",
+  "languages": ["Common", "Elvish"],
+  "skills": ["Deception +8", "Insight +7", "Intimidation +12", "Perception +11", "Stealth +14"],
+  "savingThrows": ["Con +7", "Wis +7"],
+  "abilities": [
+    {
+      "name": "Deathly Choir.",
+      "description": "Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one.",
+      "recharge": null
+    },
+    {
+      "name": "Fey Ancestry.",
+      "description": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:\n3/day: misty step, phantom steed\n1/day: magic weapon, nondetection",
+      "recharge": null
+    },
+    {
+      "name": "Mask of the Wild.",
+      "description": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

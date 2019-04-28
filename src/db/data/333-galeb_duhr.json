@@ -1,0 +1,65 @@
+{
+  "id": "galeb_duhr",
+  "_index": 333,
+  "name": "Galeb Duhr",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 85,
+    "roll": "9d8+45"
+  },
+  "race": "ELEMENTAL",
+  "size": "Medium elemental",
+  "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)",
+  "senses": "darkvision 60 ft., tremorsense 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Terran"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the galeb duhr remains motionless, it is indistinguishable from a normal boulder.",
+      "recharge": null
+    },
+    {
+      "name": "Rolling Charge.",
+      "description": "If the galeb duhr rolls at least 20 ft. straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/galeb-duhr.jpg"
+}

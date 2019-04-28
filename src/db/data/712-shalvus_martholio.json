@@ -1,0 +1,72 @@
+{
+  "id": "shalvus_martholio",
+  "_index": 712,
+  "name": "Shalvus Martholio",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "13 (leather)",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 27,
+    "roll": "6d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (turami human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Elvish"],
+  "skills": [
+    "Deception +4",
+    "Insight +4",
+    "Investigation +3",
+    "Perception +4",
+    "Sleight of Hand +4",
+    "Stealth +4"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Sneak Attack",
+      "description": "Shalvus deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Shalvus that isn't incapacitated and Shalvus doesn't have disadvantage on the attack roll.",
+      "recharge": "(1/turn)."
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "Nalaskur Thaelond of Bargewright Inn has entrusted the shepherd Shalvus with an important assignment: to figure out the best way by which Goldenfields can be brought under the Black Network's control. Shalvus believes that success will ensure his swift rise through the Zhentarim ranks.\nIdeal: \"I'll do what it takes to prove myself to the Zhentarim.\"\nBond: \"I love animals, and I'm very protective of them.\"\nFlaw: \"I can't resist taking risks to feed my ambitions.\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

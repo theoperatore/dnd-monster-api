@@ -1,0 +1,54 @@
+{
+  "id": "black_earth_guard",
+  "_index": 98,
+  "name": "Black Earth Guard",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 39,
+    "roll": "6d8+12"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Common"],
+  "skills": ["Intimidation +1", "Perception +2"],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

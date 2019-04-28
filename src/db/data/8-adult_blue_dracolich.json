@@ -1,0 +1,65 @@
+{
+  "id": "adult_blue_dracolich",
+  "_index": 8,
+  "name": "Adult Blue Dracolich",
+  "abilityScores": {
+    "STR": {
+      "score": 25,
+      "mod": 7,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "17 (18,000 XP)",
+  "hitPoints": {
+    "average": 225,
+    "roll": "18d12+108"
+  },
+  "race": "UNDEAD",
+  "size": "Huge undead",
+  "speed": "40 ft., burrow 30 ft., fly 80 ft.",
+  "senses": "blindsight 60 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Perception +12", "Stealth +5"],
+  "savingThrows": ["Dex +5", "Con +11", "Wis +7", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dracolich fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The dracolich has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

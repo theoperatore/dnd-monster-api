@@ -1,0 +1,60 @@
+{
+  "id": "swarm_of_ravens",
+  "_index": 776,
+  "name": "Swarm of Ravens",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 24,
+    "roll": "7d8-7"
+  },
+  "race": "SWARM",
+  "size": "Medium swarm",
+  "speed": "10 ft., fly 50 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

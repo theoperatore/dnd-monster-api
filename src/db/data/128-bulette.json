@@ -1,0 +1,60 @@
+{
+  "id": "bulette",
+  "_index": 128,
+  "name": "Bulette",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 94,
+    "roll": "9d10+45"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "40 ft., burrow 40 ft.",
+  "senses": "darkvision 60 ft., tremorsense 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Standing Leap.",
+      "description": "The bulette's long jump is up to 30 ft. and its high jump is up to 15 ft., with or without a running start.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/bulette.jpg"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "adult_silver_dragon",
+  "_index": 16,
+  "name": "Adult Silver Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 27,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "16 (15,000 XP)",
+  "hitPoints": {
+    "average": 243,
+    "roll": "18d12+126"
+  },
+  "race": "DRAGON",
+  "size": "Huge dragon",
+  "speed": "40 ft., fly 80 ft.",
+  "senses": "blindsight 60 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Arcana +8", "History +8", "Perception +11", "Stealth +5"],
+  "savingThrows": ["Dex +5", "Con +12", "Wis +6", "Cha +10"],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/adult-silver-dragon.jpg"
+}

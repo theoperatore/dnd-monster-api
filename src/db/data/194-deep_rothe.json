@@ -1,0 +1,65 @@
+{
+  "id": "deep_rothe",
+  "_index": 194,
+  "name": "Deep Rothe",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "10",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 13,
+    "roll": "2d8+4"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the rothe moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The deep rothe's spellcasting ability is Charisma. It can innately cast dancing lights at will, requiring no components.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

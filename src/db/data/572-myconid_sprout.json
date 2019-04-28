@@ -1,0 +1,65 @@
+{
+  "id": "myconid_sprout",
+  "_index": 572,
+  "name": "Myconid Sprout",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_NEUTRAL",
+  "armorClass": "10",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 7,
+    "roll": "2d6"
+  },
+  "race": "PLANT",
+  "size": "Small plant",
+  "speed": "10 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Distress Spores.",
+      "description": "When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.",
+      "recharge": null
+    },
+    {
+      "name": "Sun Sickness.",
+      "description": "While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,69 @@
+{
+  "id": "young_kruthik",
+  "_index": 900,
+  "name": "Young Kruthik",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 9
+  },
+  "race": "MONSTROSITY",
+  "size": "Small monstrosity",
+  "speed": "30 ft., burrow 10 ft., climb 30 ft.",
+  "senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 10",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Kruthik"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The kruthik has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Tunneler.",
+      "description": "The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2 1/2-foot-diameter tunnel in its wake.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

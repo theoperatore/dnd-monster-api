@@ -1,0 +1,75 @@
+{
+  "id": "oren_yogilvy",
+  "_index": 624,
+  "name": "Oren Yogilvy",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "11",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 9,
+    "roll": "2d6+2"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (strongheart halfling)",
+  "speed": "25 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Halfling"],
+  "skills": ["Perception +2", "Performance +7", "Persuasion +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Halfling Nimbleness.",
+      "description": "Oren can move through the space of any creature that is of a size large than his.",
+      "recharge": null
+    },
+    {
+      "name": "Lucky.",
+      "description": "When Oren rolls a 1 on an attack roll, ability check, or saving throw, he can reroll the die and must use the new roll.",
+      "recharge": null
+    },
+    {
+      "name": "Stout Resilience.",
+      "description": "Oren has advantage on saving throws against poison",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "Oren came to Nurthfurrow's End looking for easy work and found it. He sings for his supper, drinks like a fish, and wanders the fields at night dreaming up new lyrics to entertain the inn's other guests. Oren likes to stir up trouble from time to time, but he doesn't  have a mean bone in his body.\nIdeal: \"Music is food for the soul.\"\nBond: \"You had me at \"Can I buy you a drink.\"\nFlaw: \"I have a knack for putting myself in harm's way. Good thing I'm lucky!\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

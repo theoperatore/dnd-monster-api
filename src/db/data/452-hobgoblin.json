@@ -1,0 +1,60 @@
+{
+  "id": "hobgoblin",
+  "_index": 452,
+  "name": "Hobgoblin",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (chain mail, shield)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (goblinoid)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Goblin"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Martial Advantage.",
+      "description": "Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/hobgoblin.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "balor",
+  "_index": 74,
+  "name": "Balor",
+  "abilityScores": {
+    "STR": {
+      "score": 26,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "19 (22,000 XP)",
+  "hitPoints": {
+    "average": 262,
+    "roll": "21d12+126"
+  },
+  "race": "FIEND",
+  "size": "Huge fiend (demon)",
+  "speed": "40 ft., fly 80 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "telepathy 120 ft."],
+  "skills": [],
+  "savingThrows": ["Str +14", "Con +12", "Wis +9", "Cha +12"],
+  "abilities": [
+    {
+      "name": "Death Throes.",
+      "description": "When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.",
+      "recharge": null
+    },
+    {
+      "name": "Fire Aura.",
+      "description": "At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The balor has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The balor's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/balor.jpg"
+}

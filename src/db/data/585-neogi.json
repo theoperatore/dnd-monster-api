@@ -1,0 +1,65 @@
+{
+  "id": "neogi",
+  "_index": 585,
+  "name": "Neogi",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d6+12"
+  },
+  "race": "ABERRATION",
+  "size": "Small aberration",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Deep Speech", "Undercommon"],
+  "skills": ["Intimidation +4", "Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Mental Fortitude.",
+      "description": "The neogi has advantage on saving throws against being charmed or frightened. and magic can't put the neogi to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

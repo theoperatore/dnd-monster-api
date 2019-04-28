@@ -1,0 +1,65 @@
+{
+  "id": "dolphin",
+  "_index": 213,
+  "name": "Dolphin",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12 (natural armor)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "0 ft., swim 60 ft.",
+  "senses": "blindsight 60 ft.",
+  "source": "volos-guide",
+  "languages": [],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the dolphin moves at least 30 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 3 (1d6) bludgeoning damage.",
+      "recharge": null
+    },
+    {
+      "name": "Hold Breath.",
+      "description": "The dolphin can hold its breath for 20 minutes.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "androsphinx",
+  "_index": 41,
+  "name": "Androsphinx",
+  "abilityScores": {
+    "STR": {
+      "score": 22,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 18,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_NEUTRAL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "17 (18,000 XP)",
+  "hitPoints": {
+    "average": 199,
+    "roll": "19d10+95"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "40 ft., fly 60 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Sphinx"],
+  "skills": ["Arcana +9", "Perception +10", "Religion +15"],
+  "savingThrows": ["Dex +6", "Con +11", "Int +9", "Wis +10"],
+  "abilities": [
+    {
+      "name": "Inscrutable.",
+      "description": "The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The sphinx's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:\n* Cantrips (at will): sacred flame, spare the dying, thaumaturgy\n* 1st level (4 slots): command, detect evil and good, detect magic\n* 2nd level (3 slots): lesser restoration, zone of truth\n* 3rd level (3 slots): dispel magic, tongues\n* 4th level (3 slots): banishment, freedom of movement\n* 5th level (2 slots): flame strike, greater restoration\n* 6th level (1 slot): heroes' feast",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/androsphinx.jpg"
+}

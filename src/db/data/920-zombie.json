@@ -1,0 +1,60 @@
+{
+  "id": "zombie",
+  "_index": 920,
+  "name": "Zombie",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 6,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "8",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "3d8+9"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "20 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["understands all languages it spoke in life but can't speak"],
+  "skills": [],
+  "savingThrows": ["Wis +0"],
+  "abilities": [
+    {
+      "name": "Undead Fortitude.",
+      "description": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/zombie.jpg"
+}

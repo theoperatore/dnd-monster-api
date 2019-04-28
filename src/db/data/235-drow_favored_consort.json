@@ -1,0 +1,79 @@
+{
+  "id": "drow_favored_consort",
+  "_index": 235,
+  "name": "Drow Favored Consort",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (18 with mage armor)",
+  "challengeRating": "18 (20,000 XP)",
+  "hitPoints": {
+    "average": 225
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft., passive Perception 18",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Elvish", "Undercommon"],
+  "skills": ["Acrobatics +11", "Athletics +8", "Perception +8", "Stealth +11"],
+  "savingThrows": ["Dex +11", "Con +9", "Cha +10"],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The drow's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:\n* At will: dancing lights\n* 1/day each: darkness, faerie fire, levitate (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The drow is a 11th-level spellcaster. Its spellcasting ability is Intelligence. It has the following wizard spells prepared:\n* Cantrips (at will): mage hand, message, poison spray, shocking grasp, ray of frost\n* 1st level (4 slots): burning hands, mage armor, magic missile, shield\n* 2nd level (3 slots): gust of wind, invisibility, misty step, shatter\n* 3rd level (3 slots): counterspell, fireball, haste\n* 4th level (3 slots): dimension door, Otiluke's resilient sphere\n* 5th level (2 slots): cone of cold\n* 6th level (1 slot): chain lightning",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "War Magic.",
+      "description": "When the drow uses its action to cast a spell, it can make one weapon attack as a bonus action.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "banshee",
+  "_index": 78,
+  "name": "Banshee",
+  "abilityScores": {
+    "STR": {
+      "score": 1,
+      "mod": -5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 58,
+    "roll": "13d8"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "0 ft., fly 40 ft. (hover)",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Elvish"],
+  "skills": [],
+  "savingThrows": ["Wis +2", "Cha +5"],
+  "abilities": [
+    {
+      "name": "Detect Life.",
+      "description": "The banshee can magically sense the presence of living creatures up to 5 miles away that aren't  undead or constructs. She knows the general direction they're in but not their exact locations.",
+      "recharge": null
+    },
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The banshee can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/banshee.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "warlord",
+  "_index": 850,
+  "name": "Warlord",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "18 (plate)",
+  "challengeRating": "12 (8,400 XP)",
+  "hitPoints": {
+    "average": 229,
+    "roll": "27d8+108"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any two languages"],
+  "skills": ["Athletics +9", "Intimidation +8", "Perception +5", "Persuasion +8"],
+  "savingThrows": ["Str +9", "Dex +7", "Con +8"],
+  "abilities": [
+    {
+      "name": "Indomitable",
+      "description": "The warlord can reroll a saving throw it fails. It must use the new roll.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Survivor.",
+      "description": "The warlord regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

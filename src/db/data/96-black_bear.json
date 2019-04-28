@@ -1,0 +1,60 @@
+{
+  "id": "black_bear",
+  "_index": 96,
+  "name": "Black Bear",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "11 (natural armor)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 19,
+    "roll": "3d8+6"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "40 ft., climb 30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The bear has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hell_hound",
+  "_index": 441,
+  "name": "Hell Hound",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "7d8+14"
+  },
+  "race": "FIEND",
+  "size": "Medium fiend",
+  "speed": "50 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["understands Infernal but can't speak it"],
+  "skills": ["Perception +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/hell-hound.jpg"
+}

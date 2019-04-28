@@ -1,0 +1,65 @@
+{
+  "id": "flying_sword",
+  "_index": 323,
+  "name": "Flying Sword",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 5,
+      "mod": -3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 17,
+    "roll": "5d6"
+  },
+  "race": "CONSTRUCT",
+  "size": "Small construct",
+  "speed": "0 ft., fly 50 ft. It can hover.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": ["Dex +4"],
+  "abilities": [
+    {
+      "name": "Antimagic Susceptibility.",
+      "description": "The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/flying-sword.jpg"
+}

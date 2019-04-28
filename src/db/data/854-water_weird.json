@@ -1,0 +1,65 @@
+{
+  "id": "water_weird",
+  "_index": 854,
+  "name": "Water Weird",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "13",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 58,
+    "roll": "9d10+9"
+  },
+  "race": "ELEMENTAL",
+  "size": "Large elemental",
+  "speed": "0 ft., swim 60 ft.",
+  "senses": "blindsight 30 ft.",
+  "source": "monster-manual",
+  "languages": ["understands Aquan but doesn't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Invisible in Water.",
+      "description": "The water weird is invisible while fully immersed in water.",
+      "recharge": null
+    },
+    {
+      "name": "Water Bound.",
+      "description": "The water weird dies if it leaves the water to which it is bound or if that water is destroyed.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/water-weird.jpg"
+}

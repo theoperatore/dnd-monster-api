@@ -1,0 +1,60 @@
+{
+  "id": "giant_elk",
+  "_index": 356,
+  "name": "Giant Elk",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 42,
+    "roll": "5d12+10"
+  },
+  "race": "BEAST",
+  "size": "Huge beast",
+  "speed": "60 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Giant Elk", "understands Common", "Elvish", "and Sylvan but can't speak"],
+  "skills": ["Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

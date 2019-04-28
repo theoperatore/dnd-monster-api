@@ -1,0 +1,70 @@
+{
+  "id": "spider",
+  "_index": 738,
+  "name": "Spider",
+  "abilityScores": {
+    "STR": {
+      "score": 2,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 2,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 1,
+    "roll": "1d4-1"
+  },
+  "race": "BEAST",
+  "size": "Tiny beast",
+  "speed": "20 ft., climb 20 ft.",
+  "senses": "darkvision 30 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spider Climb.",
+      "description": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Web Sense.",
+      "description": "While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The spider ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/spider.jpg"
+}

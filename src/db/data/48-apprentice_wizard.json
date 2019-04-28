@@ -1,0 +1,60 @@
+{
+  "id": "apprentice_wizard",
+  "_index": 48,
+  "name": "Apprentice Wizard",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "10",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 9,
+    "roll": "2d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Arcana +4", "History +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The apprentice is a 1st-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:\nCantrips (at will): fire bolt, mending, prestidigitation\n1st level (2 slots): burning hands, disguise self, shield",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

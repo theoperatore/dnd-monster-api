@@ -1,0 +1,60 @@
+{
+  "id": "goblin_boss",
+  "_index": 404,
+  "name": "Goblin Boss",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (chain shirt, shield)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 21,
+    "roll": "6d6"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (goblinoid)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Goblin"],
+  "skills": ["Stealth +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Nimble Escape.",
+      "description": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

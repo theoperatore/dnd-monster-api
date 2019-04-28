@@ -1,0 +1,75 @@
+{
+  "id": "swarm_of_cranium_rats",
+  "_index": 771,
+  "name": "Swarm of Cranium Rats",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "12",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 36,
+    "roll": "8d8"
+  },
+  "race": "SWARM",
+  "size": "Medium swarm",
+  "speed": "30 ft.",
+  "senses": "darkvision 30 ft.",
+  "source": "volos-guide",
+  "languages": ["telepathy 30 ft."],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Illumination.",
+      "description": "As a bonus action, the swarm can shed dim light from its brains in a 5-foot radius, increase the illumination to bright light in a 5- to 20-foot radius (and dim light for an additional number of feet equal to the chosen radius), or extinguish the light.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The swarm's innate spellcasting ability is Intelligence (spell save DC 13). As long as it has more than half of its hit points, it can innately cast the following spells, requiring no components::\n* At will: command, comprehend languages, detect thoughts\n* 1/day each: confusion, dominate monster",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Telepathic Shroud.",
+      "description": "The swarm is immune to any effect that would sense its emotions or read its thoughts, as well as to all divination spells.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

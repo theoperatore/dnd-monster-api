@@ -1,0 +1,64 @@
+{
+  "id": "bronze_scout",
+  "_index": 123,
+  "name": "Bronze Scout",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 18
+  },
+  "race": "CONSTRUCT",
+  "size": "Medium construct",
+  "speed": "30 ft., burrow 30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 16",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["understands one language of its creator but can't speak"],
+  "skills": ["Perception +6", "Stealth +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Earth Armor.",
+      "description": "The bronze scout doesn't provoke opportunity attacks when it burrows.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The bronze scout has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

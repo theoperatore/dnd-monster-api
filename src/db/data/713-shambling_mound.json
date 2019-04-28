@@ -1,0 +1,60 @@
+{
+  "id": "shambling_mound",
+  "_index": 713,
+  "name": "Shambling Mound",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 136,
+    "roll": "16d10+48"
+  },
+  "race": "PLANT",
+  "size": "Large plant",
+  "speed": "20 ft., swim 20 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Stealth +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Lightning Absorption.",
+      "description": "Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/shambling-mound.jpg"
+}

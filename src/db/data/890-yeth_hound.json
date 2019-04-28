@@ -1,0 +1,70 @@
+{
+  "id": "yeth_hound",
+  "_index": 890,
+  "name": "Yeth Hound",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 51,
+    "roll": "6d10+18"
+  },
+  "race": "FEY",
+  "size": "Large fey",
+  "speed": "40 ft., fly 40 ft. (hover)",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["understands Common", "Elvish", "and Sylvan but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The yeth hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Banishment.",
+      "description": "If the yeth hound starts its turn in sunlight, it is transported to the Ethereal Plane. While sunlight shines on the spot from which it vanished, the hound must remain in the Deep Ethereal. After sunset, it returns to the Border Ethereal at the same spot, whereupon it typically sets out to find its pack or its master. The hound is visible on the Material Plane while it is in the Border Ethereal, and vice versa, but it can't affect or be affected by anything on the other plane. Once it is adjacent to its master or a pack mate that is on the Material Plane, a yeth hound in the Border Ethereal can return to the Material Plane as an action.",
+      "recharge": null
+    },
+    {
+      "name": "Telepathic Bond.",
+      "description": "While the yeth hound is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically with each other.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

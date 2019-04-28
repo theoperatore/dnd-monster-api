@@ -1,0 +1,70 @@
+{
+  "id": "centaur_mummy",
+  "_index": 142,
+  "name": "Centaur Mummy",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 85,
+    "roll": "10d10+30"
+  },
+  "race": "UNDEAD",
+  "size": "Large undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Common", "Sylvan"],
+  "skills": [],
+  "savingThrows": ["Wis +5"],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 231",
+      "recharge": null
+    },
+    {
+      "name": "Undead Nature.",
+      "description": "A mummy doesn't require air, food, drink, or sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Charge.",
+      "description": "If the centaur mummy moves at least 20 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

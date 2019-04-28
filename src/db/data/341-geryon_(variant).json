@@ -1,0 +1,79 @@
+{
+  "id": "geryon_(variant)",
+  "_index": 341,
+  "name": "Geryon (variant)",
+  "abilityScores": {
+    "STR": {
+      "score": 29,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "22 (41,000 XP)",
+  "hitPoints": {
+    "average": 300
+  },
+  "race": "FIEND",
+  "size": "Huge fiend (devil)",
+  "speed": "30 ft., fly 50 ft.",
+  "senses": "truesight 120 ft., passive Perception 20",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Deception +13", "Intimidation +13", "Perception +10"],
+  "savingThrows": ["Dex +10", "Con +13", "Wis +10", "Cha +13"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Geryon's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:\n* At will: alter self (can become Medium when changing his appearance), detect magic, geas, ice storm, invisibility (self only), locate object, suggestion, wall of ice\n* 1/day each: divine word, symbol (pain only)",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Geryon fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Geryon has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Geryon's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

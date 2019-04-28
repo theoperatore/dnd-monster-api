@@ -1,0 +1,70 @@
+{
+  "id": "hurricane",
+  "_index": 462,
+  "name": "Hurricane",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "14",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "45 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Auran", "Common"],
+  "skills": ["Acrobatics +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells:\n* Cantrips (at will): blade ward, gust, light, prestidigitation\n* 1st level (4 slots): feather fall, jump, thunderwave\n* 2nd level (2 slots): gust of wind",
+      "recharge": null
+    },
+    {
+      "name": "Unarmored Defense.",
+      "description": "While the hurricane is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    },
+    {
+      "name": "Unarmored Movement.",
+      "description": "While the hurricane is wearing no armor and wielding no shield, its walking speed increases by 15 feet (included in its speed).",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

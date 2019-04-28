@@ -1,0 +1,77 @@
+{
+  "id": "jamna_gleamsilver",
+  "_index": 485,
+  "name": "Jamna Gleamsilver",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "15 (leather armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "4d6+8"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (gnome)",
+  "speed": "25 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Gnomish", "Goblin", "Sylvan"],
+  "skills": [
+    "Acrobatics +5",
+    "Deception +3",
+    "Insight +2",
+    "Perception +4",
+    "Persuasion +3",
+    "Stealth +7"
+  ],
+  "savingThrows": ["Dex +5", "Int +4"],
+  "abilities": [
+    {
+      "name": "Cunning Action.",
+      "description": "Jamna can take a bonus action to take the Dash, Disengage, or Hide action.",
+      "recharge": null
+    },
+    {
+      "name": "Gnome Cunning.",
+      "description": "Jamna has advantage on Intelligence, Wisdom and Charisma saving throws against magic.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Jamna is a 4th-level spellcaster that uses Intelligence as her spellcasting ability (spell save DC 12, +4 to hit with spell attacks). Jamna has the following spells prepared from the wizard spell list.\n* Cantrips (at will): mage hand, minor illusion, prestidigitation, ray of frost\n* 1st level (3 slots): charm person, color spray, disguise self, longstrider",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

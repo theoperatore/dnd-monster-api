@@ -1,0 +1,54 @@
+{
+  "id": "crushing_wave_reaver",
+  "_index": 172,
+  "name": "Crushing Wave Reaver",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (shield)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "4d8+4"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Common"],
+  "skills": ["Athletics +4", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

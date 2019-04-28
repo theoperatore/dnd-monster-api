@@ -1,0 +1,75 @@
+{
+  "id": "marlos_urnrayle",
+  "_index": 533,
+  "name": "Marlos Urnrayle",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 136,
+    "roll": "16d8+64"
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., tremorsense 60 ft.",
+  "source": "elemental-evil",
+  "languages": ["Common", "Terran"],
+  "skills": ["Arcana +4", "Deception +6", "Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Earthen Defeat.",
+      "description": "When Marlos drops to 0 hit points, his body transforms into mud and collapses into a pool. Anything he is wearing or carrying is left behind.",
+      "recharge": null
+    },
+    {
+      "name": "Earth Passage.",
+      "description": "Marlos can move in difficult terrain composed of anything made from earth or stone as if it were normal terrain. He can move through solid earth and rock as if it were difficult terrain. If he ends his turn there, he is shunted into the nearest space he last occupied.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Marlos fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(2/Day)."
+    },
+    {
+      "name": "Petrifying Gaze.",
+      "description": "When a creature that can see Marlos's eyes starts its turn within 30 feet of him, Marlos can force it to make a DC 14 Constitution saving throw if Marlos isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.\nUnless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see Marlos until the start of its next turn, when it can decide to avert its eyes again. If the creature looks at Marlos in the meantime, it must immediately make the save.\nIf Marlos sees himself reflected on a polished surface within 30 feet of him and in an area of bright light, Marlos is, due to his curse, affected by his own gaze.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "evil_mage",
+  "_index": 294,
+  "name": "Evil Mage",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "12",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "lost-mine-of-phandelver",
+  "languages": ["Common", "Draconic", "Dwarvish", "Elvish"],
+  "skills": ["Arcana +5", "History +5"],
+  "savingThrows": ["Int +5", "Wis +3"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:\n* Cantrips (at will): light, mage hand, shocking grasp\n* 1st Level (4 slots): charm person, magic missile\n* 2nd Level (3 slots): hold person, misty step",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

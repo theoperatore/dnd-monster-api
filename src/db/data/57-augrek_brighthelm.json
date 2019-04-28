@@ -1,0 +1,65 @@
+{
+  "id": "augrek_brighthelm",
+  "_index": 57,
+  "name": "Augrek Brighthelm",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "15 (chain shirt, shield)",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 13,
+    "roll": "2d8+4"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (shield dwarf)",
+  "speed": "25 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Dwarvish"],
+  "skills": ["Athletics +4", "Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dwarven Resilience.",
+      "description": "Augrek has advantage on saving throws against poison.",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "Sheriff's Ddeputy Augrek guards the southwest gate of BRyn Shander and welcomes visitors to town. She has a good heart.\nIdeal: \"You'll get farther in life with a kind word than an axe\"\nBond: \"Bryn Shander is my home. It's my job to protect her.\"\nFlaw: \"I'm head over heels in love with Sheriff Southwell. One day I hope to marry him.\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

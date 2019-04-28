@@ -1,0 +1,75 @@
+{
+  "id": "tarrasque",
+  "_index": 785,
+  "name": "Tarrasque",
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 30,
+      "mod": 10,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "25 (natural armor)",
+  "challengeRating": "30 (155,000 XP)",
+  "hitPoints": {
+    "average": 676,
+    "roll": "33d20+330"
+  },
+  "race": "MONSTROSITY",
+  "size": "Gargantuan monstrosity (titan)",
+  "speed": "40 ft.",
+  "senses": "blindsight 120 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": ["Int +5", "Wis +9", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the tarrasque fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The tarrasque has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Reflective Carapace.",
+      "description": "Any time the tarrasque is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The tarrasque deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/tarrasque.jpg"
+}

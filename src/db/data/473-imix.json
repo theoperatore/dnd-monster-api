@@ -1,0 +1,90 @@
+{
+  "id": "imix",
+  "_index": 473,
+  "name": "Imix",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 24,
+      "mod": 7,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17",
+  "challengeRating": "19 (22,000 XP)",
+  "hitPoints": {
+    "average": 325,
+    "roll": "26d12+156"
+  },
+  "race": "ELEMENTAL",
+  "size": "Huge elemental",
+  "speed": "50 ft., fly 50 ft.",
+  "senses": "blindsight 120 ft.",
+  "source": "elemental-evil",
+  "languages": ["Common", "Ignan"],
+  "skills": [],
+  "savingThrows": ["Dex +14", "Con +13", "Cha +13"],
+  "abilities": [
+    {
+      "name": "Empowered Attacks.",
+      "description": "Imix's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.",
+      "recharge": null
+    },
+    {
+      "name": "Fire Aura.",
+      "description": "At the start of each of Imix's turns, each creature within 10 feet of him takes 17 (5d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature also takes 17 (5d6) fire damage if it touches Imix or hits him with a melee attack while within 10 feet of him, and a creature takes that damage the first time on a turn that Imix moves into its space. Nonmagical weapons that hit Imix are destroyed by fire immediately after dealing damage to him",
+      "recharge": null
+    },
+    {
+      "name": "Fire Form.",
+      "description": "Imix can enter a hostile creature's space and stop there. He can move through a space as narrow as 1 inch without squeezing if fire could pass through that space.",
+      "recharge": null
+    },
+    {
+      "name": "Illumination.",
+      "description": "Imix sheds bright light in a 60-foot radius and dim light for an additional 60 feet.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Imix fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Imix's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:\n* At will: fireball, wall of fire\n* 3/day each: fire storm, haste, teleport",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Imix has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

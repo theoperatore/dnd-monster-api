@@ -1,0 +1,65 @@
+{
+  "id": "lizard_kingqueen",
+  "_index": 515,
+  "name": "Lizard King/Queen",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (lizardfolk)",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "Draconic"],
+  "skills": ["Perception +4", "Stealth +5", "Survival +4"],
+  "savingThrows": ["Con +4", "Wis +2"],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The lizardfolk can hold its breath for 15 minutes.",
+      "recharge": null
+    },
+    {
+      "name": "Skewer.",
+      "description": "Once per turn, when the lizardfolk makes a melee attack with its trident and hits, the target takes an extra 10 (3d6) damage, and the lizardfolk gains temporary hit points equal to the extra damage dealt.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

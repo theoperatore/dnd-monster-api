@@ -1,0 +1,70 @@
+{
+  "id": "couatl",
+  "_index": 164,
+  "name": "Couatl",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 97,
+    "roll": "13d8+39"
+  },
+  "race": "CELESTIAL",
+  "size": "Medium celestial",
+  "speed": "30 ft., fly 90 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": [],
+  "savingThrows": ["Con +5", "Wis +7", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:\nAt will: detect evil and good, detect magic, detect thoughts\n3/day each: bless, create food and water, cure wounds, lesser restoration, protection from poison, sanctuary, shield\n1/day each: dream, greater restoration, scrying",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The couatl's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Shielded Mind.",
+      "description": "The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/couatl.jpg"
+}

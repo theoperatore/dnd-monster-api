@@ -1,0 +1,65 @@
+{
+  "id": "giant_owl",
+  "_index": 365,
+  "name": "Giant Owl",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "12",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 19,
+    "roll": "3d10+3"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "5 ft., fly 60 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Giant Owl", "understands Common", "Elvish", "and Sylvan but can't speak"],
+  "skills": ["Perception +5", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Flyby.",
+      "description": "The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing and Sight.",
+      "description": "The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

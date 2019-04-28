@@ -1,0 +1,65 @@
+{
+  "id": "narth_tezrin",
+  "_index": 578,
+  "name": "Narth Tezrin",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "12",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (tethyrian human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Dwarvish"],
+  "skills": ["Insight +4", "Investigation +3", "Perception +6", "Persuasion +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Cunning Action.",
+      "description": "On each of his turns, Narth can use a bonus action to take the Dash, Disengage, or Hide action.",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "Narth sells gear to adventurers, and he also has an adventurous spirit. The Lionshield Coster pays him well, but he longs to make a name for himself. At the same time, he runsa a business with his partner Alaestra and knows she wouldn't forgive him if he ran off and never returned.\nIdeal: \"The bigger the risk, the greater the reward.\"\nBond: \"I adore my colleague Alestra, and I'd like to do something to impress her.\"\nFlaw: \"I'll risk life and limb to become a legend.-\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

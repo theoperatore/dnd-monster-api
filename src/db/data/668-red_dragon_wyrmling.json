@@ -1,0 +1,54 @@
+{
+  "id": "red_dragon_wyrmling",
+  "_index": 668,
+  "name": "Red Dragon Wyrmling",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d8+30"
+  },
+  "race": "DRAGON",
+  "size": "Medium dragon",
+  "speed": "30 ft., climb 30 ft., fly 60 ft.",
+  "senses": "blindsight 10 ft., darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Draconic"],
+  "skills": ["Perception +4", "Stealth +2"],
+  "savingThrows": ["Dex +2", "Con +5", "Wis +2", "Cha +4"],
+  "abilities": [],
+  "image": null
+}

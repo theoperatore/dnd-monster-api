@@ -1,0 +1,75 @@
+{
+  "id": "unicorn",
+  "_index": 822,
+  "name": "Unicorn",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "12",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d10+18"
+  },
+  "race": "CELESTIAL",
+  "size": "Large celestial",
+  "speed": "50 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Celestial", "Elvish", "Sylvan", "telepathy 60 ft."],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the unicorn moves at least 20 ft. straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:\nAt will: detect evil and good, druidcraft, pass without trace\n1/day each: calm emotions, dispel evil and good, entangle",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The unicorn has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The unicorn's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/unicorn.jpg"
+}

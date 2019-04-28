@@ -1,0 +1,79 @@
+{
+  "id": "grazzt",
+  "_index": 413,
+  "name": "Graz'zt",
+  "abilityScores": {
+    "STR": {
+      "score": 22,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 23,
+      "mod": 6,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 21,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "SHAPECHANGER",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "24 (62,000 XP)",
+  "hitPoints": {
+    "average": 346
+  },
+  "race": "FIEND",
+  "size": "Large fiend (demon",
+  "speed": "40 ft.",
+  "senses": "truesight 120 ft., passive Perception 22",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Deception +15", "Insight +12", "Perception +12", "Persuasion +15"],
+  "savingThrows": ["Dex +9", "Con +12", "Wis +12"],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Graz'zt's spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:\n* At will: charm person, crown of madness, detect magic, dispel magic, dissonant whispers\n* 3/day each: counterspell, darkness, dominate person, sanctuary, telekinesis, teleport\n* 1/day each: dominate monster, greater invisibility",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Graz'zt fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Graz'zt has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Graz'zt's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "homunculus",
+  "_index": 453,
+  "name": "Homunculus",
+  "abilityScores": {
+    "STR": {
+      "score": 4,
+      "mod": -3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 5,
+    "roll": "2d4"
+  },
+  "race": "CONSTRUCT",
+  "size": "Tiny construct",
+  "speed": "20 ft., fly 40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["understands the languages of its creator but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Telepathic Bond.",
+      "description": "While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/homunculus.jpg"
+}

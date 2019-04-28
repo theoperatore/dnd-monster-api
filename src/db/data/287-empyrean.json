@@ -1,0 +1,75 @@
+{
+  "id": "empyrean",
+  "_index": 287,
+  "name": "Empyrean",
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 21,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 30,
+      "mod": 10,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 21,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 22,
+      "mod": 6,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 27,
+      "mod": 8,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD_75_OR_NEUTRAL_EVIL_25",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "23 (50,000 XP)",
+  "hitPoints": {
+    "average": 313,
+    "roll": "19d12+190"
+  },
+  "race": "CELESTIAL",
+  "size": "Huge celestial (titan)",
+  "speed": "50 ft., fly 50 ft., swim 50 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["all"],
+  "skills": ["Insight +13", "Persuasion +15"],
+  "savingThrows": ["Str +17", "Int +12", "Wis +13", "Cha +15"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: greater restoration, pass without trace, water breathing, water walk\n1/day each: commune, dispel evil and good, earthquake, fire storm, plane shift (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the empyrean fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The empyrean has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The empyrean's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

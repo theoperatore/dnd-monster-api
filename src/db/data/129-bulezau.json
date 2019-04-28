@@ -1,0 +1,69 @@
+{
+  "id": "bulezau",
+  "_index": 129,
+  "name": "Bulezau",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 52
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (demon)",
+  "speed": "40 ft.",
+  "senses": "darkvision 120 ft., passive Perception 9",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Abyssal", "telepathy 60 ft."],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Rotting Presence.",
+      "description": "When any creature that isn't a demon starts its turn within 30 feet one or more bulezaus, that creature must succeed on a DC 13 Constitution saving throw or take 1d6 necrotic damage plus 1 necrotic damage for each bulezau within 30 feet of it.",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
+      "recharge": null
+    },
+    {
+      "name": "Sure-Footed.",
+      "description": "The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

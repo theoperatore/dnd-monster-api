@@ -1,0 +1,70 @@
+{
+  "id": "vanifer",
+  "_index": 832,
+  "name": "Vanifer",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 112,
+    "roll": "15d8+45"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (tiefling)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "elemental-evil",
+  "languages": ["Common", "Ignan", "Infernal"],
+  "skills": ["Arcana +5", "Deception +8", "Performance +8"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Funeral Pyre.",
+      "description": "When Vanifer drops to 0 hit points, her body is consumed in a flash of fire and smoke. Anything she was wearing or carrying is left behind among ashes.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Vanifer fails a saving throw, she can choose to succeed instead.",
+      "recharge": "(2/Day)."
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Vanifer knows the following sorcerer spells:\n* Cantrips (at will): chill touch, fire bolt, friends, mage hand, message, produce flame, thaumaturgy\n* 1st level (4 slots): burning hands, chromatic orb, hellish rebuke, shield\n* 2nd level (3 slots): darkness, detect thoughts, misty step, scorching ray\n* 3rd level (3 slots): counterspell, fireball, hypnotic pattern\n* 4th level (3 slots): wall of fire\n* 5th level (2 slots): dominate person",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

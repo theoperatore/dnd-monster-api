@@ -1,0 +1,60 @@
+{
+  "id": "bridesmaid_of_zuggtmoy",
+  "_index": 120,
+  "name": "Bridesmaid of Zuggtmoy",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "PLANT",
+  "size": "Medium plant",
+  "speed": "20 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "out-of-the-abyss",
+  "languages": ["understands Abyssal but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fungus Stride.",
+      "description": "Once on its turn, the bridesmaid can use 10 feet of its movement to step magically into one living mushroom or fungus patch within 5 feet and emerge from another within 60 feet of the first one, appearing in an unoccupied space within 5 feet of the second mushroom or fungus patch. The mushrooms and patches must be large or bigger.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

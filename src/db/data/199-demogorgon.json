@@ -1,0 +1,79 @@
+{
+  "id": "demogorgon",
+  "_index": 199,
+  "name": "Demogorgon",
+  "abilityScores": {
+    "STR": {
+      "score": 29,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "26 (90,000 XP)",
+  "hitPoints": {
+    "average": 406
+  },
+  "race": "FIEND",
+  "size": "Huge fiend (demon)",
+  "speed": "50 ft., swim 50 ft.",
+  "senses": "truesight 120 ft., passive Perception 29",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Insight +11", "Perception +19"],
+  "savingThrows": ["Dex +10", "Con +16", "Wis +11", "Cha +15"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Demogorgon's spellcasting ability is Charisma. Demogorgon can innately cast the following spells, requiring no material components:\n* At will: detect magic, major image\n* 3/day each: dispel magic, fear, telekinesis\n* 1/day each: feeblemind, project image",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Demogorgon fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Demogorgon has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Demogorgon's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Two Heads.",
+      "description": "Demogorgon has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

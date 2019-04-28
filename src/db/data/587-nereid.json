@@ -1,0 +1,85 @@
+{
+  "id": "nereid",
+  "_index": 587,
+  "name": "Nereid",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_CHAOTIC_ALIGNMENT",
+  "armorClass": "13",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 44,
+    "roll": "8d8+8"
+  },
+  "race": "FEY",
+  "size": "Medium fey",
+  "speed": "30 ft., swim 60 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Aquan", "Common", "Elvish", "Sylvan"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 240",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "The nereid can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Aquatic Invisibility.",
+      "description": "If immersed in water, the nereid can make itself invisible as a bonus action. It remains invisible until it leaves the water, ends the invisibility as a bonus action, or dies.",
+      "recharge": null
+    },
+    {
+      "name": "Mantle Dependent.",
+      "description": "The nereid wears a mantle of silky cloth the color of sea foam, which holds the creature's spirit. The mantle has an AC and hit points equal to that of the nereid, but the garment can't be directly harmed while the nereid wears it. If the mantle is destroyed, the nereid becomes poisoned and dies within 1 hour. A nereid is willing to do anything in its power to recover the mantle if it is stolen, including serving the thief.",
+      "recharge": null
+    },
+    {
+      "name": "Shape Water.",
+      "description": "The nereid can cast control water at will, requiring no components. Its spellcasting ability for it is Charisma. This use of the spell has a range of 30 feet and can affect a cube of water no larger than 30 feet on a side.",
+      "recharge": null
+    },
+    {
+      "name": "Speak with Animals.",
+      "description": "The nereid can comprehend and verbally communicate with beasts.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

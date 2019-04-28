@@ -1,0 +1,79 @@
+{
+  "id": "titivilus",
+  "_index": 802,
+  "name": "Titivilus",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 22,
+      "mod": 6,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 24,
+      "mod": 7,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 22,
+      "mod": 6,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "16 (15,000 XP)",
+  "hitPoints": {
+    "average": 127
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (devil)",
+  "speed": "40 ft., fly 60 ft.",
+  "senses": "darkvision 120 ft., passive Perception 16",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Deception +13", "Insight +11", "Intimidation +13", "Persuasion +13"],
+  "savingThrows": ["Dex +11", "Con +8", "Wis +11", "Cha +13"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Titivilus's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:\n* At will: alter self, animate dead, bestow curse, confusion, major image, modify memory, nondetection, sending, suggestion\n* 3/day each: greater invisibility (self only), mislead 1/day each: feeblemind, symbol (discord or sleep only)",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Titivilus fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Titivilus has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Titivilus's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "Titivilus regains 10 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Titivilus dies only if he starts his turn with 0 hit points and doesn't regenerate. Ventriloquism. Whenever Titivilus speaks, he can choose a point within 60 feet; his voice emanates from that point.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "stone_golem",
+  "_index": 757,
+  "name": "Stone Golem",
+  "abilityScores": {
+    "STR": {
+      "score": 22,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 178,
+    "roll": "17d10+85"
+  },
+  "race": "CONSTRUCT",
+  "size": "Large construct",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["understands the languages of its creator but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Immutable Form.",
+      "description": "The golem is immune to any spell or effect that would alter its form.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The golem has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The golem's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/stone-golem.jpg"
+}

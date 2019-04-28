@@ -1,0 +1,75 @@
+{
+  "id": "ulitharid",
+  "_index": 819,
+  "name": "Ulitharid",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 21,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 19,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (breastplate)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 127,
+    "roll": "17d10+34"
+  },
+  "race": "ABERRATION",
+  "size": "Large aberration",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Deep Speech", "Undercommon", "telepathy 2 miles"],
+  "skills": ["Arcana +9", "Insight +8", "Perception +8", "Stealth +5"],
+  "savingThrows": ["Int +9", "Wis +8", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Creature Sense.",
+      "description": "The ulitharid is aware of the presence of creatures within 2 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each creature's intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can't be perceived in this manner.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The ulitharid has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Psionic Hub.",
+      "description": "If an elder brain establishes a psychic link with the ulitharid, the elder brain can form a psychic link with any other creature the ulitharid can detect using its Creature Sense. Any such link ends if the creature falls outside the telepathy ranges of both the ulitharid and the elder brain. The ulitharid can maintain its psychic link with the elder brain regardless of the distance between them, so long as they are both on the same plane of existence. lithe ulitharid is more than 5 miles away from the elder brain, it can end the psychic link at any time (no action required).",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The ulitharid's innate spellcasting ability is Intelligence (spell save DC 17). It can innately cast the following spells, requiring no components:\nAt will: detect thoughts, levitate\n1/day each: confusion, dominate monster, eyebite, feeblemind, mass suggestion, plane shift (self only), project image, scrying, telekinesis",
+      "recharge": "(Psionics)."
+    }
+  ],
+  "image": null
+}

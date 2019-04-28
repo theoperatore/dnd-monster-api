@@ -1,0 +1,70 @@
+{
+  "id": "baba_lysagas_creeping_hut",
+  "_index": 68,
+  "name": "Baba Lysaga's Creeping Hut",
+  "abilityScores": {
+    "STR": {
+      "score": 26,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 7,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 3,
+      "mod": -4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "11 (7,200 XP)",
+  "hitPoints": {
+    "average": 263,
+    "roll": "17d10+85"
+  },
+  "race": "CONSTRUCT",
+  "size": "Gargantuan construct",
+  "speed": "30 ft.",
+  "senses": "blindsight 120 ft. (blind beyond this radius)",
+  "source": "curse-of-strahd",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": ["Con +9", "Wis +0", "Cha +0"],
+  "abilities": [
+    {
+      "name": "Constructed Nature.",
+      "description": "An animated object doesn't require air, food, drink, or sleep.\n>The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.",
+      "recharge": null
+    },
+    {
+      "name": "Antimagic Susceptibility.",
+      "description": "The hut is incapacitated while the magic gem that animates it is in the area of an antimagic field. If targeted by dispel magic, the hut must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The hut deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

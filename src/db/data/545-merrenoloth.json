@@ -1,0 +1,74 @@
+{
+  "id": "merrenoloth",
+  "_index": 545,
+  "name": "Merrenoloth",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 40
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (yugoloth)",
+  "speed": "30 ft., swim 40 ft.",
+  "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Abyssal", "Infernal", "telepathy 60 ft."],
+  "skills": ["History +5", "Nature +5", "Perception +4", "Survival +4"],
+  "savingThrows": ["Dex +5", "Int +5"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The merrenoloth's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:\n* At will: charm person, darkness, detect magic, dispel magic, gust of wind\n* 3/day: control water\n* 1/day: control weather",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The merrenoloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The merrenoloth's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Teleport.",
+      "description": "As a bonus action, the merrenoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "oaken_bolter",
+  "_index": 598,
+  "name": "Oaken Bolter",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "5 (1800 XP)",
+  "hitPoints": {
+    "average": 58
+  },
+  "race": "CONSTRUCT",
+  "size": "Medium construct",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 10",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["understands one language of its creator but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The oaken bolter has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

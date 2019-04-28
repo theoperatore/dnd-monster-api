@@ -1,0 +1,60 @@
+{
+  "id": "ogre_zombie",
+  "_index": 602,
+  "name": "Ogre Zombie",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 6,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "8",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 85,
+    "roll": "9d10+36"
+  },
+  "race": "UNDEAD",
+  "size": "Large undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["understands Common and Giant but can't speak"],
+  "skills": [],
+  "savingThrows": ["Wis +0"],
+  "abilities": [
+    {
+      "name": "Undead Fortitude.",
+      "description": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ogre-zombie.jpg"
+}

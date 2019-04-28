@@ -1,0 +1,65 @@
+{
+  "id": "adult_black_dragon",
+  "_index": 7,
+  "name": "Adult Black Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "14 (11,500 XP)",
+  "hitPoints": {
+    "average": 195,
+    "roll": "17d12+85"
+  },
+  "race": "DRAGON",
+  "size": "Huge dragon",
+  "speed": "40 ft., fly 80 ft., swim 40 ft.",
+  "senses": "blindsight 60 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Perception +11", "Stealth +7"],
+  "savingThrows": ["Dex +7", "Con +10", "Wis +6", "Cha +8"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/adult-black-dragon.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ox",
+  "_index": 630,
+  "name": "Ox",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "10",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 15,
+    "roll": "2d10+4"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the ox moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.",
+      "recharge": null
+    },
+    {
+      "name": "Beast of Burden.",
+      "description": "The oxen is considered to be a Huge animal for the purposes of determining its carrying capacity.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

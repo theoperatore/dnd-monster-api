@@ -1,0 +1,74 @@
+{
+  "id": "vampiric_mist",
+  "_index": 831,
+  "name": "Vampiric Mist",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 30
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "0 ft., fly 30 ft. (hover)",
+  "senses": "darkvision 60 ft., passive Perception 11",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": ["Wis +3"],
+  "abilities": [
+    {
+      "name": "Life Sense.",
+      "description": "The mist can sense the location of any creature within 60 feet of it, unless that creature's type is construct or undead.",
+      "recharge": null
+    },
+    {
+      "name": "Forbiddance.",
+      "description": "The mist can't enter a residence without an invitation from one of the occupants.",
+      "recharge": null
+    },
+    {
+      "name": "Misty Form.",
+      "description": "The mist can occupy another creature's space and vice versa. In addition, if air can pass through a space, the mist can pass through it without squeezing. Each foot of movement in water costs it 2 extra feet, rather than 1 extra foot. The mist can't manipulate objects in any way that requires fingers or manual dexterity.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Hypersensitivity.",
+      "description": "The mist takes 10 radiant damage whenever it starts its turn in sunlight. While in sunlight, the mist has disadvantage on attack rolls and ability checks.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "githyanki_knight",
+  "_index": 383,
+  "name": "Githyanki Knight",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 91,
+    "roll": "14d8+28"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (gith)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Gith"],
+  "skills": [],
+  "savingThrows": ["Con +5", "Int +5", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The githyanki's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no components:\nAt will: mage hand (the hand is invisible)\n3/day each: jump, misty step, nondetection (self only), tongues\n1/day each: plane shift, telekinesis",
+      "recharge": "(Psionics)."
+    }
+  ],
+  "image": null
+}

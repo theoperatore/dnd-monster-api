@@ -1,0 +1,70 @@
+{
+  "id": "frost_giant_everlasting_one",
+  "_index": 329,
+  "name": "Frost Giant Everlasting One",
+  "abilityScores": {
+    "STR": {
+      "score": 25,
+      "mod": 7,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 24,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (patchwork armor)",
+  "challengeRating": "12 (8,400 XP)",
+  "hitPoints": {
+    "average": 189,
+    "roll": "14d12+98"
+  },
+  "race": "GIANT",
+  "size": "Huge giant (frost giant)",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Giant"],
+  "skills": ["Athletics +11", "Perception +4"],
+  "savingThrows": ["Str +11", "Con +11", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Extra Heads.",
+      "description": "The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "The giant regains 10 hit points at the start of its turn. If the giant takes acid or fire damage, this trait doesn't function at the start of its next turn. The giant dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    },
+    {
+      "name": "Vaprak's Rage",
+      "description": "As a bonus action, the giant can enter a rage at the start of its turn. The rage lasts for 1 minute or until the giant is incapacitated. While raging, the giant gains the following benefits:\n- The giant has advantage on Strength checks and Strength saving throws\n- When it makes a melee weapon attack, the giant gains a +4 bonus to the damage roll.\n- The giant has resistance to bludgeoning, piercing, and slashing damage.",
+      "recharge": "(Recharges on a Short or Long Rest)."
+    }
+  ],
+  "image": null
+}

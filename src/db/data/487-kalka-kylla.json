@@ -1,0 +1,75 @@
+{
+  "id": "kalka-kylla",
+  "_index": 487,
+  "name": "Kalka-Kylla",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 85,
+    "roll": "10d10+30"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": "blindsight 30 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Olman"],
+  "skills": ["Deception +3", "Insight +5", "Stealth +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 238",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "Kalka-Kylla can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While Kalka-Kylla remains motionless and hidden in its shell, it is indistinguishable from a polished boulder.",
+      "recharge": null
+    },
+    {
+      "name": "Shell.",
+      "description": "Kalka-Kylla can use a bonus action to retract into or emerge from its shell. While retracted, Kalka-Kylla gains a +4 bonus to AC, and it has a speed of 0 and can't benefit from bonuses to speed.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

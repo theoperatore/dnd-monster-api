@@ -1,0 +1,60 @@
+{
+  "id": "storm_giant_quintessent",
+  "_index": 761,
+  "name": "Storm Giant Quintessent",
+  "abilityScores": {
+    "STR": {
+      "score": 29,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 30,
+      "mod": 10,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "12",
+  "challengeRating": "16 (15,000 XP)",
+  "hitPoints": {
+    "average": 230,
+    "roll": "20d12+100"
+  },
+  "race": "GIANT",
+  "size": "Huge giant (storm giant)",
+  "speed": "50 ft., fly 50 ft. (hover), swim 50 ft.",
+  "senses": "truesight 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Giant"],
+  "skills": ["Arcana +8", "History +8", "Perception +10"],
+  "savingThrows": ["Str +14", "Con +10", "Wis +10", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The giant can breathe air and water.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "skyweaver",
+  "_index": 729,
+  "name": "Skyweaver",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 44,
+    "roll": "8d8+8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Auran", "Common"],
+  "skills": ["Deception +5", "Persuasion +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:\n* Cantrips (at will): blade ward, light, message, ray of frost, shocking grasp\n* 1st level (4 slots): feather fall, mage armor, witch bolt\n* 2nd level (3 slots): gust of wind, invisibility\n* 3rd level (3 slots): fly, lightning bolt",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

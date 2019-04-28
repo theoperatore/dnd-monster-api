@@ -1,0 +1,65 @@
+{
+  "id": "kraken_priest",
+  "_index": 498,
+  "name": "Kraken Priest",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_EVIL_ALIGNMENT",
+  "armorClass": "10",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d8+30"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any two languages"],
+  "skills": ["Perception +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The priest can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The priest's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: command, create or destroy water\n3/day each: control water, darkness, water breathing, water walk\n1/day each: call lightning, Evard's black tentacles",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

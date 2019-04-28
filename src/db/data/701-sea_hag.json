@@ -1,0 +1,80 @@
+{
+  "id": "sea_hag",
+  "_index": 701,
+  "name": "Sea Hag",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 52,
+    "roll": "7d8+21"
+  },
+  "race": "FEY",
+  "size": "Medium fey",
+  "speed": "30 ft., swim 40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Aquan", "Common", "Giant"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The hag can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Horrific Appearance.",
+      "description": "Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.\nUnless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.",
+      "recharge": null
+    },
+    {
+      "name": "Hag Coven.",
+      "description": "When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.\nA coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.",
+      "recharge": null
+    },
+    {
+      "name": "Shared Spellcasting",
+      "description": "While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:\n* 1st level (4 slots): identify, ray of sickness\n* 2nd level (3 slots): hold person, locate object\n* 3rd level (3 slots): bestow curse, counterspell, lightning bolt\n* 4th level (3 slots): phantasmal killer, polymorph\n* 5th level (2 slots): contact other plane, scrying\n* 6th level (1 slot): eye bite\nFor casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier.",
+      "recharge": "(Coven Only)."
+    },
+    {
+      "name": "Hag Eye",
+      "description": "A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.\nA hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.",
+      "recharge": "(Coven Only)."
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/sea-hag.jpg"
+}

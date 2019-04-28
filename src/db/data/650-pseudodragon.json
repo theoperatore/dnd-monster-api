@@ -1,0 +1,75 @@
+{
+  "id": "pseudodragon",
+  "_index": 650,
+  "name": "Pseudodragon",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD",
+  "armorClass": "13",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 7,
+    "roll": "2d4+2"
+  },
+  "race": "DRAGON",
+  "size": "Tiny dragon",
+  "speed": "15 ft., fly 60 ft.",
+  "senses": "blindsight 10 ft., darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["understands Common and Draconic but can't speak"],
+  "skills": ["Perception +3", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Senses.",
+      "description": "The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The pseudodragon has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Limited Telepathy.",
+      "description": "The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 ft. of it that can understand a language.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Familiar.",
+      "description": "The pseudodragon can serve another creature as a familiar, forming a magic, telepathic bond with that willing companion. While the two are bonded, the companion can sense what the pseudodragon senses as long as they are within 1 mile of each other. While the pseudodragon is within 10 feet of its companion, the companion shares the pseudodragon's Magic Resistance trait. At any time and for any reason, the pseudodragon can end its service as a familiar, ending the telepathic bond.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/pseudodragon.jpg"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "barbed_devil",
+  "_index": 80,
+  "name": "Barbed Devil",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 110,
+    "roll": "13d8+52"
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (devil)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Infernal", "telepathy 120 ft."],
+  "skills": ["Deception +5", "Insight +5", "Perception +8"],
+  "savingThrows": ["Str +6", "Con +7", "Wis +5", "Cha +5"],
+  "abilities": [
+    {
+      "name": "Barbed Hide.",
+      "description": "At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.",
+      "recharge": null
+    },
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede the devil's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The devil has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/barbed-devil.jpg"
+}

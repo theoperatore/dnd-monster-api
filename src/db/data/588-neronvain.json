@@ -1,0 +1,60 @@
+{
+  "id": "neronvain",
+  "_index": 588,
+  "name": "Neronvain",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 117,
+    "roll": "18d8+36"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic", "Elvish", "Infernal"],
+  "skills": ["Arcana +7", "Perception +5"],
+  "savingThrows": ["Con +6", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Draconic Majesty.",
+      "description": "Neronvain adds his Charisma bonus to his AC (included).",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

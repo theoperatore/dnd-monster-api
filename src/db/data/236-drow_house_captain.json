@@ -1,0 +1,74 @@
+{
+  "id": "drow_house_captain",
+  "_index": 236,
+  "name": "Drow House Captain",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "16 (chain mail)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 162
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft., passive Perception 16",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Elvish", "Undercommon"],
+  "skills": ["Perception +6", "Stealth +8"],
+  "savingThrows": ["Dex +8", "Con +6", "Wis +6"],
+  "abilities": [
+    {
+      "name": "Battle Command.",
+      "description": "As a bonus action, the drow targets one ally he can see within 30 feet of him. If the target can see or hear the drow, the target can use its reaction to make one melee attack or to take the Dodge or Hide action.",
+      "recharge": null
+    },
+    {
+      "name": "Fey Ancestry.",
+      "description": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The drow's innate spellcasting ability is Charisma (spell save DC 13). He can innately cast the following spells, requiring no material components:\n* At will: dancing lights\n* 1/day each: darkness, faerie fire , levitate (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

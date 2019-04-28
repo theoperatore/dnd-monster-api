@@ -1,0 +1,74 @@
+{
+  "id": "skull_lord",
+  "_index": 728,
+  "name": "Skull Lord",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "15 (13,000 XP)",
+  "hitPoints": {
+    "average": 105
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 22",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all the languages it knew in life"],
+  "skills": ["Athletics +7", "History +8", "Perception +12", "Stealth +8"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the skull lord fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Master of the Grave.",
+      "description": "While within 30 feet of the skull lord, any undead ally of the skull lord makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.",
+      "recharge": null
+    },
+    {
+      "name": "Evasion.",
+      "description": "If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma. The skull lord knows the following sorcerer spells:\n* Cantrips (at will): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp\n* 1st level (4 slots): magic missile, expeditious retreat, thunderwave\n* 2nd level (3 slots): mirror image, scorching ray\n* 3rd level (3 slots): fear, haste\n* 4th level (3 slots): dimension door, ice storm\n* 5th level (2 slots): cloudkill, cone of cold\n* 6th level (1 slot): eyebite\n* 7th level (1 slot): finger of death",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

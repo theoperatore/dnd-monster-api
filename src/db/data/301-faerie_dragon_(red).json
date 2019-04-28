@@ -1,0 +1,80 @@
+{
+  "id": "faerie_dragon_(red)",
+  "_index": 301,
+  "name": "Faerie Dragon (Red)",
+  "abilityScores": {
+    "STR": {
+      "score": 3,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "15",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 14,
+    "roll": "4d4+4"
+  },
+  "race": "DRAGON",
+  "size": "Tiny dragon",
+  "speed": "10 ft., fly 60 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Draconic", "Sylvan"],
+  "skills": ["Arcana +4", "Perception +3", "Stealth +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "The Colors of Age.",
+      "description": "A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.\nRed - 5 years or less\nOrange - 6-10 years\nYellow - 11-20 years\nGreen - 21-30 years\nBlue - 31-40 years\nIndigo - 41-50 years\nViolet - 51 years or more\nA green or older faerie dragon's CR increases to 2.",
+      "recharge": null
+    },
+    {
+      "name": "Superior Invisibility.",
+      "description": "As a bonus action, the dragon can magically turn invisible until its concentration ends (as if concentrating on a spell). Any equipment the dragon wears or carries is invisible with it.",
+      "recharge": null
+    },
+    {
+      "name": "Limited Telepathy.",
+      "description": "Using telepathy, the dragon can magically communicate with any other faerie dragon within 60 feet of it.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The faerie dragon has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components. As the dragon ages and changes color, it gains additional spells as shown below.\n1/day each: dancing lights, mage hand, minor illusion",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

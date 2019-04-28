@@ -1,0 +1,65 @@
+{
+  "id": "carrion_crawler",
+  "_index": 137,
+  "name": "Carrion Crawler",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 51,
+    "roll": "6d10+18"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The carrion crawler has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The carrion crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

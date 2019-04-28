@@ -1,0 +1,54 @@
+{
+  "id": "stegosaurus",
+  "_index": 752,
+  "name": "Stegosaurus",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 76,
+    "roll": "8d12+24"
+  },
+  "race": "BEAST",
+  "size": "Huge beast",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

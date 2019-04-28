@@ -1,0 +1,75 @@
+{
+  "id": "hellenrae",
+  "_index": 442,
+  "name": "Hellenrae",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "elemental-evil",
+  "languages": ["Common", "Terran"],
+  "skills": ["Acrobatics +7", "Athletics +4", "Insight +5", "Perception +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Evasion.",
+      "description": "If Hellenrae is subjected to an effect that allows her to make a Dexterity saving throw to take only half damage, she instead takes no damage if she succeeds on the saving throw, and only half damage if she fails.",
+      "recharge": null
+    },
+    {
+      "name": "Stunning Strike",
+      "description": "When Hellenrae hits a target with a melee weapon attack, the target must succeed on a DC 13 Constitution saving throw or be stunned until the end of Hellenrae's next turn.",
+      "recharge": "(Recharge 5-6)."
+    },
+    {
+      "name": "Unarmored Defense.",
+      "description": "While Hellenrae is wearing no armor and wielding no shield, her AC includes her Wisdom modifier.",
+      "recharge": null
+    },
+    {
+      "name": "Unarmored Movement.",
+      "description": "While Hellenrae is wearing no armor and wielding no shield, her speed increases by 20 feet (included in her speed).",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

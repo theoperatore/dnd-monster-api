@@ -1,0 +1,65 @@
+{
+  "id": "ghast",
+  "_index": 343,
+  "name": "Ghast",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 36,
+    "roll": "8d8"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Stench.",
+      "description": "Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.",
+      "recharge": null
+    },
+    {
+      "name": "Turn Defiance.",
+      "description": "The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ghast.jpg"
+}

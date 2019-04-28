@@ -1,0 +1,84 @@
+{
+  "id": "drow_inquisitor",
+  "_index": 237,
+  "name": "Drow Inquisitor",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 21,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "16 (breastplate)",
+  "challengeRating": "14 (11500 XP)",
+  "hitPoints": {
+    "average": 143
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft., passive Perception 20",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Elvish", "Undercommon"],
+  "skills": ["Insight +10", "Perception +10", "Religion +8", "Stealth +7"],
+  "savingThrows": ["Con +7", "Wis +10", "Cha +10"],
+  "abilities": [
+    {
+      "name": "Discern Lie.",
+      "description": "The drow knows when she hears a creature speak a lie in a language she knows.",
+      "recharge": null
+    },
+    {
+      "name": "Fey Ancestry.",
+      "description": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The drow's innate spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:\n* At will: dancing lights, detect magic\n* 1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire , levitate (self only), suggestion",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The drow has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The drow is a 12th-level spellcaster. Her spellcasting ability is Wisdom. She has the following cleric spells prepared:\n* Cantrips (at will): guidance, message, poison spray, resistance, thaumaturgy\n* 1st level (4 slots): bane, cure wounds, inflict wounds\n* 2nd level (3 slots): blindness/deafness, silence, spiritual weapon\n* 3rd level (3 slots): bestow curse, dispel magic, magic circle\n* 4th level (3 slots): banishment, divination, freedom of movement\n* 5th level (2 slots): contagion, dispel evil and good, insect plague\n* 6th level (1 slot): harm, true seeing",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

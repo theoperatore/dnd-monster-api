@@ -1,0 +1,60 @@
+{
+  "id": "weasel",
+  "_index": 856,
+  "name": "Weasel",
+  "abilityScores": {
+    "STR": {
+      "score": 3,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 1,
+    "roll": "1d4-1"
+  },
+  "race": "BEAST",
+  "size": "Tiny beast",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +3", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

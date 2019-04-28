@@ -1,0 +1,75 @@
+{
+  "id": "flameskull",
+  "_index": 317,
+  "name": "Flameskull",
+  "abilityScores": {
+    "STR": {
+      "score": 1,
+      "mod": -5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 40,
+    "roll": "9d4+18"
+  },
+  "race": "UNDEAD",
+  "size": "Tiny undead",
+  "speed": "0 ft., fly 40 ft. It can hover.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common"],
+  "skills": ["Arcana +5", "Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Illumination.",
+      "description": "The flameskull sheds either dim light in a 15- foot radius, or bright light in a 15-foot radius and dim light for an additional 15 ft.. It can switch between the options as an action.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The flameskull has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Rejuvenation.",
+      "description": "If the flameskull is destroyed, it regains all its hit points in 1 hour unless holy water is sprinkled on its remains or a dispel magic or remove curse spell is cast on them.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared:\n* Cantrips (at will): mage hand\n* 1st level (3 slots): magic missile, shield\n* 2nd level (2 slots): blur, flaming sphere\n* 3rd level (1 slot): fireball",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/flameskull.jpg"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ogremoch",
+  "_index": 608,
+  "name": "Ogremoch",
+  "abilityScores": {
+    "STR": {
+      "score": 26,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 28,
+      "mod": 9,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "20 (25,000 XP)",
+  "hitPoints": {
+    "average": 526,
+    "roll": "27d20+243"
+  },
+  "race": "ELEMENTAL",
+  "size": "Gargantuan elemental",
+  "speed": "50 ft., burrow 50 ft.",
+  "senses": "blindsight 120 ft., tremorsense 120 ft.",
+  "source": "elemental-evil",
+  "languages": ["Common", "Terran"],
+  "skills": [],
+  "savingThrows": ["Str +14", "Con +15", "Wis +8"],
+  "abilities": [
+    {
+      "name": "Empowered Attacks.",
+      "description": "Ogremoch's slam attacks are treated as magical and adamantine for the purpose of bypassing resistance and immunity to nonmagical weapons.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Ogremoch's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:\n* At will: meld into stone, move earth, wall of stone",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Ogremoch fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Ogremoch has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "Ogremoch deals double damage to objects and structures with his melee and ranged weapon attacks.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

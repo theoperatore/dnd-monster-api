@@ -1,0 +1,65 @@
+{
+  "id": "ancient_white_dragon",
+  "_index": 40,
+  "name": "Ancient White Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 26,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "20 (25,000 XP)",
+  "hitPoints": {
+    "average": 333,
+    "roll": "18d20+144"
+  },
+  "race": "DRAGON",
+  "size": "Gargantuan dragon",
+  "speed": "40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.",
+  "senses": "blindsight 60 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Perception +13", "Stealth +6"],
+  "savingThrows": ["Dex +6", "Con +14", "Wis +7", "Cha +8"],
+  "abilities": [
+    {
+      "name": "Ice Walk.",
+      "description": "The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ancient-white-dragon.jpg"
+}

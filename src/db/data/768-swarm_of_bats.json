@@ -1,0 +1,70 @@
+{
+  "id": "swarm_of_bats",
+  "_index": 768,
+  "name": "Swarm of Bats",
+  "abilityScores": {
+    "STR": {
+      "score": 5,
+      "mod": -3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "SWARM",
+  "size": "Medium swarm",
+  "speed": "0 ft., fly 30 ft.",
+  "senses": "blindsight 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Echolocation.",
+      "description": "The swarm can't use its blindsight while deafened.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing.",
+      "description": "The swarm has advantage on Wisdom (Perception) checks that rely on hearing.",
+      "recharge": null
+    },
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/swarm-of-bats.jpg"
+}

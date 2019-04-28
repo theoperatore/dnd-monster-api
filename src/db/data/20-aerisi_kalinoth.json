@@ -1,0 +1,75 @@
+{
+  "id": "aerisi_kalinoth",
+  "_index": 20,
+  "name": "Aerisi Kalinoth",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13 (16 with mage armor)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 66,
+    "roll": "12d8+12"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "elemental-evil",
+  "languages": ["Auran", "Common", "Elvish"],
+  "skills": ["Arcana +6", "History +6", "Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "Aerisi has advantage on saving throws against being charmed, and magic can't put her to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Howling Defeat.",
+      "description": "When Aerisi drops to 0 hit points, her body disappears in a howling whirlwind that disperses quickly and harmlessly. Anything she is wearing or carrying is left behind.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Aerisi fails a saving throw, she can choose to succeed instead.",
+      "recharge": "(2/Day)."
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following wizard spells prepared:\n* Cantrips (at will): gust, mage hand, message, prestidigitation, ray of frost, shocking grasp\n* 1st level (4 slots): charm person, feather fall, mage armor, thunderwave\n* 2nd level (3 slots): dust devil, gust of wind, invisibility\n* 3rd level (3 slots): fly, gaseous form, lightning bolt\n* 4th level (3 slots): ice storm, storm sphere\n* 5th level (2 slots): cloudkill, seeming (cast each day)\n* 6th level (1 slot): chain lightning",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

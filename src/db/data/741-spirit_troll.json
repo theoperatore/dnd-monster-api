@@ -1,0 +1,64 @@
+{
+  "id": "spirit_troll",
+  "_index": 741,
+  "name": "Spirit Troll",
+  "abilityScores": {
+    "STR": {
+      "score": 1,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "11 (7200 XP)",
+  "hitPoints": {
+    "average": 97
+  },
+  "race": "GIANT",
+  "size": "Large giant",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 13",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Giant"],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The troll can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "The troll regains 10 hit points at the start of each of its turns. If the troll takes psychic or force damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

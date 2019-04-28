@@ -1,0 +1,85 @@
+{
+  "id": "rezmir",
+  "_index": 678,
+  "name": "Rezmir",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13 (15 with the Black Dragon Mask)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 90,
+    "roll": "12d8+36"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (half-black dragon)",
+  "speed": "30 ft.",
+  "senses": "blindsight 10 ft., darkvision 120 ft.",
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic", "Infernal", "Giant", "Netherese"],
+  "skills": ["Arcana +5", "Stealth +9"],
+  "savingThrows": ["Dex +6", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Special Equipment.",
+      "description": "Rezmir has the Black Dragon Mask, Hazirawn, and an insignia of claws.",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "Rezmir can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Dark Advantage.",
+      "description": "Once per turn, Rezmir can deal an extra 10 (3d6) damage when she hits with a weapon attack, provided Rezmir has advantage on the attack roll.",
+      "recharge": null
+    },
+    {
+      "name": "Draconic Majesty.",
+      "description": "While wearing no armor and wearing the Black Dragon Mask, Rezmir adds her Charisma bonus to her AC (included).",
+      "recharge": null
+    },
+    {
+      "name": "Immolation.",
+      "description": "When Rezmir is reduced to 0 hit points, her body disintegrates into a pile of ash.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Rezmir fails a saving throw while wearing the Black Dragon Mask, she can choose to succeed instead.",
+      "recharge": "(1/Day)."
+    }
+  ],
+  "image": null
+}

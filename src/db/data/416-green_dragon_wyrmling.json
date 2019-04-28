@@ -1,0 +1,60 @@
+{
+  "id": "green_dragon_wyrmling",
+  "_index": 416,
+  "name": "Green Dragon Wyrmling",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 38,
+    "roll": "7d8+7"
+  },
+  "race": "DRAGON",
+  "size": "Medium dragon",
+  "speed": "30 ft., fly 60 ft., swim 30 ft.",
+  "senses": "blindsight 10 ft., darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Draconic"],
+  "skills": ["Perception +4", "Stealth +3"],
+  "savingThrows": ["Dex +3", "Con +3", "Wis +2", "Cha +3"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

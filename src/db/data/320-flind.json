@@ -1,0 +1,60 @@
+{
+  "id": "flind",
+  "_index": 320,
+  "name": "Flind",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (chain mail)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 127,
+    "roll": "15d8+60"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (gnoll)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Abyssal", "Gnoll"],
+  "skills": ["Intimidation +5", "Perception +5"],
+  "savingThrows": ["Con +8", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Aura of Blood Thirst.",
+      "description": "If the flind isn't incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

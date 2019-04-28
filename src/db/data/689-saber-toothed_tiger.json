@@ -1,0 +1,65 @@
+{
+  "id": "saber-toothed_tiger",
+  "_index": 689,
+  "name": "Saber-Toothed Tiger",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 52,
+    "roll": "7d10+14"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +3", "Stealth +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The tiger has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pounce.",
+      "description": "If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

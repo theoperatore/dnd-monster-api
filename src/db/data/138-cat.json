@@ -1,0 +1,60 @@
+{
+  "id": "cat",
+  "_index": 138,
+  "name": "Cat",
+  "abilityScores": {
+    "STR": {
+      "score": 3,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 2,
+    "roll": "1d4"
+  },
+  "race": "BEAST",
+  "size": "Tiny beast",
+  "speed": "40 ft., climb 30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +3", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The cat has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

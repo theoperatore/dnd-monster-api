@@ -1,0 +1,54 @@
+{
+  "id": "sprite",
+  "_index": 743,
+  "name": "Sprite",
+  "abilityScores": {
+    "STR": {
+      "score": 3,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD",
+  "armorClass": "15 (leather armor)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 2,
+    "roll": "1d4"
+  },
+  "race": "FEY",
+  "size": "Tiny fey",
+  "speed": "10 ft., fly 40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Common", "Elvish", "Sylvan"],
+  "skills": ["Perception +3", "Stealth +8"],
+  "savingThrows": [],
+  "abilities": [],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/sprite.jpg"
+}

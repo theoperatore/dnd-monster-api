@@ -1,0 +1,60 @@
+{
+  "id": "quaggoth",
+  "_index": 657,
+  "name": "Quaggoth",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (quaggoth)",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Undercommon"],
+  "skills": ["Athletics +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Wounded Fury.",
+      "description": "While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

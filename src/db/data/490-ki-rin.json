@@ -1,0 +1,80 @@
+{
+  "id": "ki-rin",
+  "_index": 490,
+  "name": "Ki-rin",
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "12 (8,400 XP)",
+  "hitPoints": {
+    "average": 152,
+    "roll": "16d12+48"
+  },
+  "race": "CELESTIAL",
+  "size": "Huge celestial",
+  "speed": "60 ft., fly 120 ft. (hover)",
+  "senses": "blindsight 30 ft., darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Insight +9", "Perception +9", "Religion +8"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The ki-rin's innate spellcasting ability is Charisma (spell save DC 17). The ki-rin can innately cast the following spells, requiring no material components:\nAt will: gaseous form, major image (6th-level version), wind walk\n1/day: create food and water",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the ki-rin fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The ki-rin has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The ki-rin's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The ki-rin is a 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following cleric spells prepared:\nCantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy\n1st level (4 slots): command, cure wounds, detect evil and good, protection from evil and good, sanctuary\n2nd level (3 slots): calm emotions, lesser restoration, silence\n3rd level (3 slots): dispel magic, remove curse, sending\n4th level (3 slots): banishment, freedom of movement, guardian of faith\n5th level (3 slots): greater restoration, mass cure wounds, scrying\n6th level (1 slot): heroes' feast, true seeing\n7th level (1 slot): etherealness, plane shift\n8th level (1 slot): control weather\n9th level (1 slot): true resurrection",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

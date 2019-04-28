@@ -1,0 +1,70 @@
+{
+  "id": "flumph",
+  "_index": 321,
+  "name": "Flumph",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "12",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 7,
+    "roll": "2d6"
+  },
+  "race": "ABERRATION",
+  "size": "Small aberration",
+  "speed": "5 ft., fly 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["understands Undercommon but can't speak", "telepathy 60 ft."],
+  "skills": ["Arcana +4", "History +4", "Religion +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Advanced Telepathy.",
+      "description": "The flumph can perceive the content of any telepathic communication used within 60 feet of it, and it can't be surprised by creatures with any form of telepathy.",
+      "recharge": null
+    },
+    {
+      "name": "Prone Deficiency.",
+      "description": "If the flumph is knocked prone, roll a die. On an odd result, the flumph lands upside-down and is incapacitated. At the end of each of its turns, the flumph can make a DC 10 Dexterity saving throw, righting itself and ending the incapacitated condition if it succeeds.",
+      "recharge": null
+    },
+    {
+      "name": "Telepathic Shroud.",
+      "description": "The flumph is immune to any effect that would sense its emotions or read its thoughts, as well as all divination spells.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

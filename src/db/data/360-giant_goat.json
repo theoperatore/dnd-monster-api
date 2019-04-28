@@ -1,0 +1,65 @@
+{
+  "id": "giant_goat",
+  "_index": 360,
+  "name": "Giant Goat",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "11 (natural armor)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 19,
+    "roll": "3d10+3"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If the goat moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.",
+      "recharge": null
+    },
+    {
+      "name": "Sure-Footed.",
+      "description": "The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

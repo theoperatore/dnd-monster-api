@@ -1,0 +1,75 @@
+{
+  "id": "ghald",
+  "_index": 342,
+  "name": "Ghald",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 102,
+    "roll": "12d10+36"
+  },
+  "race": "HUMANOID",
+  "size": "Large humanoid (sahuagin)",
+  "speed": "30 ft., swim 50 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "elemental-evil",
+  "languages": ["Common", "Sahuagin"],
+  "skills": ["Insight +4", "Perception +7"],
+  "savingThrows": ["Dex +6", "Con +6", "Int +5", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Assassinate.",
+      "description": "During its first turn, Ghald has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Ghald scores against a surprised creature is a critical hit.",
+      "recharge": null
+    },
+    {
+      "name": "Limited Amphibiousness.",
+      "description": "Ghald can breathe air and water, but he needs to be submerged at least once every 4 hours to avoid suffocating.",
+      "recharge": null
+    },
+    {
+      "name": "Shark Telepathy.",
+      "description": "Ghald can magically command any shark within 120 feet of him, using a limited telepathy.",
+      "recharge": null
+    },
+    {
+      "name": "Sneak Attack.",
+      "description": "Ghald deals an extra 14 (4d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Ghald's that isn't incapacitated and Ghald doesn't have disadvantage on the attack roll.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

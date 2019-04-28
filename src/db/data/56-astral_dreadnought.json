@@ -1,0 +1,84 @@
+{
+  "id": "astral_dreadnought",
+  "_index": 56,
+  "name": "Astral Dreadnought",
+  "abilityScores": {
+    "STR": {
+      "score": 28,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 7,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "21 (33,000 XP)",
+  "hitPoints": {
+    "average": 297
+  },
+  "race": "MONSTROSITY",
+  "size": "Gargantuan monstrosity (titan)",
+  "speed": "15 ft., fly 80 ft. (hover)",
+  "senses": "darkvision 120 ft., passive Perception 19",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": ["Perception +9"],
+  "savingThrows": ["Dex +5", "Wis +9"],
+  "abilities": [
+    {
+      "name": "Antimagic Cone.",
+      "description": "The astral dreadnought's opened eye creates an area of antimagic, as in the antimagic field spell, in a 150foot cone. At the start of each of its turns, the dreadnought decides which way the cone faces. The cone doesn't function while the dreadnought's eye is closed or while the dreadnought is blinded.",
+      "recharge": null
+    },
+    {
+      "name": "Astral Entity.",
+      "description": "The astral dreadnought can't leave the Astral Plane, nor can it be banished or otherwise transported out of the Astral Plane.",
+      "recharge": null
+    },
+    {
+      "name": "Demiplanar Donjon.",
+      "description": "Any creature or object that the astral dreadnought swallows is transported to a demiplane that can be entered by no other means except a wish spell or this creature's Donjon Visit ability. A creature can leave the demiplane only by using magic that enables planar travel, such as the plane shift spell. The demiplane resembles a stone cave roughly 1,000 feet in diameter with a ceiling 100 feet high. Like a stomach, it contains the remains of the dreadnought's past meals.\nThe dreadnought can't be harmed from within the demiplane. If the dreadnought dies, the demiplane disappears, and everything inside it appears around the corpse. The demiplane is otherwise indestructible.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the astral dreadnought fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "An astral dreadnought's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Sever Silver Cord.",
+      "description": "If the astral dreadnought scores a critical hit against a creature traveling through the Astral Plane by means of the astral projection spell, the dreadnought can cut the target's silver cord instead of dealing damage.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

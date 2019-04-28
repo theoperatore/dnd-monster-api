@@ -1,0 +1,65 @@
+{
+  "id": "vulture",
+  "_index": 843,
+  "name": "Vulture",
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "10",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 5,
+    "roll": "1d8+1"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "10 ft., fly 50 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Sight and Smell.",
+      "description": "The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

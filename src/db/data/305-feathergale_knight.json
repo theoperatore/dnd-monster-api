@@ -1,0 +1,60 @@
+{
+  "id": "feathergale_knight",
+  "_index": 305,
+  "name": "Feathergale Knight",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (scale)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Auran", "Common"],
+  "skills": ["Animal Handling +2", "History +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spell:\n* Cantrips (at will): gust, light, message, ray of frost\n* 1st level (2 slots): expeditious retreat, feather fall",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

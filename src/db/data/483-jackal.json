@@ -1,0 +1,65 @@
+{
+  "id": "jackal",
+  "_index": 483,
+  "name": "Jackal",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 3,
+    "roll": "1d6"
+  },
+  "race": "BEAST",
+  "size": "Small beast",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

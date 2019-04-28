@@ -1,0 +1,65 @@
+{
+  "id": "archmage",
+  "_index": 52,
+  "name": "Archmage",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "12 (8,400 XP)",
+  "hitPoints": {
+    "average": 99,
+    "roll": "18d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["any six languages"],
+  "skills": ["Arcana +13", "History +13"],
+  "savingThrows": ["Int +9", "Wis +6"],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The archmage has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:\n* Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp\n* 1st level (4 slots): detect magic, identify, mage armor*, magic missile\n* 2nd level (3 slots): detect thoughts, mirror image, misty step\n* 3rd level (3 slots): counterspell,fly, lightning bolt\n* 4th level (3 slots): banishment, fire shield, stoneskin*\n* 5th level (3 slots): cone of cold, scrying, wall of force\n* 6th level (1 slot): globe of invulnerability\n* 7th level (1 slot): teleport\n* 8th level (1 slot): mind blank*\n* 9th level (1 slot): time stop\n* The archmage casts these spells on itself before combat.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/archmage.jpg"
+}

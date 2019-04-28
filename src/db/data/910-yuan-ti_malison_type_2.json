@@ -1,0 +1,75 @@
+{
+  "id": "yuan-ti_malison_type_2",
+  "_index": 910,
+  "name": "Yuan-ti Malison Type 2",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "YUAN_TI",
+  "armorClass": "12",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 66,
+    "roll": "12d8+12"
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity (shapechanger",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "Common", "Draconic"],
+  "skills": ["Deception +5", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The yuan_ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components:\nAt will: animal friendship (snakes only)\n3/day: suggestion",
+      "recharge": "(Yuan_ti Form Only)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The yuan-ti has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Malison Type.",
+      "description": "The yuan_ti has one of the following types:\nType 1: Human body with snake head\nType 2: Human head and body with snakes for arms\nType 3: Human head and upper body with a serpentine lower body instead of legs",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "soul_monger",
+  "_index": 734,
+  "name": "Soul Monger",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "11 (7200 XP)",
+  "hitPoints": {
+    "average": 123
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 17",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common", "Elvish"],
+  "skills": ["Perception +7"],
+  "savingThrows": ["Dex +7", "Wis +7", "Cha +5"],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The soul monger has advantage on saving throws against being charmed, and magic can't put it to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The soul monger's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:\n* At will: chill touch (3d8 damage), poison spray (3d12 damage)\n* 1/day each: bestow curse, chain lightning, finger of death, gaseous form, phantasmal killer, seeming",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The soul monger has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Soul Thirst.",
+      "description": "When the soul monger reduces a creature to 0 hit points, the soul monger can gain temporary hit points equal to half the creature's hit point maximum. While the soul monger has temporary hit points from this ability, it has advantage on attack rolls.",
+      "recharge": null
+    },
+    {
+      "name": "Weight of Ages.",
+      "description": "Any beast or humanoid, other than a shadar-kai, that starts its turn within 5 feet of the soul monger has its speed reduced by 20 feet until the start of that creature's next turn.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

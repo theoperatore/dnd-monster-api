@@ -1,0 +1,75 @@
+{
+  "id": "kelpie",
+  "_index": 488,
+  "name": "Kelpie",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d8+27"
+  },
+  "race": "PLANT",
+  "size": "Medium plant",
+  "speed": "10 ft., swim 30 ft.",
+  "senses": "blindsight 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Common", "Sylvan"],
+  "skills": ["Perception +3", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 238",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "The kelpie can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Seaweed Shape.",
+      "description": "The kelpie can use its action to reshape its body into the form of a humanoid or beast that is Small, Medium, or Large. Its statistics are otherwise unchanged. The disguise is convincing, unless the kelpie is in bright light or the viewer is within 30 feet of it, in which case the seams between the seaweed strands are visible. The kelpie returns to its true form if takes a bonus action to do so or if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the kelpie remains motionless in its true form, it is indistinguishable from normal seaweed.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

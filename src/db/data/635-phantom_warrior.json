@@ -1,0 +1,70 @@
+{
+  "id": "phantom_warrior",
+  "_index": 635,
+  "name": "Phantom Warrior",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "16",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d8+18"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "curse-of-strahd",
+  "languages": ["any languages it knew in life"],
+  "skills": ["Perception +2", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ethereal Sight.",
+      "description": "The phantom warrior can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.",
+      "recharge": null
+    },
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The phantom warrior can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    },
+    {
+      "name": "Spectral Armor and Shield.",
+      "description": "The phantom warrior's AC accounts for its spectral armor and shield.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

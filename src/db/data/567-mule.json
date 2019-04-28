@@ -1,0 +1,65 @@
+{
+  "id": "mule",
+  "_index": 567,
+  "name": "Mule",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "10",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Beast of Burden.",
+      "description": "The mule is considered to be a Large animal for the purpose of determining its carrying capacity.",
+      "recharge": null
+    },
+    {
+      "name": "Sure-Footed.",
+      "description": "The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

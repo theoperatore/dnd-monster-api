@@ -1,0 +1,75 @@
+{
+  "id": "yusdrayl",
+  "_index": 916,
+  "name": "Yusdrayl",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 16,
+    "roll": "3d6+6"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (kobold)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Arcana +2", "Insight +2", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 248",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Yusdrayl is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She knows the following sorcerer spells:\nCantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp\n1st level (4 slots): burning hands, chromatic orb, mage armor",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, Yusdrayl has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "Yusdrayl has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

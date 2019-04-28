@@ -1,0 +1,64 @@
+{
+  "id": "armanite",
+  "_index": 53,
+  "name": "Armanite",
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "7 (2900 XP)",
+  "hitPoints": {
+    "average": 84
+  },
+  "race": "FIEND",
+  "size": "Large fiend (demon)",
+  "speed": "60 ft.",
+  "senses": "darkvision 120 ft., passive Perception 11",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Abyssal", "telepathy 120 ft."],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The armanite has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The armanite's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

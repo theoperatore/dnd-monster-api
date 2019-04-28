@@ -1,0 +1,70 @@
+{
+  "id": "poltergeist",
+  "_index": 647,
+  "name": "Poltergeist",
+  "abilityScores": {
+    "STR": {
+      "score": 1,
+      "mod": -5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "0 ft., fly 50 ft. (hover)",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["understands all languages it knew in life but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The poltergeist can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the poltergeist has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Invisibility.",
+      "description": "The poltergeist is invisible.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

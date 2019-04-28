@@ -1,0 +1,65 @@
+{
+  "id": "githzerai_monk",
+  "_index": 390,
+  "name": "Githzerai Monk",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_NEUTRAL",
+  "armorClass": "14",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 38,
+    "roll": "7d8+7"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (gith)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Gith"],
+  "skills": ["Insight +4", "Perception +4"],
+  "savingThrows": ["Str +3", "Dex +4", "Int +3", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:\nAt will: mage hand (the hand is invisible)\n3/day each: feather fall, jump, see invisibility, shield",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Psychic Defense.",
+      "description": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

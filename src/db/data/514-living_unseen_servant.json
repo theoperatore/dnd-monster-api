@@ -1,0 +1,60 @@
+{
+  "id": "living_unseen_servant",
+  "_index": 514,
+  "name": "Living Unseen Servant",
+  "abilityScores": {
+    "STR": {
+      "score": 2,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "10",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 4,
+    "roll": "1d8"
+  },
+  "race": "CONSTRUCT",
+  "size": "Medium construct",
+  "speed": "30 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 12",
+  "source": "dungeon-of-the-mad-mage",
+  "languages": ["understands one language (usually Common) but can’t speak"],
+  "skills": ["Perception +2", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Invisibility.",
+      "description": "The unseen servant is invisible.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

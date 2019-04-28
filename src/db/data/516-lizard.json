@@ -1,0 +1,54 @@
+{
+  "id": "lizard",
+  "_index": 516,
+  "name": "Lizard",
+  "abilityScores": {
+    "STR": {
+      "score": 2,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "10",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 2,
+    "roll": "1d4"
+  },
+  "race": "BEAST",
+  "size": "Tiny beast",
+  "speed": "20 ft., climb 20 ft.",
+  "senses": "darkvision 30 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

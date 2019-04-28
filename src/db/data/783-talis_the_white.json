@@ -1,0 +1,75 @@
+{
+  "id": "talis_the_white",
+  "_index": 783,
+  "name": "Talis the White",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (scale mail +1, shield)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 58,
+    "roll": "9d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (half-elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic", "Elvish", "Infernal"],
+  "skills": ["Deception +6", "Insight +6", "Perception +6", "Persuasion +6"],
+  "savingThrows": ["Wis +6", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Special Equipment.",
+      "description": "Talis has +1 scale mail and a wand of winter.",
+      "recharge": null
+    },
+    {
+      "name": "Fey Ancestry.",
+      "description": "Talis has advantage on saving throws against being charmed, and magic can't put her to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list:\n* Cantrips (at will): guidance, resistance, thaumaturgy\n* 1st level (4 slots): command, cure wounds, healing word, inflict wounds\n* 2nd level (3 slots): blindness/deafness, lesser restoration, spiritual weapon (spear)\n* 3rd level (3 slots): dispel magic, mass healing word, sending\n* 4th level (3 slots): death ward, freedom of movement\n* 5th level (1 slot): insect plague",
+      "recharge": null
+    },
+    {
+      "name": "Winter Strike",
+      "description": "Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) cold damage.",
+      "recharge": "(3/Day)."
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "shadow_mastiff",
+  "_index": 709,
+  "name": "Shadow Mastiff",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": [],
+  "skills": ["Perception +3", "Stealth +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ethereal Awareness.",
+      "description": "The shadow mastiff can see ethereal creatures and objects.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The shadow mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Shadow Blend.",
+      "description": "While in dim light or darkness, the shadow mastiff can use a bonus action to become invisible, along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Weakness.",
+      "description": "While in bright light created by sunlight, the shadow mastiff has disadvantage on attack rolls, ability checks, and saving throws.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

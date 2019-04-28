@@ -1,0 +1,70 @@
+{
+  "id": "yuan-ti_abomination",
+  "_index": 906,
+  "name": "Yuan-ti Abomination",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "YUAN_TI",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 127,
+    "roll": "15d10+45"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity (shapechanger",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "Common", "Draconic"],
+  "skills": ["Perception +5", "Stealth +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The yuan_ti's innate spellcasting ability is Charisma (spell save DC 15). The yuan_ti can innately cast the following spells, requiring no material components:\nAt will: animal friendship (snakes only)\n3/day: suggestion\n1/day: fear",
+      "recharge": "(Abomination Form Only)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The yuan-ti has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/yuan-ti-abomination.jpg"
+}

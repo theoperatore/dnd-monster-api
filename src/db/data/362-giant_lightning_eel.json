@@ -1,0 +1,65 @@
+{
+  "id": "giant_lightning_eel",
+  "_index": 362,
+  "name": "Giant Lightning Eel",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 42,
+    "roll": "5d10+15"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "5 ft., swim 30 ft.",
+  "senses": "blindsight 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 236",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The eel can breathe only underwater.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

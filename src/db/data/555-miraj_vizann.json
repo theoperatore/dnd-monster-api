@@ -1,0 +1,70 @@
+{
+  "id": "miraj_vizann",
+  "_index": 555,
+  "name": "Miraj Vizann",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "10 (13 with mage armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 82,
+    "roll": "11d8+33"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (earth genasi)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Common", "Primordial"],
+  "skills": ["Arcana +4", "Deception +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Earth Walk.",
+      "description": "Moving through difficult terrain made of earth or stone costs Miraj no extra movement.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Miraj's innate spellcasting ability is Constitution (spell save DC 14). He can innately cast the following spell, requiring no material components:\n* 1/day: pass without trace",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells:\n* Cantrips (at will): acid splash, blade ward, friends, light, message, mold earth\n* 1st level (4 slots): chromatic orb, mage armor, magic missile\n* 2nd level (3 slots): Maximilian's earthen grasp, shatter, suggestion\n* 3rd level (3 slots): counterspell, erupting earth\n* 4th level (3 slots): polymorph, stoneskin\n* 5th level (2 slots): wall of stone\n* 6th level (1 slot): move earth",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

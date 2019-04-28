@@ -1,0 +1,65 @@
+{
+  "id": "erinyes",
+  "_index": 289,
+  "name": "Erinyes",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "12 (8,400 XP)",
+  "hitPoints": {
+    "average": 153,
+    "roll": "18d8+72"
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (devil)",
+  "speed": "30 ft., fly 60 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Infernal", "telepathy 120 ft."],
+  "skills": [],
+  "savingThrows": ["Dex +7", "Con +8", "Wis +6", "Cha +8"],
+  "abilities": [
+    {
+      "name": "Hellish Weapons.",
+      "description": "The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The erinyes has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/erinyes.jpg"
+}

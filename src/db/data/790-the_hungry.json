@@ -1,0 +1,59 @@
+{
+  "id": "the_hungry",
+  "_index": 790,
+  "name": "The Hungry",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "11 (7200 XP)",
+  "hitPoints": {
+    "average": 225
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 10",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Life Hunger.",
+      "description": "If a creature the Hungry can see regains hit points, the Hungry gains two benefits until the end of its next turn: it has advantage on attack rolls, and its bite deals an extra 22 (4d10) necrotic damage on a hit.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

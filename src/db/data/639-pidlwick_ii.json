@@ -1,0 +1,60 @@
+{
+  "id": "pidlwick_ii",
+  "_index": 639,
+  "name": "Pidlwick II",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 10,
+    "roll": "3d6"
+  },
+  "race": "CONSTRUCT",
+  "size": "Small construct",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "curse-of-strahd",
+  "languages": ["understands Common but doesn't speak and can't read or write"],
+  "skills": ["Performance +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ambusher.",
+      "description": "During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

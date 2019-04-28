@@ -1,0 +1,70 @@
+{
+  "id": "shadow_demon",
+  "_index": 707,
+  "name": "Shadow Demon",
+  "abilityScores": {
+    "STR": {
+      "score": 1,
+      "mod": -5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 66,
+    "roll": "12d8+12"
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (demon)",
+  "speed": "30 ft., fly 30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "telepathy 120 ft."],
+  "skills": ["Stealth +7"],
+  "savingThrows": ["Dex +5", "Cha +4"],
+  "abilities": [
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The demon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    },
+    {
+      "name": "Light Sensitivity.",
+      "description": "While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Shadow Stealth.",
+      "description": "While in dim light or darkness, the demon can take the Hide action as a bonus action.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/shadow-demon.jpg"
+}

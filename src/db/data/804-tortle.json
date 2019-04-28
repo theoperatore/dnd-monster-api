@@ -1,0 +1,59 @@
+{
+  "id": "tortle",
+  "_index": 804,
+  "name": "Tortle",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "17 (natural)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 22
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (tortle)",
+  "speed": "30 ft.",
+  "senses": "passive Perception 11",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Aquan", "Common"],
+  "skills": ["Athletics +4", "Survival +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The tortle can hold its breath for 1 hour.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

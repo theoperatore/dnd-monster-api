@@ -1,0 +1,75 @@
+{
+  "id": "duergar_kavalrachni",
+  "_index": 245,
+  "name": "Duergar Kavalrachni",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (scale mail, shield)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 26,
+    "roll": "4d8+8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (dwarf)",
+  "speed": "25 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "out-of-the-abyss",
+  "languages": ["Dwarvish", "Undercommon"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Mounted.",
+      "description": "The vicious kavalrachni are the duergar cavalry of Gracklstugh, riding giant tarantualas known as steeders (see the female steeder stat block)",
+      "recharge": null
+    },
+    {
+      "name": "Cavalry Training.",
+      "description": "When the duergar hits a target with a melee attack while mounted on a female steeder, the steeder can make a melee attack agains the same target as a reaction.",
+      "recharge": null
+    },
+    {
+      "name": "Duergar Resilience.",
+      "description": "The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

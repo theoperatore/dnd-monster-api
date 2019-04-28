@@ -1,0 +1,70 @@
+{
+  "id": "ice_toad",
+  "_index": 470,
+  "name": "Ice Toad",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "12 (natural armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d8+10"
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tyranny-of-dragons",
+  "languages": ["Ice Toad"],
+  "skills": ["Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The toad can breathe air or water.",
+      "recharge": null
+    },
+    {
+      "name": "Cold Aura.",
+      "description": "Any creature that starts its turn within 5 feet of the toad takes 3 (1d6) cold damage.",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

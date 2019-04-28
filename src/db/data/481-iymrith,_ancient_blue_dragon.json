@@ -1,0 +1,60 @@
+{
+  "id": "iymrith,_ancient_blue_dragon",
+  "_index": 481,
+  "name": "Iymrith, Ancient Blue Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 29,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 27,
+      "mod": 8,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "23 (50,000 XP)",
+  "hitPoints": {
+    "average": 481,
+    "roll": "26d20+208"
+  },
+  "race": "DRAGON",
+  "size": "Gargantuan dragon",
+  "speed": "40 ft., burrow 40 ft., fly 80 ft.",
+  "senses": "blindsight 60 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic", "Giant", "Terran"],
+  "skills": ["Perception +17", "Stealth +7"],
+  "savingThrows": ["Dex +7", "Con +15", "Wis +10", "Cha +12"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Iymrith's innate spellcasting ability is Charisma (spell save DC 20).  Iymrith's stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components:\n1/day: counterspell, detect magic, ice storm, stone shape, teleport",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

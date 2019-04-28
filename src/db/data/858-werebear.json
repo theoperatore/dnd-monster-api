@@ -1,0 +1,65 @@
+{
+  "id": "werebear",
+  "_index": 858,
+  "name": "Werebear",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "SHAPECHANGER",
+  "armorClass": "10 (in humanoid form, 11 in bear and hybrid forms )",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 135,
+    "roll": "18d8+54"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human",
+  "speed": "30 ft. (40 ft., climb 30 ft. in bear or hybrid form)",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Common (can't speak in bear form)"],
+  "skills": ["Perception +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it. is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Smell.",
+      "description": "The werebear has advantage on WisGlom (Perception) checks that rely on smell.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/werebear.jpg"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "the_pudding_king",
+  "_index": 788,
+  "name": "The Pudding King",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "SHAPECHANGER",
+  "armorClass": "13 (16 with mage armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 49,
+    "roll": "9d6+18"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (gnome",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "out-of-the-abyss",
+  "languages": ["Abyssal", "Gnomish", "Terran", "Undercommon"],
+  "skills": ["Arcana +4", "Perception +2", "Stealth +6", "Survival +2"],
+  "savingThrows": ["Con +5", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Stone Camouflage.",
+      "description": "The Pudding King has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+      "recharge": null
+    },
+    {
+      "name": "Gnome Cunning.",
+      "description": "The Pudding King has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The Pudding King's innate spellcasting ability is Intelligence (spell save DC 12). He can innately cast the following spells, requiring no material components:\nAt will: nondetection (self only)\n1/day each: blindness/deafness, blur, disguise self",
+      "recharge": null
+    },
+    {
+      "name": "Insanity.",
+      "description": "The Pudding King has advantage on saving throws against being charmed or frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The Pudding King is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The Pudding King knows the following sorcerer spells:\nCantrips (at will): acid splash, light, mage hand, poison spray, prestidigitation\n1st level (4 slots): false life, mage armor, ray of sickness, shield\n2nd level (3 slots): crown of madness, misty step\n3rd level (3 slots): gaseous form, stinking cloud\n4th level (3 slots): blight, confusion\n5th level (1 slot): cloudkill",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "mouth_of_grolantor",
+  "_index": 564,
+  "name": "Mouth of Grolantor",
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 105,
+    "roll": "10d12+40"
+  },
+  "race": "GIANT",
+  "size": "Huge giant (hill giant)",
+  "speed": "50 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["Giant"],
+  "skills": ["Perception +1"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Mouth of Madness.",
+      "description": "The giant is immune to confusion spells and similar magic.\n>On each of its turns, the giant uses all its movement to move toward the nearest creature or whatever else it might perceive as food. Roll a d10 at the start of each of the giant's turns to determine its action for that turn:\n1-3. The giant makes three attacks with its fists against one random target within its reach. If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.\n4-5. The giant makes one attack with its fist against every creature within its reach. If no other creatures are within its reach, the giant makes one fist attack against itself.\n6-7. The giant makes one attack with its bite against one random target within its reach. If no other creatures are within its reach, its eyes glaze over and it becomes stunned until the start of its next turn.\n8-10. The giant makes three attacks against one random target within its reach: one attack with its bite and two with its fists. If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

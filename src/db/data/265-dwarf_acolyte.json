@@ -1,0 +1,64 @@
+{
+  "id": "dwarf_acolyte",
+  "_index": 265,
+  "name": "Dwarf Acolyte",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "10",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 9
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (dwarf)",
+  "speed": "30 ft.",
+  "senses": "darkvision, passive Perception 12",
+  "source": "unofficial",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Medicine +4", "Religion +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dwarven Resilience.",
+      "description": "The dwarf has advantage on saving throws against poison and has resistance to poison damage",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom. The acolyte has following cleric spells prepared:\n* Cantrips (at will): light, sacred flame, thaumaturgy\n* 1st level (3 slots): bless, cure wounds, sanctuary",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

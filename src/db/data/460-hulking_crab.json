@@ -1,0 +1,65 @@
+{
+  "id": "hulking_crab",
+  "_index": 460,
+  "name": "Hulking Crab",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 76,
+    "roll": "8d12+24"
+  },
+  "race": "BEAST",
+  "size": "Huge beast",
+  "speed": "20 ft., swim 30 ft.",
+  "senses": "blindsight 30 ft.",
+  "source": "storm-kings-thunder",
+  "languages": ["--"],
+  "skills": ["Stealth +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The crab can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Shell Camouflage.",
+      "description": "While the crab remains motionless with it's eyestalks and pincers tucked close to it's body, it resembles a natural formation or a pile of detritus. A creature within 30 feet of it can discren its true nature with a successful DC 15 intelligence (Nature) check.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "thug",
+  "_index": 798,
+  "name": "Thug",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
+  "armorClass": "11 (leather armor)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d8+10"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Intimidation +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pack Tactics.",
+      "description": "The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/thug.jpg"
+}

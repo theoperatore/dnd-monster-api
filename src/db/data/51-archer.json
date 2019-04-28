@@ -1,0 +1,60 @@
+{
+  "id": "archer",
+  "_index": 51,
+  "name": "Archer",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "16 (studded leather armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d8+30"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Acrobatics +6", "Perception +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Archer's Eye.",
+      "description": "As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

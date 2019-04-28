@@ -1,0 +1,65 @@
+{
+  "id": "giant_rat",
+  "_index": 368,
+  "name": "Giant Rat",
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 7,
+    "roll": "2d6"
+  },
+  "race": "BEAST",
+  "size": "Small beast",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The rat has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

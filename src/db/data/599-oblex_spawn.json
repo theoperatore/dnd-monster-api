@@ -1,0 +1,64 @@
+{
+  "id": "oblex_spawn",
+  "_index": 599,
+  "name": "Oblex Spawn",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "13",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 18
+  },
+  "race": "OOZE",
+  "size": "Tiny ooze",
+  "speed": "20 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 12",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": ["Int +4", "Cha +2"],
+  "abilities": [
+    {
+      "name": "Amorphous.",
+      "description": "The oblex can move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    },
+    {
+      "name": "Aversion to Fire.",
+      "description": "If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

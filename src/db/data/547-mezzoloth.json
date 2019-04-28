@@ -1,0 +1,70 @@
+{
+  "id": "mezzoloth",
+  "_index": 547,
+  "name": "Mezzoloth",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d8+30"
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (yugoloth)",
+  "speed": "40 ft.",
+  "senses": "blindsight 60 ft., darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "Infernal", "telepathy 60 ft."],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:\n2/day each: darkness, dispel magic\n1/day: cloudkill",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The mezzoloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The mezzoloth's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/mezzoloth.jpg"
+}

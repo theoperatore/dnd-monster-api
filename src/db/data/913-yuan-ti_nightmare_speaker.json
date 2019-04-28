@@ -1,0 +1,90 @@
+{
+  "id": "yuan-ti_nightmare_speaker",
+  "_index": 913,
+  "name": "Yuan-ti Nightmare Speaker",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "YUAN_TI",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 71,
+    "roll": "13d8+13"
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity (shapechanger",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft. (penetrates magical darkness)",
+  "source": "volos-guide",
+  "languages": ["Abyssal", "Common", "Draconic"],
+  "skills": ["Deception +5", "Stealth +4"],
+  "savingThrows": ["Wis +3", "Cha +5"],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.",
+      "recharge": null
+    },
+    {
+      "name": "Death Fangs",
+      "description": "The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) necrotic damage to the target.",
+      "recharge": "(2/Day)."
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:\nAt will: animal friendship (snakes only) 3/day: suggestion",
+      "recharge": "(Yuan-ti Form Only)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The yuan-ti has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting",
+      "description": "The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:\nCantrip (at will): chill touch, eldritch blast (range 300 ft., +3 bonus to each damage roll), mage hand, message, poison spray, prestidigitation\n1st-3rd level (2 3rd-level slots): arms of Hadar, darkness, fear, hex, hold person, hunger of Hadar, witch bolt",
+      "recharge": "(Yuan-ti Form Only)."
+    },
+    {
+      "name": "Variant: Chameleon Skin.",
+      "description": "The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Shed Skin",
+      "description": "The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.",
+      "recharge": "(1/Day)."
+    }
+  ],
+  "image": null
+}

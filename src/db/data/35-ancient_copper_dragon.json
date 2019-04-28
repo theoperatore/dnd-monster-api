@@ -1,0 +1,60 @@
+{
+  "id": "ancient_copper_dragon",
+  "_index": 35,
+  "name": "Ancient Copper Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 27,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "21 (natural armor)",
+  "challengeRating": "21 (33,000 XP)",
+  "hitPoints": {
+    "average": 350,
+    "roll": "20d20+140"
+  },
+  "race": "DRAGON",
+  "size": "Gargantuan dragon",
+  "speed": "40 ft., climb 40 ft., fly 80 ft.",
+  "senses": "blindsight 60 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Deception +11", "Perception +17", "Stealth +8"],
+  "savingThrows": ["Dex +8", "Con +14", "Wis +10", "Cha +11"],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ancient-copper-dragon.jpg"
+}

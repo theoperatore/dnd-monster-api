@@ -1,0 +1,65 @@
+{
+  "id": "howling_hatred_priest",
+  "_index": 459,
+  "name": "Howling Hatred Priest",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "10d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Auran", "Common"],
+  "skills": ["Acrobatics +5", "Intimidation +4", "Religion +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The priest can hold its breath for 30 minutes.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells:\n* Cantrips (at will): blade ward, gust, light, prestidigitation, shocking grasp\n* 1st level (4 slots): featherfall, shield, witch bolt\n* 2nd level (3 slots): dust devil, gust of wind\n* 3rd level (2 slots): gaseous form",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

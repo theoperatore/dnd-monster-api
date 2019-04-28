@@ -1,0 +1,80 @@
+{
+  "id": "xvart_warlock_of_raxivort",
+  "_index": 882,
+  "name": "Xvart Warlock of Raxivort",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d6+5"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (xvart)",
+  "speed": "30 ft.",
+  "senses": "darkvision 30 ft.",
+  "source": "volos-guide",
+  "languages": ["Abyssal"],
+  "skills": ["Stealth +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The xvart's innate spellcasting ability is Charisma. it can innately cast the following spells, requiring no material components:\nAt will: detect magic, mage armor (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The xvart is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC ll, +3 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:\nCantrips (at will): eldritch blast, mage hand, minor illusion, poison spray, prestidigitation\n1st-2nd level (2 2nd-level slots): burning hands, expeditious retreat, invisibility, scorching ray",
+      "recharge": null
+    },
+    {
+      "name": "Low Cunning.",
+      "description": "The xvart can take the Disengage action as a bonus action on each of its turns.",
+      "recharge": null
+    },
+    {
+      "name": "Overbearing Pack.",
+      "description": "The xvart has advantage on Strength (Athletics) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Raxivort's Tongue.",
+      "description": "The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

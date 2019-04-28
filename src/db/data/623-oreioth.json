@@ -1,0 +1,70 @@
+{
+  "id": "oreioth",
+  "_index": 623,
+  "name": "Oreioth",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "11 (14 with mage armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 39,
+    "roll": "6d8+12"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Abyssal", "Common"],
+  "skills": ["Arcana +5", "Investigation +5", "Medicine +1"],
+  "savingThrows": ["Wis +1"],
+  "abilities": [
+    {
+      "name": "Grim Harvest.",
+      "description": "Once per turn when Oreioth kills one or more creatures with a spell of 1st level or higher, he regains hit points equal to twice the spell's level.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Oreioth is a 6th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:\n* Cantrips (at will): chill touch, minor illusion, prestidigitation, shocking grasp\n* 1st level (4 slots): false life, mage armor, magic missile, ray of sickness\n* 2nd level (3 slots): crown of madness, misty step\n* 3rd level (3 slots): animate dead, vampiric touch",
+      "recharge": null
+    },
+    {
+      "name": "Swift Animation",
+      "description": "When a living Medium or Small humanoid within 30 feet of Oreioth dies, he can use an action on his next turn to cast animate dead on that humanoid's corpse, instead of using the spell's normal casting time.",
+      "recharge": "(Recharges after a Long Rest)."
+    }
+  ],
+  "image": null
+}

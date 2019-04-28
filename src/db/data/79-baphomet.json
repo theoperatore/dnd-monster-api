@@ -1,0 +1,89 @@
+{
+  "id": "baphomet",
+  "_index": 79,
+  "name": "Baphomet",
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 24,
+      "mod": 7,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "23 (50,000 XP)",
+  "hitPoints": {
+    "average": 275
+  },
+  "race": "FIEND",
+  "size": "Huge fiend (demon)",
+  "speed": "40 ft.",
+  "senses": "truesight 120 ft., passive Perception 24",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Intimidation +17", "Perception +14"],
+  "savingThrows": ["Dex +9", "Con +15", "Wis +14"],
+  "abilities": [
+    {
+      "name": "Charge.",
+      "description": "If Baphomet moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked prone.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Baphomet's spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:\n* At will: detect magic\n* 3/day each: dispel magic, dominate beast, hunter's mark, maze, wall of stone\n* 1/day: teleport",
+      "recharge": null
+    },
+    {
+      "name": "Labyrinthine Recall.",
+      "description": "Baphomet can perfectly recall any path he has traveled, and he is immune to the maze spell.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Baphomet fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Baphomet has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Baphomet's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Reckless.",
+      "description": "At the start of his turn, Baphomet can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

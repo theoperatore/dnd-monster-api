@@ -1,0 +1,85 @@
+{
+  "id": "illithilich",
+  "_index": 471,
+  "name": "Illithilich",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_EVIL_ALIGNMENT",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "22 (41,000 XP)",
+  "hitPoints": {
+    "average": 135,
+    "roll": "18d8+54"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Deep Speech", "Undercommon", "telepathy 120 ft."],
+  "skills": ["Arcana +18", "History +12", "Insight +9", "Perception +9"],
+  "savingThrows": ["Con +10", "Int +12", "Wis +9"],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the illithilich fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Rejuvenation.",
+      "description": "If it has a phylactery, a destroyed illithilich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The illithilich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:\n* Cantrips (at will): mage hand, prestidigitation, ray of frost\n* 1st level (4 slots): detect magic, magic missile, shield, thunderwave\n* 2nd level (3 slots): detect thoughts, invisibility, Melf's acid arrow, mirror image\n* 3rd level (3 slots): animate dead, counterspell, dispel magic, fireball\n* 4th level (3 slots): blight, dimension door\n* 5th level (3 slots): cloudkill, scrying\n* 6th level (1 slot): disintegrate, globe of invulnerability\n* 7th level (1 slot): finger of death, plane shift\n* 8th level (1 slot): dominate monster, power word stun\n* 9th level (1 slot): power word kill",
+      "recharge": null
+    },
+    {
+      "name": "Turn Resistance.",
+      "description": "The illithilich has advantage on saving throws against any effect that turns undead.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The illithilich has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The illithilich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components.\nAt will: detect thoughts, levitate\n1/day each: dominate monster, plane shift (self only)",
+      "recharge": "(Psionics)."
+    }
+  ],
+  "image": null
+}

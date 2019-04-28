@@ -1,0 +1,65 @@
+{
+  "id": "howling_hatred_initiate",
+  "_index": 458,
+  "name": "Howling Hatred Initiate",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13 (leather)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 9,
+    "roll": "2d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Common"],
+  "skills": ["Deception +2", "Religion +2", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Guiding Wind",
+      "description": "As a bonus action, the initiate gains advantage on the next ranged attack roll it makes before the end of its next turn.",
+      "recharge": "(Recharges after a Short or Long Rest)."
+    },
+    {
+      "name": "Hold Breath.",
+      "description": "The initiate can hold its breath for 30 minutes.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

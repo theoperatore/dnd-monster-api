@@ -1,0 +1,80 @@
+{
+  "id": "yan-c-bin",
+  "_index": 887,
+  "name": "Yan-C-Bin",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 24,
+      "mod": 7,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 24,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 21,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "18 (20,000 XP)",
+  "hitPoints": {
+    "average": 283,
+    "roll": "21d12+147"
+  },
+  "race": "ELEMENTAL",
+  "size": "Huge elemental",
+  "speed": "50 ft., fly 150 ft.",
+  "senses": "blindsight 120 ft.",
+  "source": "elemental-evil",
+  "languages": ["Auran"],
+  "skills": [],
+  "savingThrows": ["Dex +13", "Wis +11", "Cha +12"],
+  "abilities": [
+    {
+      "name": "Air Form.",
+      "description": "Yan-C-Bin can enter a hostile creature's space and stop there. He can move through a space as narrow as 1 inch wide without squeezing if air could pass through that space.",
+      "recharge": null
+    },
+    {
+      "name": "Empowered Attacks.",
+      "description": "Yan-C-Bin's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Yan-C-Bin's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:\n* At will: gust of wind, invisibility, lightning bolt\n* 2/day each: chain lightning, cloudkill, haste",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Yan-C-Bin fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Yan-C-Bin has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

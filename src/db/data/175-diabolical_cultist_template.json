@@ -1,0 +1,140 @@
+{
+  "id": "diabolical_cultist_template",
+  "_index": 175,
+  "name": "Diabolical Cultist Template",
+  "abilityScores": {
+    "STR": {
+      "score": 0,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 0,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 0,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 0,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 0,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 0,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "0",
+  "challengeRating": "0",
+  "hitPoints": {
+    "average": 0,
+    "roll": ""
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "",
+  "senses": null,
+  "source": "template",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Demands of Nessus",
+      "description": "At the start of each of this creature's turns, this creature can choose one ally it can see within 30 feet of it. The chosen ally loses 10 hit points, and this creature regains the same number of hit points. If the creature is incapacitated, it makes no choice; instead, the closest ally within 30 feet is the chosen ally.",
+      "recharge": "(Asmodeus)."
+    },
+    {
+      "name": "Path of Baalzebul",
+      "description": "As a bonus action on its turn, this creature can choose one ally it can see within 30 feet of it. Until the start of this creature's next turn, it gains advantage on all ability checks and attack rolls, while the chosen ally suffers disadvantage on all ability checks, attack rolls, and saving throws.",
+      "recharge": "(Baalzebul)."
+    },
+    {
+      "name": "Infernal Insight",
+      "description": "As a bonus action, this creature gains advantage on all ability checks and attack rolls it makes until the end of the current turn.",
+      "recharge": "(Recharges after a Short or Long Rest)(Dispater)."
+    },
+    {
+      "name": "Vexing Escape",
+      "description": "As a reaction when this creature takes damage, it reduces that damage to 0 and teleports up to 60 feet to an unoccupied space it can see.",
+      "recharge": "(1/Day)(Dispater)."
+    },
+    {
+      "name": "Infernal Loyalty",
+      "description": "This creature has advantage on saving throws while it can see a creature within 30 feet of it that has the Loyalty beyond Death trait.",
+      "recharge": "(Fierna)."
+    },
+    {
+      "name": "Loyalty beyond Death",
+      "description": "As a reaction when an ally this creature can see is reduced to 0 hit points, that ally is instead reduced to 1 hit point and gains temporary hit points equal to this creature's Charisma score + half its number of Hit Dice.",
+      "recharge": "(Recharges after a Short or Long Rest)(Fierna)."
+    },
+    {
+      "name": "Crushing Blow",
+      "description": "As a bonus action, the creature gains a bonus to the damage roll of its next melee weapon attack that hits within the next minute. The bonus equals its Strength modifier (minimum of +1).",
+      "recharge": "(Recharges after a Short or Long Rest)(Geryon)."
+    },
+    {
+      "name": "Indomitable Strength",
+      "description": "As a reaction when this creature takes damage, it can roll a d10 and subtract the number rolled from the damage.",
+      "recharge": "(Recharge 5-6)(Geryon)."
+    },
+    {
+      "name": "Step into Shadows",
+      "description": "As an action, this creature, along with anything it is wearing and carrying, magically becomes invisible until the end of its next turn.",
+      "recharge": "(Recharges after a Short or Long Rest)(Glasya)."
+    },
+    {
+      "name": "Infernal Ring Leader",
+      "description": "As a reaction when this creature is hit by an attack, it can choose one ally it can see within 5 feet of it and cause that ally to be hit by that attack instead.",
+      "recharge": "(Glasya)."
+    },
+    {
+      "name": "Path of Levistus",
+      "description": "This creature magically teleports to a location of Levistus's choice within 1 mile of its location. Using this ability also restores all of the creature's hit points. This ability can be invoked as an action by the creature or when the creature would die. Once the creature uses it, the creature can't use it again.",
+      "recharge": "(Levistus)."
+    },
+    {
+      "name": "Grasping Hands",
+      "description": "As a bonus action, this creature makes a Dexterity (Sleight of Hand) check contested by the Wisdom (Insight) check of a creature it can see within 15 feet of it. If this creature succeeds, one hand-held item of its choice that it can see on the target magically teleports to its open hand. The item can't be one that the target is holding, and it must weigh no more than 10 pounds.",
+      "recharge": "(Recharges after a Short or Long Rest)(Mammon)."
+    },
+    {
+      "name": "Promise of Wealth",
+      "description": "As a bonus action, this creature chooses one creature it can see. Up to five allies of its choice become convinced that the target carries great wealth. Until the end of this creature's next turn, those allies gain advantage on all attack rolls against the target.",
+      "recharge": "(Recharges after a Short or Long Rest)(Mammon)."
+    },
+    {
+      "name": "Spell Shield",
+      "description": "This creature gains advantage on saving throws against spells. If it succeeds on such a saving throw, it gains temporary hit points equal to the spell's level.",
+      "recharge": "(Mephistopheles)."
+    },
+    {
+      "name": "Spell Leech",
+      "description": "As a bonus action, this creature chooses one ally it can see within 30 feet of it. The target loses its lowest-level spell slot, and this creature gains it.",
+      "recharge": "(Mephistopheles)."
+    },
+    {
+      "name": "Ferocious Surge",
+      "description": "When this creature hits with an attack that isn't a critical hit, it can turn the hit into a critical hit.",
+      "recharge": "(Recharges after a Short or Long Rest) (Zariel)."
+    },
+    {
+      "name": "Infernal Tactics",
+      "description": "This creature has a keen eye for seizing a tactical advantage. Immediately after rolling initiative, it can choose itself and up to three allies it can see if it isn't incapacitated. It can swap the initiative results of the chosen creatures among them.",
+      "recharge": "(Zariel)."
+    }
+  ],
+  "image": null
+}

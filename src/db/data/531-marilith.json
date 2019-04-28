@@ -1,0 +1,70 @@
+{
+  "id": "marilith",
+  "_index": 531,
+  "name": "Marilith",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "16 (15,000 XP)",
+  "hitPoints": {
+    "average": 189,
+    "roll": "18d10+90"
+  },
+  "race": "FIEND",
+  "size": "Large fiend (demon)",
+  "speed": "40 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "telepathy 120 ft."],
+  "skills": [],
+  "savingThrows": ["Str +9", "Con +10", "Wis +8", "Cha +10"],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The marilith has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The marilith's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Reactive.",
+      "description": "The marilith can take one reaction on every turn in combat.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/marilith.jpg"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "eagle",
+  "_index": 274,
+  "name": "Eagle",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 3,
+    "roll": "1d6"
+  },
+  "race": "BEAST",
+  "size": "Small beast",
+  "speed": "10 ft., fly 60 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Sight.",
+      "description": "The eagle has advantage on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/eagle.jpg"
+}

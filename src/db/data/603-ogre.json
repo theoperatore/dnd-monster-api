@@ -1,0 +1,54 @@
+{
+  "id": "ogre",
+  "_index": 603,
+  "name": "Ogre",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "11 (hide armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 59,
+    "roll": "7d10+21"
+  },
+  "race": "GIANT",
+  "size": "Large giant",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Giant"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ogre.jpg"
+}

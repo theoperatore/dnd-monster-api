@@ -1,0 +1,65 @@
+{
+  "id": "swashbuckler",
+  "_index": 780,
+  "name": "Swashbuckler",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_NON_LAWFUL_ALIGNMENT",
+  "armorClass": "17 (leather armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 66,
+    "roll": "12d8+12"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Acrobatics +8", "Athletics +5", "Persuasion +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Lightfooted.",
+      "description": "The swashbuckler can take the Dash or Disengage action as a bonus action on each of its turns.",
+      "recharge": null
+    },
+    {
+      "name": "Suave Defense.",
+      "description": "While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its Charisma modifier.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

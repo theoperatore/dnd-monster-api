@@ -1,0 +1,64 @@
+{
+  "id": "dwarf_scout",
+  "_index": 271,
+  "name": "Dwarf Scout",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "13 (leather armor)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 16
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (dwarf)",
+  "speed": "30 ft.",
+  "senses": "darkvision, passive Perception 15",
+  "source": "unofficial",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Nature +4", "Perception +5", "Stealth +6", "Survival +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dwarven Resilience.",
+      "description": "The dwarf has advantage on saving throws against poison and has resistance to poison damage",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing and Sight.",
+      "description": "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

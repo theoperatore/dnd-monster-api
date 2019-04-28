@@ -1,0 +1,60 @@
+{
+  "id": "giant_strider",
+  "_index": 373,
+  "name": "Giant Strider",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "3d10+6"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "50 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fire Absorption.",
+      "description": "Whenever the giant strider is subjected to fire damage, it takes no damage and regains a number of hit points equal to half the fire damage dealt.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

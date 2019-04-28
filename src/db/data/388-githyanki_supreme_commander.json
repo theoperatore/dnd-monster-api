@@ -1,0 +1,59 @@
+{
+  "id": "githyanki_supreme_commander",
+  "_index": 388,
+  "name": "Githyanki Supreme Commander",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "14 (11500 XP)",
+  "hitPoints": {
+    "average": 187
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (gith)",
+  "speed": "30 ft.",
+  "senses": "passive Perception 18",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Gith"],
+  "skills": ["Insight +8", "Intimidation +9", "Perception +8"],
+  "savingThrows": ["Con +9", "Int +8", "Wis +8"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:\n* At will: mage hand (the hand is invisible)\n* 3/day each: jump, levitate (self only), misty step, nondetection (self only)\n* 1/day each: Bigby's hand, mass suggestion, plane shift, telekinesis",
+      "recharge": "(Psionics)."
+    }
+  ],
+  "image": null
+}

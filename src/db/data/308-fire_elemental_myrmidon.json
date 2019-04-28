@@ -1,0 +1,70 @@
+{
+  "id": "fire_elemental_myrmidon",
+  "_index": 308,
+  "name": "Fire Elemental Myrmidon",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 117,
+    "roll": "18d8+36"
+  },
+  "race": "ELEMENTAL",
+  "size": "Medium elemental",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "elemental-evil",
+  "languages": ["Ignan", "one language of its creator's choice"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Illumination.",
+      "description": "The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The myrmidon's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Water Susceptibility.",
+      "description": "For every 5 feet the myrmidon moves in water, it takes 2 (1d4) cold damage.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "azbara_jos",
+  "_index": 65,
+  "name": "Azbara Jos",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "13 (16 with mage armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 39,
+    "roll": "6d8+12"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic", "Infernal", "Primordial", "Thayan"],
+  "skills": ["Arcana +5", "Deception +2", "Insight +3", "Stealth +5"],
+  "savingThrows": ["Int +5", "Wis +3"],
+  "abilities": [
+    {
+      "name": "Special Equipment.",
+      "description": "Azbara has two scrolls of mage armor.",
+      "recharge": null
+    },
+    {
+      "name": "Potent Cantrips.",
+      "description": "When Azbara casts an evocation Cantrips and misses, or the target succeeds on its saving throw, the target still takes half the cantrip's damage but suffers no other effect.",
+      "recharge": null
+    },
+    {
+      "name": "Sculpt Spells.",
+      "description": "When Azbara casts an evocation spell that affects other creatures that he can see, he can choose a number of them equal to 1+the spell's level to succeed on their saving throws against the spell. Those creatures take no damage if they would normally take half damage from the spell.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following spells prepared from the wizard spell list:\n* Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp\n* 1st level (4 slots): fog cloud, magic missile, shield, thunderwave\n* 2nd level (3 slots): invisibility, misty step, scorching ray\n* 3rd level (3 slots): counterspell, dispel magic, fireball",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

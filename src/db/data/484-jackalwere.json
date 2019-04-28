@@ -1,0 +1,70 @@
+{
+  "id": "jackalwere",
+  "_index": 484,
+  "name": "Jackalwere",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (shapechanger)",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Common (can't speak in jackal form)"],
+  "skills": ["Deception +4", "Perception +2", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The jackalwere can use its action to polymorph into a specific Medium human or a jackal-humanoid hybrid, or back into its true form (that of a Small jackal). Other than its size, its statistics are the same in each form. Any equipment it is wearing or carrying isn 't transformed. It reverts to its true form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The jackalwere has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The jackalwere has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/jackalwere.jpg"
+}

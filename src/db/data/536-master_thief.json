@@ -1,0 +1,70 @@
+{
+  "id": "master_thief",
+  "_index": 536,
+  "name": "Master Thief",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "16 (studded leather armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 84,
+    "roll": "13d8+26"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any one language (usually Common) plus thieves' cant"],
+  "skills": ["Acrobatics +7", "Athletics +3", "Perception +3", "Sleight of Hand +7", "Stealth +7"],
+  "savingThrows": ["Dex +7", "Int +3"],
+  "abilities": [
+    {
+      "name": "Cunning Action.",
+      "description": "On each of its turns, the thief can use a bonus action to take the Dash, Disengage, or Hide action.",
+      "recharge": null
+    },
+    {
+      "name": "Evasion.",
+      "description": "If the thief is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the thief instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+      "recharge": null
+    },
+    {
+      "name": "Sneak Attack",
+      "description": "The thief deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the thief that isn't incapacitated and the thief doesn't have disadvantage on the attack roll.",
+      "recharge": "(1/Turn)."
+    }
+  ],
+  "image": null
+}

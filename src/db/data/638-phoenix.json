@@ -1,0 +1,84 @@
+{
+  "id": "phoenix",
+  "_index": 638,
+  "name": "Phoenix",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 26,
+      "mod": 8,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 21,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "18",
+  "challengeRating": "16 (15,000 XP)",
+  "hitPoints": {
+    "average": 175
+  },
+  "race": "ELEMENTAL",
+  "size": "Gargantuan elemental",
+  "speed": "20 ft., fly 120 ft.",
+  "senses": "darkvision 60 ft., passive Perception 15",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": ["Wis +10", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Fiery Death and Rebirth.",
+      "description": "When the phoenix dies, it explodes. Each creature within 60-feet of it must make a DC 20 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't worn or carried.\nThe explosion destroys the phoenix's body and leaves behind an egg-shaped cinder that weighs 5 pounds. The cinder is blazing hot, dealing 21 (6d6) fire damage to any creature that touches it, though no more than once per round. The cinder is immune to all damage, and after 1d6 days, it hatches a new phoenix.",
+      "recharge": null
+    },
+    {
+      "name": "Fire Form.",
+      "description": "The phoenix can move through a space as narrow as 1 inch wide without squeezing. Any creature that touches the phoenix or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the phoenix can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage. With a touch, the phoenix can also ignite flammable objects that aren't worn or carried (no action required).",
+      "recharge": null
+    },
+    {
+      "name": "Flyby.",
+      "description": "The phoenix doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "recharge": null
+    },
+    {
+      "name": "Illumination.",
+      "description": "The phoenix sheds bright light in a 60-foot radius and dim light for an additional 30 feet.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the phoenix fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The phoenix deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "giant_wolf_spider",
+  "_index": 379,
+  "name": "Giant Wolf Spider",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "40 ft., climb 40 ft.",
+  "senses": "blindsight 10 ft., darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +3", "Stealth +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spider Climb.",
+      "description": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Web Sense.",
+      "description": "While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The spider ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

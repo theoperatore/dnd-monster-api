@@ -1,0 +1,88 @@
+{
+  "id": "duergar_spy",
+  "_index": 249,
+  "name": "Duergar Spy",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (dwarf)",
+  "speed": "25 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Dwarvish", "Undercommon"],
+  "skills": [
+    "Deception +5",
+    "Insight +2",
+    "Investigation +5",
+    "Perception +4",
+    "Persuasion +3",
+    "Sleight of Hand +5",
+    "Stealth +7"
+  ],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 234",
+      "recharge": null
+    },
+    {
+      "name": "Cunning Action.",
+      "description": "On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.",
+      "recharge": null
+    },
+    {
+      "name": "Duergar Resilience.",
+      "description": "The spy has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.",
+      "recharge": null
+    },
+    {
+      "name": "Sneak Attack.",
+      "description": "Once per turn, the spy can deal an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the spy has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

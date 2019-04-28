@@ -1,0 +1,69 @@
+{
+  "id": "air_elemental_myrmidon",
+  "_index": 23,
+  "name": "Air Elemental Myrmidon",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "7 (2900 XP)",
+  "hitPoints": {
+    "average": 117
+  },
+  "race": "ELEMENTAL",
+  "size": "Medium elemental",
+  "speed": "30 ft., fly 30 ft. (hover)",
+  "senses": "darkvision 60 ft., passive Perception 10",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Auran", "one language of its creator's choice"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Weapons.",
+      "description": "The myrmidon's weapon attacks are magical. Actions",
+      "recharge": null
+    },
+    {
+      "name": "Multiattack.",
+      "description": "The myrmidon makes three flail attacks.",
+      "recharge": null
+    },
+    {
+      "name": "Flail.",
+      "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

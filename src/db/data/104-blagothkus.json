@@ -1,0 +1,70 @@
+{
+  "id": "blagothkus",
+  "_index": 104,
+  "name": "Blagothkus",
+  "abilityScores": {
+    "STR": {
+      "score": 26,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (splint)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 138,
+    "roll": "12d12+60"
+  },
+  "race": "GIANT",
+  "size": "Huge giant (cloud giant)",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic", "Giant"],
+  "skills": ["Arcana +7", "Insight +6", "Intimidation +6", "Perception +6"],
+  "savingThrows": ["Con +9", "Wis +6", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "Blagothkus has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Blagothkus can innately cast the following spells (spell save DC 15), requiring no material components:\n* 3/day each: fog cloud, levitate",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells prepared from the wizard spell list:\n* Cantrips (at will): light, mage hand, prestidigitation\n* 1st level (4 slots): detect magic, identify, magic missile, shield\n* 2nd level (3 slots): gust of wind, misty step, shatter\n* 3rd level (2 slots): fly, lightning bolt",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,69 @@
+{
+  "id": "dhergoloth",
+  "_index": 206,
+  "name": "Dhergoloth",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "7 (2900 XP)",
+  "hitPoints": {
+    "average": 119
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (yugoloth)",
+  "speed": "30 ft.",
+  "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 10",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Abyssal", "Infernal", "telepathy 60 ft."],
+  "skills": [],
+  "savingThrows": ["Str +6"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The dhergoloth's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:\n* At will: darkness, fear\n* 3/day: sleep",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The dhergoloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The dhergoloth's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

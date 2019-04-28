@@ -1,0 +1,65 @@
+{
+  "id": "quickling",
+  "_index": 660,
+  "name": "Quickling",
+  "abilityScores": {
+    "STR": {
+      "score": 4,
+      "mod": -3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 23,
+      "mod": 6,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 10,
+    "roll": "3d4+3"
+  },
+  "race": "FEY",
+  "size": "Tiny fey",
+  "speed": "120 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Sylvan"],
+  "skills": ["Acrobatics +8", "Perception +5", "Sleight of Hand +8", "Stealth +8"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Blurred Movement.",
+      "description": "Attack rolls against the quickling have disadvantage unless the quickling is incapacitated or restrained.",
+      "recharge": null
+    },
+    {
+      "name": "Evasion.",
+      "description": "If the quickling is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

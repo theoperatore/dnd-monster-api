@@ -1,0 +1,79 @@
+{
+  "id": "elder_tempest",
+  "_index": 283,
+  "name": "Elder Tempest",
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 28,
+      "mod": 9,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 21,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "19",
+  "challengeRating": "23 (50,000 XP)",
+  "hitPoints": {
+    "average": 264
+  },
+  "race": "ELEMENTAL",
+  "size": "Gargantuan elemental",
+  "speed": "0 ft., fly 120 ft. (hover)",
+  "senses": "darkvision 60 ft., passive Perception 15",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": ["Wis +12", "Cha +11"],
+  "abilities": [
+    {
+      "name": "Air Form.",
+      "description": "The tempest can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    },
+    {
+      "name": "Flyby.",
+      "description": "The tempest doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the tempest fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Living Storm.",
+      "description": "The tempest is always at the center of a storm 1d6 + 4 miles in diameter. Heavy precipitation in the form of either rain or snow falls there, causing the area to be lightly obscured. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom (Perception) checks that rely on hearing.\nIn addition, strong winds swirl in the area covered by the storm. The winds impose disadvantage on ranged attack rolls. The winds extinguish open flames and disperse fog.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The tempest deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

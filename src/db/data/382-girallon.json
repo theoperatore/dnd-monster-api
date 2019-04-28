@@ -1,0 +1,65 @@
+{
+  "id": "girallon",
+  "_index": 382,
+  "name": "Girallon",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 59,
+    "roll": "7d10+21"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "40 ft., climb 40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": [],
+  "skills": ["Perception +3", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "Volo's Guide to Monsters, p. 152",
+      "recharge": null
+    },
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the girallon can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "swarm_of_rot_grubs",
+  "_index": 777,
+  "name": "Swarm of Rot Grubs",
+  "abilityScores": {
+    "STR": {
+      "score": 2,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 7,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 2,
+      "mod": -4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "8",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "SWARM",
+  "size": "Medium swarm",
+  "speed": "5 ft., climb 5 ft.",
+  "senses": "blindsight 10 ft.",
+  "source": "volos-guide",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

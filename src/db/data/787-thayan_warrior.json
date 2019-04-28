@@ -1,0 +1,70 @@
+{
+  "id": "thayan_warrior",
+  "_index": 787,
+  "name": "Thayan Warrior",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
+  "armorClass": "16 (chain shirt, shield)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d8+16"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Common", "Thayan"],
+  "skills": ["Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 246",
+      "recharge": null
+    },
+    {
+      "name": "Doomvault Devotion.",
+      "description": "Within the Doomvault, the warrior has advantage on saving throws against being charmed or frightened .",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

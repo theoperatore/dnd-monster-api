@@ -1,0 +1,65 @@
+{
+  "id": "invisible_stalker",
+  "_index": 476,
+  "name": "Invisible Stalker",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "14",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 104,
+    "roll": "16d8+32"
+  },
+  "race": "ELEMENTAL",
+  "size": "Medium elemental",
+  "speed": "50 ft., fly 50 ft. (hover)",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Auran", "understands Common but doesn't speak it"],
+  "skills": ["Perception +8", "Stealth +10"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Invisibility.",
+      "description": "The stalker is invisible.",
+      "recharge": null
+    },
+    {
+      "name": "Faultless Tracker.",
+      "description": "The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/invisible-stalker.jpg"
+}

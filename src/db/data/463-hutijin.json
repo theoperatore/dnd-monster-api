@@ -1,0 +1,84 @@
+{
+  "id": "hutijin",
+  "_index": 463,
+  "name": "Hutijin",
+  "abilityScores": {
+    "STR": {
+      "score": 27,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 23,
+      "mod": 6,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 19,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "21 (33,000 XP)",
+  "hitPoints": {
+    "average": 200
+  },
+  "race": "FIEND",
+  "size": "Large fiend (devil)",
+  "speed": "30 ft., fly 60 ft.",
+  "senses": "truesight 120 ft., passive Perception 21",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Intimidation +14", "Perception +11"],
+  "savingThrows": ["Dex +9", "Con +14", "Wis +11"],
+  "abilities": [
+    {
+      "name": "Infernal Despair.",
+      "description": "Each creature within 15 feet of Hutijin that isn't a devil makes saving throws with disadvantage.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Hutijin's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:\n* At will: alter self (can become Medium when changing his appearance), animate dead, detect magic, hold monster, invisibility (self only), lightning bolt, suggestion, wall of fire\n* 3/day: dispel magic\n* 1/day each: heal, symbol (hopelessness only)",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Hutijin fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Hutijin has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Hutijin's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "Hutijin regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Hutijin dies only if he starts his turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "death_kiss",
+  "_index": 185,
+  "name": "Death Kiss",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 161,
+    "roll": "17d10+68"
+  },
+  "race": "ABERRATION",
+  "size": "Large aberration",
+  "speed": "0 ft., fly 30 ft. (hover)",
+  "senses": "darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Deep Speech", "Undercommon"],
+  "skills": ["Perception +5"],
+  "savingThrows": ["Con +8", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Lightning Blood.",
+      "description": "A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}
