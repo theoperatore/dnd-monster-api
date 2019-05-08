@@ -1,0 +1,95 @@
+{
+  "id": "yuan-ti_mind_whisperer",
+  "_index": 912,
+  "name": "Yuan-ti Mind Whisperer",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "YUAN_TI",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 71,
+    "roll": "13d8+13"
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity (shapechanger",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft. (penetrates magical darkness)",
+  "source": "volos-guide",
+  "languages": ["Abyssal", "Common", "Draconic"],
+  "skills": ["Deception +5", "Stealth +4"],
+  "savingThrows": ["Wis +4", "Cha +5"],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:\nAt will: animal friendship (snakes only)\n3/day: suggestion",
+      "recharge": "(Yuan-ti Form Only)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The yuan-ti has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Mind Fangs",
+      "description": "The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) psychic damage to the target.",
+      "recharge": "(2/Day)."
+    },
+    {
+      "name": "Spellcasting",
+      "description": "The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:\nCantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll),friends, message, minor illusion, poison spray, prestidigitation\n1st-3rd level (2 3rd-level slots): charm person, crown of madness, detect thoughts, expeditious retreat, fly, hypnotic pattern, illusory script",
+      "recharge": "(Yuan-ti Form Only)."
+    },
+    {
+      "name": "Sseth's Blessing.",
+      "description": "When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti gains 9 temporary hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Chameleon Skin.",
+      "description": "The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Shed Skin",
+      "description": "The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.",
+      "recharge": "(1/Day)."
+    }
+  ],
+  "image": null
+}

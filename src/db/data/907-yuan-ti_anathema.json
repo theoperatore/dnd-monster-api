@@ -1,0 +1,95 @@
+{
+  "id": "yuan-ti_anathema",
+  "_index": 907,
+  "name": "Yuan-ti Anathema",
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "YUAN_TI",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "12 (8,400 XP)",
+  "hitPoints": {
+    "average": 189,
+    "roll": "18d12+72"
+  },
+  "race": "MONSTROSITY",
+  "size": "Huge monstrosity (shapechanger",
+  "speed": "40 ft., climb 30 ft., swim 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Abyssal", "Common", "Draconic"],
+  "skills": ["Perception +7", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The anathema's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:\nAt will: animal friendship (snakes only)\n3/day each: darkness, entangle, fear, haste, suggestion, polymorph\n1/day: divine word",
+      "recharge": "(Anathema Form Only)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The anathema has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Ophidiophobia Aura.",
+      "description": "Any creature of the anathema's choice, other than a snake or a yuan-ti, that starts its turn within 30 feet of the anathema and can see or hear it must succeed on a DC 17 Wisdom saving throw or become frightened of snakes and yuan-ti. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this aura for the next 24 hours.",
+      "recharge": null
+    },
+    {
+      "name": "Shapechanger.",
+      "description": "The anathema can use its action to polymorph into a Huge giant constrictor snake, or back into its true form. its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.",
+      "recharge": null
+    },
+    {
+      "name": "Six Heads.",
+      "description": "The anathema has advantage on Wisdom (Perception) checks and on saving throws against being blinded. charmed, deafened, frightened, stunned, or knocked unconscious.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Acid Slime.",
+      "description": "As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes 5 (1d10) acid damage.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Chameleon Skin.",
+      "description": "The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Shed Skin",
+      "description": "The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.",
+      "recharge": "(1/Day)."
+    }
+  ],
+  "image": null
+}

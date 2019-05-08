@@ -1,0 +1,70 @@
+{
+  "id": "meenlock",
+  "_index": 542,
+  "name": "Meenlock",
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 31,
+    "roll": "7d6+7"
+  },
+  "race": "FEY",
+  "size": "Small fey",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["telepathy 120 ft."],
+  "skills": ["Perception +4", "Stealth +6", "Survival +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fear Aura.",
+      "description": "Any beast or humanoid that starts its turn within 10 feet of the meenlock must succeed on a DC 11 Wisdom saving throw or be frightened until the start of the creature's next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Light Sensitivity.",
+      "description": "While in bright light, the meenlock has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Shadow Teleport",
+      "description": "As a bonus action, the meenlock can teleport to an unoccupied space within 30 feet of it, provided that both the space it's teleporting from and its destination are in dim light or darkness. The destination need not be within line of sight.",
+      "recharge": "(Recharge 5-6)."
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "yuan-ti_broodguard",
+  "_index": 908,
+  "name": "Yuan-ti Broodguard",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "7d8+14"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (yuan-ti)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Abyssal", "Common", "Draconic"],
+  "skills": ["Perception +2"],
+  "savingThrows": ["Str +4", "Dex +4", "Wis +2"],
+  "abilities": [
+    {
+      "name": "Mental Resistance.",
+      "description": "The broodguard has advantage on saving throws against being charmed, and magic can't paralyze it.",
+      "recharge": null
+    },
+    {
+      "name": "Reckless.",
+      "description": "At the start of its turn, the broodguard can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Chameleon Skin.",
+      "description": "The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Shed Skin",
+      "description": "The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.",
+      "recharge": "(1/Day)."
+    }
+  ],
+  "image": null
+}

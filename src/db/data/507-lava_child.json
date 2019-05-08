@@ -1,0 +1,60 @@
+{
+  "id": "lava_child",
+  "_index": 507,
+  "name": "Lava Child",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "11",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (lava child)",
+  "speed": "25 ft, climb 20 ft.",
+  "senses": "darkvision 60 ft., passive Perception 10",
+  "source": "dungeon-of-the-mad-mage",
+  "languages": ["Common", "Ignan"],
+  "skills": ["Athletics +6", "Survival +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Metal Immunity.",
+      "description": "The lava child can move through metal without hindrance, and it has advantage on attack rolls against any creature wearing metal armor or using a metal shield.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

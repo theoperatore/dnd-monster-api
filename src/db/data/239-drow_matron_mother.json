@@ -1,0 +1,84 @@
+{
+  "id": "drow_matron_mother",
+  "_index": 239,
+  "name": "Drow Matron Mother",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 21,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (half plate)",
+  "challengeRating": "20 (25,000 XP)",
+  "hitPoints": {
+    "average": 262
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft., passive Perception 21",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Elvish", "Undercommon"],
+  "skills": ["Insight +11", "Perception +11", "Religion +9", "Stealth +10"],
+  "savingThrows": ["Con +9", "Wis +11", "Cha +12"],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The drow's innate spellcasting ability is Charisma (spell save DC 20). She can innately cast the following spells, requiring no material components:\n* At will: dancing lights, detect magic\n* 1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire , levitate (self only), suggestion",
+      "recharge": null
+    },
+    {
+      "name": "Lolth's Fickle Favor.",
+      "description": "As a bonus action, the matron can bestow the Spider Queen's blessing on one ally she can see within 30 feet of her. The ally takes 7 (2d6) psychic damage but has advantage on the next attack roll it makes until the end of its next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The drow has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The drow is a 20th-level spellcaster. Her spellcasting ability is Wisdom. The drow has the following cleric spells prepared:\n* Cantrips (at will): guidance, mending, resistance, sacred flame , thaumaturgy\n* 1st level (4 slots): bane, command, cure wounds, guiding bolt\n* 2nd level (3 slots): hold person, silence, spiritual weapon\n* 3rd level (3 slots): bestow curse, clairvoyance, dispel magic, spirit guardians\n* 4th level (3 slots): banishment, death ward, freedom of movement, guardian of faith\n* 5th level (3 slots): contagion, flame strike , geas, mass cure wounds\n* 6th level (2 slots): blade barrier, harm\n* 7th level (2 slots): divine word, plane shift\n* 8th level (1 slot): holy aura\n* 9th level (1 slot): gate",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

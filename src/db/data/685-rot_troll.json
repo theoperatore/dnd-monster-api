@@ -1,0 +1,59 @@
+{
+  "id": "rot_troll",
+  "_index": 685,
+  "name": "Rot Troll",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 138
+  },
+  "race": "GIANT",
+  "size": "Large giant",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 13",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Giant"],
+  "skills": ["Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Rancid Degeneration.",
+      "description": "At the end of each of the troll's turns, each creature within 5 feet of it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire damage since the end of its last turn.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

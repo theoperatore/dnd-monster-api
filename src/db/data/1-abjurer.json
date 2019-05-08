@@ -1,4 +1,7 @@
 {
+  "id": "abjurer",
+  "_index": 1,
+  "name": "Abjurer",
   "abilityScores": {
     "STR": {
       "score": 9,
@@ -33,26 +36,19 @@
   },
   "alignment": "ANY_ALIGNMENT",
   "armorClass": "12 (15 with mage armor)",
-  "challengeRating": "9",
+  "challengeRating": "9 (5,000 XP)",
   "hitPoints": {
     "average": 84,
     "roll": "13d8+26"
   },
   "race": "HUMANOID",
-  "size": "MEDIUM",
+  "size": "Medium humanoid (any race)",
   "speed": "30 ft.",
+  "senses": null,
   "source": "volos-guide",
-  "languages": [
-    "any four languages"
-  ],
-  "skills": [
-    "Arcana +8",
-    "History +8"
-  ],
-  "savingThrows": [
-    "Int +8",
-    "Wis +5"
-  ],
+  "languages": ["any four languages"],
+  "skills": ["Arcana +8", "History +8"],
+  "savingThrows": ["Int +8", "Wis +5"],
   "abilities": [
     {
       "name": "Spellcasting.",
@@ -65,14 +61,5 @@
       "recharge": null
     }
   ],
-  "id": "abjurer",
-  "_index": 1,
-  "name": "Abjurer",
-  "image": null,
-  "_tags": [
-    "medium",
-    "humanoid",
-    "cr9",
-    "volos-guide"
-  ]
+  "image": null
 }

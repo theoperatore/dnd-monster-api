@@ -1,0 +1,59 @@
+{
+  "id": "sword_wraith_warrior",
+  "_index": 782,
+  "name": "Sword Wraith Warrior",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (chain shirt, shield)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 45
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 9",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["the languages it knew in life"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Martial Fury.",
+      "description": "As a bonus action, the sword wraith can make one weapon attack. If it does so, attack rolls against it have advantage until the start of its next turn.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

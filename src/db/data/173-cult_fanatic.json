@@ -1,0 +1,65 @@
+{
+  "id": "cult_fanatic",
+  "_index": 173,
+  "name": "Cult Fanatic",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_NON_GOOD_ALIGNMENT",
+  "armorClass": "13 (leather armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Deception +4", "Persuasion +4", "Religion +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dark Devotion.",
+      "description": "The fanatic has advantage on saving throws against being charmed or frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:\nCantrips (at will): light, sacred flame, thaumaturgy\n* 1st level (4 slots): command, inflict wounds, shield of faith\n* 2nd level (3 slots): hold person, spiritual weapon",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/cult-fanatic.jpg"
+}

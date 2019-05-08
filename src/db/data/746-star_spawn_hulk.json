@@ -1,0 +1,59 @@
+{
+  "id": "star_spawn_hulk",
+  "_index": 746,
+  "name": "Star Spawn Hulk",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "10 (5900 XP)",
+  "hitPoints": {
+    "average": 136
+  },
+  "race": "ABERRATION",
+  "size": "Large aberration",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 15",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Deep Speech"],
+  "skills": ["Perception +5"],
+  "savingThrows": ["Dex +3", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Psychic Mirror.",
+      "description": "If the hulk takes psychic damage, each creature within 10 feet of the hulk takes that damage instead; the hulk takes none of the damage. In addition, the hulk's thoughts and location can't be discerned by magic.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

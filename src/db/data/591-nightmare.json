@@ -1,0 +1,65 @@
+{
+  "id": "nightmare",
+  "_index": 591,
+  "name": "Nightmare",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 68,
+    "roll": "8d10+24"
+  },
+  "race": "FIEND",
+  "size": "Large fiend",
+  "speed": "60 ft., fly 90 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["understands Abyssal", "Common", "and Infernal but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Confer Fire Resistance.",
+      "description": "The nightmare can grant resistance to fire damage to anyone riding it.",
+      "recharge": null
+    },
+    {
+      "name": "Illumination.",
+      "description": "The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/nightmare.jpg"
+}

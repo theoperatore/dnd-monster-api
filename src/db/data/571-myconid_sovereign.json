@@ -1,0 +1,65 @@
+{
+  "id": "myconid_sovereign",
+  "_index": 571,
+  "name": "Myconid Sovereign",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_NEUTRAL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d10+16"
+  },
+  "race": "PLANT",
+  "size": "Large plant",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Distress Spores.",
+      "description": "When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.",
+      "recharge": null
+    },
+    {
+      "name": "Sun Sickness.",
+      "description": "While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

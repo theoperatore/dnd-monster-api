@@ -1,0 +1,70 @@
+{
+  "id": "duergar_darkhaft",
+  "_index": 244,
+  "name": "Duergar Darkhaft",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (scale mail, shield)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 26,
+    "roll": "4d8+8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (dwarf)",
+  "speed": "25 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "out-of-the-abyss",
+  "languages": ["Dwarvish", "Undercommon"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The darkhaft's innate spellcasting ability is Intelligence (spell save DC 10) it can innately cast the following spells, requiring no components:\nAt will: friends, mage hand\n1/day each: disguise self, sleep",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Duergar Resilience.",
+      "description": "The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

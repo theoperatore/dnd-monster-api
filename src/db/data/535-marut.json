@@ -1,0 +1,74 @@
+{
+  "id": "marut",
+  "_index": 535,
+  "name": "Marut",
+  "abilityScores": {
+    "STR": {
+      "score": 28,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_NEUTRAL",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "25 (75,000 XP)",
+  "hitPoints": {
+    "average": 432
+  },
+  "race": "CONSTRUCT",
+  "size": "Large construct (inevitable)",
+  "speed": "40 ft., fly 30 ft. (hover)",
+  "senses": "darkvision 60 ft., passive Perception 20",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all but rarely speaks"],
+  "skills": ["Insight +10", "Intimidation +12", "Perception +10"],
+  "savingThrows": ["Int +12", "Wis +10", "Cha +12"],
+  "abilities": [
+    {
+      "name": "Immutable Form.",
+      "description": "The marut is immune to any spell or effect that would alter its form.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The marut's innate spellcasting ability is Intelligence. The marut can innately cast the following spell, requiring no material components.\nAt will: plane shift (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the marut fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The marut has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

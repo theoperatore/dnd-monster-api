@@ -1,0 +1,59 @@
+{
+  "id": "water_elemental_myrmidon",
+  "_index": 855,
+  "name": "Water Elemental Myrmidon",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "7 (2900 XP)",
+  "hitPoints": {
+    "average": 127
+  },
+  "race": "ELEMENTAL",
+  "size": "Medium elemental",
+  "speed": "40 ft., swim 40 ft.",
+  "senses": "darkvision 60 ft., passive Perception 10",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Aquan", "one language of its creator's choice"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Weapons.",
+      "description": "The myrmidon's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

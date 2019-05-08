@@ -1,0 +1,65 @@
+{
+  "id": "darz_helgar",
+  "_index": 183,
+  "name": "Darz Helgar",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "12",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d8+5"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (illuskan human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common"],
+  "skills": ["Intimidation +2", "Sleight of Hand +4", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Sneak Attack",
+      "description": "Darz deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Darz that isn't incapacitated and Darz doesn't have disadvantage on the attack roll.",
+      "recharge": "(1/turn)."
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "In his youth, Darz was a member of the Xanathar Thieves' Guild in Waterdeep. After serving ten years in prison for his crimes, he cut all ties to the city and moved north to be a campground caretaker.\nIdeal: \"You csan run from your past, but you can't hide from it.\"\nBond: \"I've made a new life in Triboar. I'm not gonna run away this time. \"\nFlaw: \"I have no regrets. I do whatever it takes to survive.\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

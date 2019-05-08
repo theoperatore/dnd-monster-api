@@ -1,0 +1,80 @@
+{
+  "id": "kuo-toa_monitor",
+  "_index": 502,
+  "name": "Kuo-Toa Monitor",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13 (natural armor, unarmored defense)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 65,
+    "roll": "10d8+20"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (kuo-toa)",
+  "speed": "33 ft., swim 30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Undercommon"],
+  "skills": ["Perception +6", "Religion +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The kuo-toa can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Otherwordly Perception.",
+      "description": "The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.",
+      "recharge": null
+    },
+    {
+      "name": "Slippery.",
+      "description": "The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Unarmored Defense.",
+      "description": "The kuo-toa adds its Wisdom modifier to its armor class.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

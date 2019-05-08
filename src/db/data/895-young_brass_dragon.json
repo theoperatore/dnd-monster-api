@@ -1,0 +1,54 @@
+{
+  "id": "young_brass_dragon",
+  "_index": 895,
+  "name": "Young Brass Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 110,
+    "roll": "13d10+39"
+  },
+  "race": "DRAGON",
+  "size": "Large dragon",
+  "speed": "40 ft., burrow 20 ft., fly 80 ft.",
+  "senses": "blindsight 30 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Perception +6", "Persuasion +5", "Stealth +3"],
+  "savingThrows": ["Dex +3", "Con +6", "Wis +3", "Cha +5"],
+  "abilities": [],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/young-brass-dragon.jpg"
+}

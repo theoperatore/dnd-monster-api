@@ -1,0 +1,65 @@
+{
+  "id": "scaladar",
+  "_index": 697,
+  "name": "Scaladar",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "8 (8,900 XP)",
+  "hitPoints": {
+    "average": 94,
+    "roll": "7d12 + 49"
+  },
+  "race": "CONSTRUCT",
+  "size": "Huge construct",
+  "speed": "30 ft., clmb 20 ft.",
+  "senses": "darkvision 60 ft., passive Perception 11",
+  "source": "dungeon-of-the-mad-mage",
+  "languages": ["—"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Lightning Absorption.",
+      "description": "Whenever the scaladar is subjected to lightning damage, it takes no damage, and its sting deals an extra 11 (2d10) lightning damage until the end of its next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Scaladar Link.",
+      "description": "The scaladar knows the location of other scaladar within 100 feet of it, and it can sense when any of them take damage.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

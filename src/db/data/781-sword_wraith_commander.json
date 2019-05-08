@@ -1,0 +1,64 @@
+{
+  "id": "sword_wraith_commander",
+  "_index": 781,
+  "name": "Sword Wraith Commander",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (breastplate, shield)",
+  "challengeRating": "8 (3900 XP)",
+  "hitPoints": {
+    "average": 127
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 14",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["the languages it knew in life"],
+  "skills": ["Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Martial Fury.",
+      "description": "As a bonus action, the sword wraith can make one weapon attack, which deals an extra 9 (2d8) necrotic damage on a hit. If it does so, attack rolls against it have advantage until the start of its next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Turning Defiance.",
+      "description": "The sword wraith and any other sword wraiths within 30 feet of it have advantage on saving throws against effects that turn undead.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

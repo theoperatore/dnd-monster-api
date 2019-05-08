@@ -1,0 +1,64 @@
+{
+  "id": "stone_defender",
+  "_index": 759,
+  "name": "Stone Defender",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "4 (1100 XP)",
+  "hitPoints": {
+    "average": 52
+  },
+  "race": "CONSTRUCT",
+  "size": "Medium construct",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 10",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["understands one language of its creator but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the stone defender remains motionless against an uneven earthen or stone surface, it is indistinguishable from that surface.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The stone defender has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "sildar_hallwinter",
+  "_index": 720,
+  "name": "Sildar Hallwinter",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD",
+  "armorClass": "16 (chain mail)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d8+5"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "lost-mine-of-phandelver",
+  "languages": ["Common"],
+  "skills": ["Perception +2"],
+  "savingThrows": ["Str +3", "Con +3"],
+  "abilities": [],
+  "image": null
+}

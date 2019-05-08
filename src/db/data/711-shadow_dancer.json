@@ -1,0 +1,64 @@
+{
+  "id": "shadow_dancer",
+  "_index": 711,
+  "name": "Shadow Dancer",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "7 (2900 XP)",
+  "hitPoints": {
+    "average": 71
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 11",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common", "Elvish"],
+  "skills": ["Stealth +6"],
+  "savingThrows": ["Dex +6", "Cha +4"],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The shadow dancer has advantage on saving throws against being charmed, and magic can't put it to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Shadow Jump.",
+      "description": "As a bonus action, the shadow dancer can teleport up to 30 feet to an unoccupied space it can see. Both the space it teleports from and the space it teleports to must be in dim light or darkness. The shadow dancer can use this ability between the weapon attacks of another action it takes.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

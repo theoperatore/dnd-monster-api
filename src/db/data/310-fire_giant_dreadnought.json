@@ -1,0 +1,60 @@
+{
+  "id": "fire_giant_dreadnought",
+  "_index": 310,
+  "name": "Fire Giant Dreadnought",
+  "abilityScores": {
+    "STR": {
+      "score": 27,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "21 (plate, shields)",
+  "challengeRating": "14 (11,500 XP)",
+  "hitPoints": {
+    "average": 187,
+    "roll": "15d12+90"
+  },
+  "race": "GIANT",
+  "size": "Huge giant (fire giant)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["Giant"],
+  "skills": ["Athletics +13", "Perception +5"],
+  "savingThrows": ["Dex +4", "Con +11", "Cha +5"],
+  "abilities": [
+    {
+      "name": "Dual Shields.",
+      "description": "The giant carries two shields, each of which is accounted for in the giant's AC. The giant must stow or drop one of its shields to hurl rocks.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

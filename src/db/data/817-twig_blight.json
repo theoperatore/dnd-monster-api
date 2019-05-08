@@ -1,0 +1,60 @@
+{
+  "id": "twig_blight",
+  "_index": 817,
+  "name": "Twig Blight",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 4,
+    "roll": "1d6+1"
+  },
+  "race": "PLANT",
+  "size": "Small plant",
+  "speed": "20 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "monster-manual",
+  "languages": ["understands Common but can't speak"],
+  "skills": ["Stealth +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the blight remains motionless, it is indistinguishable from a dead shrub.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/twig-blight.jpg"
+}

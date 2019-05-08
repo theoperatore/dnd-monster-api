@@ -1,0 +1,65 @@
+{
+  "id": "ancient_gold_dragon",
+  "_index": 36,
+  "name": "Ancient Gold Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 29,
+      "mod": 9,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 28,
+      "mod": 9,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "24 (62,000 XP)",
+  "hitPoints": {
+    "average": 546,
+    "roll": "28d20+252"
+  },
+  "race": "DRAGON",
+  "size": "Gargantuan dragon",
+  "speed": "40 ft., fly 80 ft., swim 40 ft.",
+  "senses": "blindsight 60 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Insight +10", "Perception +17", "Persuasion +16", "Stealth +9"],
+  "savingThrows": ["Dex +9", "Con +16", "Wis +10", "Cha +16"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ancient-gold-dragon.jpg"
+}

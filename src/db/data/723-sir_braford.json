@@ -1,0 +1,75 @@
+{
+  "id": "sir_braford",
+  "_index": 723,
+  "name": "Sir Braford",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "18 (chain mail, shield)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 19,
+    "roll": "3d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Common"],
+  "skills": ["Athletics +S", "Perception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 243",
+      "recharge": null
+    },
+    {
+      "name": "Barkskin.",
+      "description": "Sir Braford's AC can't be lower than 16.",
+      "recharge": null
+    },
+    {
+      "name": "Special Equipment.",
+      "description": "Sir Braford wields Shatterspike, a magic longsword that grants a + 1 bonus to attack and damage rolls made with it (included in his attack). See appendix B for the item's other properties.",
+      "recharge": null
+    },
+    {
+      "name": "Tree Thrall.",
+      "description": "If the Gulthias Tree dies, Sir Braford dies 24 hours later.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

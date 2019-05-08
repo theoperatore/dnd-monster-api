@@ -1,0 +1,90 @@
+{
+  "id": "vampire_spellcaster",
+  "_index": 825,
+  "name": "Vampire Spellcaster",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "15 (13,000 XP)",
+  "hitPoints": {
+    "average": 144,
+    "roll": "17d8+68"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead (shapechanger)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["the languages it knew in life"],
+  "skills": ["Perception +7", "Stealth +9"],
+  "savingThrows": ["Dex +9", "Wis +7", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.\nWhile in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.\nWhile in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the vampire fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Misty Escape.",
+      "description": "When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.\nWhile it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Vampire Weaknesses.",
+      "description": "The vampire has the following flaws:\nForbiddance. The vampire can't enter a residence without an invitation from one of the occupants.\nHarmed by Running Water. The vampire takes 20 acid damage if it ends its turn in running water.\nStake to the Heart. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.\nSunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The vampire has the following wizard spells prepared:\n* Cantrips (at will): mage hand, prestidigitation, ray of frost\n* 1st level (4 slots): comprehend languages, fog cloud, sleep\n* 2nd level (3 slots): detect thoughts, gust of wind, mirror image\n* 3rd level (3 slots): animate dead, bestow curse, nondetection\n* 4th level (3 slots): blight, greater invisibility\n* 5th level (1 slot): dominate person",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

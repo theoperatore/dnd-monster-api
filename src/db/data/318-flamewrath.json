@@ -1,0 +1,65 @@
+{
+  "id": "flamewrath",
+  "_index": 318,
+  "name": "Flamewrath",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 105,
+    "roll": "14d8+42"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Common", "Ignan"],
+  "skills": ["Arcana +3", "Religion +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells:\n* Cantrips (at will): control flames, fire bolt, friends, light, minor illusion\n* 1st level (4 slots): burning hands, color spray, mage armor\n* 2nd level (3 slots): scorching ray, suggestion\n* 3rd level (3 slots): fireball, hypnotic pattern\n* 4th level (1 slot): fire shield (see Wreathed in Flame)",
+      "recharge": null
+    },
+    {
+      "name": "Wreathed in Flame.",
+      "description": "For the flamewrath, the warm version of the fire shield spell has a duration of \"until dispelled.\" The fire shield burns for 10 minutes after the flamewrath dies, consuming its body.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

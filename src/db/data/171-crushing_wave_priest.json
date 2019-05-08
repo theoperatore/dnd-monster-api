@@ -1,0 +1,60 @@
+{
+  "id": "crushing_wave_priest",
+  "_index": 171,
+  "name": "Crushing Wave Priest",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13 (chain shirt)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d8+16"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Aquan", "Common"],
+  "skills": ["Deception +5", "Religion +2", "Stealth +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:\n* Cantrips (at will): chill touch, mage hand, minor illusion, prestidigitation, ray of frost\n* 1st level (4 slots): expeditious retreat, ice knife, magic missile, shield\n* 2nd level (3 slots): blur, hold person\n* 3rd level (2 slots): sleet storm",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

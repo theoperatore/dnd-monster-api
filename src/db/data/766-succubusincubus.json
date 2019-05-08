@@ -1,0 +1,65 @@
+{
+  "id": "succubusincubus",
+  "_index": 766,
+  "name": "Succubus/Incubus",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 66,
+    "roll": "12d8+12"
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (shapechanger)",
+  "speed": "30 ft., fly 60 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "Common", "Infernal", "telepathy 60 ft."],
+  "skills": ["Deception +9", "Insight +5", "Perception +5", "Persuasion +9", "Stealth +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Telepathic Bond.",
+      "description": "The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.",
+      "recharge": null
+    },
+    {
+      "name": "Shapechanger.",
+      "description": "The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

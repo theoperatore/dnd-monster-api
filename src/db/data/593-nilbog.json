@@ -1,0 +1,70 @@
+{
+  "id": "nilbog",
+  "_index": 593,
+  "name": "Nilbog",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13 (leather armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 7,
+    "roll": "2d6"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (goblinoid)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Goblin"],
+  "skills": ["Stealth +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The nilbog's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:\nAt will: mage hand, Tasha's hideous laughter, vicious mockery 1/day: confusion",
+      "recharge": null
+    },
+    {
+      "name": "Nilbogism.",
+      "description": "Any creature that attempts to damage the nilbog must first succeed on a DC 12 Charisma saving throw or be charmed until the end of the creature's next turn. A creature charmed in this way must use its action praising the nilbog. The nilbog can't regain hit points, including through magical healing, except through its Reversal of Fortune reaction.",
+      "recharge": null
+    },
+    {
+      "name": "Nimble Escape.",
+      "description": "The nilbog can take the Disengage or Hide action as a bonus action on each of its turns.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,60 @@
+{
+  "id": "air_elemental_myrmidon",
+  "_index": 21,
+  "name": "Air Elemental Myrmidon",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 117,
+    "roll": "18d8+36"
+  },
+  "race": "ELEMENTAL",
+  "size": "Medium elemental",
+  "speed": "30 ft., fly 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "elemental-evil",
+  "languages": ["Auran", "one language of its creator's choice"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Weapons.",
+      "description": "The myrmidon's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": "clay_golem",
+  "_index": 154,
+  "name": "Clay Golem",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 133,
+    "roll": "14d10+56"
+  },
+  "race": "CONSTRUCT",
+  "size": "Large construct",
+  "speed": "20 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["understands the languages of its creator but can't speak"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Acid Absorption.",
+      "description": "Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.",
+      "recharge": null
+    },
+    {
+      "name": "Berserk.",
+      "description": "Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Immutable Form.",
+      "description": "The golem is immune to any spell or effect that would alter its form.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The golem has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The golem's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/clay-golem.jpg"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "steel_predator",
+  "_index": 751,
+  "name": "Steel Predator",
+  "abilityScores": {
+    "STR": {
+      "score": 24,
+      "mod": 7,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "16 (15,000 XP)",
+  "hitPoints": {
+    "average": 207
+  },
+  "race": "CONSTRUCT",
+  "size": "Large construct",
+  "speed": "40 ft.",
+  "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 17",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["understands Modron and the language of its owner but can't speak"],
+  "skills": ["Perception +7", "Stealth +8", "Survival +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The steel predator's innate spellcasting ability is Wisdom. The steel predator can innately cast the following spells, requiring no components:\n3/day each: dimension door (self only), plane shift (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The steel predator has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The steel predator's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

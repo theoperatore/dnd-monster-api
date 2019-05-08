@@ -1,0 +1,65 @@
+{
+  "id": "werewolf",
+  "_index": 863,
+  "name": "Werewolf",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "SHAPECHANGER",
+  "armorClass": "11 (in humanoid form, 12 in wolf or hybrid form)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 58,
+    "roll": "9d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human",
+  "speed": "30 ft. (40 ft. in wolf form)",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Common (can't speak in wolf form)"],
+  "skills": ["Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/werewolf.jpg"
+}

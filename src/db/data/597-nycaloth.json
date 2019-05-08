@@ -1,0 +1,70 @@
+{
+  "id": "nycaloth",
+  "_index": 597,
+  "name": "Nycaloth",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 123,
+    "roll": "13d10+52"
+  },
+  "race": "FIEND",
+  "size": "Large fiend (yugoloth)",
+  "speed": "40 ft., fly 60 ft.",
+  "senses": "blindsight 60 ft., darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "Infernal", "telepathy 60 ft."],
+  "skills": ["Intimidation +6", "Perception +4", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:\nAt will: darkness, detect magic, dispel magic, invisibility (self only), mirror image",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The nycaloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The nycaloth's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/nycaloth.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "champion",
+  "_index": 146,
+  "name": "Champion",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "18 (plate)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 143,
+    "roll": "22d8+44"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Athletics +9", "Intimidation +5", "Perception +6"],
+  "savingThrows": ["Str +9", "Con +6"],
+  "abilities": [
+    {
+      "name": "Indomitable",
+      "description": "The champion rerolls a failed saving throw.",
+      "recharge": "(2/Day)."
+    },
+    {
+      "name": "Second Wind",
+      "description": "As a bonus action, the champion can regain 20 hit points.",
+      "recharge": "(Recharges after a Short or Long Rest)."
+    }
+  ],
+  "image": null
+}

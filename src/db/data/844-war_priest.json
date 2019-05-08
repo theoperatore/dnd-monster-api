@@ -1,0 +1,60 @@
+{
+  "id": "war_priest",
+  "_index": 844,
+  "name": "War Priest",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "18 (plate)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 117,
+    "roll": "18d8+36"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any two languages"],
+  "skills": ["Intimidation +5", "Religion +4"],
+  "savingThrows": ["Con +6", "Wis +7"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:\nCantrips (at will): light, mending, sacred flame, spare the dying\n1st level (4 slots): divine favor, guiding bolt, healing word, shield of faith\n2nd level (3 slots): lesser restoration, magic weapon, prayer of healing, silence, spiritual weapon\n3rd level (3 slots): beacon of hope, crusader's mantle, dispel magic, revivify, spirit guardians, water wall\n4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin\n5th level (1 slot): flame strike, mass cure wounds, hold monster",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

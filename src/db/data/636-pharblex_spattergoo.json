@@ -1,0 +1,80 @@
+{
+  "id": "pharblex_spattergoo",
+  "_index": 636,
+  "name": "Pharblex Spattergoo",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (studded leather armor, shield)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 59,
+    "roll": "7d8+28"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (bullywug)",
+  "speed": "20 ft., swim 40 ft.",
+  "senses": null,
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Bullywug"],
+  "skills": ["Perception +5", "Religion +2", "Stealth +3"],
+  "savingThrows": ["Str +4", "Con +6"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "Pharblex can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Poison Strike",
+      "description": "Once per turn, when Pharblex hits with a melee attack, he can expend a use of this trait to deal an extra 9 (2d8) poison damage.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells prepared from the druid spell list:\n* Cantrips (at will): druidcraft, guidance, poison spray\n* 1st level (4 slots): cure wounds, entangle, healing word, thunderwave\n* 2nd level (3 slots): barkskin, beast sense, spike growth\n* 3rd level (3 slots): plant growth, water walk",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "As part of his movement and without a running start, Pharblex can long jump up to 20 feet and high jump up to 10 feet.",
+      "recharge": null
+    },
+    {
+      "name": "Swamp Camouflage.",
+      "description": "Pharblex has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

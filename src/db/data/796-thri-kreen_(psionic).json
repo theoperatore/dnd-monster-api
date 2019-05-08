@@ -1,0 +1,70 @@
+{
+  "id": "thri-kreen_(psionic)",
+  "_index": 796,
+  "name": "Thri-kreen (Psionic)",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (thri-kreen)",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Thri-kreen", "telepathy 60 ft."],
+  "skills": ["Perception +3", "Stealth +4", "Survival +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Chameleon Carapace.",
+      "description": "The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity (Stealth) checks made to hide.",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The thri-kreen's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The thri-kreen's innate spellcasting ability is Wisdom. The thri-kreen can innately cast the following spells, requiring no components:\nAt will: mage hand (the hand is invisible)\n2/day each: blur, magic weapon\n1/day: invisibility (self only)",
+      "recharge": "(Psionics)."
+    }
+  ],
+  "image": null
+}

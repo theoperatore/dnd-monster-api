@@ -1,0 +1,60 @@
+{
+  "id": "ixitxachitl_cleric",
+  "_index": 479,
+  "name": "Ixitxachitl Cleric",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d6+4"
+  },
+  "race": "ABERRATION",
+  "size": "Small aberration",
+  "speed": "0 ft., swim 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "out-of-the-abyss",
+  "languages": ["Abyssal", "Ixitxachitl"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The ixtachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachitl has the following cleric spells prepared:\nCantrips (at will): guidance, thaumaturgy\n1st level (4 slots): charm person, create or destroy water\n2nd level (3 slots): hold person, silence\n3rd level (2 slots): dispel magic, tongues",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

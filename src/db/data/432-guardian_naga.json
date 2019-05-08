@@ -1,0 +1,65 @@
+{
+  "id": "guardian_naga",
+  "_index": 432,
+  "name": "Guardian Naga",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 19,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 127,
+    "roll": "15d10+45"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Celestial", "Common"],
+  "skills": [],
+  "savingThrows": ["Dex +8", "Con +7", "Int +7", "Wis +8", "Cha +8"],
+  "abilities": [
+    {
+      "name": "Rejuvenation.",
+      "description": "If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:\n* Cantrips (at will): mending, sacred flame, thaumaturgy\n* 1st level (4 slots): command, cure wounds, shield of faith\n* 2nd level (3 slots): calm emotions, hold person\n* 3rd level (3 slots): bestow curse, clairvoyance\n* 4th level (3 slots): banishment, freedom of movement\n* 5th level (2 slots): flame strike, geas\n* 6th level (1 slot): true seeing",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/guardian-naga.jpg"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "darkling",
+  "_index": 181,
+  "name": "Darkling",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "14 (leather armor)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 13,
+    "roll": "3d6+3"
+  },
+  "race": "FEY",
+  "size": "Small fey",
+  "speed": "30 ft.",
+  "senses": "blindsight 30 ft., darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Elvish", "Sylvan"],
+  "skills": ["Acrobatics +5", "Deception +2", "Perception +5", "Stealth +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Death Flash.",
+      "description": "When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area and able to see the bright light must succeed on a DC 10 Constitution saving throw or be blinded until the end of the creature's next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Light Sensitivity.",
+      "description": "While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

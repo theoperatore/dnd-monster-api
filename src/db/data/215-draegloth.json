@@ -1,0 +1,65 @@
+{
+  "id": "draegloth",
+  "_index": 215,
+  "name": "Draegloth",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 123,
+    "roll": "13d10+52"
+  },
+  "race": "FIEND",
+  "size": "Large fiend (demon)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Abyssal", "Elvish", "Undercommon"],
+  "skills": ["Perception +3", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The draegloth's innate spellcasting ability is Charisma (spell save DC 11). The draegloth can innately cast the following spells, requiring no material components:\nAt will: darkness\n1/day each: confusion, dancing lights, faerie fire",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

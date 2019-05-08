@@ -1,0 +1,54 @@
+{
+  "id": "frost_giant",
+  "_index": 330,
+  "name": "Frost Giant",
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 9,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (patchwork armor)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 138,
+    "roll": "12d12+60"
+  },
+  "race": "GIANT",
+  "size": "Huge giant",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Giant"],
+  "skills": ["Athletics +9", "Perception +3"],
+  "savingThrows": ["Con +8", "Wis +3", "Cha +4"],
+  "abilities": [],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/frost-giant.jpg"
+}

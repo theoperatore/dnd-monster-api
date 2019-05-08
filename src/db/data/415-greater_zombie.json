@@ -1,0 +1,75 @@
+{
+  "id": "greater_zombie",
+  "_index": 415,
+  "name": "Greater Zombie",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 97,
+    "roll": "13d8+39"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["understands the languages it knew in life but can't speak"],
+  "skills": [],
+  "savingThrows": ["Wis + 1"],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 237",
+      "recharge": null
+    },
+    {
+      "name": "Undead Nature.",
+      "description": "A zombie doesn't require air, food, drink, or sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Turn Resistance.",
+      "description": "The zombie has advantage on saving throws against any effect that turns undead.",
+      "recharge": null
+    },
+    {
+      "name": "Undead Fortitude.",
+      "description": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

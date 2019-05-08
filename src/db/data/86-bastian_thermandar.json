@@ -1,0 +1,65 @@
+{
+  "id": "bastian_thermandar",
+  "_index": 86,
+  "name": "Bastian Thermandar",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (fire genasi)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "elemental-evil",
+  "languages": ["Common", "Ignan"],
+  "skills": ["Arcana +3", "Deception +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Bastian's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:\n* At will: produce flame\n* 1/day: burning hands",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Bastian knows the following sorcerer spells:\n* Cantrips (at will): fire bolt, mage hand, message, prestidigitation, shocking grasp\n* 1st level (4 slots): mage armor, magic missile, shield\n* 2nd level (3 slots): misty step, scorching ray\n* 3rd level (3 slots): counterspell, fireball\n* 4th level (3 slots): dimension door, wall of fire\n* 5th level (1 slot): hold monster",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

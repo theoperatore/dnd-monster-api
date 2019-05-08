@@ -1,0 +1,75 @@
+{
+  "id": "death_knight",
+  "_index": 186,
+  "name": "Death Knight",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "20 (plate, shield)",
+  "challengeRating": "17 (18,000 XP)",
+  "hitPoints": {
+    "average": 180,
+    "roll": "19d8+95"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "Common"],
+  "skills": [],
+  "savingThrows": ["Dex +6", "Wis +9", "Cha +10"],
+  "abilities": [
+    {
+      "name": "Undead Nature.",
+      "description": "A death knight doesn't require air, food, drink, or sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The death knight has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Marshal Undead.",
+      "description": "Unless the death knight is incapacitated, it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The death knight is a 19th-level spell caster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared:\n* 1st level (4 slots): command, compelled duel, searing smite\n* 2nd level (3 slots): hold person, magic weapon\n* 3rd level (3 slots): dispel magic, elemental weapon\n* 4th level (3 slots): banishment, staggering smite\n* 5th level (2 slots): destructive wave (necrotic)",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

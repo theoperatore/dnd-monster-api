@@ -1,0 +1,60 @@
+{
+  "id": "beldora",
+  "_index": 92,
+  "name": "Beldora",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "12",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 18,
+    "roll": "4d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (illuskan human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Draconic", "Dwarvish", "Halfling"],
+  "skills": ["Deception +5", "Insight +3", "Investigation +5", "Perception +5", "Persuasion +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Roleplaying Information.",
+      "description": "Beldora is a member of the harpers who survives using her wits and wiles. She looks like a homeless waif, but she's a survivor who shies away from material wealth.\nIdeal: \"We should all strive to help one another\"\nBond: \"I'll risk my life to protect the powerless.\"\nFlaw: \"I like lying to people. Makes life more interesting, no?\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

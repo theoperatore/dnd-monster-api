@@ -1,0 +1,69 @@
+{
+  "id": "eidolon",
+  "_index": 279,
+  "name": "Eidolon",
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 9,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 19,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "9",
+  "challengeRating": "12 (8400 XP)",
+  "hitPoints": {
+    "average": 63
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "0 ft., fly 40 ft. (hover)",
+  "senses": "darkvision 60 ft., passive Perception 18",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["the languages it knew in life"],
+  "skills": ["Perception +8"],
+  "savingThrows": ["Wis +8"],
+  "abilities": [
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object other than a sacred statue.",
+      "recharge": null
+    },
+    {
+      "name": "Sacred Animation",
+      "description": "When the eidolon moves into a space occupied by a sacred statue, the eidolon can disappear, causing the statue to become a creature under the eidolon's control. The eidolon uses the sacred statue's statistics in place of its own.",
+      "recharge": "(Recharge 5-6)."
+    },
+    {
+      "name": "Turn Resistance.",
+      "description": "The eidolon has advantage on saving throws against any effect that turns undead.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

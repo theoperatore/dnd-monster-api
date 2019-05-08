@@ -1,0 +1,70 @@
+{
+  "id": "shadow_assassin",
+  "_index": 706,
+  "name": "Shadow Assassin",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d8 + 24"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft., passive Perception 19",
+  "source": "dungeon-of-the-mad-mage",
+  "languages": ["understands the languages it knew in life but can’t speak"],
+  "skills": ["Perception +9", "Stealth +12"],
+  "savingThrows": ["Dex +8", "Int +5"],
+  "abilities": [
+    {
+      "name": "Amorphous.",
+      "description": "The assassin can move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    },
+    {
+      "name": "Shadow Stealth.",
+      "description": "While in dim light or darkness, the assassin can take the Hide action as a bonus action.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Weakness.",
+      "description": "While in sunlight, the assassin has disadvantage on attack rolls, ability checks, and saving throws.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

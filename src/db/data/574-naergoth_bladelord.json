@@ -1,0 +1,60 @@
+{
+  "id": "naergoth_bladelord",
+  "_index": 574,
+  "name": "Naergoth Bladelord",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "11 (7,200 XP)",
+  "hitPoints": {
+    "average": 135,
+    "roll": "18d8+54"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Perception +6", "Stealth +5"],
+  "savingThrows": ["Dex +5", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, Naergoth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

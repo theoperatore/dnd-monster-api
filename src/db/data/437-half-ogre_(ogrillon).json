@@ -1,0 +1,54 @@
+{
+  "id": "half-ogre_(ogrillon)",
+  "_index": 437,
+  "name": "Half-Ogre (Ogrillon)",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_CHAOTIC_ALIGNMENT",
+  "armorClass": "12 (hide armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 30,
+    "roll": "4d10+8"
+  },
+  "race": "GIANT",
+  "size": "Large giant",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Giant"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

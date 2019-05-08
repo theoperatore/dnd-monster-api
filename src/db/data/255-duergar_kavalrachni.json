@@ -1,0 +1,69 @@
+{
+  "id": "duergar_kavalrachni",
+  "_index": 255,
+  "name": "Duergar Kavalrachni",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (scale mail, shield)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 26
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (dwarf)",
+  "speed": "25 ft.",
+  "senses": "darkvision 120 ft., passive Perception 10",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Dwarvish", "Undercommon"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Cavalry Training.",
+      "description": "When the duergar hits a target with a melee attack while mounted on a female steeder, the steeder can make one melee attack against the same target as a reaction.",
+      "recharge": null
+    },
+    {
+      "name": "Duergar Resilience.",
+      "description": "The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

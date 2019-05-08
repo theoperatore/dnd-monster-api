@@ -1,0 +1,65 @@
+{
+  "id": "orc_war_chief",
+  "_index": 620,
+  "name": "Orc War Chief",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (chain mail)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 93,
+    "roll": "11d8+44"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (orc)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Orc"],
+  "skills": ["Intimidation +5"],
+  "savingThrows": ["Str +6", "Con +6", "Wis +2"],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Gruumsh's Fury.",
+      "description": "The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

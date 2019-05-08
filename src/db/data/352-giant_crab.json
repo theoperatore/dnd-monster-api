@@ -1,0 +1,60 @@
+{
+  "id": "giant_crab",
+  "_index": 352,
+  "name": "Giant Crab",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 13,
+    "roll": "3d8"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": "blindsight 30 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The crab can breathe air and water.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

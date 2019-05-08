@@ -1,0 +1,64 @@
+{
+  "id": "star_spawn_larva_mage",
+  "_index": 747,
+  "name": "Star Spawn Larva Mage",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "16 (15,000 XP)",
+  "hitPoints": {
+    "average": 168
+  },
+  "race": "ABERRATION",
+  "size": "Medium aberration",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 16",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Deep Speech"],
+  "skills": ["Perception +6"],
+  "savingThrows": ["Dex +6", "Wis +6", "Cha +8"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The larva mage's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:\n* At will: eldritch blast (3 beams, +3 bonus to each damage roll), minor illusion\n* 3/day: dominate monster\n* 1/day: circle of death",
+      "recharge": null
+    },
+    {
+      "name": "Return to Worms.",
+      "description": "When the larva mage is reduced to 0 hit points, it breaks apart into a swarm of insects in the same space. Unless the swarm is destroyed, the larva mage reforms from it 24 hours later.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

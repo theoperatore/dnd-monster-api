@@ -1,0 +1,64 @@
+{
+  "id": "githzerai_anarch",
+  "_index": 392,
+  "name": "Githzerai Anarch",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 21,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_NEUTRAL",
+  "armorClass": "20",
+  "challengeRating": "16 (15,000 XP)",
+  "hitPoints": {
+    "average": 144
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (gith)",
+  "speed": "30 ft., fly 40 ft. (hover)",
+  "senses": "passive Perception 20",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Gith"],
+  "skills": ["Arcana +9", "Insight +10", "Perception +10"],
+  "savingThrows": ["Str +8", "Dex +10", "Int +9", "Wis +10"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The anarch's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:\n* At will: mage hand (the hand is invisible)\n* 3/day each: feather fall, jump, see invisibility, shield, telekinesis\n* 1/day each: globe of invulnerability, plane shift, teleportation circle, wall of force",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Psychic Defense.",
+      "description": "While the anarch is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

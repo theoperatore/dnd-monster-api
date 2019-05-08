@@ -1,0 +1,60 @@
+{
+  "id": "awakened_tree",
+  "_index": 62,
+  "name": "Awakened Tree",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 6,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 59,
+    "roll": "7d12+14"
+  },
+  "race": "PLANT",
+  "size": "Huge plant",
+  "speed": "20 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["one language known by its creator"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the tree remains motionless, it is indistinguishable from a normal tree.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

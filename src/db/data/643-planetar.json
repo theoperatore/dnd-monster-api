@@ -1,0 +1,75 @@
+{
+  "id": "planetar",
+  "_index": 643,
+  "name": "Planetar",
+  "abilityScores": {
+    "STR": {
+      "score": 24,
+      "mod": 7,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 24,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 22,
+      "mod": 6,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "16 (15,000 XP)",
+  "hitPoints": {
+    "average": 200,
+    "roll": "16d10+112"
+  },
+  "race": "CELESTIAL",
+  "size": "Large celestial",
+  "speed": "40 ft., fly 120 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Perception +11"],
+  "savingThrows": ["Con +12", "Wis +11", "Cha +12"],
+  "abilities": [
+    {
+      "name": "Angelic Weapons.",
+      "description": "The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).",
+      "recharge": null
+    },
+    {
+      "name": "Divine Awareness.",
+      "description": "The planetar knows if it hears a lie.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:\nAt will: detect evil and good, invisibility (self only)\n3/day each: blade barrier, dispel evil and good, flame strike, raise dead\n1/day each: commune, control weather, insect plague",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The planetar has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/planetar.jpg"
+}

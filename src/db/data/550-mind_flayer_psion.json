@@ -1,0 +1,72 @@
+{
+  "id": "mind_flayer_psion",
+  "_index": 550,
+  "name": "Mind Flayer Psion",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (breastplate)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 71,
+    "roll": "13d8+13"
+  },
+  "race": "ABERRATION",
+  "size": "Medium aberration",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Deep Speech", "Undercommon", "telepathy 120 ft."],
+  "skills": [
+    "Arcana +7",
+    "Deception +6",
+    "Insight +6",
+    "Perception +6",
+    "Persuasion +6",
+    "Stealth +4"
+  ],
+  "savingThrows": ["Int +7", "Wis +6", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The mind flayer has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The mind flayer is a 10th-level spellcaster. Its innate spellcasting ability is Intelligence (spell save DC 15; +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:\nAt will: guidance, mage hand, vicious mockery, true strike\n1st-level (4 slots): charm person, command, comprehend languages, sanctuary\n2nd level (3 slots): crown of madness, phantasmal force, see invisibility\n3rd level (3 slots): clairvoyance, fear, meld into stone\n4th level (3 slots): confusion, stone shape\n5th level (2 slots): scrying, telekinesis",
+      "recharge": "(Psionics)."
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "red_slaad",
+  "_index": 670,
+  "name": "Red Slaad",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 93,
+    "roll": "11d10+33"
+  },
+  "race": "ABERRATION",
+  "size": "Large aberration",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Slaad", "telepathy 60 ft."],
+  "skills": ["Perception +1"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The slaad has advantage on saving throws against spells and other magical effects",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Control Gem.",
+      "description": "Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being charmed while so controlled.\nCertain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A wish spell, if cast in the slaad's presence, can be worded to acquire the gem.\nA greater restoration spell cast on the slaad destroys the gem without harming the slaad.\nSomeone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (4d10) psychic damage to the slaad.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

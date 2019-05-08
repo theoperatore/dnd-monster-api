@@ -1,0 +1,60 @@
+{
+  "id": "awakened_shrub",
+  "_index": 61,
+  "name": "Awakened Shrub",
+  "abilityScores": {
+    "STR": {
+      "score": 3,
+      "mod": -4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "9",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 10,
+    "roll": "3d6"
+  },
+  "race": "PLANT",
+  "size": "Small plant",
+  "speed": "20 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["one language known by its creator"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the shrub remains motionless, it is indistinguishable from a normal shrub.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

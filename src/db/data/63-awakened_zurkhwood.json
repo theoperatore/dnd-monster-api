@@ -1,0 +1,65 @@
+{
+  "id": "awakened_zurkhwood",
+  "_index": 63,
+  "name": "Awakened Zurkhwood",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 6,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 59,
+    "roll": "7d12+14"
+  },
+  "race": "PLANT",
+  "size": "Huge plant",
+  "speed": "20 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "out-of-the-abyss",
+  "languages": ["one language known by its creator"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the tree remains motionless, it is indistinguishable from a normal zurkhwood mushroom.",
+      "recharge": null
+    },
+    {
+      "name": "Mute.",
+      "description": "If the awakened zurkhwood was created by a myconid sovereign, it can't speak.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

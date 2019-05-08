@@ -1,0 +1,70 @@
+{
+  "id": "giant_octopus",
+  "_index": 364,
+  "name": "Giant Octopus",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "11",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d10+8"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "10 ft., swim 60 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +4", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "While out of water, the octopus can hold its breath for 1 hour.",
+      "recharge": null
+    },
+    {
+      "name": "Underwater Camouflage.",
+      "description": "The octopus has advantage on Dexterity (Stealth) checks made while underwater.",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The octopus can breathe only underwater.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/giant-octopus.jpg"
+}

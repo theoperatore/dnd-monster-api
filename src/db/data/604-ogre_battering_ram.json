@@ -1,0 +1,59 @@
+{
+  "id": "ogre_battering_ram",
+  "_index": 604,
+  "name": "Ogre Battering Ram",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14 (ring mail)",
+  "challengeRating": "4 (1100 XP)",
+  "hitPoints": {
+    "average": 59
+  },
+  "race": "GIANT",
+  "size": "Large giant",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft., passive Perception 8",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common", "Giant"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Siege Monster.",
+      "description": "The ogre deals double damage to objects and structures.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

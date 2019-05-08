@@ -1,0 +1,75 @@
+{
+  "id": "severin",
+  "_index": 705,
+  "name": "Severin",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "16",
+  "challengeRating": "11 (7,200 XP)",
+  "hitPoints": {
+    "average": 150,
+    "roll": "20d8+60"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": "While wearing the Mask of the Dragon Queen: darkvision 60 ft.",
+  "source": "tyranny-of-dragons",
+  "languages": ["Common", "Draconic", "Infernal"],
+  "skills": ["Arcana +7", "Religion +7"],
+  "savingThrows": ["Dex +5", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Special Equipment.",
+      "description": "Severin has the Mask of the Dragon Queen.",
+      "recharge": null
+    },
+    {
+      "name": "Draconic Majesty.",
+      "description": "Severin adds his Charisma bonus to his AC (included).",
+      "recharge": null
+    },
+    {
+      "name": "Ignite Enemy.",
+      "description": "If Severin deals fire damage to a creature while wearing the Mask of the Dragon Queen, the target catches fire. At the start of each of its turns, the burning target takes 5 (1d10) fire damage. A creature within reach of the fire can use an action to extinguish it.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "While wearing the Mask of the Dragon Queen, if Severin fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(5/Day)."
+    }
+  ],
+  "image": null
+}

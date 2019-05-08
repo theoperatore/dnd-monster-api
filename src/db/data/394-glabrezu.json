@@ -1,0 +1,65 @@
+{
+  "id": "glabrezu",
+  "_index": 394,
+  "name": "Glabrezu",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 157,
+    "roll": "15d10+75"
+  },
+  "race": "FIEND",
+  "size": "Large fiend (demon)",
+  "speed": "40 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "telepathy 120 ft."],
+  "skills": [],
+  "savingThrows": ["Str +9", "Con +9", "Wis +7", "Cha +7"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:\nAt will: darkness, detect magic, dispel magic\n1/day each: confusion, fly, power word stun",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The glabrezu has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/glabrezu.jpg"
+}

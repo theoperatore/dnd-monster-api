@@ -1,0 +1,72 @@
+{
+  "id": "mind_flayer",
+  "_index": 551,
+  "name": "Mind Flayer",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (breastplate)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 71,
+    "roll": "13d8+13"
+  },
+  "race": "ABERRATION",
+  "size": "Medium aberration",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Deep Speech", "Undercommon", "telepathy 120 ft."],
+  "skills": [
+    "Arcana +7",
+    "Deception +6",
+    "Insight +6",
+    "Perception +6",
+    "Persuasion +6",
+    "Stealth +4"
+  ],
+  "savingThrows": ["Int +7", "Wis +6", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The mind flayer has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:\nAt will: detect thoughts, levitate\n1/day each: dominate monster, plane shift (self only)",
+      "recharge": "(Psionics)."
+    }
+  ],
+  "image": null
+}

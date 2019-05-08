@@ -1,0 +1,60 @@
+{
+  "id": "blink_dog",
+  "_index": 105,
+  "name": "Blink Dog",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "13",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "4d8+4"
+  },
+  "race": "FEY",
+  "size": "Medium fey",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Blink Dog", "understands Sylvan but can't speak it"],
+  "skills": ["Perception +3", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/blink-dog.jpg"
+}

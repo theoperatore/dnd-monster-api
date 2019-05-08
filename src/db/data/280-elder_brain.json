@@ -1,0 +1,85 @@
+{
+  "id": "elder_brain",
+  "_index": 280,
+  "name": "Elder Brain",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 21,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 19,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 24,
+      "mod": 7,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "10",
+  "challengeRating": "14 (11,500 XP)",
+  "hitPoints": {
+    "average": 210,
+    "roll": "20d10+100"
+  },
+  "race": "ABERRATION",
+  "size": "Large aberration",
+  "speed": "5ft., swim 10 ft.",
+  "senses": "blindsight 120 ft.",
+  "source": "volos-guide",
+  "languages": [
+    "understands Common",
+    "Deep Speech",
+    "and Undercommon but can't speak",
+    "telepathy 5 miles"
+  ],
+  "skills": ["Arcana +10", "Deception +12", "Insight +14", "Intimidation +12", "Persuasion +12"],
+  "savingThrows": ["Int +10", "Wis +9", "Cha +12"],
+  "abilities": [
+    {
+      "name": "Creature Sense.",
+      "description": "The elder brain is aware of the presence of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature. as well as each one's intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell. a nondetection spell, or similar magic can't be perceived in this manner.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting",
+      "description": "The elder brain's innate spellcasting ability is Intelligence (spell save DC 18). It can innately cast the following spells, requiring no components:\nAt will: detect thoughts, levitate\n1/day each: dominate monster, plane shift (self only)",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the elder brain fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The elder brain has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Telepathic Hub.",
+      "description": "The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

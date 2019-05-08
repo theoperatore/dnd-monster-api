@@ -1,0 +1,69 @@
+{
+  "id": "red_abishai",
+  "_index": 671,
+  "name": "Red Abishai",
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "22 (natural armor)",
+  "challengeRating": "19 (22,000 XP)",
+  "hitPoints": {
+    "average": 255
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (devil)",
+  "speed": "30 ft., fly 50 ft.",
+  "senses": "darkvision 120 ft., passive Perception 18",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Draconic", "Infernal", "telepathy 120 ft."],
+  "skills": ["Intimidation +10", "Perception +8"],
+  "savingThrows": ["Str +12", "Con +10", "Wis +8"],
+  "abilities": [
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede the abishai's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The abishai has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The abishai's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

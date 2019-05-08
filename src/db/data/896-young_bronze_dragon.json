@@ -1,0 +1,60 @@
+{
+  "id": "young_bronze_dragon",
+  "_index": 896,
+  "name": "Young Bronze Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 142,
+    "roll": "15d10+60"
+  },
+  "race": "DRAGON",
+  "size": "Large dragon",
+  "speed": "40 ft., fly 80 ft., swim 40 ft.",
+  "senses": "blindsight 30 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Insight +4", "Perception +7", "Stealth +3"],
+  "savingThrows": ["Dex +3", "Con +7", "Wis +4", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The dragon can breathe air and water.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/young-bronze-dragon.jpg"
+}

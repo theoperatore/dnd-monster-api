@@ -1,0 +1,59 @@
+{
+  "id": "star_spawn_grue",
+  "_index": 745,
+  "name": "Star Spawn Grue",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "11",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 17
+  },
+  "race": "ABERRATION",
+  "size": "Small aberration",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 10",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Deep Speech"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Aura of Madness.",
+      "description": "Creatures within 20 feet of the grue that aren't aberrations have disadvantage on saving throws, as well as on attack rolls against creatures other than a star spawn grue.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

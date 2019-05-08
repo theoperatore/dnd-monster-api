@@ -1,0 +1,59 @@
+{
+  "id": "the_wretched",
+  "_index": 793,
+  "name": "The Wretched",
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 9,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 10
+  },
+  "race": "MONSTROSITY",
+  "size": "Small monstrosity",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft., passive Perception 8",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Wretched Pack Tactics.",
+      "description": "The Wretched has advantage on an attack roll against a creature if at least one of the Wretched's allies is within 5 feet of the creature and the ally isn't incapacitated. The Wretched otherwise has disadvantage on attack rolls.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

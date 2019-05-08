@@ -1,0 +1,75 @@
+{
+  "id": "firenewt_warlock_of_imix",
+  "_index": 314,
+  "name": "Firenewt Warlock of Imix",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "10 (13 with mage armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (firenewt)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft. (penetrates magical darkness)",
+  "source": "volos-guide",
+  "languages": ["Draconic", "Ignan"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The firenewt can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The firenewt's innate spellcasting ability is Charisma. It can innately cast mage armor (self only) at will, requiring no material components.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The firenewt is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:\nCantrips (at will): fire bolt, guidance, light, mage hand, prestidigitation\n1st-2nd level (2 2nd-level slots): burning hands, flaming sphere, hellish rebuke, scorching ray",
+      "recharge": null
+    },
+    {
+      "name": "Imix's Blessing.",
+      "description": "When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": "star_spawn_mangler",
+  "_index": 748,
+  "name": "Star Spawn Mangler",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14",
+  "challengeRating": "5 (1800 XP)",
+  "hitPoints": {
+    "average": 71
+  },
+  "race": "ABERRATION",
+  "size": "Medium aberration",
+  "speed": "40 ft., climb 40 ft.",
+  "senses": "darkvision 60 ft., passive Perception 11",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Deep Speech"],
+  "skills": ["Stealth +7"],
+  "savingThrows": ["Dex +7", "Con +4"],
+  "abilities": [
+    {
+      "name": "Ambush.",
+      "description": "On the first round of each combat, the mangler has advantage on attack rolls against a creature that hasn't taken a turn yet.",
+      "recharge": null
+    },
+    {
+      "name": "Shadow Stealth.",
+      "description": "While in dim light or darkness, the mangler can take the Hide action as a bonus action.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

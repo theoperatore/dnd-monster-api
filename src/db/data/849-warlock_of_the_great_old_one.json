@@ -1,0 +1,70 @@
+{
+  "id": "warlock_of_the_great_old_one",
+  "_index": 849,
+  "name": "Warlock of the Great Old One",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 91,
+    "roll": "14d8+28"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["any two languages", "telepathy 30 ft."],
+  "skills": ["Arcana +4", "History +4"],
+  "savingThrows": ["Wis +4", "Cha +7"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:\nAt will: detect magic, jump, levitate, mage armor (self only), speak with dead\n1/day each: arcane gate, true seeing",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The warlock is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:\nCantrips (at will): chill touch, eldritch blast, guidance, mage hand, minor illusion, prestidigitation, shocking grasp\n1st-5th level (3 5th-level slots): armor of Agathys, arms of Hadar, crown of madness, clairvoyance, contact other plane, detect thoughts, dimension door, dissonant whispers, dominate beast, telekinesis, vampiric touch",
+      "recharge": null
+    },
+    {
+      "name": "Whispering Aura.",
+      "description": "At the start of each of the warlock's turns, each creature of its choice within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage, provided that the warlock isn't incapacitated.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

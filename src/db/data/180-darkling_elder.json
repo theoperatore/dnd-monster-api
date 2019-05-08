@@ -1,0 +1,60 @@
+{
+  "id": "darkling_elder",
+  "_index": 180,
+  "name": "Darkling Elder",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "15 (studded leather armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 27,
+    "roll": "5d8+5"
+  },
+  "race": "FEY",
+  "size": "Medium fey",
+  "speed": "30 ft.",
+  "senses": "blindsight 30 ft., darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Elvish", "Sylvan"],
+  "skills": ["Acrobatics +5", "Deception +3", "Perception +6", "Stealth +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Death Burn.",
+      "description": "When the darkling elder dies, magical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must make a DC 11 Constitution saving throw. On a failure, the creature takes 7 (2d6) radiant damage and, if the creature can see the light, is blinded until the end of its next turn. If the saving throw is successful, the creature takes half the damage and isn't blinded.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

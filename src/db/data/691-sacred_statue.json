@@ -1,0 +1,69 @@
+{
+  "id": "sacred_statue",
+  "_index": 691,
+  "name": "Sacred Statue",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 8,
+      "mod": -1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 19,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "AS_THE_EIDOLON'S_ALIGNMENT",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "0 (0 XP)",
+  "hitPoints": {
+    "average": 95
+  },
+  "race": "CONSTRUCT",
+  "size": "Large construct",
+  "speed": "25 ft.",
+  "senses": "darkvision 60 ft., passive Perception 14",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["the languages the eidolon knew in life"],
+  "skills": [],
+  "savingThrows": ["Wis +8"],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the statue remains motionless, it is indistinguishable from a normal statue.",
+      "recharge": null
+    },
+    {
+      "name": "Ghostly Inhabitant.",
+      "description": "The eidolon that enters the sacred statue remains inside it until the statue drops to 0 hit points, the eidolon uses a bonus action to move out of the statue, or the eidolon is turned or forced out by an effect such as the dispel evil and good spell. When the eidolon leaves the statue, it appears in an unoccupied space within 5 feet of the statue.",
+      "recharge": null
+    },
+    {
+      "name": "Inert.",
+      "description": "When not inhabited by an eidolon, the statue is an object.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

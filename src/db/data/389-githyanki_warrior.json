@@ -1,0 +1,59 @@
+{
+  "id": "githyanki_warrior",
+  "_index": 389,
+  "name": "Githyanki Warrior",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "17 (half plate)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 49
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (gith)",
+  "speed": "30 ft.",
+  "senses": "passive Perception 11",
+  "source": "monster-manual",
+  "languages": ["Gith"],
+  "skills": [],
+  "savingThrows": ["Con +3", "Int +3", "Wis +3"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:\n* At will: mage hand (the hand is invisible)\n* 3/day each: jump, misty step, nondetection (self only)",
+      "recharge": "(Psionics)."
+    }
+  ],
+  "image": null
+}

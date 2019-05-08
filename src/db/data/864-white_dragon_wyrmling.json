@@ -1,0 +1,54 @@
+{
+  "id": "white_dragon_wyrmling",
+  "_index": 864,
+  "name": "White Dragon Wyrmling",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 5,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d8+10"
+  },
+  "race": "DRAGON",
+  "size": "Medium dragon",
+  "speed": "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.",
+  "senses": "blindsight 10 ft., darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Draconic"],
+  "skills": ["Perception +4", "Stealth +2"],
+  "savingThrows": ["Dex +2", "Con +4", "Wis +2", "Cha +2"],
+  "abilities": [],
+  "image": null
+}

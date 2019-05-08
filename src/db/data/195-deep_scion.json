@@ -1,0 +1,65 @@
+{
+  "id": "deep_scion",
+  "_index": 195,
+  "name": "Deep Scion",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "11",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 67,
+    "roll": "9d8+27"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (shapechanger)",
+  "speed": "30 ft. (20 ft. and swim 40 ft. in hybrid form)",
+  "senses": "darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Aquan", "Common", "thieves' cant"],
+  "skills": ["Deception +6", "Insight +3", "Sleight of Hand +3", "Stealth +3"],
+  "savingThrows": ["Wis +3", "Cha +4"],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The deep scion can use its action to polymorph into a humanoid-piscine hybrid form, or back into its true form. Its statistics, other than its speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. The deep scion reverts to its true form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious",
+      "description": "The deep scion can breathe air and water.",
+      "recharge": "(Hybrid Form Only)."
+    }
+  ],
+  "image": null
+}

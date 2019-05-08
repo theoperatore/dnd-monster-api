@@ -1,0 +1,70 @@
+{
+  "id": "sahuagin_baron",
+  "_index": 692,
+  "name": "Sahuagin Baron",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (breastplate)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 76,
+    "roll": "9d10+27"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (sahuagin)",
+  "speed": "30 ft., swim 50 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Sahuagin"],
+  "skills": ["Perception +7"],
+  "savingThrows": ["Dex +5", "Con +6", "Int +5", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Blood Frenzy.",
+      "description": "The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Limited Amphibiousness.",
+      "description": "The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
+      "recharge": null
+    },
+    {
+      "name": "Shark Telepathy.",
+      "description": "The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

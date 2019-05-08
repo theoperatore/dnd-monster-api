@@ -1,0 +1,64 @@
+{
+  "id": "male_steeder",
+  "_index": 525,
+  "name": "Male Steeder",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12 (natural armor)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 13
+  },
+  "race": "MONSTROSITY",
+  "size": "Medium monstrosity",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "darkvision 120 ft., passive Perception 14",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": ["Stealth +5", "Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spider Climb.",
+      "description": "The steeder can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Extraordinary Leap.",
+      "description": "The distance of the steeder's long jumps is tripled; every foot of its walking speed that it spends on the jump allows it to jump 3 feet.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

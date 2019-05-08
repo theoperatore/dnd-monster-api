@@ -1,0 +1,84 @@
+{
+  "id": "hydroloth",
+  "_index": 465,
+  "name": "Hydroloth",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 21,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 135
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (yugoloth)",
+  "speed": "20 ft., swim 40 ft.",
+  "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Abyssal", "Infernal", "telepathy 60 ft."],
+  "skills": ["Insight +4", "Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The hydroloth can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The hydroloth's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:\n* At will: darkness, detect magic, dispel magic, invisibility (self only), water walk\n* 3/day each: control water, crown of madness, fear, phantasmal killer, suggestion",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The hydroloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The hydroloth's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Secure Memory.",
+      "description": "The hydroloth is immune to the waters of the River Styx as well as any effect that would steal or modify its memories or detect or read its thoughts.",
+      "recharge": null
+    },
+    {
+      "name": "Watery Advantage.",
+      "description": "While submerged in liquid, the hydroloth has advantage on attack rolls.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

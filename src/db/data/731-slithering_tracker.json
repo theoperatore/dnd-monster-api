@@ -1,0 +1,90 @@
+{
+  "id": "slithering_tracker",
+  "_index": 731,
+  "name": "Slithering Tracker",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d8+10"
+  },
+  "race": "OOZE",
+  "size": "Medium ooze",
+  "speed": "30 ft., climb 30 ft., swim 30 ft.",
+  "senses": "blindsight 120 ft.",
+  "source": "volos-guide",
+  "languages": ["understands languages it knew in its previous form but can't speak"],
+  "skills": ["Stealth +8"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ambusher.",
+      "description": "In the first round of a combat, the slithering tracker has advantage on attack rolls against any creature it surprised.",
+      "recharge": null
+    },
+    {
+      "name": "Damage Transfer.",
+      "description": "While grappling a creature, the slithering tracker takes only haIf the damage dealt to it, and the creature it is grappling takes the other half.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the slithering tracker remains motionless, it is indistinguishable from a puddle, unless an observer succeeds on a DC 18 Intelligence (Investigation) check.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Tracker.",
+      "description": "The slithering tracker has advantage on Wisdom checks to track prey.",
+      "recharge": null
+    },
+    {
+      "name": "Liquid Form.",
+      "description": "The slithering tracker can enter an enemy's space and stop there. It can also move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The slithering tracker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Watery Stealth.",
+      "description": "While underwater, the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

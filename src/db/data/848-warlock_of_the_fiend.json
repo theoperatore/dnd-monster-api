@@ -1,0 +1,70 @@
+{
+  "id": "warlock_of_the_fiend",
+  "_index": 848,
+  "name": "Warlock of the Fiend",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["any two languages (usually Abyssal or Infernal)"],
+  "skills": ["Arcana +4", "Deception +7", "Persuasion +7", "Religion +4"],
+  "savingThrows": ["Wis +4", "Cha +7"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:\nAt will: alter self, false life, levitate (self only), mage armor (self only), silent image\n1/day each: feeblemind, finger of death, plane shift",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The warlock is a l7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:\nCantrips (at will): eldritch blast, fire bolt, friends, mage hand, minor illusion, prestidigitation, shocking grasp\n1st-5th level (4 5th-level slots): banishment, burning hands, flame strike, hellish rebuke, magic circle, scorching ray, scrying, stinking cloud, suggestion, wall of fire",
+      "recharge": null
+    },
+    {
+      "name": "Dark One's Own Luck",
+      "description": "When the warlock makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.",
+      "recharge": "(Recharges after a Short or Long Rest)."
+    }
+  ],
+  "image": null
+}

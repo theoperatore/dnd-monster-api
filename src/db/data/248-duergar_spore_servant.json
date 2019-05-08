@@ -1,0 +1,54 @@
+{
+  "id": "duergar_spore_servant",
+  "_index": 248,
+  "name": "Duergar Spore Servant",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "16 (scale armor, shield)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 26,
+    "roll": "4d8+8"
+  },
+  "race": "PLANT",
+  "size": "Medium plant",
+  "speed": "15 ft.",
+  "senses": "blindsight 30 ft. (blind beyond this radius)",
+  "source": "out-of-the-abyss",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

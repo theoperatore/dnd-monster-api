@@ -1,0 +1,65 @@
+{
+  "id": "reef_shark",
+  "_index": 674,
+  "name": "Reef Shark",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 4,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12 (natural armor)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "4d8+4"
+  },
+  "race": "BEAST",
+  "size": "Medium beast",
+  "speed": "swim 40 ft.",
+  "senses": "blindsight 30 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Pack Tactics.",
+      "description": "The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The shark can breathe only underwater.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

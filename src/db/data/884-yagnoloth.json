@@ -1,0 +1,69 @@
+{
+  "id": "yagnoloth",
+  "_index": 884,
+  "name": "Yagnoloth",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "11 (7200 XP)",
+  "hitPoints": {
+    "average": 147
+  },
+  "race": "FIEND",
+  "size": "Large fiend (yugoloth)",
+  "speed": "40 ft.",
+  "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 16",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Abyssal", "Infernal", "telepathy 60 ft."],
+  "skills": ["Deception +8", "Insight +6", "Perception +6", "Persuasion +8"],
+  "savingThrows": ["Dex +6", "Int +7", "Wis +6", "Cha +8"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The yagnoloth's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:\n* At will: darkness, detect magic, dispel magic, invisibility (self only), suggestion\n* 3/day: lightning bolt",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The yagnoloth has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The yagnoloth's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

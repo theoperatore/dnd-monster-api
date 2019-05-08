@@ -1,0 +1,60 @@
+{
+  "id": "duvessa_shane",
+  "_index": 264,
+  "name": "Duvessa Shane",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "10",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 9,
+    "roll": "2d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (illuskan human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Dwarvish", "Giant", "Orc"],
+  "skills": ["Deception +5", "Insight +3", "Persuasion +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Roleplaying Information.",
+      "description": "The daughter of a Waterdhavian trader and a tavern server, Duvessa has her mother's talent for negotiation and her father's charm. As the first woman to serve as Town Speaker of BRyn Shander, and a young one at that, she has much to prove.\nIdeal: \"The people of Icewind Dale are survivors. They can weather any storm.\"\nBond: \"My mother taught me what it means to be a good leader. I won't disappoint her.\"\nFlaw: \"I don't give an inch in any argument of conflict.\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": "annis_hag",
+  "_index": 46,
+  "name": "Annis Hag",
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "6 (2,300 XP)",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d10+20"
+  },
+  "race": "FEY",
+  "size": "Large fey",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Giant", "Sylvan"],
+  "skills": ["Deception +5", "Perception +5"],
+  "savingThrows": ["Con +5"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells:\n3/day each: disguise self (including the form of a Medium humanoid), fog cloud",
+      "recharge": null
+    },
+    {
+      "name": "Hag Coven.",
+      "description": "When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.\n>A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.",
+      "recharge": null
+    },
+    {
+      "name": "Shared Spellcasting",
+      "description": "While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:\n* 1st level (4 slots): identify, ray of sickness\n* 2nd level (3 slots): hold person, locate object\n* 3rd level (3 slots): bestow curse, counterspell, lightning bolt\n* 4th level (3 slots): phantasmal killer, polymorph\n* 5th level (2 slots): contact other plane, scrying\n* 6th level (1 slot): eyebite\n>For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier.",
+      "recharge": "(Coven Only)."
+    },
+    {
+      "name": "Hag Eye",
+      "description": "A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.\n>A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.",
+      "recharge": "(Coven Only)."
+    },
+    {
+      "name": "Variant: Death Coven.",
+      "description": "For a death coven, replace the spell list of the hags' Shared Spellcasting trait with the folllowing spells:\n1st level (4 slots): false life, inflict wounds\n2nd level (3 slots): gentle repose, ray of enfeeblement\n3rd level (3 slots): animate dead, revivify, speak with dead\n4th level (3 slots): blight, death ward\n5th level (2 slots): contagion, raise dead\n6th level (1 slot): circle of death",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Nature Coven.",
+      "description": "For a nature coven, replace the spell list of the hags' Shared Spellcasting trait with the folllowing spells:\n1st level (4 slots): entangle, speak with animals\n2nd level (3 slots): flaming sphere, moonbeam, spike growth\n3rd level (3 slots): call lightning, plant growth\n4th level (3 slots): dominate beast, grasping vine\n5th level (2 slots): insect plague, tree stride\n6th level (1 slot): wall of thorns",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Prophecy Coven.",
+      "description": "For a prophecy coven, replace the spell list of the hags' Shared Spellcasting trait with the folllowing spells:\n1st level (4 slots): bane, bless\n2nd level (3 slots): augury, detect thoughts\n3rd level (3 slots): calirvoyance, dispel magic, nondetection\n4th level (3 slots): arcane eye, locate creature\n5th level (2 slots): geas, legend lore\n6th level (1 slot): true seeing",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

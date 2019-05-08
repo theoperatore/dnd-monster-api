@@ -1,0 +1,65 @@
+{
+  "id": "gladiator",
+  "_index": 395,
+  "name": "Gladiator",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "16 (studded leather, shield)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 112,
+    "roll": "15d8+45"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["any one language (usually Common)"],
+  "skills": ["Athletics +10", "Intimidation +5"],
+  "savingThrows": ["Str +7", "Dex +5", "Con +6"],
+  "abilities": [
+    {
+      "name": "Brave.",
+      "description": "The gladiator has advantage on saving throws against being frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Brute.",
+      "description": "A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

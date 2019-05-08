@@ -1,0 +1,70 @@
+{
+  "id": "thorn_slinger",
+  "_index": 794,
+  "name": "Thorn Slinger",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "11",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d10+5"
+  },
+  "race": "PLANT",
+  "size": "Large plant",
+  "speed": "10 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this radius)",
+  "source": "tales-from-the-yawning-portal",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 246",
+      "recharge": null
+    },
+    {
+      "name": "Adhesive Blossoms.",
+      "description": "The thorn slinger adheres to anything that touches it. A Medium or smaller creature adhered to the thorn slinger is also grappled by it (escape DC 11). Ability checks made to escape this grapple have disadvantage.\n>At the end of each of the thorn slinger's turns, anything grappled by it takes 3 (1d6) acid damage.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the thorn slinger remains motionless, it is indistinguishable from an inanimate bush.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

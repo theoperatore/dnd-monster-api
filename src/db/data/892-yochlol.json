@@ -1,0 +1,80 @@
+{
+  "id": "yochlol",
+  "_index": 892,
+  "name": "Yochlol",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 136,
+    "roll": "16d8+64"
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (demon)",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Abyssal", "Elvish", "Undercommon"],
+  "skills": ["Deception +10", "Insight +6"],
+  "savingThrows": ["Dex +6", "Int +5", "Wis +6", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Shapechanger.",
+      "description": "The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The yochlol has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The yochlol can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:\nAt will: detect thoughts, web\n1/day: dominate person",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The yochlol ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

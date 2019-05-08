@@ -1,0 +1,59 @@
+{
+  "id": "allip",
+  "_index": 26,
+  "name": "Allip",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "13",
+  "challengeRating": "5 (1800 XP)",
+  "hitPoints": {
+    "average": 40
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "0 ft., fly 40 ft. (hover)",
+  "senses": "darkvision 60 ft., passive Perception 15",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["the languages it knew in life"],
+  "skills": ["Perception +5", "Stealth +6"],
+  "savingThrows": ["Int +6", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The allip can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

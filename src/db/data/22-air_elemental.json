@@ -1,0 +1,60 @@
+{
+  "id": "air_elemental",
+  "_index": 22,
+  "name": "Air Elemental",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "15",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 90,
+    "roll": "12d10+24"
+  },
+  "race": "ELEMENTAL",
+  "size": "Large elemental",
+  "speed": "fly 90 ft. (hover)",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Auran"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Air Form.",
+      "description": "The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/air-elemental.jpg"
+}

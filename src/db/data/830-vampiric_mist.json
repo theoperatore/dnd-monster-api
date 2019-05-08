@@ -1,0 +1,85 @@
+{
+  "id": "vampiric_mist",
+  "_index": 830,
+  "name": "Vampiric Mist",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d8+18"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "0 ft., fly 30 ft. (hover)",
+  "senses": "darkvision 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": [],
+  "skills": [],
+  "savingThrows": ["Wis +3"],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 247",
+      "recharge": null
+    },
+    {
+      "name": "Undead Nature.",
+      "description": "A vampiric mist doesn't require air or sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Blood Sense.",
+      "description": "The vampiric mist can sense living creatures that have blood or similar vital fluids in a radius of 60 feet .",
+      "recharge": null
+    },
+    {
+      "name": "Forbiddance.",
+      "description": "The vampiric mist can 't enter a residence without an invitation from one of the occupants.",
+      "recharge": null
+    },
+    {
+      "name": "Misty Form.",
+      "description": "The vampiric mist can occupy another creature's space and vice versa. In addition, if air can pass through a space, the mist can pass through it without squeezing. Each foot of movement in water costs it 2 extra feet, rather than l extra foot. The mist can 't manipulate objects in any way that requires hands; it can apply simple force only.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Hypersensitivity.",
+      "description": "The vampiric mist takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, the mist has disadvantage on attack rolls and ability checks.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

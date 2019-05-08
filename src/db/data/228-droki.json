@@ -1,0 +1,85 @@
+{
+  "id": "droki",
+  "_index": 228,
+  "name": "Droki",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 5,
+      "mod": -3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 31,
+    "roll": "7d6+7"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (derro)",
+  "speed": "30 ft. (60 ft. with boots of speed)",
+  "senses": "darkvision 120 ft.",
+  "source": "out-of-the-abyss",
+  "languages": ["Dwarvish", "Undercommon"],
+  "skills": ["Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Special Equipment.",
+      "description": "Droki wears boots of speed",
+      "recharge": null
+    },
+    {
+      "name": "Insanity.",
+      "description": "Droki has advantage on saving throws against being charmed or frightened.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Droki's innate spellcasting ability is Charisma (spell save DC 13). He can innately cast the following spells, requiring no material components:\nAt will: minor illusion\n1/day each: darkness, fear, shatter",
+      "recharge": null
+    },
+    {
+      "name": "Sneak Attack",
+      "description": "Droki deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage ont he attack roll, or when the target is within 5 feet of an ally of Droki that isn't incapacitated and Droki doesn't have disadvantage on the attack roll.",
+      "recharge": "(1/Turn)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The derro has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

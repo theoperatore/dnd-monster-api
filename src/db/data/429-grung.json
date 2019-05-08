@@ -1,0 +1,75 @@
+{
+  "id": "grung",
+  "_index": 429,
+  "name": "Grung",
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "12",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d6+4"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (grung)",
+  "speed": "25 ft., climb 25 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["Grung"],
+  "skills": ["Athletics +2", "Perception +2", "Stealth +4", "Survival +2"],
+  "savingThrows": ["Dex +4"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The grung can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Poisonous Skin.",
+      "description": "Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Grung Poison.",
+      "description": "Grung poison loses its potency 1 minute after being removed from a grung. A similar breakdown occurs if the grung dies.\n>A creature poisoned by a grung can suffer an additional effect that varies depending on the grung's skin color. This effect lasts until the creature is no longer poisoned by the grung.\nGreen. The poisoned creature can't move except to climb or make standing jumps. If the creature is flying, it can't take any actions or reactions unless it lands.\nBlue. The poisoned creature must shout loudly or otherwise make a loud noise at the start and end of its turn.\nPurple. The poisoned creature feels a desperate need to soak itself in liquid or mud. It can't take actions or move except to do so or to reach a body of liquid or mud.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

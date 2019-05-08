@@ -1,0 +1,89 @@
+{
+  "id": "drow_arachnomancer",
+  "_index": 234,
+  "name": "Drow Arachnomancer",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "13 (10,000 XP)",
+  "hitPoints": {
+    "average": 162
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "blindsight 10 ft., darkvision 120 ft., passive Perception 17",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Elvish", "Undercommon", "can speak with spiders"],
+  "skills": ["Arcana +9", "Nature +9", "Perception +7", "Stealth +8"],
+  "savingThrows": ["Con +7", "Int +9", "Cha +8"],
+  "abilities": [
+    {
+      "name": "Change Shape",
+      "description": "The drow can use a bonus action to magically polymorph into a giant spider, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in giant spider form. Any equipment it is wearing or carrying in humanoid form melds into the giant spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its humanoid form if it dies.",
+      "recharge": "(Recharges after a Short or Long Rest)."
+    },
+    {
+      "name": "Fey Ancestry.",
+      "description": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The drow's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:\n* At will: dancing lights\n* 1/day each: darkness, faerie fire, levitate (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The drow is a 16th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:\n* Cantrips (at will): chill touch, eldritch blast, mage hand, poison spray\n* 5th level (3 slots): conjure animals (spiders only), crown of madness, dimension door, dispel magic, fear, fly, giant insect, hold monster, insect plague, invisibility, vampiric touch, web, witch bolt\n* 6th Level (1 slot): eyebite - Can only be cast 1/day\n* 7th Level (1 slot): etherealness - Can only be cast 1/day\n* 8th Level (1 slot): dominate monster - Can only be cast 1/day",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The drow can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Web Walker.",
+      "description": "The drow ignores movement restrictions caused by webbing.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

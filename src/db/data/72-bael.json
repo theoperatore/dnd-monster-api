@@ -1,0 +1,84 @@
+{
+  "id": "bael",
+  "_index": 72,
+  "name": "Bael",
+  "abilityScores": {
+    "STR": {
+      "score": 24,
+      "mod": 7,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 21,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 24,
+      "mod": 7,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 24,
+      "mod": 7,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (plate)",
+  "challengeRating": "19 (22,000 XP)",
+  "hitPoints": {
+    "average": 189
+  },
+  "race": "FIEND",
+  "size": "Large fiend (devil)",
+  "speed": "30 ft.",
+  "senses": "truesight 120 ft., passive Perception 23",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Intimidation +13", "Perception +13", "Persuasion +13"],
+  "savingThrows": ["Dex +9", "Con +11", "Int +11", "Cha +13"],
+  "abilities": [
+    {
+      "name": "Dreadful.",
+      "description": "Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened until the start of the creature's next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Bael's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:\n* At will: alter self (can become Medium when changing his appearance), animate dead, charm person, detect magic, inflict wounds (as an 8th-level spell), invisibility (self only), major image\n* 3/day each: counterspell, dispel magic, fly, suggestion, wall of fire\n* 1/day each: dominate monster, symbol (stunning only)",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Bael fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Bael has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Bael's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "Bael regains 20 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Bael dies only if he starts his turn with 0 hit points and doesn't regenerate.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

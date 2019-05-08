@@ -1,0 +1,75 @@
+{
+  "id": "grung_elite_warrior",
+  "_index": 427,
+  "name": "Grung Elite Warrior",
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "13",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 49,
+    "roll": "9d6+18"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (grung)",
+  "speed": "25 ft., climb 25 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["Grung"],
+  "skills": ["Athletics +2", "Perception +2", "Stealth +5", "Survival +2"],
+  "savingThrows": ["Dex +5"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The grung can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Poisonous Skin.",
+      "description": "Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.",
+      "recharge": null
+    },
+    {
+      "name": "Variant: Grung Poison.",
+      "description": "Grung poison loses its potency 1 minute after being removed from a grung. A similar breakdown occurs if the grung dies.\n>A creature poisoned by a grung can suffer an additional effect that varies depending on the grung's skin color. This effect lasts until the creature is no longer poisoned by the grung.\nOrange. The poisoned creature is frightened of its allies.\nGold. The poisoned creature is charmed and can speak Grung.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

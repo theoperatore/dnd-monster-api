@@ -1,0 +1,65 @@
+{
+  "id": "transmuter",
+  "_index": 806,
+  "name": "Transmuter",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 40,
+    "roll": "9d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any four languages"],
+  "skills": ["Arcana +6", "History +6"],
+  "savingThrows": ["Int +6", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The transmuter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The transmuter has the following wizard spells prepared:\nCantrips (at will): light, mending, prestidigitation, ray of frost\n1st level (4 slots): chromatic orb, expeditious retreat*, mage armor\n2nd level (3 slots): alter self*, hold person, knock*\n3rd level (3 slots): blink*, fireball, slow*\n4th level (3 slots): polymorph*, stoneskin\n5th level (1 slot): telekinesis*\n*Transmutation spell of 1st level or higher",
+      "recharge": null
+    },
+    {
+      "name": "Transmuter's Stone.",
+      "description": "The transmuter carries a magic stone it crafted that grants its bearer one of the following effects:\n* Darkvision out to a range of 60 feet\n* An extra 10 feet of speed while the bearer is unencumbered\n* Proficiency with Constitution saving throws\n* Resistance to acid, cold, fire, lightning, or thunder damage (transmuter's choice whenever the transmuter chooses this benefit)\n>If the transmuter has the stone and casts a transmutation spell of 1st level or higher, it can change the effect of the stone.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

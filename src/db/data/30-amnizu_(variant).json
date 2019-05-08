@@ -1,0 +1,69 @@
+{
+  "id": "amnizu_(variant)",
+  "_index": 30,
+  "name": "Amnizu (variant)",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "21 (natural armor)",
+  "challengeRating": "18 (20,000 XP)",
+  "hitPoints": {
+    "average": 202
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (devil)",
+  "speed": "30 ft., fly 40 ft.",
+  "senses": "darkvision 120 ft., passive Perception 17",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common", "Infernal", "telepathy 1", "000 ft."],
+  "skills": ["Perception +7"],
+  "savingThrows": ["Dex +7", "Con +9", "Wis +7", "Cha +10"],
+  "abilities": [
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede the amnizu's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The amnizu's innate spellcasting ability is Intelligence. The amnizu can innately cast the following spells, requiring no material components:\n* At will: charm person, command\n* 3/day each: dominate person, fireball\n* 1/day each: dominate monster, feeblemind",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The amnizu has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

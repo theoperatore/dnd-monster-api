@@ -1,0 +1,69 @@
+{
+  "id": "githyanki_gish",
+  "_index": 385,
+  "name": "Githyanki Gish",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "17 (half plate)",
+  "challengeRating": "10 (5900 XP)",
+  "hitPoints": {
+    "average": 123
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (gith)",
+  "speed": "30 ft.",
+  "senses": "passive Perception 16",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Gith"],
+  "skills": ["Insight +6", "Perception +6", "Stealth +6"],
+  "savingThrows": ["Con +6", "Int +7", "Wis +6"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting",
+      "description": "The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:\n* At will: mage hand (the hand is invisible)\n* 3/day each: jump, misty step, nondetection (self only)\n* 1/day each: plane shift, telekinesis",
+      "recharge": "(Psionics)."
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The githyanki is an 8th-level spellcaster. Its spellcasting ability is Intelligence. The githyanki has the following wizard spells prepared:\n* Cantrips (at will): blade ward, light, message, true strike\n* 1st level (4 slots): expeditious retreat, magic missile, sleep, thunderwave\n* 2nd level (3 slots): blur, invisibility, levitate\n* 3rd level (3 slots): counterspell, fireball, haste\n* 4th level (2 slots): dimension door",
+      "recharge": null
+    },
+    {
+      "name": "War Magic.",
+      "description": "When the githyanki uses its action to cast a spell, it can make one weapon attack as a bonus action",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

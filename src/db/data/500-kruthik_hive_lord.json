@@ -1,0 +1,69 @@
+{
+  "id": "kruthik_hive_lord",
+  "_index": 500,
+  "name": "Kruthik Hive Lord",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "5 (1800 XP)",
+  "hitPoints": {
+    "average": 102
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "40 ft., burrow 20 ft., climb 40 ft.",
+  "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 12",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Kruthik"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The kruthik has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Tunneler.",
+      "description": "The kruthik can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

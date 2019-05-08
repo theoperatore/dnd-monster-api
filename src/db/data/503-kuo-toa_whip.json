@@ -1,0 +1,80 @@
+{
+  "id": "kuo-toa_whip",
+  "_index": 503,
+  "name": "Kuo-Toa Whip",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "11 (natural armor)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 65,
+    "roll": "10d8+20"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (kuo-toa)",
+  "speed": "32 ft., swim 30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Undercommon"],
+  "skills": ["Perception +6", "Religion +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The kuo-toa can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Otherwordly Perception.",
+      "description": "The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.",
+      "recharge": null
+    },
+    {
+      "name": "Slippery.",
+      "description": "The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:\n* Cantrips (at will): sacred flame, thaumaturgy\n* 1st level (3 slots): bane, shield of faith",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

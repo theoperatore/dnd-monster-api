@@ -1,0 +1,65 @@
+{
+  "id": "naxene_drathkala",
+  "_index": 580,
+  "name": "Naxene Drathkala",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD",
+  "armorClass": "10 (13 with mage armor)",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 27,
+    "roll": "6d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (turami human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Draconic", "Dwarvish", "Elvish"],
+  "skills": ["Arcana +5", "History +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "Naxene is a 6th level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13; +5 to hit with spell attacks). She has the following wizard spells prepared:\nCantrips (at will): fire bolt, light, mage hand, prestidigitation\n1st level (4 slots): mage armor, magic missile, shield\n2nd level (3 slots): misty step, suggestion\n3rd level (3 slots): fly, lightning bolt",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "Goldenfields' crops are vital Waterdeep's survival, which is why the Watchful Order of Magists and Protectors sent Naxene to make sure the temple-farm is adeuately defended. At first she regarded the task as a punishment, but now she appreciates the peace and quiet.\nIdeal: \"There's no problem that can't be solved with magic.\"\nBond: \"I have great respect for Lady Laeral Silverhand of Waterdeep. She and the Lords' Alliance are going to bring some much-needed order to this lawless land.\"\nFlaw: \"I'm too smart to be wrong about anything.\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

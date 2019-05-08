@@ -1,0 +1,54 @@
+{
+  "id": "purple_wormling",
+  "_index": 653,
+  "name": "Purple Wormling",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 7,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 6,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 2,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 42,
+    "roll": "5d10+15"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "20 ft.",
+  "senses": "blindsight 30 ft., tremorsense 30 ft.",
+  "source": "storm-kings-thunder",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

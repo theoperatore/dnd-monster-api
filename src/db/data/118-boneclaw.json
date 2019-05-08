@@ -1,0 +1,64 @@
+{
+  "id": "boneclaw",
+  "_index": 118,
+  "name": "Boneclaw",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (natural armor)",
+  "challengeRating": "12 (8400 XP)",
+  "hitPoints": {
+    "average": 127
+  },
+  "race": "UNDEAD",
+  "size": "Large undead",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft., passive Perception 16",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common plus the main language of its master"],
+  "skills": ["Perception +6", "Stealth +7"],
+  "savingThrows": ["Dex +7", "Con +6", "Wis +6"],
+  "abilities": [
+    {
+      "name": "Rejuvenation.",
+      "description": "While its master lives, a destroyed boneclaw gains a new body in 1d10 hours, with all its hit points. The new body appears within 1 mile of the boneclaw's master.",
+      "recharge": null
+    },
+    {
+      "name": "Shadow Stealth.",
+      "description": "While in dim light or darkness, the boneclaw can take the Hide action as a bonus action.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "cloud_giant",
+  "_index": 157,
+  "name": "Cloud Giant",
+  "abilityScores": {
+    "STR": {
+      "score": 27,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 22,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_GOOD_50_OR_NEUTRAL_EVIL_50",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 200,
+    "roll": "16d12+96"
+  },
+  "race": "GIANT",
+  "size": "Huge giant",
+  "speed": "40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Common", "Giant"],
+  "skills": ["Insight +7", "Perception +7"],
+  "savingThrows": ["Con +10", "Wis +7", "Cha +7"],
+  "abilities": [
+    {
+      "name": "Keen Smell.",
+      "description": "The giant has advantage on Wisdom (Perception) checks that rely on smell.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:\nAt will: detect magic, fog cloud, light\n3/day each: feather fall, fly, misty step, telekinesis\n1/day each: control weather, gaseous form",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/cloud-giant.jpg"
+}

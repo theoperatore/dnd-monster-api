@@ -1,0 +1,75 @@
+{
+  "id": "orc_red_fang_of_shargaas",
+  "_index": 619,
+  "name": "Orc Red Fang of Shargaas",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "15 (studded leather armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 52,
+    "roll": "8d8+16"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (orc)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Orc"],
+  "skills": ["Intimidation +1", "Perception +2", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Cunning Action.",
+      "description": "On each of its turns, the orc can use a bonus action to take the Dash, Disengage, or Hide action.",
+      "recharge": null
+    },
+    {
+      "name": "Hand of Shargaas.",
+      "description": "The orc deals an 2 extra dice of damage when it hits a target with a weapon attack (included in its attacks).",
+      "recharge": null
+    },
+    {
+      "name": "Shargaas's Sight.",
+      "description": "Magical darkness doesn't impede the orc's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Slayer.",
+      "description": "In the first round of a combat, the orc has advantage on attack rolls against any creature that hasn't taken a turn yet. If the orc hits a creature that round who was surprised, the hit is automatically a critical hit.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

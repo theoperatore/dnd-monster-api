@@ -1,0 +1,69 @@
+{
+  "id": "avatar_of_death",
+  "_index": 60,
+  "name": "Avatar of Death",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "20",
+  "challengeRating": "00",
+  "hitPoints": {
+    "average": 0
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "60 ft., fly 60 ft. (hover)",
+  "senses": "darkvision 60 ft., truesight 60 ft.",
+  "source": "monster-manual",
+  "languages": ["all languages known to its summoner"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The avatar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    },
+    {
+      "name": "Turning Immunity.",
+      "description": "The avatar is immune to features that turn undead.",
+      "recharge": null
+    },
+    {
+      "name": "Hit Points.",
+      "description": "The Avatar of Death appears with hit points equal to half its summoner's maximum hit points.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

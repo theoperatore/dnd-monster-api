@@ -1,0 +1,65 @@
+{
+  "id": "orc_blade_of_ilneval",
+  "_index": 614,
+  "name": "Orc Blade of Ilneval",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "18 (chain mail, shield)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d8+24"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (orc)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Orc"],
+  "skills": ["Insight +3", "Intimidation +4", "Perception +3"],
+  "savingThrows": ["Wis +3"],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Foe Smiter of Ilneval.",
+      "description": "The orc deals an extra die of damage when it hits with a longsword attack (included in the attack).",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

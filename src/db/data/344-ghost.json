@@ -1,0 +1,65 @@
+{
+  "id": "ghost",
+  "_index": 344,
+  "name": "Ghost",
+  "abilityScores": {
+    "STR": {
+      "score": 7,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "11",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "10d8"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "0 ft., fly 40 ft. It can hover.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["any languages it knew in life"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ethereal Sight.",
+      "description": "The ghost can see 60 ft. into the Ethereal Plane when it is on the Material Plane, and vice versa.",
+      "recharge": null
+    },
+    {
+      "name": "Incorporeal Movement.",
+      "description": "The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ghost.jpg"
+}

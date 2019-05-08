@@ -1,0 +1,65 @@
+{
+  "id": "hobgoblin_iron_shadow",
+  "_index": 450,
+  "name": "Hobgoblin Iron Shadow",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 32,
+    "roll": "5d8+10"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (goblinoid)",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Goblin"],
+  "skills": ["Acrobatics +5", "Athletics +4", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The hobgoblin is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:\nCantrips (at will): minor illusion, prestidigitation, true strike\n1st level (3 slots): charm person, disguise self, expeditious retreat, silent image",
+      "recharge": null
+    },
+    {
+      "name": "Unarmored Defense.",
+      "description": "While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

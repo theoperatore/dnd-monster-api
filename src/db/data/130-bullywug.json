@@ -1,0 +1,75 @@
+{
+  "id": "bullywug",
+  "_index": 130,
+  "name": "Bullywug",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (hide armor, shield)",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (bullywug)",
+  "speed": "20 ft., swim 40 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Bullywug"],
+  "skills": ["Stealth +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The bullywug can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Speak with Frogs and Toads.",
+      "description": "The bullywug can communicate simple concepts to frogs and toads when it speaks in Bullywug.",
+      "recharge": null
+    },
+    {
+      "name": "Swamp Camouflage.",
+      "description": "The bullywug has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.",
+      "recharge": null
+    },
+    {
+      "name": "Standing Leap.",
+      "description": "The bullywug's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/bullywug.jpg"
+}

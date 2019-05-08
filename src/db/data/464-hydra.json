@@ -1,0 +1,75 @@
+{
+  "id": "hydra",
+  "_index": 464,
+  "name": "Hydra",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 172,
+    "roll": "15d12+75"
+  },
+  "race": "MONSTROSITY",
+  "size": "Huge monstrosity",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +6"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The hydra can hold its breath for 1 hour.",
+      "recharge": null
+    },
+    {
+      "name": "Multiple Heads.",
+      "description": "The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.\nWhenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.\nAt the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.",
+      "recharge": null
+    },
+    {
+      "name": "Reactive Heads.",
+      "description": "For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.",
+      "recharge": null
+    },
+    {
+      "name": "Wakeful.",
+      "description": "While the hydra sleeps, at least one of its heads is awake.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/hydra.jpg"
+}

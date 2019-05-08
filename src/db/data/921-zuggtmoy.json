@@ -1,0 +1,74 @@
+{
+  "id": "zuggtmoy",
+  "_index": 921,
+  "name": "Zuggtmoy",
+  "abilityScores": {
+    "STR": {
+      "score": 22,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 19,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 24,
+      "mod": 7,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "23 (50,000 XP)",
+  "hitPoints": {
+    "average": 304
+  },
+  "race": "FIEND",
+  "size": "Large fiend (demon)",
+  "speed": "30 ft.",
+  "senses": "truesight 120 ft., passive Perception 21",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Perception +11"],
+  "savingThrows": ["Dex +9", "Con +11", "Wis +11"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Zuggtmoy's spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:\n* At will: detect magic, locate animals or plants, ray of sickness\n* 3/day each: dispel magic, ensnaring strike, entangle, plant growth\n* 1/day each: etherealness, teleport",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Zuggtmoy fails a saving throw, she can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Zuggtmoy has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Zuggtmoy's weapon attacks are magical.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

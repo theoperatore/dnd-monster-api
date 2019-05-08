@@ -1,0 +1,65 @@
+{
+  "id": "illusionist",
+  "_index": 472,
+  "name": "Illusionist",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 38,
+    "roll": "7d8+7"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any four languages"],
+  "skills": ["Arcana +5", "History +5"],
+  "savingThrows": ["Int +5", "Wis +2"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The illusionist is a 7th-level spellcaster. its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The illusionist has the following wizard spells prepared:\nCantrips (at will): dancing lights, mage hand, minor illusion, poison spray\n1st level (4 slots): color spray*, disguise self*, mage armor, magic missile\n2nd level (3 slots): invisibility*, mirror image*, phantasmal force\n3rd level (3 slots): major image*, phantom steed*\n4th level (1 slot): phantasmal killer*\n*Illusion spell of 1st level or higher",
+      "recharge": null
+    },
+    {
+      "name": "Displacement",
+      "description": "As a bonus action, the illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect ends if the illusionist takes damage, it is incapacitated, or its speed becomes 0.",
+      "recharge": "(Recharges after the Illusionist Casts an Illusion Spell of 1st Level or Higher)."
+    }
+  ],
+  "image": null
+}

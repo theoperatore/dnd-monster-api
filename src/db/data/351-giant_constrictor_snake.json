@@ -1,0 +1,54 @@
+{
+  "id": "giant_constrictor_snake",
+  "_index": 351,
+  "name": "Giant Constrictor Snake",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "12",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 60,
+    "roll": "8d12+8"
+  },
+  "race": "BEAST",
+  "size": "Huge beast",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": "blindsight 10 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Perception +2"],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

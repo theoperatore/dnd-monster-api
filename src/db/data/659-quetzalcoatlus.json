@@ -1,0 +1,65 @@
+{
+  "id": "quetzalcoatlus",
+  "_index": 659,
+  "name": "Quetzalcoatlus",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 30,
+    "roll": "4d12+4"
+  },
+  "race": "BEAST",
+  "size": "Huge beast",
+  "speed": "10 ft., fly 80 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": [],
+  "skills": ["Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dive Attack.",
+      "description": "If the quetzalcoatlus is flying and dives at least 30 feet toward a target and then hits with a bite attack, the attack deals an extra 10 (3d6) damage to the target.",
+      "recharge": null
+    },
+    {
+      "name": "Flyby.",
+      "description": "The quetzalcoatlus doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

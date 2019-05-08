@@ -1,0 +1,69 @@
+{
+  "id": "derro_savant",
+  "_index": 203,
+  "name": "Derro Savant",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 5,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "13 (leather armor)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 36
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (derro)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft., passive Perception 7",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Dwarvish", "Undercommon"],
+  "skills": ["Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Magic Resistance.",
+      "description": "The derro savant has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The derro savant is a 5th-level spellcaster. Its spellcasting ability is Charisma. The derro knows the following sorcerer spells:\n* Cantrips (at will): acid splash, mage hand, message, prestidigitation, ray of frost\n* 1st level (4 slots): burning hands, chromatic orb, sleep\n* 2nd level (3 slots): invisibility, spider climb\n* 3rd level (2 slots): lightning bolt",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the derro savant has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

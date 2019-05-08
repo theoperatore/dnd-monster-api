@@ -1,0 +1,70 @@
+{
+  "id": "oni",
+  "_index": 612,
+  "name": "Oni",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (chain mail)",
+  "challengeRating": "7 (2,900 XP)",
+  "hitPoints": {
+    "average": 110,
+    "roll": "13d10+39"
+  },
+  "race": "GIANT",
+  "size": "Large giant",
+  "speed": "30 ft., fly 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Giant"],
+  "skills": ["Arcana +5", "Deception +8", "Perception +4"],
+  "savingThrows": ["Dex +3", "Con +6", "Wis +4", "Cha +5"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:\nAt will: darkness, invisibility\n1/day each: charm person, cone of cold, gaseous form, sleep",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "The oni's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Regeneration.",
+      "description": "The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/oni.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "siren",
+  "_index": 725,
+  "name": "Siren",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "14",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 38,
+    "roll": "7d8+7"
+  },
+  "race": "FEY",
+  "size": "Medium fey",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Common", "Elvish", "Sylvan"],
+  "skills": ["Medicine +4", "Nature +3", "Stealth +6", "Survival +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 243",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "Siren can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Siren's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells, requiring no material components:\n1/day each: charm person, fog cloud, greater invisibility, polymorph (self only).",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Siren has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

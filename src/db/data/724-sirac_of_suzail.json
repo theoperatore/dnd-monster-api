@@ -1,0 +1,60 @@
+{
+  "id": "sirac_of_suzail",
+  "_index": 724,
+  "name": "Sirac of Suzail",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "14 (leather)",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (chondathan human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Orc"],
+  "skills": ["Athletics +4", "Insight +3", "Survival +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Roleplaying Information.",
+      "description": "An acolyte of Torm, Sirac grew up on the streets of Suzail, the capital of Cormyr. He came to Icewind Dale to become a knucklehead trout fishe but instead found religion. The misbegotten son of Artus Climber, a renowened human adventurer, Sirac hasn't seen his father since he was a baby.\nIdeal: \"Without duty or loyalty, a man is nothing.\"\nBond: \"Icewind Dale is where i belong for the rest of my life.\"\nFlaw: \"I am honest to a fault.\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

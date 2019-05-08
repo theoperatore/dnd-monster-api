@@ -1,0 +1,65 @@
+{
+  "id": "giant_crayfish",
+  "_index": 353,
+  "name": "Giant Crayfish",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "7d10+7"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": "blindsight 30 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": [],
+  "skills": ["Stealth +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 235",
+      "recharge": null
+    },
+    {
+      "name": "Amphibious.",
+      "description": "The giant crayfish can breathe air and water.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

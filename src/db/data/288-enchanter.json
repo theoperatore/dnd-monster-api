@@ -1,0 +1,60 @@
+{
+  "id": "enchanter",
+  "_index": 288,
+  "name": "Enchanter",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 40,
+    "roll": "9d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any four languages"],
+  "skills": ["Arcana +6", "History +6"],
+  "savingThrows": ["Int +6", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The enchanter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The enchanter has the following wizard spells prepared:\nCantrips (at will): friends, mage hand, mending, message\n1st level (4 slots): charm person*, mage armor, magic missile\n2nd level (3 slots): hold person*, invisibility, suggestion*\n3rd level (3 slots): fireball, haste, tongues\n4th level (3 slots): dominate beast*, stoneskin\n5th level (2 slots): hold monster*\n*Enchantment spell of 1st level or higher",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

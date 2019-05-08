@@ -1,0 +1,65 @@
+{
+  "id": "diviner",
+  "_index": 211,
+  "name": "Diviner",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 67,
+    "roll": "15d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any four languages"],
+  "skills": ["Arcana +7", "History +7"],
+  "savingThrows": ["Int +7", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "The diviner is a 15th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The diviner has the following wizard spells prepared:\nCantrips (at will): fire bolt, light, mage hand, message, true strike\n1st level (4 slots): detect magic*, feather fall, mage armor\n2nd level (3 slots): detect thoughts*, locate object*, scorching ray\n3rd level (3 slots): clairvoyance*, fly, fireball\n4th level (3 slots): arcane eye*, ice storm, stoneskin\n5th level (2 slots): Rary's telepathic bond*, seeming*\n6th level (1 slot): mass suggestion, true seeing*\n7th level (1 slot): delayed blast fireball, teleport\n8th level (1 slot): maze\n* Divination spell of 1st level or higher",
+      "recharge": null
+    },
+    {
+      "name": "Portent",
+      "description": "When the diviner or a creature it can see makes an attack roll, a saving throw, or an ability check, the diviner can roll a d20 and choose to use this roll in place of the attack roll, saving throw, or ability check.",
+      "recharge": "(Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher)."
+    }
+  ],
+  "image": null
+}

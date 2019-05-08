@@ -1,0 +1,65 @@
+{
+  "id": "zi_liang",
+  "_index": 919,
+  "name": "Zi Liang",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_GOOD",
+  "armorClass": "15",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "5d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (shou human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common", "Elvish", "Goblin"],
+  "skills": ["Acrobatics +4", "Athletics +3", "Perception +5", "Stealth +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Unarmored Defense.",
+      "description": "While Zi is wearing no armor and wielding no shield, her AC includes her Wisdom modifier.",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "Zi Liang is a devout worshiper of Chauntea, the Earth Mother. She has considerably less faith in Goldenfields' defenders, so she patrols the temple-farm during her off-duty hours.\nIdeal: \"If we faithfully tend to our gardens and our fields, Chauntea will smile upon us.\"\nBond: \"Goldenfields is the breadbasket of the North. People depend on its safety and prosperity, and I'll do what must be done to protect it.\"\nFlaw: \"I don't trust authority. I do what my heart says is right.\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

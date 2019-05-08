@@ -1,0 +1,75 @@
+{
+  "id": "drow_priestess_of_lolth",
+  "_index": 231,
+  "name": "Drow Priestess of Lolth",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (scale mail)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 71,
+    "roll": "13d8+13"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Elvish", "Undercommon"],
+  "skills": ["Insight +6", "Perception +6", "Religion +4", "Stealth +5"],
+  "savingThrows": ["Con +4", "Wis +6", "Cha +7"],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The drow's spellcasting ability is Charisma (spell save DC 15. She can innately cast the following spells, requiring no material components:\nAt will: dancing lights\n1/day each: darkness, faerie fire, levitate (self only)",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:\n* Cantrips (at will): guidance, poison spray, resistance, spare the dying, thaumaturgy\n* 1st level (4 slots): animal friendship, cure wounds, detect poison and disease, ray of sickness\n* 2nd level (3 slots): lesser restoration, protection from poison, web\n* 3rd level (3 slots): conjure animals (2 giant spiders), dispel magic\n* 4th level (3 slots): divination, freedom of movement\n* 5th level (2 slots): insect plague, mass cure wounds",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

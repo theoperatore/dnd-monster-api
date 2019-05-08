@@ -1,0 +1,60 @@
+{
+  "id": "lizardfolk",
+  "_index": 518,
+  "name": "Lizardfolk",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "15 (natural armor, shield)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "4d8+4"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (lizardfolk)",
+  "speed": "30 ft., swim 30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": ["Draconic"],
+  "skills": ["Perception +3", "Stealth +4", "Survival +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Hold Breath.",
+      "description": "The lizardfolk can hold its breath for 15 minutes.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/lizardfolk.jpg"
+}

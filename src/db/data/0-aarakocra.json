@@ -1,4 +1,7 @@
 {
+  "id": "aarakocra",
+  "_index": 0,
+  "name": "Aarakocra",
   "abilityScores": {
     "STR": {
       "score": 10,
@@ -33,22 +36,18 @@
   },
   "alignment": "NEUTRAL_GOOD",
   "armorClass": "12",
-  "challengeRating": "1/4",
+  "challengeRating": "1/4 (50 XP)",
   "hitPoints": {
     "average": 13,
     "roll": "3d8"
   },
   "race": "HUMANOID",
-  "size": "MEDIUM",
+  "size": "Medium humanoid (aarakocra)",
   "speed": "20 ft., fly 50 ft.",
+  "senses": null,
   "source": "monster-manual",
-  "languages": [
-    "Auran",
-    "Aarakocra"
-  ],
-  "skills": [
-    "Perception +5"
-  ],
+  "languages": ["Auran", "Aarakocra"],
+  "skills": ["Perception +5"],
   "savingThrows": [],
   "abilities": [
     {
@@ -57,14 +56,5 @@
       "recharge": null
     }
   ],
-  "id": "aarakocra",
-  "_index": 0,
-  "name": "Aarakocra",
-  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/aarakocra.jpg",
-  "_tags": [
-    "medium",
-    "humanoid",
-    "cr1/4",
-    "monster-manual"
-  ]
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/aarakocra.jpg"
 }

@@ -1,0 +1,60 @@
+{
+  "id": "markham_southwell",
+  "_index": 532,
+  "name": "Markham Southwell",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 16,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "17 (splint)",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 58,
+    "roll": "9d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (turami human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common"],
+  "skills": ["Perception +5", "Survival +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Roleplaying Information.",
+      "description": "Sheriff Markham of Bryn Shander is a brawny, likable man of few words. Nothing is more important to him than protecting Icewind Dale. He judges others by their actions, not their words.\nIdeal: \"All people deserve to be treated with dignity.\"\nBond: \"Duvessa is a natural leader, but she needs help. That's my job.\"\nFlaw: \"I bury my emotions and have no interest in small talk.\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

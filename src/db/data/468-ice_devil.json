@@ -1,0 +1,65 @@
+{
+  "id": "ice_devil",
+  "_index": 468,
+  "name": "Ice Devil",
+  "abilityScores": {
+    "STR": {
+      "score": 21,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 18,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "14 (11,500 XP)",
+  "hitPoints": {
+    "average": 180,
+    "roll": "19d10+76"
+  },
+  "race": "FIEND",
+  "size": "Large fiend (devil)",
+  "speed": "40 ft.",
+  "senses": "blindsight 60 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Infernal", "telepathy 120 ft."],
+  "skills": [],
+  "savingThrows": ["Dex +7", "Con +9", "Wis +7", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Devil's Sight.",
+      "description": "Magical darkness doesn't impede the devil's darkvision.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The devil has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/ice-devil.jpg"
+}

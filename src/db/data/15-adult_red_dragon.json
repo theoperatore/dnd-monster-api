@@ -1,0 +1,60 @@
+{
+  "id": "adult_red_dragon",
+  "_index": 15,
+  "name": "Adult Red Dragon",
+  "abilityScores": {
+    "STR": {
+      "score": 27,
+      "mod": 8,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "17 (18,000 XP)",
+  "hitPoints": {
+    "average": 256,
+    "roll": "19d12+133"
+  },
+  "race": "DRAGON",
+  "size": "Huge dragon",
+  "speed": "40 ft., climb 40 ft., fly 80 ft.",
+  "senses": "blindsight 60 ft., darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Perception +13", "Stealth +6"],
+  "savingThrows": ["Dex +6", "Con +13", "Wis +7", "Cha +11"],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the dragon fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/adult-red-dragon.jpg"
+}

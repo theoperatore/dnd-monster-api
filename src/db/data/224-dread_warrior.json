@@ -1,0 +1,70 @@
+{
+  "id": "dread_warrior",
+  "_index": 224,
+  "name": "Dread Warrior",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "18 (chain mail, shield)",
+  "challengeRating": "l",
+  "hitPoints": {
+    "average": 37,
+    "roll": "5d8+15"
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "tales-from-the-yawning-portal",
+  "languages": ["Common"],
+  "skills": ["Athletics +4", "Perception +3"],
+  "savingThrows": ["Wis +3"],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "tales from the yawning portal,  page 233",
+      "recharge": null
+    },
+    {
+      "name": "Undead Nature.",
+      "description": "A dread warrior doesn't require air, food, drink, or sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Undead Fortitude.",
+      "description": "If damage reduces the dread warrior to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken , unless the damage is radiant or from a critical hit. On a success, the dread warrior drops to l hit point instead.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

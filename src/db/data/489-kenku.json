@@ -1,0 +1,67 @@
+{
+  "id": "kenku",
+  "_index": 489,
+  "name": "Kenku",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "13",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 13,
+    "roll": "3d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (kenku)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "monster-manual",
+  "languages": [
+    "understands Auran and Common but speaks only through the use of its Mimicry trait"
+  ],
+  "skills": ["Deception +4", "Perception +2", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Ambusher.",
+      "description": "In the first round of a combat, the kenku has advantage on attack rolls against any creature it surprised",
+      "recharge": null
+    },
+    {
+      "name": "Mimicry.",
+      "description": "The kenku can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/kenku.jpg"
+}

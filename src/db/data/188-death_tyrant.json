@@ -1,0 +1,60 @@
+{
+  "id": "death_tyrant",
+  "_index": 188,
+  "name": "Death Tyrant",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 19,
+      "mod": 4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 19,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "14 (11,500 XP)",
+  "hitPoints": {
+    "average": 187,
+    "roll": "25d10+50"
+  },
+  "race": "UNDEAD",
+  "size": "Large undead",
+  "speed": "0 ft., fly 20 ft. (hover)",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Deep Speech", "Undercommon"],
+  "skills": ["Perception +12"],
+  "savingThrows": ["Str +5", "Con +7", "Int +9", "Wis +7", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Negative Energy Cone.",
+      "description": "The death tyrant's central eye emits an invisible, magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active.\nAny creature in that area can't regain hit points. Any humanoid that dies there becomes a zombie under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

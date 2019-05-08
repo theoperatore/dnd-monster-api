@@ -1,0 +1,75 @@
+{
+  "id": "kobold_dragonshield",
+  "_index": 493,
+  "name": "Kobold Dragonshield",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 8,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (leather armor, shield)",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 44,
+    "roll": "8d6+16"
+  },
+  "race": "HUMANOID",
+  "size": "Small humanoid (kobold)",
+  "speed": "20 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Draconic"],
+  "skills": ["Perception +1"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Dragon's Resistance.",
+      "description": "The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d10): 1-2, acid (black); 3-4, cold (white); 5-6, fire (red); 7-8, lightning (blue); 9-10, poison (green).",
+      "recharge": null
+    },
+    {
+      "name": "Heart of the Dragon.",
+      "description": "If the kobold is frightened or paralyzed by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.",
+      "recharge": null
+    },
+    {
+      "name": "Pack Tactics.",
+      "description": "The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Sunlight Sensitivity.",
+      "description": "While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

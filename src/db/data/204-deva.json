@@ -1,0 +1,70 @@
+{
+  "id": "deva",
+  "_index": 204,
+  "name": "Deva",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 18,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 17,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 20,
+      "mod": 5,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_GOOD",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 136,
+    "roll": "16d8+64"
+  },
+  "race": "CELESTIAL",
+  "size": "Medium celestial",
+  "speed": "30 ft., fly 90 ft.",
+  "senses": "darkvision 120 ft.",
+  "source": "monster-manual",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Insight +9", "Perception +9"],
+  "savingThrows": ["Wis +9", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Angelic Weapons.",
+      "description": "The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:\nAt will: detect evil and good\n1/day each: commune, raise dead",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The deva has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/deva.jpg"
+}

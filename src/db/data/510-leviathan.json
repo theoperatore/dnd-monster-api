@@ -1,0 +1,74 @@
+{
+  "id": "leviathan",
+  "_index": 510,
+  "name": "Leviathan",
+  "abilityScores": {
+    "STR": {
+      "score": 30,
+      "mod": 10,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 24,
+      "mod": 7,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 30,
+      "mod": 10,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 18,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL",
+  "armorClass": "17",
+  "challengeRating": "20 (25,000 XP)",
+  "hitPoints": {
+    "average": 328
+  },
+  "race": "ELEMENTAL",
+  "size": "Gargantuan elemental",
+  "speed": "40 ft., swim 120 ft.",
+  "senses": "darkvision 60 ft., passive Perception 14",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": ["Wis +10", "Cha +9"],
+  "abilities": [
+    {
+      "name": "Legendary Resistance",
+      "description": "If the leviathan fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Partial Freeze.",
+      "description": "If the leviathan takes 50 cold damage or more during a single turn, the leviathan partially freezes; until the end of its next turn, its speeds are reduced to 20 feet, and it makes attack rolls with disadvantage.",
+      "recharge": null
+    },
+    {
+      "name": "Siege Monster.",
+      "description": "The leviathan deals double damage to objects and structures (included in Tidal Wave).",
+      "recharge": null
+    },
+    {
+      "name": "Water Form.",
+      "description": "The leviathan can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

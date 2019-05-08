@@ -1,0 +1,54 @@
+{
+  "id": "redbrand_ruffian",
+  "_index": 672,
+  "name": "Redbrand Ruffian",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (studded leather armor)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 16,
+    "roll": "3d8+3"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "lost-mine-of-phandelver",
+  "languages": ["Common"],
+  "skills": ["Intimidation +2"],
+  "savingThrows": [],
+  "abilities": [],
+  "image": null
+}

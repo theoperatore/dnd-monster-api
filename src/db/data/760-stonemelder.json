@@ -1,0 +1,65 @@
+{
+  "id": "stonemelder",
+  "_index": 760,
+  "name": "Stonemelder",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 10,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 12,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "17 (splint)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d8+30"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": "tremorsense 30 ft.",
+  "source": "elemental-evil",
+  "languages": ["Common", "Terran"],
+  "skills": ["Intimidation +5", "Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Death Burst.",
+      "description": "When the Stonemelder dies, it turns to stone and explodes in a burst of rock shards, becoming a smoking pile of rubble. Each creature within 10 feet of the exploding Stonemelder must make a DC 14 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failed save, or half as much damage on a successful one.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:\n* Cantrips (at will): acid splash, blade ward, light, mending, mold earth\n* 1st level (4 slots): expeditious retreat, false life, shield\n* 2nd level (3 slots): Maximilian's earthen grasp, shatter\n* 3rd level (3 slots): erupting earth, meld into stone\n* 4th level (1 slot): stoneskin",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

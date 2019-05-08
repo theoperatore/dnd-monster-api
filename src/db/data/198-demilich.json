@@ -1,0 +1,70 @@
+{
+  "id": "demilich",
+  "_index": 198,
+  "name": "Demilich",
+  "abilityScores": {
+    "STR": {
+      "score": 1,
+      "mod": -5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 20,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 20,
+      "mod": 5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 17,
+      "mod": 3,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "18 (20,000 XP)",
+  "hitPoints": {
+    "average": 80,
+    "roll": "20d4"
+  },
+  "race": "UNDEAD",
+  "size": "Tiny undead",
+  "speed": "0 ft., fly 30 ft. (hover)",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": ["Con +6", "Int +11", "Wis +9", "Cha +11"],
+  "abilities": [
+    {
+      "name": "Avoidance.",
+      "description": "If the demilich is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If the demilich fails a saving throw, it can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Turn Immunity.",
+      "description": "The demilich is immune to effects that turn undead.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

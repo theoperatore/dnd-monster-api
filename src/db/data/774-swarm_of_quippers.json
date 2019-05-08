@@ -1,0 +1,70 @@
+{
+  "id": "swarm_of_quippers",
+  "_index": 774,
+  "name": "Swarm of Quippers",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 2,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 28,
+    "roll": "8d8-8"
+  },
+  "race": "SWARM",
+  "size": "Medium swarm",
+  "speed": "0 ft., swim 40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Blood Frenzy.",
+      "description": "The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Swarm.",
+      "description": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.",
+      "recharge": null
+    },
+    {
+      "name": "Water Breathing.",
+      "description": "The swarm can breathe only underwater.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "mud_mephit",
+  "_index": 565,
+  "name": "Mud Mephit",
+  "abilityScores": {
+    "STR": {
+      "score": 8,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "11",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 27,
+    "roll": "6d6+6"
+  },
+  "race": "ELEMENTAL",
+  "size": "Small elemental",
+  "speed": "20 ft., fly 20 ft., swim 20 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Aquan", "Terran"],
+  "skills": ["Stealth +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Death Burst.",
+      "description": "When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 ft. of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature's next turn.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/mud-mephit.jpg"
+}

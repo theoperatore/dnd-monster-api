@@ -1,0 +1,70 @@
+{
+  "id": "orc_eye_of_gruumsh",
+  "_index": 616,
+  "name": "Orc Eye of Gruumsh",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "16 (ring mail, shield)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "6d8+18"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (orc)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Common", "Orc"],
+  "skills": ["Intimidation +3", "Religion +1"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Gruumsh's Fury.",
+      "description": "The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:\n* Cantrips (at will): guidance, resistance, thaumaturgy\n* 1st level (4 slots): bless, command\n* 2nd level (2 slots): augury, spiritual weapon (spear)",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

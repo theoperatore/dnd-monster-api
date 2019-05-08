@@ -1,0 +1,64 @@
+{
+  "id": "nupperibo",
+  "_index": 596,
+  "name": "Nupperibo",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 13,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 3,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 11
+  },
+  "race": "FIEND",
+  "size": "Medium fiend (devil)",
+  "speed": "20 ft.",
+  "senses": "blindsight 10 ft. (blind beyond this radius), passive Perception 11",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["understands Infernal but can't speak"],
+  "skills": ["Perception +1"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Cloud of Vermin.",
+      "description": "Any creature, other than a devil, that starts its turn within 20 feet of the nupperibo must make a DC 11 Constitution saving throw. A creature within the areas of two or more nupperibos makes the saving throw with disadvantage. On a failure, the creature takes 2 (1d4) piercing damage.",
+      "recharge": null
+    },
+    {
+      "name": "Hunger-Driven.",
+      "description": "In the Nine Hells, the nupperibos can flawlessly track any creature that has taken damage from any nupperibo's Cloud of Vermin within the previous 24 hours.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

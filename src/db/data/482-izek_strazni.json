@@ -1,0 +1,60 @@
+{
+  "id": "izek_strazni",
+  "_index": 482,
+  "name": "Izek Strazni",
+  "abilityScores": {
+    "STR": {
+      "score": 18,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (studded leather armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 112,
+    "roll": "15d8+45"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "curse-of-strahd",
+  "languages": ["Common"],
+  "skills": ["Intimidation +8", "Perception +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Brute.",
+      "description": "A melee weapon deals one extra die of its damage when Izek hits with it (included in the attack).",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

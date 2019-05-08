@@ -1,0 +1,79 @@
+{
+  "id": "fraz-urbluu",
+  "_index": 326,
+  "name": "Fraz-Urb'luu",
+  "abilityScores": {
+    "STR": {
+      "score": 29,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 25,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 26,
+      "mod": 8,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 24,
+      "mod": 7,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 26,
+      "mod": 8,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "18 (natural armor)",
+  "challengeRating": "23 (50,000 XP)",
+  "hitPoints": {
+    "average": 337
+  },
+  "race": "FIEND",
+  "size": "Large fiend (demon)",
+  "speed": "40 ft., fly 40 ft.",
+  "senses": "truesight 120 ft., passive Perception 24",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Deception +15", "Perception +14", "Stealth +8"],
+  "savingThrows": ["Dex +8", "Con +14", "Int +15", "Wis +14"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Fraz-Urb'luu's spellcasting ability is Charisma. Fraz-Urb'luu can innately cast the following spells, requiring no material components:\n* At will: alter self (can become Medium when changing his appearance), detect magic, dispel magic, phantasmal force\n* 3/day each: confusion, dream, mislead, programmed illusion, seeming\n* 1/day each: mirage arcane, modify memory, project image",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Fraz-Urb'luu has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Fraz-Urb'luu's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Undetectable.",
+      "description": "Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or fiends.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

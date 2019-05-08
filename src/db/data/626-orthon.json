@@ -1,0 +1,64 @@
+{
+  "id": "orthon",
+  "_index": 626,
+  "name": "Orthon",
+  "abilityScores": {
+    "STR": {
+      "score": 22,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "17 (half plate)",
+  "challengeRating": "10 (5900 XP)",
+  "hitPoints": {
+    "average": 105
+  },
+  "race": "FIEND",
+  "size": "Large fiend (devil)",
+  "speed": "30 ft., climb 30 ft.",
+  "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 20",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common", "Infernal", "telepathy 120 ft."],
+  "skills": ["Perception +10", "Stealth +11", "Survival +10"],
+  "savingThrows": ["Dex +7", "Con +9", "Wis +6"],
+  "abilities": [
+    {
+      "name": "Invisibility Field.",
+      "description": "The orthon can use a bonus action to become invisible. Any equipment the orthon wears or carries is also invisible as long as the equipment is on its person. This invisibility ends immediately after the orthon makes an attack roll or is hit by an attack.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The orthon has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

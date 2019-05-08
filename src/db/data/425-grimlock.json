@@ -1,0 +1,70 @@
+{
+  "id": "grimlock",
+  "_index": 425,
+  "name": "Grimlock",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 9,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 8,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 6,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "11",
+  "challengeRating": "1/4 (50 XP)",
+  "hitPoints": {
+    "average": 11,
+    "roll": "2d8+2"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (grimlock)",
+  "speed": "30 ft.",
+  "senses": "blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius)",
+  "source": "monster-manual",
+  "languages": ["Undercommon"],
+  "skills": ["Athletics +5", "Perception +3", "Stealth +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Blind Senses.",
+      "description": "The grimlock can't use its blindsight while deafened and unable to smell.",
+      "recharge": null
+    },
+    {
+      "name": "Keen Hearing and Smell.",
+      "description": "The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "recharge": null
+    },
+    {
+      "name": "Stone Camouflage.",
+      "description": "The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/grimlock.jpg"
+}

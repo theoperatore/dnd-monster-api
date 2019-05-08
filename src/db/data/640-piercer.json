@@ -1,0 +1,65 @@
+{
+  "id": "piercer",
+  "_index": 640,
+  "name": "Piercer",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 1,
+      "mod": -5,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 3,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "3d8+9"
+  },
+  "race": "MONSTROSITY",
+  "size": "Large monstrosity",
+  "speed": "5 ft., climb 5 ft.",
+  "senses": "blindsight 30 ft., darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": [],
+  "skills": ["Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While the piercer remains motionless on the ceiling, it is indistinguishable from a normal stalactite.",
+      "recharge": null
+    },
+    {
+      "name": "Spider Climb.",
+      "description": "The piercer can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/piercer.jpg"
+}

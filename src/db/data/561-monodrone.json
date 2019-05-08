@@ -1,0 +1,65 @@
+{
+  "id": "monodrone",
+  "_index": 561,
+  "name": "Monodrone",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CONSTRUCT",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "1/8 (25 XP)",
+  "hitPoints": {
+    "average": 5,
+    "roll": "1d8+1"
+  },
+  "race": "CONSTRUCT",
+  "size": "Medium construct",
+  "speed": "30 ft., fly 30 ft.",
+  "senses": "truesight 120 ft.",
+  "source": "monster-manual",
+  "languages": ["Modron"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Axiomatic Mind.",
+      "description": "The monodrone can't be compelled to act in a manner contrary to its nature or its instructions.",
+      "recharge": null
+    },
+    {
+      "name": "Disintegration.",
+      "description": "If the monodrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

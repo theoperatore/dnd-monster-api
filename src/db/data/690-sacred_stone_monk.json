@@ -1,0 +1,65 @@
+{
+  "id": "sacred_stone_monk",
+  "_index": 690,
+  "name": "Sacred Stone Monk",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "14",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 22,
+    "roll": "4d8+4"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "40 ft.",
+  "senses": "tremorsense 10 ft.",
+  "source": "elemental-evil",
+  "languages": ["Common"],
+  "skills": ["Acrobatics +4", "Athletics +3", "Perception +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Unarmored Defense.",
+      "description": "While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+      "recharge": null
+    },
+    {
+      "name": "Unarmored Movement.",
+      "description": "While the monk is wearing no armor and wielding no shield, its walking speed increases by 10 feet (included in its speed).",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

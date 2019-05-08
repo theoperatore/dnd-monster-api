@@ -1,0 +1,64 @@
+{
+  "id": "skulk",
+  "_index": 727,
+  "name": "Skulk",
+  "abilityScores": {
+    "STR": {
+      "score": 6,
+      "mod": -2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 7,
+      "mod": -1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 1,
+      "mod": -4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "14",
+  "challengeRating": "1/2 (100 XP)",
+  "hitPoints": {
+    "average": 18
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid",
+  "speed": "30 ft.",
+  "senses": "darkvision 120 ft., passive Perception 8",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["understands Common but can't speak"],
+  "skills": ["Stealth +8"],
+  "savingThrows": ["Con +2"],
+  "abilities": [
+    {
+      "name": "Fallible Invisibility.",
+      "description": "The skulk is invisible. This invisibility can be circumvented by three things:\n> The skulk appears as a drab, smooth-skinned humanoid if its reflection can be seen in a mirror or on another surface.\n> The skulk appears as a dim, translucent form in the light of a candle made of fat rendered from a corpse whose identity is unknown.\n> Humanoid children, aged 10 and under, can see through this invisibility.",
+      "recharge": null
+    },
+    {
+      "name": "Trackless.",
+      "description": "The skulk leaves no tracks to indicate where it has been or where it's headed.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,81 @@
+{
+  "id": "elder_oblex",
+  "_index": 282,
+  "name": "Elder Oblex",
+  "abilityScores": {
+    "STR": {
+      "score": 15,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 21,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 22,
+      "mod": 6,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16",
+  "challengeRating": "10 (5900 XP)",
+  "hitPoints": {
+    "average": 115
+  },
+  "race": "OOZE",
+  "size": "Huge ooze",
+  "speed": "20 ft.",
+  "senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 15",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common plus six more"],
+  "skills": [
+    "Arcana +10",
+    "Deception +8",
+    "History +10",
+    "Nature +10",
+    "Perception +5",
+    "Religion +10"
+  ],
+  "savingThrows": ["Int +10", "Cha +8"],
+  "abilities": [
+    {
+      "name": "Amorphous.",
+      "description": "The oblex can move through a space as narrow as 1 inch wide without squeezing.",
+      "recharge": null
+    },
+    {
+      "name": "Aversion to Fire.",
+      "description": "If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.",
+      "recharge": null
+    },
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The oblex's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:\nAt will: charm person (as 5th-level spell), detect thoughts, hold person\n3/day each: confusion, dimension door, dominate person, fear, hallucinatory terrain, hold monster, hypnotic pattern, telekinesis",
+      "recharge": null
+    },
+    {
+      "name": "Sulfurous Impersonation.",
+      "description": "As a bonus action, the oblex can extrude a piece of itself that assumes the appearance of one Medium or smaller creature whose memories it has stolen. This simulacrum appears, feels, and sounds exactly like the creature it impersonates, though it smells faintly of sulfur. The oblex can impersonate 2d6 + 1 different creatures, each one tethered to its body by a strand of slime that can extend up to 120 feet away. For all practical purposes, the simulacrum is the oblex, meaning the oblex occupies its space and the simulacrum's space simultaneously. The slimy tether is immune to damage, but it is severed if there is no opening at least 1 inch wide between the oblex's main body and the simulacrum. The simulacrum disappears if the tether is severed.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

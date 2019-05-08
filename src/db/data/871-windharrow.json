@@ -1,0 +1,65 @@
+{
+  "id": "windharrow",
+  "_index": 871,
+  "name": "Windharrow",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 17,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "15 (studded leather)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 55,
+    "roll": "10d8+10"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (half-elf)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "elemental-evil",
+  "languages": ["Auran", "Common", "Elvish"],
+  "skills": ["Acrobatics +5", "Deception +7", "Persuasion +5", "Performance +7", "Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fey Ancestry.",
+      "description": "Windharrow has advantage on saving throws against being charmed, and magic can't put him to sleep.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Windharrow knows the following bard spells:\n* Cantrips (at will): friends, prestidigitation, vicious mockery\n* 1st level (4 slots): disguise self, dissonant whispers, thunderwave\n* 2nd level (3 slots): invisibility, shatter, silence\n* 3rd level (3 slots): nondetection, sending, tongues\n* 4th level (2 slots): confusion, dimension door",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

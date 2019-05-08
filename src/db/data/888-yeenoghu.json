@@ -1,0 +1,79 @@
+{
+  "id": "yeenoghu",
+  "_index": 888,
+  "name": "Yeenoghu",
+  "abilityScores": {
+    "STR": {
+      "score": 29,
+      "mod": 9,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 16,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 23,
+      "mod": 6,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 24,
+      "mod": 7,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "20 (natural armor)",
+  "challengeRating": "24 (62,000 XP)",
+  "hitPoints": {
+    "average": 333
+  },
+  "race": "FIEND",
+  "size": "Huge fiend (demon)",
+  "speed": "50 ft.",
+  "senses": "truesight 120 ft., passive Perception 24",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["all", "telepathy 120 ft."],
+  "skills": ["Intimidation +9", "Perception +14"],
+  "savingThrows": ["Dex +10", "Con +15", "Wis +14"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "Yeenoghu's spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:\n* At will: detect magic\n* 3/day each: dispel magic, fear, invisibility\n* 1/day: teleport",
+      "recharge": null
+    },
+    {
+      "name": "Legendary Resistance",
+      "description": "If Yeenoghu fails a saving throw, he can choose to succeed instead.",
+      "recharge": "(3/Day)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "Yeenoghu has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    },
+    {
+      "name": "Magic Weapons.",
+      "description": "Yeenoghu's weapon attacks are magical.",
+      "recharge": null
+    },
+    {
+      "name": "Rampage.",
+      "description": "When Yeenoghu reduces a creature to 0 hit points with a melee attack on his turn, Yeenoghu can take a bonus action to move up to half his speed and make a bite attack.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

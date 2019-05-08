@@ -1,0 +1,60 @@
+{
+  "id": "thurl_merosska",
+  "_index": 799,
+  "name": "Thurl Merosska",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "16 (breastplate)",
+  "challengeRating": "3 (700 XP)",
+  "hitPoints": {
+    "average": 71,
+    "roll": "11d8+22"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "tyranny-of-dragons",
+  "languages": ["Auran", "Common"],
+  "skills": ["Animal Handling +2", "Athletics +5", "Deception +4", "Persuasion +4"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells:\n* Cantrips (at will): friends, gust, light, message, ray of frost\n* 1st level (4 slots): expeditious retreat, feather fall, jump\n* 2nd level (3 slots): levitate, misty step\n* 3rd level (2 slots): haste",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "orc_hand_of_yurtrus",
+  "_index": 617,
+  "name": "Orc Hand of Yurtrus",
+  "abilityScores": {
+    "STR": {
+      "score": 12,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 11,
+      "mod": 0,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 9,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "12 (hide armor)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 30,
+    "roll": "4d8+12"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (orc)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["understands Common and Orc but can't speak"],
+  "skills": ["Arcana +2", "Intimidation +1", "Medicine +4", "Religion +2"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "Volo's Guide to Monsters, p. 184",
+      "recharge": null
+    },
+    {
+      "name": "Aggressive.",
+      "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components to cast its spells. The orc has the following cleric spells prepared:\nCantrips (at-will): guidance, mending, resistance, thaumaturgy\n1st level (4 slots): bane, detect magic, inflict wounds, protection from evil and good\n2nd level (3 slots): blindness/deafness, silence",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

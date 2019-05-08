@@ -1,0 +1,69 @@
+{
+  "id": "summer_eladrin",
+  "_index": 767,
+  "name": "Summer Eladrin",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 21,
+      "mod": 5,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "19 (natural armor)",
+  "challengeRating": "10 (5900 XP)",
+  "hitPoints": {
+    "average": 127
+  },
+  "race": "FEY",
+  "size": "Medium fey (elf)",
+  "speed": "50 ft.",
+  "senses": "darkvision 60 ft., passive Perception 9",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Common", "Elvish", "Sylvan"],
+  "skills": ["Athletics +8", "Intimidation +8"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Fearsome Presence.",
+      "description": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Fearsome Presence for the next 24 hours.",
+      "recharge": null
+    },
+    {
+      "name": "Fey Step",
+      "description": "As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.",
+      "recharge": "(Recharge 4-6)."
+    },
+    {
+      "name": "Magic Resistance.",
+      "description": "The eladrin has advantage on saving throws against spells and other magical effects.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

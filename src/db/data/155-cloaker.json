@@ -1,0 +1,70 @@
+{
+  "id": "cloaker",
+  "_index": 155,
+  "name": "Cloaker",
+  "abilityScores": {
+    "STR": {
+      "score": 17,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 13,
+      "mod": 1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_NEUTRAL",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "8 (3,900 XP)",
+  "hitPoints": {
+    "average": 78,
+    "roll": "12d10+12"
+  },
+  "race": "ABERRATION",
+  "size": "Large aberration",
+  "speed": "10 ft., fly 40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "monster-manual",
+  "languages": ["Deep Speech", "Undercommon"],
+  "skills": ["Stealth +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Damage Transfer.",
+      "description": "While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down). and that creature takes the other half.",
+      "recharge": null
+    },
+    {
+      "name": "False Appearance.",
+      "description": "While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.",
+      "recharge": null
+    },
+    {
+      "name": "Light Sensitivity.",
+      "description": "While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.",
+      "recharge": null
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/theoperatore/dnd-monster-api/master/src/db/assets/cloaker.jpg"
+}

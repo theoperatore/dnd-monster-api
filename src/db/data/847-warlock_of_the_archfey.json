@@ -1,0 +1,65 @@
+{
+  "id": "warlock_of_the_archfey",
+  "_index": 847,
+  "name": "Warlock of the Archfey",
+  "abilityScores": {
+    "STR": {
+      "score": 9,
+      "mod": -1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "ANY_ALIGNMENT",
+  "armorClass": "11 (14 with mage armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 49,
+    "roll": "11d8"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (any race)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "volos-guide",
+  "languages": ["any two languages (usually Sylvan)"],
+  "skills": ["Arcana +2", "Deception +6", "Nature +2", "Persuasion +6"],
+  "savingThrows": ["Wis +3", "Cha +6"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:\nAt will: disguise self, mage armor (self only), silent image, speak with animals\n1/day: conjure fey",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The warlock is a 11th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:\nCantrips (at will): dancing lights, eldritch blast, friends, mage hand, minor illusion, prestidigitation, vicious mockery\n1st-5th level (3 5th-level slots): blink, charm person, dimension door, dominate beast, faerie fire, fear, hold monster, misty step, phantasmal force, seeming, sleep",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

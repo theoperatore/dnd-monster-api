@@ -1,0 +1,75 @@
+{
+  "id": "hobgoblin_devastator",
+  "_index": 449,
+  "name": "Hobgoblin Devastator",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 16,
+      "mod": 3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 13,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 11,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "13 (studded leather armor)",
+  "challengeRating": "4 (1,100 XP)",
+  "hitPoints": {
+    "average": 45,
+    "roll": "7d8+14"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (goblinoid)",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": ["Common", "Goblin"],
+  "skills": ["Arcana +5"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Source.",
+      "description": "Volo's Guide to Monsters, p. 161",
+      "recharge": null
+    },
+    {
+      "name": "Arcane Advantage.",
+      "description": "Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a damaging spell attack if that target is within 5 feet of an ally of the hobgoblin and that ally isn't incapacitated.",
+      "recharge": null
+    },
+    {
+      "name": "Army Arcane.",
+      "description": "When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw.",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:\nCantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp\n1st level (4 slots): fog cloud, magic missile, thunderwave\n2nd level (3 slots): gust of wind, Melf's acid arrow, scorching ray\n3rd level (3 slots): fireball, fly, lightning bolt\n4th level (1 slot): ice storm",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

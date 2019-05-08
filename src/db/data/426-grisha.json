@@ -1,0 +1,60 @@
+{
+  "id": "grisha",
+  "_index": 426,
+  "name": "Grisha",
+  "abilityScores": {
+    "STR": {
+      "score": 14,
+      "mod": 2,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 12,
+      "mod": 1,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "18 (chain mail, shield)",
+  "challengeRating": "2 (450 XP)",
+  "hitPoints": {
+    "average": 33,
+    "roll": "6d8+6"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (damaran human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "out-of-the-abyss",
+  "languages": ["Common", "Undercommon"],
+  "skills": ["Persuasion +5", "Religion +2"],
+  "savingThrows": ["Wis +4", "Cha +5"],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "Grisha is a 6th-level-spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared:\nCantrips (at will): guidance, light, sacred flame, thaumaturgy\n1st level (4 slots): cure wounds, divine favor, inflict wounds, protection from good, shield of faith\n2nd level (3 slots): continual flame, hold person, magic weapon, spiritual weapon\n3rd level (3 slots): bestow curse, dispel magic, spirit guardian",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": "nightwalker",
+  "_index": 592,
+  "name": "Nightwalker",
+  "abilityScores": {
+    "STR": {
+      "score": 22,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 19,
+      "mod": 4,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 24,
+      "mod": 7,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 6,
+      "mod": -2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 9,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "CHAOTIC_EVIL",
+  "armorClass": "14",
+  "challengeRating": "20 (25,000 XP)",
+  "hitPoints": {
+    "average": 297
+  },
+  "race": "UNDEAD",
+  "size": "Huge undead",
+  "speed": "40 ft., fly 40 ft.",
+  "senses": "darkvision 120 ft., passive Perception 9",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["-"],
+  "skills": [],
+  "savingThrows": ["Con +13"],
+  "abilities": [
+    {
+      "name": "Annihilating Aura.",
+      "description": "Any creature that starts its turn within 30 feet of the nightwalker must succeed on a DC 21 Constitution saving throw or take 14 (4d6) necrotic damage and grant the nightwalker advantage on attack rolls against it until the start of the creature's next turn. Undead are immune to this aura.",
+      "recharge": null
+    },
+    {
+      "name": "Life Eater.",
+      "description": "A creature reduced to 0 hit points from damage dealt by the nightwalker dies and can't be revived by any means short of a wish spell.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

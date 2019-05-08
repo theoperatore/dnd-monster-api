@@ -1,0 +1,65 @@
+{
+  "id": "elizar_dryflagon",
+  "_index": 285,
+  "name": "Elizar Dryflagon",
+  "abilityScores": {
+    "STR": {
+      "score": 13,
+      "mod": 1,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 11,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 18,
+      "mod": 4,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "14 (hide)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 71,
+    "roll": "11d8+22"
+  },
+  "race": "HUMANOID",
+  "size": "Medium humanoid (human)",
+  "speed": "30 ft.",
+  "senses": null,
+  "source": "elemental-evil",
+  "languages": ["Common", "Druidic"],
+  "skills": ["Arcana +3", "Deception +3"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Spellcasting.",
+      "description": "Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared:\n* Cantrips (at will): druidcraft, guidance, poison spray, produce flame\n* 1st level (4 slots): animal friendship, faerie fire, healing word, jump, thunderwave\n* 2nd level (3 slots): flame blade, spike growth\n* 3rd level (3 slots): dispel magic, stinking cloud\n* 4th level (2 slots): blight, wall of fire",
+      "recharge": null
+    },
+    {
+      "name": "Summon Mephits",
+      "description": "By puffing on his pipe, Elizar can use an action to cast conjure minor elementals. If he does so, he summons four smoke mephits.",
+      "recharge": "(Recharges after a Long Rest)."
+    }
+  ],
+  "image": null
+}

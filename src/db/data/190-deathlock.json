@@ -1,0 +1,69 @@
+{
+  "id": "deathlock",
+  "_index": 190,
+  "name": "Deathlock",
+  "abilityScores": {
+    "STR": {
+      "score": 11,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 15,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 14,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "NEUTRAL_EVIL",
+  "armorClass": "12 (15 with mage armor)",
+  "challengeRating": "4 (1100 XP)",
+  "hitPoints": {
+    "average": 36
+  },
+  "race": "UNDEAD",
+  "size": "Medium undead",
+  "speed": "30 ft.",
+  "senses": "darkvision 60 ft., passive Perception 11",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["the languages it knew in life"],
+  "skills": ["Arcana +4", "History +4"],
+  "savingThrows": ["Int +4", "Cha +5"],
+  "abilities": [
+    {
+      "name": "Innate Spellcasting.",
+      "description": "The deathlock's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:\n* At will: detect magic, disguise self, mage armor",
+      "recharge": null
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "The deathlock is a 5th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:\n* Cantrips (at will): chill touch, eldritch blast, mage hand\n* 3rd level (2 slots): arms of Hadar, dispel magic, hold person, hunger of Hadar, invisibility, spider climb",
+      "recharge": null
+    },
+    {
+      "name": "Turn Resistance.",
+      "description": "The deathlock has advantage on saving throws against any effect that turns undead.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

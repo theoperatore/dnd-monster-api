@@ -1,0 +1,59 @@
+{
+  "id": "frost_salamander",
+  "_index": 331,
+  "name": "Frost Salamander",
+  "abilityScores": {
+    "STR": {
+      "score": 20,
+      "mod": 5,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 12,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 18,
+      "mod": 4,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 7,
+      "mod": -1,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 11,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "17 (natural armor)",
+  "challengeRating": "9 (5,000 XP)",
+  "hitPoints": {
+    "average": 168
+  },
+  "race": "ELEMENTAL",
+  "size": "Huge elemental",
+  "speed": "60 ft., burrow 40 ft., climb 40 ft.",
+  "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 14",
+  "source": "mordenkainens-tome-of-foes",
+  "languages": ["Primordial"],
+  "skills": ["Perception +4"],
+  "savingThrows": ["Con +8", "Wis +4"],
+  "abilities": [
+    {
+      "name": "Burning Fury.",
+      "description": "When the salamander takes fire damage, its Freezing Breath automatically recharges.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

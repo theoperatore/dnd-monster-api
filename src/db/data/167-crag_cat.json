@@ -1,0 +1,70 @@
+{
+  "id": "crag_cat",
+  "_index": 167,
+  "name": "Crag Cat",
+  "abilityScores": {
+    "STR": {
+      "score": 16,
+      "mod": 3,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 17,
+      "mod": 3,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 16,
+      "mod": 3,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 4,
+      "mod": -3,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 14,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 8,
+      "mod": -1,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13",
+  "challengeRating": "1 (200 XP)",
+  "hitPoints": {
+    "average": 34,
+    "roll": "4d10+12"
+  },
+  "race": "BEAST",
+  "size": "Large beast",
+  "speed": "40 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "storm-kings-thunder",
+  "languages": ["--"],
+  "skills": ["Stealth +7"],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "Nondetection.",
+      "description": "The cat cannot be targeted or detected by any divination magic or perceived through magical scrying sensors.",
+      "recharge": null
+    },
+    {
+      "name": "Pounce.",
+      "description": "If the cat moves at least 20 feet straight toward a creature then hits it with a claw attack on the same turn, that target must succeed on a DC13 Strength saving throw or be knocked prone.  If the target is prone, the cat can make one bite attack against it as a bonus action.",
+      "recharge": null
+    },
+    {
+      "name": "Spell Turning.",
+      "description": "The cat has advantage on saving throws against any spell that targets only the cat (not an area). If the cat's saving throw succeeds and the spell is of 7th level or lower, the spell has no effect on the cat and instead targets the caster.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

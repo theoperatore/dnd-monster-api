@@ -1,0 +1,65 @@
+{
+  "id": "froghemoth",
+  "_index": 328,
+  "name": "Froghemoth",
+  "abilityScores": {
+    "STR": {
+      "score": 23,
+      "mod": 6,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 13,
+      "mod": 1,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 20,
+      "mod": 5,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 2,
+      "mod": -4,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 12,
+      "mod": 1,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 5,
+      "mod": -3,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "14 (natural armor)",
+  "challengeRating": "10 (5,900 XP)",
+  "hitPoints": {
+    "average": 184,
+    "roll": "16d12+80"
+  },
+  "race": "MONSTROSITY",
+  "size": "Huge monstrosity",
+  "speed": "50 ft., swim 30 ft.",
+  "senses": "darkvision 60 ft.",
+  "source": "volos-guide",
+  "languages": [],
+  "skills": ["Perception +9", "Stealth +5"],
+  "savingThrows": ["Con +9", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Amphibious.",
+      "description": "The froghemoth can breathe air and water.",
+      "recharge": null
+    },
+    {
+      "name": "Shock Suscptibility.",
+      "description": "If the froghemoth takes lightning damage, it suffers several effects until the end of its next turn: its speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, it can't use reactions or Multiattack, and on its turn, it can use either an action or a bonus action, not both.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

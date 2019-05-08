@@ -1,0 +1,65 @@
+{
+  "id": "lifferlas",
+  "_index": 512,
+  "name": "Lifferlas",
+  "abilityScores": {
+    "STR": {
+      "score": 19,
+      "mod": 4,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 6,
+      "mod": -2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 15,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 10,
+      "mod": 0,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 10,
+      "mod": 0,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 7,
+      "mod": -2,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "UNALIGNED",
+  "armorClass": "13 (natural armor)",
+  "challengeRating": "0 (10 XP)",
+  "hitPoints": {
+    "average": 59,
+    "roll": "7d12+14"
+  },
+  "race": "PLANT",
+  "size": "Huge plant",
+  "speed": "20 ft.",
+  "senses": null,
+  "source": "storm-kings-thunder",
+  "languages": ["Common"],
+  "skills": [],
+  "savingThrows": [],
+  "abilities": [
+    {
+      "name": "False Appearance.",
+      "description": "While Lifferlas remains motionless, it is indistinguishable from a normal tree.",
+      "recharge": null
+    },
+    {
+      "name": "Roleplaying Information.",
+      "description": "A druid of the Emerald Enclave awakened the tree Lifferlas with a spell. Goldenfields is his home, its people his friends. Children like to carve their name and initials into his body and hang from his boughs, and he's happy with that.\nIdeal: \"I exist to protect the people and plants of Goldenfields.\"\nBond: \"Children are wonderful. I would do anything to make them feel happy and safe.\"\nFlaw: \"I can't remember people's names and often get them mixed up.\"",
+      "recharge": null
+    }
+  ],
+  "image": null
+}

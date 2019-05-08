@@ -1,0 +1,60 @@
+{
+  "id": "mindwitness",
+  "_index": 552,
+  "name": "Mindwitness",
+  "abilityScores": {
+    "STR": {
+      "score": 10,
+      "mod": 0,
+      "ability": "STR"
+    },
+    "DEX": {
+      "score": 14,
+      "mod": 2,
+      "ability": "DEX"
+    },
+    "CON": {
+      "score": 14,
+      "mod": 2,
+      "ability": "CON"
+    },
+    "INT": {
+      "score": 15,
+      "mod": 2,
+      "ability": "INT"
+    },
+    "WIS": {
+      "score": 15,
+      "mod": 2,
+      "ability": "WIS"
+    },
+    "CHA": {
+      "score": 10,
+      "mod": 0,
+      "ability": "CHA"
+    }
+  },
+  "alignment": "LAWFUL_EVIL",
+  "armorClass": "15 (natural armor)",
+  "challengeRating": "5 (1,800 XP)",
+  "hitPoints": {
+    "average": 75,
+    "roll": "10d10+20"
+  },
+  "race": "ABERRATION",
+  "size": "Large aberration",
+  "speed": "0 ft., fly 20 ft. (hover)",
+  "senses": "darkvision 120 ft.",
+  "source": "volos-guide",
+  "languages": ["Deep Speech", "Undercommon", "telepathy 600 ft."],
+  "skills": ["Perception +8"],
+  "savingThrows": ["Int +5", "Wis +5"],
+  "abilities": [
+    {
+      "name": "Telepathic Hub.",
+      "description": "When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.",
+      "recharge": null
+    }
+  ],
+  "image": null
+}
